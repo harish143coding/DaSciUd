@@ -1,0 +1,1478 @@
+﻿LfNr	Datum	Zeit	WoTag	Kl	NrBu	Gemeinde	Strasse	Gt	Sv	Lv	Bet	Art	Char1	Char2	Beso1	Beso2	Beso3	LZ	Kat	Typ	UTyp	1Urs01	1Urs02	2Urs01	2Urs02	AUrs01	AV1	AV2	Jahr	Mt	Tag	Licht	Str_Zus	Bet_01	Bet_02	Unf_Typ	Fahrtrichtung	Koord.x	Koord.y
+1	01.01.2019	09:20	Di	5		Bremen	Friesenstraße	0	0	1	1	0							3	1		1				73	71		2019	01	01	he	na	RF	-	F		8,830694	53,072814
+2	01.01.2019	11:45	Di	5		Bremen	Vor dem Steintor	0	0	1	1	0							3	7		49					71		2019	01	01	he	na	RF	-	SO		8,832243	53,070998
+3	02.01.2019	08:30	Mi	5		Bremen	Bahnhofsplatz	0	0	0	2	0							5	7		49					21	71	2019	01	02	he	tr	PKW	RF	SO		8,813569	53,082327
+4	02.01.2019	10:00	Mi	5		Bremen	Morgenlandstraße	0	0	1	2	5			7				3	3		28					21	71	2019	01	02	he	tr	PKW	RF	EK		8,762310	53,115733
+5	02.01.2019	10:05	Mi	5		Bremen	Contrescarpe	0	1	0	2	3							2	6		14					21	71	2019	01	02	he	na	PKW	RF	LV		8,814755	53,076311
+6	02.01.2019	14:00	Mi	5		Bremen	Flughafendamm	0	0	0	2	0							5	7		49		49			71	21	2019	01	02	he	tr	RF	PKW	SO		8,788091	53,052819
+7	03.01.2019	08:10	Do	5		Bremen	Am Stern	0	0	1	2	5							3	2		34					21	71	2019	01	03	he	tr	PKW	RF	AB		8,824416	53,084444
+8	03.01.2019	13:38	Do	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	2						3	2		34					21	71	2019	01	03	he	tr	PKW	RF	AB		8,896930	53,059064
+9	03.01.2019	14:40	Do	5		Bremen	Am Weidedamm	0	0	0	2	4							5	6		11		10			21	71	2019	01	03	he	tr	PKW	RF	LV		8,816874	53,092453
+10	03.01.2019	17:00	Do	5		Bremen	Ostertorsteinweg	0	0	1	2	5							3	3		28					71	71	2019	01	03	du	tr	RF	RF	EK		8,819768	53,072637
+11	03.01.2019	17:35	Do	5		Bremen	Am Herzogenkamp	0	0	1	1	0							3	1		13	49				72		2019	01	03	du	tr	RF	-	F		8,870671	53,098477
+12	03.01.2019	20:10	Do	5		Bremen	Osterdeich	0	0	0	2	1							6	5		1	49				71	21	2019	01	03	du	tr	RF	PKW	RV		8,827297	53,068824
+13	04.01.2019	05:34	Fr	5		Bremen	Papenstraße	0	0	0	2	1							5	7		36					21	71	2019	01	04	du	tr	PKW	RF	SO		8,805131	53,078760
+14	04.01.2019	08:20	Fr	5		Bremen	Bismarckstraße	0	0	1	2	5	3						3	3		49				73	21	71	2019	01	04	he	na	PKW	RF	EK		8,847148	53,074788
+15	04.01.2019	19:28	Fr	5		Bremen	Bürgermeister-Smidt-Straße	0	0	0	2	5	3						5	3		9	49			73	71	21	2019	01	04	du	na	RF	PKW	EK		8,801904	53,079256
+16	05.01.2019	22:45	Sa	5		Bremen	Am Dobben	0	0	0	2	5	1					8	5	2		37					71	21	2019	01	05	du	na	RF	PKW	AB		8,819173	53,080215
+17	06.01.2019	16:40	So	5		Bremen	Föhrenstraße	0	0	1	2	1			7				3	5		45					21	71	2019	01	06	dä	na	PKW	RF	RV		8,878626	53,064669
+18	06.01.2019	21:20	So	5		Bremen	Hermann-Koenen-Straße	0	0	0	2	2							5	6		31					71	21	2019	01	06	du	na	RF	PKW	LV		8,914375	53,059812
+19	07.01.2019	07:45	Mo	5		Bremen	Dietrich-Bonhoeffer-Straße	0	0	1	2	5	2		0	9			3	3		27					21	71	2019	01	07	du	na	PKW	RF	EK		8,904494	53,078487
+20	07.01.2019	08:40	Mo	5		Bremen	Moorstraße	0	0	0	3	1							5	5		24					21	21	2019	01	07	he	na	PKW	PKW	RV		8,764109	53,113499
+21	07.01.2019	09:45	Mo	5		Bremen	Flughafendamm	0	0	1	2	5	2						3	3		28					21	71	2019	01	07	he	sch	PKW	RF	EK		8,786304	53,057624
+22	07.01.2019	19:00	Mo	5		Bremen	Hammersbecker Straße	0	0	1	2	5	1		9			8	3	2		35				73	21	71	2019	01	07	du	na	PKW	RF	AB		8,626241	53,183921
+23	08.01.2019	07:37	Di	5		Bremen	Buntentorsteinweg	0	0	1	2	0							3	7		49					71	1	2019	01	08	du	na	RF	KRD	SO		8,804473	53,066234
+24	08.01.2019	07:50	Di	5		Bremen	An der Grenzpappel	0	0	1	2	5	2	6					3	3		28				73	21	71	2019	01	08	du	na	PKW	RF	EK		8,884141	53,056214
+25	08.01.2019	07:55	Di	5		Bremen	Tidemanstraße	0	0	1	2	5							3	7		49					21	71	2019	01	08	du	na	PKW	RF	SO		8,633649	53,165986
+26	08.01.2019	11:30	Di	5		Bremen	Hans-Böckler-Straße	0	0	0	2	5	1						5	3		31					71	21	2019	01	08	he	na	RF	PKW	EK		8,790274	53,086092
+27	08.01.2019	16:50	Di	5		Bremen	Doventorsteinweg	0	0	1	2	5	3						3	3		28		10			21	71	2019	01	08	du	na	PKW	RF	EK		8,798747	53,085225
+28	08.01.2019	19:50	Di	5		Bremen	Hollerallee	0	1	0	2	5	7		8				2	3		28					21	71	2019	01	08	du	na	PKW	RF	EK		8,825102	53,084192
+29	09.01.2019	13:55	Mi	5		Bremen	Neuenlander Straße	0	0	1	2	5	1						3	3		34					21	71	2019	01	09	he	sch	PKW	RF	EK		8,798214	53,055972
+30	09.01.2019	17:00	Mi	5		Bremen	Herdentorsteinweg	0	1	0	2	5	1						2	3		28		10			21	71	2019	01	09	du	tr	PKW	RF	EK		8,811217	53,080131
+31	09.01.2019	17:45	Mi	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	5	2		9				3	6		28					21	71	2019	01	09	dä	tr	PKW	RF	LV		8,846901	53,048295
+32	09.01.2019	20:00	Mi	5		Bremen	Borgfelder Straße	0	0	0	2	1							5	7		49				89	71	21	2019	01	09	du	tr	RF	PKW	SO		8,807773	53,094085
+33	10.01.2019	15:15	Do	5		Bremen	Kirchbachstraße	0	0	1	2	6	2					8	3	4		42					71	81	2019	01	10	he	tr	RF	FG	ÜS		8,855093	53,078552
+34	10.01.2019	16:00	Do	5		Bremen	Bahnhofsplatz	0	0	0	2	0							5	7		49				73	33	71	2019	01	10	he	na	BUS	RF	SO		8,813808	53,081963
+35	10.01.2019	16:40	Do	5		Bremen	Leher Heerstraße	0	0	0	3	2	3						5	6		14					21	21	2019	01	10	du	na	PKW	PKW	LV		8,884833	53,100102
+36	10.01.2019	17:00	Do	5		Bremen	Waller Ring	0	0	0	2	1							5	5		49	14				71	21	2019	01	10	du	na	RF	PKW	RV		8,784467	53,101968
+37	10.01.2019	17:35	Do	5		Bremen	Merkurstraße	0	0	1	2	5	1					8	3	3		31					42	71	2019	01	10	du	sch	LKW	RF	EK		8,737263	53,079667
+38	11.01.2019	05:55	Fr	5		Bremen	Ludwig-Erhard-Straße	0	0	1	2	5	3						3	3		37					51	71	2019	01	11	du	tr	LKW	RF	EK		8,713676	53,086844
+39	11.01.2019	12:05	Fr	5		Bremen	Stresemannstraße	0	0	0	2	0							5	7		45				73	21	71	2019	01	11	he	na	PKW	RF	SO		8,861275	53,070780
+40	11.01.2019	12:53	Fr	5		Bremen	Waller Heerstraße	0	0	1	1	0			9				3	7		49					71		2019	01	11	he	na	RF	-	SO		8,777357	53,106730
+41	11.01.2019	13:15	Fr	5		Bremen	Schwachhauser Heerstraße	0	0	0	2	5	3						5	3		37		10			21	71	2019	01	11	he	tr	PKW	RF	EK		8,843481	53,083627
+42	11.01.2019	13:20	Fr	5		Bremen	Upper Borg	0	0	0	2	1	2						5	7		36					58	71	2019	01	11	he	tr	LKW	RF	SO		8,910459	53,117623
+43	11.01.2019	17:25	Fr	5		Bremen	Utbremer Straße	0	0	1	2	3							3	2		34					21	71	2019	01	11	du	na	PKW	RF	AB		8,791047	53,095663
+44	12.01.2019	10:00	Sa	5		Bremen	Tiefer	0	0	1	2	5	2						3	3		37					21	71	2019	01	12	he	na	PKW	RF	EK		8,808116	53,073196
+45	13.01.2019	20:10	So	5		Bremen	Hamburger Straße	0	0	1	2	0							3	7		69				88	83	71	2019	01	13	du	na	FG	RF	SO		8,854087	53,067070
+46	14.01.2019	07:15	Mo	5		Bremen	Zum Falsch	0	0	1	1	0							3	7		1	49				71		2019	01	14	du	na	RF	-	SO		8,950491	53,039705
+47	14.01.2019	10:15	Mo	5		Bremen	Bachstraße	0	0	2	4	6							3	4		42					71	81	2019	01	14	he	na	RF	FG	ÜS		8,796143	53,068722
+48	14.01.2019	11:30	Mo	5		Bremen	Rockwinkeler Heerstraße	0	0	1	2	5							3	3		37					21	71	2019	01	14	he	na	PKW	RF	EK		8,908581	53,096987
+49	14.01.2019	15:33	Mo	5		Bremen	Löhstraße	0	0	1	1	0							3	7		49				73	71		2019	01	14	he	na	RF	-	SO		8,598840	53,180694
+50	14.01.2019	16:30	Mo	5		Bremen	Friedrich-Ebert-Straße	0	0	0	2	5	1					8	5	2		34					40	71	2019	01	14	dä	na	LKW	RF	AB		8,801196	53,071565
+51	14.01.2019	17:10	Mo	5		Bremen	Kattenturmer Heerstraße	0	0	0	2	5							5	2		34		49			21	71	2019	01	14	du	na	PKW	RF	AB		8,819382	53,047992
+52	14.01.2019	17:30	Mo	5		Bremen	Sankt-Gotthard-Straße	0	0	1	2	6							3	4		10					71	81	2019	01	14	du	na	RF	FG	ÜS		8,949404	53,063834
+53	14.01.2019	17:42	Mo	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	2	4	9				3	3		37		10			21	71	2019	01	14	du	na	PKW	RF	EK		8,901441	53,059457
+54	15.01.2019	07:35	Di	5		Bremen	Hammersbecker Straße	0	0	1	1	0			2				3	7		49				73	71		2019	01	15	du	na	RF	-	SO		8,621365	53,184008
+55	15.01.2019	08:15	Di	5		Bremen	Breitenweg	0	0	0	2	5	1		8			8	5	3		31					71	21	2019	01	15	dä	tr	RF	PKW	EK		8,808588	53,082918
+56	15.01.2019	15:25	Di	5		Bremen	Borgfelder Heerstraße	0	0	1	2	3							3	3		34				73	21	71	2019	01	15	he	na	PKW	RF	EK		8,902627	53,126779
+57	15.01.2019	17:30	Di	1	270	Bremen	Bundesautobahn A 270	0	0	1	2	5							3	3		35				73	21	71	2019	01	15	du	na	PKW	RF	EK	absteigend	8,622426	53,181689
+58	15.01.2019	18:05	Di	5		Bremen	Schwachhauser Heerstraße	0	0	0	2	5	2						5	3		37				73	21	71	2019	01	15	du	na	PKW	RF	EK		8,833785	53,081871
+59	16.01.2019	12:45	Mi	5		Bremen	Bremer Heerstraße	0	0	0	2	5							5	3		37					21	71	2019	01	16	he	tr	PKW	RF	EK		8,703526	53,160196
+60	16.01.2019	15:55	Mi	2	6	Bremen	Neuenlander Straße	0	0	1	2	5	1		4			8	3	2		34				89	92	71	2019	01	16	he	tr	SOF	RF	AB		8,787968	53,062723
+61	16.01.2019	16:38	Mi	5		Bremen	Im Hollergrund	0	0	1	2	5	2						3	2		28				73	21	71	2019	01	16	du	na	PKW	RF	AB		8,885568	53,110008
+62	17.01.2019	11:00	Do	5		Bremen	Ellmersstraße	0	0	1	2	1							3	5		49					71	21	2019	01	17	he	na	RF	PKW	RV		8,791838	53,089172
+63	17.01.2019	13:00	Do	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	5	1						3	3		28					71	71	2019	01	17	he	na	RF	RF	EK		8,801891	53,079285
+64	17.01.2019	15:22	Do	5		Bremen	Vor dem Steintor	0	0	1	1	0	1		2			8	3	1		49				73	71		2019	01	17	he	na	RF	-	F		8,823239	53,072997
+65	17.01.2019	17:30	Do	5		Bremen	Vor dem Steintor	0	1	0	1	0							2	1		49					71		2019	01	17	du	na	RF	-	F		8,829169	53,072074
+66	18.01.2019	05:15	Fr	5		Bremen	Gröpelinger Heerstraße	0	0	0	2	5			5			8	4	3		31				72	71	21	2019	01	18	du	wgl	RF	PKW	EK		8,764831	53,113067
+67	18.01.2019	11:20	Fr	5		Bremen	Rüdesheimer Straße	0	0	1	1	0							3	1		49				72	72		2019	01	18	he	wgl	RF	-	F		8,790427	53,066653
+68	18.01.2019	14:00	Fr	5		Bremen	Ellener Dorfstraße	0	0	1	2	0	6						3	7		49					59	71	2019	01	18	he	na	SOF	RF	SO		8,936868	53,067626
+69	18.01.2019	15:10	Fr	5		Bremen	In der Vahr	0	0	1	2	5	3						3	3		28		28			21	72	2019	01	18	he	tr	PKW	RF	EK		8,876210	53,081341
+70	18.01.2019	18:32	Fr	5		Bremen	Schwachhauser Heerstraße	0	0	0	2	5	2		9				5	2		34					21	71	2019	01	18	du	tr	PKW	RF	AB		8,842846	53,083604
+71	19.01.2019	02:00	Sa	5		Bremen	Am Dobben	0	0	1	1	0							3	1		49					71		2019	01	19	du	na	RF	-	F		8,823056	53,073479
+72	21.01.2019	08:00	Mo	5		Bremen	Mainstraße	0	0	0	2	5	2						5	2		27					21	71	2019	01	21	dä	tr	PKW	RF	AB		8,794920	53,067981
+73	21.01.2019	09:00	Mo	5		Bremen	Schubertstraße	0	1	0	2	1							2	7		45					21	71	2019	01	21	he	na	PKW	RF	SO		8,835271	53,084515
+74	21.01.2019	12:57	Mo	5		Bremen	Langenstraße	0	0	1	2	3							3	6		14					51	71	2019	01	21	he	tr	LKW	RF	LV		8,804148	53,076762
+75	22.01.2019	12:10	Di	5		Bremen	Mahndorfer Heerstraße	0	0	1	1	0							3	7		49					71		2019	01	22	he	tr	RF	-	SO		8,949501	53,035558
+76	22.01.2019	13:40	Di	5		Bremen	Autobahnzubringer Überseestadt	0	0	1	2	5							3	2		34		10			21	71	2019	01	22	he	tr	PKW	RF	AB		8,793209	53,093202
+77	23.01.2019	07:50	Mi	5		Bremen	Bürgermeister-Reuter-Straße	0	1	0	2	5	2						2	3		28					21	71	2019	01	23	dä	tr	PKW	RF	EK		8,894588	53,079448
+78	23.01.2019	09:45	Mi	5		Bremen	Falkenstraße	0	0	1	2	5	1					8	3	3		28		49			71	71	2019	01	23	he	tr	RF	RF	EK		8,807290	53,082367
+79	23.01.2019	09:50	Mi	5		Bremen	Am Stern	0	0	1	2	5	7						3	3		28					21	71	2019	01	23	he	wgl	PKW	RF	EK		8,825159	53,084232
+80	23.01.2019	15:45	Mi	5		Bremen	Frieslandstraße	0	0	1	2	5	2						3	2		34					21	71	2019	01	23	he	tr	PKW	RF	AB		8,763160	53,059933
+81	23.01.2019	21:10	Mi	5		Bremen	Carl-Schurz-Straße	0	0	1	2	5	1		8			8	3	2		35					21	71	2019	01	23	du	tr	PKW	RF	AB		8,841612	53,083121
+82	24.01.2019	07:30	Do	5		Bremen	Borgfelder Deich	0	0	1	1	0							3	7		49					71		2019	01	24	du	na	RF	-	SO		8,891045	53,132296
+83	24.01.2019	12:15	Do	5		Bremen	Humboldtstraße	0	0	1	2	0							3	7		49				71	92	71	2019	01	24	he	sch	SOF	RF	SO		8,826101	53,074959
+84	25.01.2019	07:30	Fr	5		Bremen	Ostertorstraße	0	0	1	2	5							3	3		37					71	61	2019	01	25	du	sch	RF	SOF	EK		8,810976	53,073911
+85	25.01.2019	10:00	Fr	5		Bremen	Uppe Angst	0	0	0	2	0							5	6		49					71	21	2019	01	25	he	tr	RF	PKW	LV		8,898890	53,098184
+86	25.01.2019	18:35	Fr	5		Bremen	Kurfürstenallee	0	0	1	2	5	3						3	3		37					21	71	2019	01	25	du	wgl	PKW	RF	EK		8,843916	53,081086
+87	25.01.2019	20:20	Fr	5		Bremen	Emmastraße	0	0	1	2	1							3	7		49					71	21	2019	01	25	du	wgl	RF	PKW	SO		8,850514	53,087321
+88	26.01.2019	12:40	Sa	5		Bremen	Hempenweg	0	0	1	2	5	2		3			9	3	3		28					21	71	2019	01	26	he	na	PKW	RF	EK		8,765888	53,074014
+89	26.01.2019	16:53	Sa	5		Bremen	Erlenstraße	0	0	0	2	1							5	5		49				73	71	21	2019	01	26	dä	na	RF	PKW	RV		8,791025	53,065247
+90	26.01.2019	22:00	Sa	5		Bremen	Osterstraße	0	0	1	2	5	2		9				3	3		28					21	72	2019	01	26	du	na	PKW	RF	EK		8,800907	53,068471
+91	27.01.2019	09:00	So	5		Bremen	Güstrower Straße	0	0	0	2	1							5	7		49					71	21	2019	01	27	he	na	RF	PKW	SO		8,755290	53,122908
+92	27.01.2019	10:55	So	5		Bremen	Landrat-Christians-Straße	0	1	0	1	0	4		9				2	1		49					71		2019	01	27	he	na	RF	-	F		8,582738	53,182285
+93	28.01.2019	16:15	Mo	5		Bremen	Huchtinger Heerstraße	0	0	1	2	5	1						3	3		28		49			21	71	2019	01	28	he	na	PKW	RF	EK		8,716653	53,056446
+94	29.01.2019	06:25	Di	5		Bremen	Am Stern	0	0	1	2	5							3	3		28				72	21	71	2019	01	29	du	wgl	PKW	RF	EK		8,824419	53,084265
+95	29.01.2019	07:36	Di	5		Bremen	Richard-Boljahn-Allee	0	0	1	2	5	1		9				3	3		28				73	21	71	2019	01	29	he	na	PKW	RF	EK		8,880364	53,082412
+96	29.01.2019	15:00	Di	5		Bremen	Duckwitzstraße	0	0	2	3	3			9				3	6		22					71	71	2019	01	29	he	na	RF	RF	LV		8,779513	53,065225
+97	30.01.2019	05:50	Mi	5		Bremen	Landrat-Christians-Straße	0	1	0	2	5	1	5				9	2	3		28					40	71	2019	01	30	du	tr	LKW	RF	EK		8,584623	53,181550
+98	30.01.2019	07:30	Mi	5		Bremen	Scharnhorststraße	0	0	1	1	0	1						3	7		49				72	71		2019	01	30	he	wgl	RF	-	SO		8,857662	53,085863
+99	30.01.2019	13:50	Mi	5		Bremen	Parkallee	0	0	0	2	5	7		8				5	3		28					34	71	2019	01	30	he	tr	BUS	RF	EK		8,825040	53,084647
+100	31.01.2019	09:20	Do	5		Bremen	Pappelstraße	0	0	0	2	1	3						5	5		36				73	21	71	2019	01	31	he	na	PKW	RF	RV		8,788805	53,069041
+101	31.01.2019	14:00	Do	5		Bremen	Martinistraße	0	0	0	2	1							5	7		49					21	71	2019	01	31	he	tr	PKW	RF	SO		8,801180	53,078209
+102	31.01.2019	15:30	Do	5		Bremen	Achterstraße	0	0	1	2	3			3				3	6		22					71	71	2019	01	31	he	tr	RF	RF	LV		8,861833	53,099202
+103	31.01.2019	15:30	Do	5		Bremen	Heiligenroder Straße	0	0	0	2	5							5	3		28		49			21	72	2019	01	31	he	tr	PKW	RF	EK		8,735694	53,044297
+104	31.01.2019	17:45	Do	5		Bremen	Buntentorsteinweg	0	0	0	2	1							5	5		49					71	21	2019	01	31	dä	na	RF	PKW	RV		8,801352	53,068142
+105	01.02.2019	12:45	Fr	5		Bremen	Am Stern	0	0	0	2	5	7		8				5	2		28					71	21	2019	02	01	he	tr	RF	PKW	AB		8,825175	53,084333
+106	02.02.2019	11:00	Sa	5		Bremen	Kreinsloger	0	0	1	2	5	1						3	2		28					21	71	2019	02	02	he	na	PKW	RF	AB		8,562330	53,192397
+107	03.02.2019	15:55	So	5		Bremen	Habenhauser Landstraße	0	0	1	1	9							3	7		49					71		2019	02	03	he	tr	RF	-	SO		8,835260	53,050810
+108	04.02.2019	07:23	Mo	5		Bremen	Flughafendamm	0	0	1	2	5	1						3	2		34		10			21	71	2019	02	04	du	tr	PKW	RF	AB		8,787984	53,062694
+109	04.02.2019	16:20	Mo	5		Bremen	Herdentorsteinweg	0	0	1	2	5	1		8				3	2		35					21	71	2019	02	04	he	tr	PKW	RF	AB		8,809157	53,078926
+110	04.02.2019	17:50	Mo	5		Bremen	Schwachhauser Heerstraße	0	0	0	2	4			0	9			5	6		11					71	71	2019	02	04	du	tr	RF	RF	LV		8,842170	53,083189
+111	05.02.2019	07:45	Di	5		Bremen	Alte Heerstraße	0	0	1	2	5	1						3	3		28					21	71	2019	02	05	du	na	PKW	RF	EK		8,736416	53,059109
+112	05.02.2019	09:30	Di	5		Bremen	Doventorscontrescarpe	0	0	1	2	5							3	3		49					92	71	2019	02	05	he	tr	SOF	RF	EK		8,797409	53,086214
+113	05.02.2019	16:10	Di	5		Bremen	Schwachhauser Ring	0	1	0	2	5	1					8	2	3		31					21	71	2019	02	05	he	tr	PKW	RF	EK		8,847153	53,087020
+114	06.02.2019	11:35	Mi	5		Bremen	Am Dobben	0	1	0	1	0							2	7		49				73	71		2019	02	06	he	na	RF	-	SO		8,823869	53,077619
+115	06.02.2019	13:30	Mi	5		Bremen	Buchenstraße	0	0	2	3	3							3	6		14					40	71	2019	02	06	he	tr	LKW	RF	LV		8,853746	53,085264
+116	06.02.2019	14:35	Mi	5		Bremen	Vor dem Steintor	0	0	1	1	0							3	1		49				73	71		2019	02	06	he	na	RF	-	F		8,830532	53,071568
+117	06.02.2019	18:40	Mi	5		Bremen	Sögestraße	0	0	1	2	0	2		4			8	3	6		49	36				21	71	2019	02	06	du	na	PKW	RF	LV		8,808787	53,078462
+118	07.02.2019	06:49	Do	5		Bremen	Beim Industriehafen	0	1	0	1	0						8	2	1		49					71		2019	02	07	du	na	RF	-	F		8,716632	53,134548
+119	07.02.2019	08:55	Do	5		Bremen	Contrescarpe	0	0	0	2	1	1						5	7		49					71	21	2019	02	07	he	na	RF	PKW	SO		8,813336	53,077695
+120	07.02.2019	13:45	Do	5		Bremen	Fedelhören	0	0	0	2	5	2						5	3		28					21	71	2019	02	07	he	tr	PKW	RF	EK		8,818094	53,077735
+121	07.02.2019	17:26	Do	5		Bremen	Friedrich-Ebert-Straße	0	0	2	2	4							3	6		22					71	71	2019	02	07	dä	tr	RF	RF	LV		8,801448	53,071284
+122	07.02.2019	17:40	Do	5		Bremen	Münchener Straße	0	1	1	2	0			9				2	7		49					71	71	2019	02	07	du	tr	RF	RF	SO		8,802226	53,094571
+123	08.02.2019	06:20	Fr	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	3						3	2		34					21	71	2019	02	08	dä	tr	PKW	RF	AB		8,898142	53,059312
+124	08.02.2019	07:43	Fr	5		Bremen	Schönauenstraße	0	0	1	2	3							3	6		49					21	71	2019	02	08	du	na	PKW	RF	LV		8,888878	53,097799
+125	08.02.2019	08:00	Fr	5		Bremen	Eduard-Schopf-Allee	0	0	1	2	5							3	3		31		49			71	21	2019	02	08	he	tr	RF	PKW	EK		8,791899	53,082640
+126	08.02.2019	12:15	Fr	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	1						3	2		34					21	71	2019	02	08	he	tr	PKW	RF	AB		8,909311	53,059538
+127	09.02.2019	02:45	Sa	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5	1					8	3	3		1	31				71	21	2019	02	09	du	na	RF	PKW	EK		8,831366	53,081239
+128	09.02.2019	09:30	Sa	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	5	3						3	3		37		10			21	71	2019	02	09	he	tr	PKW	RF	EK		8,728152	53,038405
+129	09.02.2019	16:35	Sa	5		Bremen	Am Stern	0	0	1	2	5	1		8			8	3	2		34					21	71	2019	02	09	dä	na	PKW	RF	AB		8,825173	53,084323
+130	09.02.2019	21:10	Sa	5		Bremen	Pappelstraße	0	0	2	2	6							3	3		69				73	81	71	2019	02	09	du	na	FG	RF	EK		8,790384	53,068216
+131	10.02.2019	17:30	So	5		Bremen	Parkstraße	0	0	1	2	6							3	4		69					81	71	2019	02	10	du	na	FG	RF	ÜS		8,824813	53,082876
+132	10.02.2019	18:08	So	5		Bremen	Vor dem Steintor	0	0	0	2	5	1						5	3		49					21	71	2019	02	10	du	na	PKW	RF	EK		8,823217	53,072960
+133	11.02.2019	06:34	Mo	5		Bremen	Nordstraße	0	0	1	2	5	2		4				3	3		37		10			21	71	2019	02	11	du	tr	PKW	RF	EK		8,780372	53,092867
+134	11.02.2019	07:30	Mo	5		Bremen	Graf-Sponeck-Straße	0	0	1	2	5	3						3	3		49					92	71	2019	02	11	dä	tr	SOF	RF	EK		8,899569	53,077743
+135	11.02.2019	18:00	Mo	5		Bremen	Am Hohentorsplatz	0	0	0	2	5							5	2		35					21	71	2019	02	11	du	na	PKW	RF	AB		8,789014	53,073160
+136	11.02.2019	23:00	Mo	5		Bremen	Oberneulander Heerstraße	0	1	0	1	0							2	7		49	1				72		2019	02	11	du	tr	RF	-	SO		8,900374	53,099564
+137	12.02.2019	06:45	Di	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5						8	3	3		31					71	21	2019	02	12	du	tr	RF	PKW	EK		8,869695	53,091263
+138	13.02.2019	11:15	Mi	5		Bremen	Leher Heerstraße	0	0	0	3	1							5	7		49					21	71	2019	02	13	he	tr	PKW	RF	SO		8,870789	53,098168
+139	14.02.2019	18:00	Do	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	5							3	2		35					21	71	2019	02	14	du	tr	PKW	RF	AB		8,736426	53,045089
+140	14.02.2019	18:10	Do	5		Bremen	Osterholzer Heerstraße	0	0	1	2	5	3						3	3		37					21	72	2019	02	14	dä	tr	PKW	RF	EK		8,962413	53,057359
+141	15.02.2019	07:43	Fr	5		Bremen	Schönebecker Straße	0	0	1	2	5	2		8			8	3	2		34					58	71	2019	02	15	he	tr	LKW	RF	AB		8,649802	53,173755
+142	15.02.2019	13:30	Fr	5		Bremen	Grenzstraße	0	0	0	2	5							5	3		49					71	21	2019	02	15	he	tr	RF	PKW	EK		8,790473	53,096014
+143	15.02.2019	17:30	Fr	5		Bremen	Parsevalstraße	0	0	0	2	1	2						5	5		49					71	21	2019	02	15	dä	tr	RF	PKW	RV		8,887510	53,066833
+144	16.02.2019	12:05	Sa	5		Bremen	Schwaneweder Straße	0	1	0	2	5	2	6				8	2	2		34		11			21	71	2019	02	16	he	tr	PKW	RF	AB		8,571749	53,196096
+145	16.02.2019	13:08	Sa	5		Bremen	Am Lehester Deich	0	0	1	1	0	3					8	3	1		49					72		2019	02	16	he	tr	RF	-	F		8,898367	53,117221
+146	17.02.2019	15:28	So	5		Bremen	Wehrpromenade	0	0	1	1	0	6						3	7		49					71		2019	02	17	he	tr	RF	-	SO		8,864950	53,061303
+147	18.02.2019	08:45	Mo	5		Bremen	Breitenweg	0	0	0	2	5	2		6				5	3		49	31	37			21	71	2019	02	18	he	tr	PKW	RF	EK		8,813481	53,080337
+148	18.02.2019	16:50	Mo	5		Bremen	Züricher Straße	0	0	1	2	5	3						3	3		37		49			21	71	2019	02	18	he	tr	PKW	RF	EK		8,942104	53,065605
+149	18.02.2019	18:10	Mo	5		Bremen	Schönauenstraße	0	0	1	2	5	2		9				3	3		28		49			21	71	2019	02	18	dä	tr	PKW	RF	EK		8,889725	53,098726
+150	19.02.2019	06:45	Di	5		Bremen	Fröbelstraße	0	0	1	1	0	5						3	7		49				73	71		2019	02	19	du	na	RF	-	SO		8,609225	53,173717
+151	19.02.2019	09:40	Di	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	5	2						3	3		37					21	71	2019	02	19	he	tr	PKW	RF	EK		8,764466	53,113276
+152	19.02.2019	12:47	Di	5		Bremen	Schubertstraße	0	0	1	2	1							3	5		14					21	71	2019	02	19	he	tr	PKW	RF	RV		8,835952	53,083952
+153	20.02.2019	10:09	Mi	5		Bremen	Goslarer Straße	0	0	0	2	0							5	7		49					21	71	2019	02	20	he	tr	PKW	RF	SO		8,860784	53,067521
+154	20.02.2019	13:45	Mi	5		Bremen	Upper Borg	0	0	1	1	0						8	3	7		49					71		2019	02	20	he	tr	RF	-	SO		8,905781	53,114523
+155	20.02.2019	13:50	Mi	5		Bremen	In den Barken	0	0	1	2	5			7				3	3		37					21	71	2019	02	20	he	tr	PKW	RF	EK		8,769053	53,112803
+156	21.02.2019	05:50	Do	5		Bremen	Leerer Straße	0	0	0	3	1							5	7		49					71	82	2019	02	21	du	tr	RF	FG	SO		8,779218	53,102086
+157	21.02.2019	09:00	Do	5		Bremen	Dechanatstraße	0	0	0	2	0							5	5		45		49			21	71	2019	02	21	he	tr	PKW	RF	RV		8,809125	53,074072
+158	21.02.2019	11:45	Do	5		Bremen	Leher Heerstraße	0	0	1	2	5						8	3	3		31					71	72	2019	02	21	he	tr	RF	RF	EK		8,874147	53,101258
+159	21.02.2019	17:00	Do	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	1							3	5		45		10			21	71	2019	02	21	he	tr	PKW	RF	RV		8,796449	53,068210
+160	21.02.2019	17:05	Do	5		Bremen	Kirchhofstraße	0	0	1	3	1	2						3	5		49					21	71	2019	02	21	he	tr	PKW	RF	RV		8,599108	53,179925
+161	22.02.2019	13:45	Fr	5		Bremen	Bremerhavener Heerstraße	0	0	0	2	5	2						5	3		28					21	71	2019	02	22	he	tr	PKW	RF	EK		8,702142	53,168244
+162	23.02.2019	01:15	Sa	5		Bremen	Langemarckstraße	0	0	1	2	1							3	5		1	49				71	21	2019	02	23	du	tr	RF	PKW	RV		8,788271	53,070332
+163	23.02.2019	11:00	Sa	5		Bremen	Lerchenstraße	0	0	1	1	0							3	7		10				88	71		2019	02	23	he	tr	RF	-	SO		8,632054	53,191785
+164	23.02.2019	12:15	Sa	5		Bremen	Wilhelm-Liebknecht-Straße	0	0	0	2	0							5	7		49					71	21	2019	02	23	he	tr	RF	PKW	SO		8,883334	53,084718
+165	23.02.2019	14:07	Sa	5		Bremen	Waller Heerstraße	0	0	0	2	5	2		5				5	3		31					71	71	2019	02	23	he	tr	RF	RF	EK		8,788539	53,098174
+166	23.02.2019	16:40	Sa	5		Bremen	Delmestraße	0	0	1	2	5	1		8				3	3		27					71	71	2019	02	23	he	tr	RF	RF	EK		8,792833	53,069077
+167	23.02.2019	17:35	Sa	5		Bremen	Worpsweder Straße	0	0	1	2	1	1						3	7		49					71	21	2019	02	23	he	tr	RF	PKW	SO		8,807628	53,093126
+168	24.02.2019	22:50	So	5		Bremen	Luisental	0	0	1	2	8	1						3	7		27	37				71	21	2019	02	24	du	tr	RF	PKW	SO		8,877511	53,097734
+169	25.02.2019	08:30	Mo	5		Bremen	Münchener Straße	0	0	1	2	5	1						3	3		49					21	71	2019	02	25	he	tr	PKW	RF	EK		8,807446	53,094359
+170	25.02.2019	09:53	Mo	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	5	2						3	2		34					21	72	2019	02	25	he	tr	PKW	RF	AB		8,848489	53,050275
+171	25.02.2019	10:30	Mo	5		Bremen	Parkallee	0	0	1	2	0							3	3		35		10			21	71	2019	02	25	he	tr	PKW	RF	EK		8,842395	53,106012
+172	25.02.2019	15:10	Mo	5		Bremen	Breitenweg	0	0	1	2	5							3	3		31					21	71	2019	02	25	he	tr	PKW	RF	EK		8,812601	53,080843
+173	25.02.2019	16:05	Mo	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	4			9				3	6		10	14				71	71	2019	02	25	he	tr	RF	RF	LV		8,800491	53,071017
+174	25.02.2019	22:00	Mo	5		Bremen	Hans-Böckler-Straße	0	0	0	2	1							6	7		1	49				71	21	2019	02	25	du	tr	RF	PKW	SO		8,792184	53,085705
+175	26.02.2019	06:15	Di	5		Bremen	Osterhop	0	0	0	2	4							5	6		14	49				71	40	2019	02	26	du	tr	RF	LKW	LV		8,902659	53,048859
+176	26.02.2019	07:00	Di	5		Bremen	Kornstraße	0	0	2	3	1	1					8	3	6		14					21	21	2019	02	26	he	tr	PKW	PKW	LV		8,819510	53,048437
+177	26.02.2019	13:04	Di	5		Bremen	Stader Landstraße	0	0	0	2	5	3						5	3		37					21	71	2019	02	26	he	tr	PKW	RF	EK		8,718144	53,173270
+178	26.02.2019	16:25	Di	5		Bremen	Hastedter Brückenstraße	0	0	0	2	5	1		8				5	3		35					71	21	2019	02	26	he	tr	RF	PKW	EK		8,853542	53,064841
+179	26.02.2019	17:05	Di	5		Bremen	Am Stern	0	0	1	2	3	7		8				3	6		14					21	71	2019	02	26	he	tr	PKW	RF	LV		8,824589	53,084587
+180	27.02.2019	08:30	Mi	5		Bremen	Hermann-Böse-Straße	0	0	1	2	5	2						3	2		34					21	71	2019	02	27	he	tr	PKW	RF	AB		8,821780	53,084194
+181	27.02.2019	13:05	Mi	5		Bremen	Johann-Neudörffer-Straße	0	0	0	2	5	1						5	3		28		28			21	71	2019	02	27	he	tr	PKW	RF	EK		8,907678	53,086073
+182	27.02.2019	15:00	Mi	5		Bremen	Oberneulander Landstraße	0	1	0	2	5	3						2	3		37					92	71	2019	02	27	he	tr	SOF	RF	EK		8,926906	53,098198
+183	27.02.2019	17:30	Mi	5		Bremen	Ohmstraße	0	0	1	2	5							3	3		37					21	71	2019	02	27	he	tr	PKW	RF	EK		8,889902	53,108888
+184	28.02.2019	08:15	Do	5		Bremen	Danziger Straße	0	0	0	2	1							5	7		49					71	21	2019	02	28	he	tr	RF	PKW	SO		8,756854	53,116582
+185	28.02.2019	08:30	Do	5		Bremen	Contrescarpe	0	0	2	2	4							3	6		49				74	71	71	2019	02	28	he	sch	RF	RF	LV		8,812205	53,078172
+186	28.02.2019	08:55	Do	5		Bremen	Westerstraße	0	0	1	2	5	3						3	3		49		49			71	21	2019	02	28	he	tr	RF	PKW	EK		8,798310	53,073254
+187	28.02.2019	10:33	Do	5		Bremen	Vor dem Steintor	0	0	1	2	8			8				3	1		49		43			72	21	2019	02	28	he	tr	RF	PKW	F		8,831964	53,071039
+188	28.02.2019	11:00	Do	5		Bremen	Auf dem Beginenlande	0	0	0	2	1							5	7		49					71	21	2019	02	28	he	tr	RF	PKW	SO		8,817957	53,041443
+189	28.02.2019	12:00	Do	5		Bremen	Otto-Suhr-Straße	0	0	1	2	5	3						3	3		37					21	71	2019	02	28	he	tr	PKW	RF	EK		8,892440	53,081110
+190	28.02.2019	14:20	Do	5		Bremen	Hemelinger Heerstraße	0	0	1	2	5	2						3	3		28		49			21	71	2019	02	28	he	tr	PKW	RF	EK		8,896865	53,044593
+191	28.02.2019	16:35	Do	5		Bremen	Senator-Apelt-Straße	0	0	1	2	5	3						3	3		37					21	71	2019	02	28	he	tr	PKW	RF	EK		8,773092	53,071313
+192	01.03.2019	07:25	Fr	5		Bremen	Schlachte	0	0	0	2	1							5	7		49					71	21	2019	03	01	he	na	RF	PKW	SO		8,802403	53,076357
+193	01.03.2019	10:50	Fr	5		Bremen	Sankt-Gotthard-Straße	0	0	0	2	1							5	7		49					44	71	2019	03	01	he	tr	LKW	RF	SO		8,949437	53,063871
+194	01.03.2019	13:30	Fr	5		Bremen	Ostertorsteinweg	0	0	1	1	0							3	7		49					71		2019	03	01	he	tr	RF	-	SO		8,822863	53,072948
+195	01.03.2019	13:55	Fr	5		Bremen	Bürgermeister-Smidt-Straße	0	0	0	3	6							5	4		63					81	71	2019	03	01	he	tr	FG	RF	ÜS		8,807122	53,081950
+196	02.03.2019	01:00	Sa	5		Bremen	Richard-Boljahn-Allee	0	1	0	1	0	1		8			8	2	7		49	1				71		2019	03	02	du	tr	RF	-	SO		8,875697	53,082457
+197	02.03.2019	05:20	Sa	5		Bremen	Bahnhofstraße	0	0	0	2	1							5	5		49					71	21	2019	03	02	he	tr	RF	PKW	RV		8,811099	53,081310
+198	02.03.2019	11:30	Sa	5		Bremen	Kornstraße	0	0	1	2	5	1						3	2		34		10			21	71	2019	03	02	he	tr	PKW	RF	AB		8,798841	53,065840
+199	02.03.2019	13:30	Sa	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	0							3	5		45					21	72	2019	03	02	he	tr	PKW	RF	RV		8,806947	53,081745
+200	03.03.2019	11:15	So	5		Bremen	Ellenerbrokstraße	0	0	1	2	5	2						3	3		11				73	21	71	2019	03	03	he	na	PKW	RF	EK		8,941787	53,070388
+201	03.03.2019	13:05	So	5		Bremen	Tiefer	0	0	1	2	5	1						3	3		14					21	71	2019	03	03	he	na	PKW	RF	EK		8,806271	53,073454
+202	04.03.2019	09:40	Mo	5		Bremen	Bei den Drei Pfählen	0	0	1	2	3	1						3	2		34					52	71	2019	03	04	he	na	LKW	RF	AB		8,850608	53,071226
+203	04.03.2019	14:15	Mo	5		Bremen	Knochenhauerstraße	0	0	1	2	5	2						3	3		37					21	71	2019	03	04	he	na	PKW	RF	EK		8,806400	53,078774
+204	04.03.2019	17:05	Mo	5		Bremen	Leher Heerstraße	0	0	1	2	5	1						3	2		34					21	71	2019	03	04	he	na	PKW	RF	AB		8,880509	53,101572
+205	04.03.2019	19:30	Mo	5		Bremen	Leher Heerstraße	0	0	1	2	5			3				3	3		37					71	21	2019	03	04	du	sch	RF	PKW	EK		8,883004	53,100697
+206	05.03.2019	13:55	Di	5		Bremen	Dorfkampsweg	0	0	1	2	5	2						3	3		28					21	71	2019	03	05	he	tr	PKW	RF	EK		8,753539	53,087770
+207	06.03.2019	05:40	Mi	5		Bremen	Burgdammer Ring	0	0	1	2	5	2		7				3	3		37		10			21	71	2019	03	06	du	na	PKW	RF	EK		8,711723	53,173614
+208	06.03.2019	07:46	Mi	5		Bremen	Amelinghauser Straße	0	0	1	2	5	7		8				3	3		28					21	71	2019	03	06	he	tr	PKW	RF	EK		8,880171	53,071926
+209	06.03.2019	08:05	Mi	5		Bremen	Horner Heerstraße	0	0	1	2	5	2						3	3		34		9			21	71	2019	03	06	he	tr	PKW	RF	EK		8,870678	53,095931
+210	06.03.2019	15:00	Mi	5		Bremen	Wölbacker	0	0	1	2	5	2						3	3		37				73	71	2	2019	03	06	he	na	RF	KRD	EK		8,942627	53,057330
+211	07.03.2019	09:57	Do	5		Bremen	Vor dem Steintor	0	1	0	1	0							2	1		49					71		2019	03	07	he	sch	RF	-	F		8,827500	53,072570
+212	07.03.2019	10:00	Do	5		Bremen	Kremser Straße	0	0	0	2	1	3						5	5		49					21	71	2019	03	07	he	tr	PKW	RF	RV		8,861487	53,102798
+213	07.03.2019	14:30	Do	5		Bremen	Den Haager Straße	0	0	0	2	5							5	3		37				73	71	21	2019	03	07	he	na	RF	PKW	EK		8,726148	53,045005
+214	07.03.2019	14:55	Do	5		Bremen	Kremser Straße	0	0	1	2	5	3						3	3		37		10			21	71	2019	03	07	he	tr	PKW	RF	EK		8,862265	53,102814
+215	07.03.2019	17:15	Do	5		Bremen	Arsterdamm	0	0	1	2	5	1					8	3	3		34					21	72	2019	03	07	he	tr	PKW	RF	EK		8,841212	53,035405
+216	07.03.2019	18:00	Do	5		Bremen	Leerer Straße	0	0	0	2	1							5	5		14					71	21	2019	03	07	he	tr	RF	PKW	RV		8,778982	53,102004
+217	08.03.2019	08:30	Fr	5		Bremen	Heiligenroder Straße	0	0	1	2	5							3	3		28					21	71	2019	03	08	he	na	PKW	RF	EK		8,735665	53,044299
+218	10.03.2019	18:50	So	5		Bremen	Schubertstraße	0	0	1	2	5	2						3	3		28					21	71	2019	03	10	du	na	PKW	RF	EK		8,837122	53,082602
+219	11.03.2019	13:10	Mo	5		Bremen	Wachmannstraße	0	0	1	2	4							3	6		14					71	71	2019	03	11	he	na	RF	RF	LV		8,842508	53,088658
+220	12.03.2019	09:25	Di	5		Bremen	Am Stern	0	0	1	2	5	7		8				3	2		34					21	71	2019	03	12	he	na	PKW	RF	AB		8,824535	53,084188
+221	12.03.2019	15:30	Di	5		Bremen	Kirchbachstraße	0	0	0	2	3	2						5	2		34					21	71	2019	03	12	he	tr	PKW	RF	AB		8,854980	53,081033
+222	12.03.2019	18:05	Di	5		Bremen	Rahdeland	0	0	1	2	0	2						3	7		69				87	83	71	2019	03	12	he	tr	FG	RF	SO		8,929476	53,065831
+223	12.03.2019	18:40	Di	2	6	Bremen	Neuenlander Straße	0	0	1	2	5	3						3	3		37					21	71	2019	03	12	du	tr	PKW	RF	EK		8,809924	53,051026
+224	13.03.2019	09:35	Mi	5		Bremen	Hollerallee	0	0	1	2	5							3	2		34					21	71	2019	03	13	he	na	PKW	RF	AB		8,827772	53,083010
+225	13.03.2019	14:30	Mi	5		Bremen	Johann-Bornemacher-Straße	0	0	1	3	5							3	3		49				73	21	71	2019	03	13	he	na	PKW	RF	EK		8,790143	53,092025
+226	13.03.2019	14:35	Mi	5		Bremen	Delmestraße	0	0	1	2	3	1						3	2		34					44	71	2019	03	13	he	na	LKW	RF	AB		8,792814	53,069091
+227	13.03.2019	17:15	Mi	5		Bremen	Neustadtscontrescarpe	0	0	0	2	1	2						5	5		49				73	72	21	2019	03	13	he	na	RF	PKW	RV		8,789362	53,072416
+228	14.03.2019	09:30	Do	5		Bremen	Huchtinger Heerstraße	0	0	1	2	5	2		8				3	2		35					21	72	2019	03	14	he	na	PKW	RF	AB		8,722457	53,056852
+229	14.03.2019	10:50	Do	5		Bremen	Bismarckstraße	0	0	1	2	5	3						3	3		34				73	21	71	2019	03	14	he	na	PKW	RF	EK		8,852351	53,073647
+230	15.03.2019	13:35	Fr	5		Bremen	Heinrich-Heine-Straße	0	0	0	2	5	1		9				5	3		28		10			21	71	2019	03	15	he	tr	PKW	RF	EK		8,873053	53,084732
+231	15.03.2019	15:29	Fr	5		Bremen	Tiefer	0	1	1	2	5	1						2	2		28				82	21	71	2019	03	15	he	na	PKW	RF	AB		8,806370	53,073532
+232	15.03.2019	17:15	Fr	5		Bremen	Rembertiring	0	0	1	2	0							3	7		49					71	21	2019	03	15	he	tr	RF	PKW	SO		8,815696	53,079557
+233	15.03.2019	23:27	Fr	5		Bremen	Kurfürstenallee	0	0	0	2	5						8	5	3		34					21	71	2019	03	15	du	tr	PKW	RF	EK		8,875472	53,082109
+234	16.03.2019	14:25	Sa	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	0	2	5	2		9				5	3		31					71	21	2019	03	16	he	na	RF	PKW	EK		8,804125	53,072343
+235	18.03.2019	13:15	Mo	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	5	1					8	3	3		34				73	40	71	2019	03	18	he	na	LKW	RF	EK		8,793632	53,066440
+236	18.03.2019	14:18	Mo	5		Bremen	Sonneberger Straße	0	0	0	2	1	3						5	7		49					71	21	2019	03	18	he	na	RF	PKW	SO		8,875746	53,079929
+237	18.03.2019	14:30	Mo	5		Bremen	Bahnhofstraße	0	0	1	1	0							3	7		49					71		2019	03	18	he	na	RF	-	SO		8,811019	53,081632
+238	19.03.2019	08:40	Di	5		Bremen	Sielwall	0	0	1	2	5							3	3		49		49	24		71	71	2019	03	19	he	tr	RF	RF	EK		8,823609	53,071824
+239	19.03.2019	17:05	Di	5		Bremen	Kirchweg	0	0	1	2	3	1					8	3	3		34					21	71	2019	03	19	he	tr	PKW	RF	EK		8,806836	53,060402
+240	20.03.2019	15:15	Mi	5		Bremen	Landwehrstraße	0	0	1	2	4	1		4			8	3	2		34					21	71	2019	03	20	he	tr	PKW	RF	AB		8,791251	53,091549
+241	21.03.2019	11:30	Do	5		Bremen	Buntentorsteinweg	0	1	0	2	6							2	4		64					81	71	2019	03	21	he	tr	FG	RF	ÜS		8,801119	53,068260
+242	21.03.2019	12:15	Do	5		Bremen	Leher Heerstraße	0	0	1	2	5	2						3	3		35					21	71	2019	03	21	he	tr	PKW	RF	EK		8,880214	53,101761
+243	21.03.2019	13:10	Do	5		Bremen	Landwehrstraße	0	0	1	2	0							3	3		49					21	71	2019	03	21	he	tr	PKW	RF	EK		8,791294	53,091511
+244	21.03.2019	16:38	Do	5		Bremen	Vor dem Steintor	0	0	2	2	1							3	6		14					61	72	2019	03	21	he	tr	SOF	RF	LV		8,828943	53,072172
+245	21.03.2019	17:05	Do	5		Bremen	Föhrenstraße	0	0	1	2	5	3						3	2		34					21	71	2019	03	21	he	tr	PKW	RF	AB		8,875426	53,061896
+246	22.03.2019	06:45	Fr	5		Bremen	Gastfeldstraße	0	0	0	2	3	2						5	2		14					21	71	2019	03	22	he	tr	PKW	RF	AB		8,796229	53,064951
+247	22.03.2019	10:30	Fr	1	270	Bremen	Bundesautobahn A 270	0	0	1	2	5							3	3		49					21	72	2019	03	22	he	tr	PKW	RF	EK	absteigend	8,686022	53,172977
+248	22.03.2019	11:23	Fr	5		Bremen	Zermatter Straße	0	0	1	2	6							3	4		64					81	71	2019	03	22	he	tr	FG	RF	ÜS		8,952400	53,063373
+249	24.03.2019	16:10	So	5		Bremen	Lindenstraße	0	0	1	2	5	2						3	2		35					21	71	2019	03	24	he	tr	PKW	RF	AB		8,611682	53,175132
+250	25.03.2019	06:50	Mo	5		Bremen	Pfalzburger Straße	0	0	0	2	5	2						5	3		27					21	71	2019	03	25	dä	na	PKW	RF	EK		8,875711	53,062198
+251	25.03.2019	09:20	Mo	5		Bremen	Diepenau	0	0	1	2	5	1		8				3	3		49				73	71	21	2019	03	25	he	na	RF	PKW	EK		8,796089	53,081284
+252	25.03.2019	09:20	Mo	2	6	Bremen	Kattenturmer Heerstraße	0	0	1	2	5	2						3	2		35				73	21	71	2019	03	25	he	na	PKW	RF	AB		8,814087	53,039377
+253	25.03.2019	09:30	Mo	4		Bremen	Helmer	0	0	1	2	5	2						3	3		27				73	21	71	2019	03	25	he	na	PKW	RF	EK		8,862501	53,099290
+254	25.03.2019	17:12	Mo	5		Bremen	Bürgermeister-Spitta-Allee	0	0	1	2	5	2						3	7		34	37				71	21	2019	03	25	he	tr	RF	PKW	SO		8,873219	53,084745
+255	26.03.2019	07:55	Di	5		Bremen	Am Grohner Schulhof	0	1	0	2	5							2	3		37					21	71	2019	03	26	he	tr	PKW	RF	EK		8,636817	53,167675
+256	26.03.2019	08:00	Di	5		Bremen	Kurt-Schumacher-Allee	0	0	1	2	5	2		9				3	3		28					21	71	2019	03	26	he	tr	PKW	RF	EK		8,896350	53,079225
+257	26.03.2019	09:45	Di	5		Bremen	August-Bebel-Allee	0	0	1	2	5	2		3				3	3		27		10			21	71	2019	03	26	he	tr	PKW	RF	EK		8,879250	53,085796
+258	26.03.2019	11:52	Di	4		Bremen	In der Vahr	0	0	1	2	5	3						3	3		37				73	21	71	2019	03	26	he	na	PKW	RF	EK		8,878331	53,079190
+259	26.03.2019	12:55	Di	5		Bremen	Kleine Kirchbachstraße	0	0	1	2	5	2						3	3		28					21	71	2019	03	26	he	tr	PKW	RF	EK		8,851107	53,085209
+260	26.03.2019	16:50	Di	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	4			9			8	3	6		9					71	72	2019	03	26	he	sch	RF	RF	LV		8,733776	53,043177
+261	27.03.2019	08:00	Mi	5		Bremen	Carl-Francke-Straße	0	0	1	2	5	1					8	3	1		34					21	71	2019	03	27	he	tr	PKW	RF	F		8,779363	53,068761
+262	27.03.2019	12:45	Mi	5		Bremen	Farger Straße	0	0	0	2	5	3						5	3		36					21	71	2019	03	27	he	tr	PKW	RF	EK		8,528815	53,198020
+263	28.03.2019	07:45	Do	5		Bremen	Holtenauer Straße	0	0	1	2	0							3	7		49					71	21	2019	03	28	he	tr	RF	PKW	SO		8,793396	53,101403
+264	28.03.2019	19:30	Do	5		Bremen	Utbremer Straße	0	0	1	2	5							3	3		10					21	71	2019	03	28	du	na	PKW	RF	EK		8,793772	53,091936
+265	29.03.2019	13:13	Fr	5		Bremen	Auf dem Beginenlande	0	0	1	2	0							3	7		36					21	71	2019	03	29	he	tr	PKW	RF	SO		8,819983	53,045686
+266	29.03.2019	13:30	Fr	5		Bremen	Am Stern	0	0	1	2	5	7		8				3	3		28	37				21	71	2019	03	29	he	tr	PKW	RF	EK		8,825071	53,084191
+267	29.03.2019	13:45	Fr	5		Bremen	Osterholzer Heerstraße	0	1	0	2	5	1					8	2	3		31					72	21	2019	03	29	he	tr	RF	PKW	EK		8,963309	53,057497
+268	29.03.2019	14:50	Fr	5		Bremen	Stapelfeldtstraße	0	0	1	2	5	3						3	3		37					21	71	2019	03	29	he	tr	PKW	RF	EK		8,752600	53,119651
+269	29.03.2019	15:30	Fr	5		Bremen	Lüneburger Straße	0	1	0	2	5	3						2	3		37		2			21	71	2019	03	29	he	tr	PKW	RF	EK		8,832390	53,069012
+270	29.03.2019	16:10	Fr	5		Bremen	Plantage	0	0	1	2	6							3	6		65					81	71	2019	03	29	he	tr	FG	RF	LV		8,805751	53,087961
+271	30.03.2019	08:00	Sa	5		Bremen	Annette-Kolb-Straße	0	0	0	2	0							5	7		27					71	21	2019	03	30	he	tr	RF	PKW	SO		8,823893	53,099688
+272	30.03.2019	10:30	Sa	5		Bremen	Lesumer Heerstraße	0	0	1	2	3			8			8	3	6		11					21	71	2019	03	30	he	tr	PKW	RF	LV		8,670229	53,174611
+273	31.03.2019	20:50	So	5		Bremen	Hamburger Straße	0	0	1	2	5							3	3		49		49			71	71	2019	03	31	du	tr	RF	RF	EK		8,843672	53,068890
+274	01.04.2019	10:10	Mo	5		Bremen	Kornstraße	0	0	1	2	0	3						3	2		35					21	71	2019	04	01	he	tr	PKW	RF	AB		8,812542	53,056388
+275	01.04.2019	11:05	Mo	5		Bremen	Oberneulander Heerstraße	0	0	1	2	6							3	3		49					71	81	2019	04	01	he	tr	RF	FG	EK		8,899880	53,099464
+276	01.04.2019	12:40	Mo	5		Bremen	Hünertshagen	0	0	0	2	1							5	5		49					71	21	2019	04	01	he	tr	RF	PKW	RV		8,636401	53,186744
+277	01.04.2019	14:29	Mo	5		Bremen	Hastedter Osterdeich	0	0	0	2	5							5	2		49		49			71	21	2019	04	01	he	tr	RF	PKW	AB		8,866581	53,062174
+278	01.04.2019	16:01	Mo	5		Bremen	Universitätsallee	1	0	0	2	5	1		2			8	1	3		36	37				71	61	2019	04	01	he	tr	RF	SOF	EK		8,852823	53,104543
+279	01.04.2019	17:25	Mo	5		Bremen	Sedanstraße	0	1	0	1	0							2	7		49					71		2019	04	01	he	tr	RF	-	SO		8,802881	53,066832
+280	01.04.2019	19:50	Mo	5		Bremen	Schwachhauser Heerstraße	0	0	1	3	6							3	6		64					81	71	2019	04	01	dä	tr	FG	RF	LV		8,826321	53,079435
+281	02.04.2019	06:50	Di	5		Bremen	Ritterhuder Heerstraße	0	0	1	2	5	2						3	3		27					71	40	2019	04	02	he	tr	RF	LKW	EK		8,735842	53,140695
+282	02.04.2019	09:35	Di	5		Bremen	Neustadtscontrescarpe	0	0	1	2	5	1						3	7		36					21	71	2019	04	02	he	tr	PKW	RF	SO		8,796390	53,068980
+283	03.04.2019	10:20	Mi	5		Bremen	Landrat-Christians-Straße	0	0	1	2	5	2						3	3		36					21	71	2019	04	03	he	tr	PKW	RF	EK		8,575111	53,181503
+284	03.04.2019	13:23	Mi	5		Bremen	Habenhauser Landstraße	0	0	1	2	5							3	2		34					21	71	2019	04	03	he	tr	PKW	RF	AB		8,847405	53,050506
+285	03.04.2019	15:20	Mi	5		Bremen	Vor dem Steintor	0	0	1	1	0			2				3	1		49				73	71		2019	04	03	he	na	RF	-	F		8,827106	53,072763
+286	03.04.2019	16:30	Mi	5		Bremen	Vorstraße	0	0	1	1	0							3	1		49					71		2019	04	03	he	na	RF	-	F		8,873434	53,101342
+287	04.04.2019	08:15	Do	5		Bremen	Leipziger Straße	0	0	1	2	0							3	7		45					21	71	2019	04	04	he	tr	PKW	RF	SO		8,814554	53,094049
+288	04.04.2019	14:30	Do	5		Bremen	Waller Ring	0	0	1	2	0	3						3	7		10					11	71	2019	04	04	he	tr	KRD	RF	SO		8,777228	53,099131
+289	04.04.2019	17:15	Do	5		Bremen	Löningstraße	0	0	1	2	5							3	3		28		10			21	71	2019	04	04	he	tr	PKW	RF	EK		8,816667	53,080840
+290	04.04.2019	22:20	Do	5		Bremen	Fedelhören	0	0	0	2	1	2						5	5		49					71	21	2019	04	04	du	tr	RF	PKW	RV		8,818046	53,077796
+291	05.04.2019	08:13	Fr	5		Bremen	Beim Neustadts Güterbahnhof	0	0	1	2	5							3	3		27					21	72	2019	04	05	he	tr	PKW	RF	EK		8,785554	53,074836
+292	05.04.2019	13:00	Fr	5		Bremen	Buntentorsteinweg	0	0	1	2	0							3	7		69					83	71	2019	04	05	he	tr	FG	RF	SO		8,810042	53,062810
+293	05.04.2019	17:28	Fr	5		Bremen	Admiralstraße	0	0	0	2	1	2					8	5	5		35					40	71	2019	04	05	he	tr	LKW	RF	RV		8,803546	53,092883
+294	07.04.2019	02:26	So	5		Bremen	Wardamm	0	0	1	1	0							3	1		49	1				71		2019	04	07	du	tr	RF	-	F		8,758351	53,067945
+295	07.04.2019	05:09	So	5		Bremen	Wartburgstraße	0	0	0	2	1							5	5		49					71	21	2019	04	07	du	tr	RF	PKW	RV		8,790754	53,091854
+296	07.04.2019	15:55	So	5		Bremen	Katrepeler Landstraße	0	1	1	3	3							2	6		18					21	72	2019	04	07	he	tr	PKW	RF	LV		8,913629	53,123392
+297	07.04.2019	16:35	So	5		Bremen	Hastedter Osterdeich	0	0	1	2	3			9				3	6		49		49			71	71	2019	04	07	he	tr	RF	RF	LV		8,866154	53,062285
+298	07.04.2019	17:45	So	5		Bremen	Vor dem Steintor	0	0	1	2	9							3	6		49					71	71	2019	04	07	he	tr	RF	RF	LV		8,831972	53,071059
+299	08.04.2019	11:25	Mo	5		Bremen	Hemslinger Weg	0	0	1	2	5	1						3	3		49					21	71	2019	04	08	he	tr	PKW	RF	EK		8,941808	53,038103
+300	08.04.2019	16:15	Mo	5		Bremen	Stresemannstraße	0	0	1	2	5	2						3	3		28					72	21	2019	04	08	du	tr	RF	PKW	EK		8,864754	53,070952
+301	09.04.2019	09:19	Di	5		Bremen	Knochenhauerstraße	0	0	0	2	0	2						5	3		27					71	44	2019	04	09	he	tr	RF	LKW	EK		8,806400	53,078777
+302	09.04.2019	15:09	Di	5		Bremen	Stresemannstraße	0	0	0	2	5	3		9				5	2		34		9			21	72	2019	04	09	he	tr	PKW	RF	AB		8,862171	53,071499
+303	10.04.2019	07:30	Mi	5		Bremen	Albert-Bischof-Straße	0	0	0	2	5							5	3		37					71	21	2019	04	10	he	tr	RF	PKW	EK		8,909480	53,119890
+304	10.04.2019	11:20	Mi	5		Bremen	Ostertorsteinweg	0	0	1	1	0	1		8				3	7		49				89	71		2019	04	10	he	tr	RF	-	SO		8,822984	53,072952
+305	10.04.2019	14:00	Mi	5		Bremen	Wachmannstraße	0	1	0	2	1							2	5		49		49			71	92	2019	04	10	he	tr	RF	SOF	RV		8,833831	53,086483
+306	10.04.2019	17:00	Mi	5		Bremen	Buntentorsdeich	0	0	0	2	1							5	5		14					71	21	2019	04	10	he	tr	RF	PKW	RV		8,820331	53,053261
+307	11.04.2019	12:05	Do	5		Bremen	Woltmershauser Straße	0	0	0	2	5	2						5	3		28					21	71	2019	04	11	he	tr	PKW	RF	EK		8,766660	53,085054
+308	11.04.2019	14:10	Do	5		Bremen	Große Johannisstraße	0	0	1	2	5	2						3	3		27					71	21	2019	04	11	he	tr	RF	PKW	EK		8,797060	53,071633
+309	11.04.2019	15:25	Do	5		Bremen	Hamburger Straße	0	0	1	2	5	1					8	3	3		31					21	71	2019	04	11	he	tr	PKW	RF	EK		8,837422	53,069924
+310	11.04.2019	16:30	Do	5		Bremen	Mahndorfer Heerstraße	0	0	1	2	5	3						3	2		34					21	71	2019	04	11	he	tr	PKW	RF	AB		8,936718	53,038332
+311	12.04.2019	12:00	Fr	5		Bremen	Weberstraße	0	0	0	2	1							5	5		49		49			92	71	2019	04	12	he	tr	SOF	RF	RV		8,821763	53,072783
+312	12.04.2019	14:45	Fr	5		Bremen	Theodor-Billroth-Straße	0	0	1	2	5	2						3	3		27		10			21	71	2019	04	12	he	tr	PKW	RF	EK		8,819671	53,038335
+313	12.04.2019	15:05	Fr	5		Bremen	Osterdeich	0	0	1	2	5							3	3		27					21	71	2019	04	12	he	tr	PKW	RF	EK		8,838206	53,067838
+314	12.04.2019	15:08	Fr	5		Bremen	Hollerallee	0	0	1	2	5	1					8	3	2		34					21	71	2019	04	12	he	na	PKW	RF	AB		8,813815	53,090428
+315	12.04.2019	18:00	Fr	5		Bremen	Kremser Straße	0	0	0	3	1							5	7		49					71	40	2019	04	12	he	tr	RF	LKW	SO		8,863032	53,102809
+316	13.04.2019	09:10	Sa	5		Bremen	Robert-Koch-Straße	0	0	1	2	0							3	7		65					81	71	2019	04	13	he	tr	FG	RF	SO		8,821388	53,039832
+317	13.04.2019	16:50	Sa	5		Bremen	Pürschweg	0	0	1	2	1							3	5		49					71	21	2019	04	13	he	tr	RF	PKW	RV		8,572399	53,203115
+318	13.04.2019	18:30	Sa	5		Bremen	Goosestraße	0	0	0	2	5							5	3		27					71	21	2019	04	13	he	tr	RF	PKW	EK		8,758361	53,111618
+319	14.04.2019	13:31	So	5		Bremen	Louis-Krages-Straße	0	0	1	1	0							3	7		49					71		2019	04	14	he	tr	RF	-	SO		8,751594	53,117623
+320	15.04.2019	12:05	Mo	5		Bremen	Heinrich-Plett-Allee	0	1	0	2	5	2						2	3		28					71	21	2019	04	15	he	tr	RF	PKW	EK		8,723863	53,043528
+321	15.04.2019	16:25	Mo	5		Bremen	Utbremer Straße	0	0	0	2	5	3						5	2		10		34			71	21	2019	04	15	he	tr	RF	PKW	AB		8,791106	53,095557
+322	15.04.2019	16:30	Mo	5		Bremen	Poelzigstraße	0	0	0	2	1							5	7		49		49			71	31	2019	04	15	he	tr	RF	BUS	SO		8,850967	53,066616
+323	15.04.2019	17:15	Mo	5		Bremen	Leher Heerstraße	0	1	0	2	9							2	1		49					71	21	2019	04	15	he	tr	RF	PKW	F		8,871808	53,099474
+324	15.04.2019	18:45	Mo	5		Bremen	Konsul-Smidt-Straße	0	0	1	2	5	2						3	3		28		10			21	71	2019	04	15	he	tr	PKW	RF	EK		8,781670	53,087465
+325	15.04.2019	18:50	Mo	5		Bremen	Hohenlohestraße	0	0	0	2	4							5	6		11					71	21	2019	04	15	he	tr	RF	PKW	LV		8,818920	53,082490
+326	16.04.2019	08:30	Di	5		Bremen	Bismarckstraße	0	0	1	1	0							3	7		49				83	71		2019	04	16	he	tr	RF	-	SO		8,827600	53,078329
+327	16.04.2019	08:55	Di	5		Bremen	Konsul-Smidt-Straße	0	0	1	2	5							3	2		35					21	71	2019	04	16	he	tr	PKW	RF	AB		8,777494	53,089637
+328	16.04.2019	12:35	Di	5		Bremen	Louis-Krages-Straße	0	1	0	1	0							2	1		49					71		2019	04	16	he	tr	RF	-	F		8,744763	53,122781
+329	16.04.2019	14:30	Di	5		Bremen	Gastfeldstraße	0	0	0	2	2							5	6		25					21	71	2019	04	16	he	tr	PKW	RF	LV		8,795135	53,065537
+330	17.04.2019	08:30	Mi	5		Bremen	Am Kaffee-Quartier	0	0	1	2	5	1						3	3		35					21	71	2019	04	17	he	tr	PKW	RF	EK		8,781756	53,086163
+331	17.04.2019	10:15	Mi	5		Bremen	Hastedter Heerstraße	0	0	1	2	3	2						3	7		36					21	71	2019	04	17	he	tr	PKW	RF	SO		8,875740	53,066137
+332	17.04.2019	13:50	Mi	5		Bremen	Parkallee	0	0	1	1	0	1		9			8	3	7		49					71		2019	04	17	he	tr	RF	-	SO		8,832117	53,092574
+333	18.04.2019	06:45	Do	5		Bremen	Arster Heerstraße	0	1	0	2	0							2	3		28					21	71	2019	04	18	he	tr	PKW	RF	EK		8,845710	53,033110
+334	18.04.2019	09:30	Do	5		Bremen	Woltmershauser Straße	0	0	1	2	5	2						3	2		35		10			21	71	2019	04	18	he	tr	PKW	RF	AB		8,785666	53,074936
+335	18.04.2019	12:45	Do	5		Bremen	Georg-Gröning-Straße	0	0	1	2	1							3	5		14					71	21	2019	04	18	he	tr	RF	PKW	RV		8,841585	53,085779
+336	18.04.2019	15:30	Do	5		Bremen	Frieslandstraße	0	0	1	2	5	1		3				3	3		28					21	71	2019	04	18	he	tr	PKW	RF	EK		8,758056	53,058152
+337	18.04.2019	15:45	Do	5		Bremen	Ostertorsteinweg	0	0	1	2	1							3	5		49	45				92	71	2019	04	18	he	tr	SOF	RF	RV		8,820704	53,072681
+338	18.04.2019	17:00	Do	5		Bremen	Borgfelder Heerstraße	0	0	1	2	0	1		3			8	3	7		31		49			71	21	2019	04	18	he	tr	RF	PKW	SO		8,899054	53,129708
+339	19.04.2019	19:28	Fr	5		Bremen	Davoser Straße	0	0	1	2	5	2						3	3		49				82	21	71	2019	04	19	he	tr	PKW	RF	EK		8,951156	53,062193
+340	19.04.2019	20:55	Fr	5		Bremen	Sielwall	0	0	1	2	1							3	5		13	49				71	21	2019	04	19	du	tr	RF	PKW	RV		8,823598	53,071779
+341	19.04.2019	22:18	Fr	5		Bremen	Friedrich-Ebert-Straße	0	0	1	3	6							3	4		64					81	71	2019	04	19	du	tr	FG	RF	ÜS		8,799810	53,070380
+342	20.04.2019	11:30	Sa	5		Bremen	Am Dobben	0	1	0	2	4							2	6		49		10			71	71	2019	04	20	he	tr	RF	RF	LV		8,821474	53,079122
+343	20.04.2019	12:00	Sa	5		Bremen	Bultstraße	0	0	0	2	0							5	7		49					71	21	2019	04	20	he	tr	RF	PKW	SO		8,893609	53,043652
+344	20.04.2019	12:30	Sa	5		Bremen	Hans-Bredow-Straße	0	0	1	2	5			4				3	3		49		37			21	71	2019	04	20	he	tr	PKW	RF	EK		8,955911	53,046586
+345	20.04.2019	12:40	Sa	5		Bremen	Vor dem Steintor	0	0	1	1	0							3	7		49					71		2019	04	20	he	tr	RF	-	SO		8,832018	53,071070
+346	20.04.2019	15:00	Sa	5		Bremen	Wilhelm-Wolters-Straße	0	0	1	2	1							3	5		45					21	71	2019	04	20	he	tr	PKW	RF	RV		8,893797	53,066675
+347	20.04.2019	22:10	Sa	5		Bremen	Langemarckstraße	0	0	1	2	5	2						3	2		34					21	71	2019	04	20	du	tr	PKW	RF	AB		8,789738	53,071468
+348	21.04.2019	14:00	So	5		Bremen	Burger Heerstraße	0	0	1	1	0	4						3	7		49					72		2019	04	21	he	tr	RF	-	SO		8,704197	53,156755
+349	21.04.2019	15:10	So	5		Bremen	Konsul-Smidt-Straße	0	0	1	1	0	5						3	1		49				89	71		2019	04	21	he	tr	RF	-	F		8,781895	53,087601
+350	21.04.2019	16:38	So	5		Bremen	Sankt-Gotthard-Straße	0	0	1	2	1	2						3	7		49					71	21	2019	04	21	he	tr	RF	PKW	SO		8,954935	53,066450
+351	21.04.2019	17:30	So	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	2							3	7		49					71	71	2019	04	21	he	tr	RF	RF	SO		8,791095	53,064843
+352	22.04.2019	17:23	Mo	5		Bremen	Gröpelinger Heerstraße	0	0	0	2	1							5	5		49					71	21	2019	04	22	he	tr	RF	PKW	RV		8,769294	53,110618
+353	22.04.2019	17:30	Mo	5		Bremen	An der Grenzpappel	0	0	1	2	5	2		8				3	3		28					40	72	2019	04	22	he	tr	LKW	RF	EK		8,881539	53,059419
+354	22.04.2019	21:10	Mo	5		Bremen	Friedrich-Ebert-Straße	0	1	0	3	6							2	4		64					81	71	2019	04	22	he	tr	FG	RF	ÜS		8,792683	53,065715
+355	23.04.2019	09:40	Di	5		Bremen	Am Stern	0	0	1	2	3	2		8			8	3	2		34					21	71	2019	04	23	he	tr	PKW	RF	AB		8,824401	53,084449
+356	23.04.2019	13:36	Di	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	3	3		9			8	3	3		34					21	71	2019	04	23	he	tr	PKW	RF	EK		8,753987	53,120434
+357	23.04.2019	15:30	Di	5		Bremen	Hillmannplatz	0	0	0	2	1							5	7		49					21	71	2019	04	23	he	tr	PKW	RF	SO		8,810074	53,080693
+358	23.04.2019	18:49	Di	5		Bremen	Ostertorsteinweg	0	0	0	2	1							5	7		49					21	71	2019	04	23	he	tr	PKW	RF	SO		8,820704	53,072736
+359	23.04.2019	19:45	Di	5		Bremen	Am Schwarzen Meer	0	1	0	3	5							2	3		28					21	71	2019	04	23	dä	tr	PKW	RF	EK		8,837157	53,071774
+360	24.04.2019	05:30	Mi	5		Bremen	Stromer Landstraße	0	0	1	1	7	5						3	7		49				88	72		2019	04	24	du	tr	RF	-	SO		8,741335	53,079328
+361	24.04.2019	07:55	Mi	5		Bremen	Wilhelm-Liebknecht-Straße	0	0	0	2	0							5	7		49		49			71	21	2019	04	24	he	tr	RF	PKW	SO		8,885672	53,084785
+362	24.04.2019	09:50	Mi	5		Bremen	Weserstrandstraße	0	0	1	2	5	2						3	2		35					21	71	2019	04	24	he	tr	PKW	RF	AB		8,571118	53,181215
+363	24.04.2019	11:50	Mi	5		Bremen	Hindenburgstraße	0	0	0	2	5							5	3		37					71	21	2019	04	24	he	tr	RF	PKW	EK		8,698323	53,168321
+364	24.04.2019	18:30	Mi	5		Bremen	Pappelstraße	0	0	1	2	1							3	5		45					21	71	2019	04	24	he	tr	PKW	RF	RV		8,789046	53,068996
+365	24.04.2019	19:32	Mi	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	4							3	6		10					72	71	2019	04	24	he	tr	RF	RF	LV		8,805316	53,080985
+366	25.04.2019	05:45	Do	5		Bremen	Von-Thünen-Straße	0	0	1	2	3	2						3	6		26					92	71	2019	04	25	dä	na	SOF	RF	LV		8,969897	53,042741
+367	25.04.2019	07:25	Do	5		Bremen	Heinrich-Seekamp-Straße	0	0	1	2	5	2						3	3		28					21	71	2019	04	25	he	tr	PKW	RF	EK		8,711348	53,174225
+368	25.04.2019	07:50	Do	5		Bremen	Auf dem Bohnenkamp	0	0	1	2	5	1		4				3	3		13	31	49			21	71	2019	04	25	he	tr	PKW	RF	EK		8,764568	53,082995
+369	25.04.2019	08:30	Do	5		Bremen	Am Stern	0	0	1	2	5	7		8				3	3		28					21	71	2019	04	25	he	tr	PKW	RF	EK		8,825057	53,084656
+370	25.04.2019	09:30	Do	5		Bremen	Scharmbecker Straße	0	0	1	2	5	2						3	3		49					21	71	2019	04	25	he	tr	PKW	RF	EK		8,754091	53,121977
+371	25.04.2019	10:00	Do	5		Bremen	Friedrich-Karl-Straße	0	0	1	2	4							3	2		34					71	71	2019	04	25	he	tr	RF	RF	AB		8,843999	53,075088
+372	25.04.2019	15:20	Do	5		Bremen	Vor dem Steintor	0	0	0	2	1							5	5		49	14				71	21	2019	04	25	he	tr	RF	PKW	RV		8,825784	53,073075
+373	25.04.2019	16:10	Do	5		Bremen	Waller Heerstraße	0	0	1	2	5	2						3	2		34		34			21	71	2019	04	25	he	tr	PKW	RF	AB		8,787539	53,099570
+374	25.04.2019	16:55	Do	2	75	Bremen	Friedrich-Ebert-Straße	0	0	0	2	5	2		8				5	3		31					21	71	2019	04	25	he	tr	PKW	RF	EK		8,801985	53,071459
+375	25.04.2019	17:00	Do	5		Bremen	Georg-Gröning-Straße	0	0	1	2	5	2		8			8	3	3		31					72	71	2019	04	25	he	tr	RF	RF	EK		8,847143	53,087004
+376	26.04.2019	12:25	Fr	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	0							3	3		34					21	72	2019	04	26	he	na	PKW	RF	EK		8,788290	53,063087
+377	26.04.2019	12:45	Fr	5		Bremen	Berliner Freiheit	0	0	1	2	6							3	6		42					71	81	2019	04	26	he	tr	RF	FG	LV		8,893338	53,081492
+378	26.04.2019	14:48	Fr	5		Bremen	Arberger Heerstraße	0	0	1	2	5	1		7				3	3		28					21	71	2019	04	26	he	na	PKW	RF	EK		8,930616	53,038584
+379	26.04.2019	15:35	Fr	5		Bremen	Neuenlander Straße	0	0	1	2	5							3	3		28					21	72	2019	04	26	he	na	PKW	RF	EK		8,802264	53,053641
+380	26.04.2019	19:43	Fr	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	6							3	4		69					81	71	2019	04	26	dä	na	FG	RF	ÜS		8,847094	53,084790
+381	26.04.2019	20:03	Fr	5		Bremen	Sankt-Magnus-Straße	0	0	0	2	1							5	5		49					71	21	2019	04	26	he	na	RF	PKW	RV		8,789792	53,094562
+382	27.04.2019	18:26	Sa	5		Bremen	Weserstraße	0	1	0	1	0							2	1		1	49				71		2019	04	27	he	tr	RF	-	F		8,620179	53,170749
+383	28.04.2019	13:15	So	5		Bremen	Hemelinger Heerstraße	0	0	0	2	1							6	7		49	1				71	21	2019	04	28	he	na	RF	PKW	SO		8,902487	53,040677
+384	28.04.2019	15:10	So	5		Bremen	Hemmstraße	0	0	0	2	2	1						5	2		14					71	21	2019	04	28	he	tr	RF	PKW	AB		8,808342	53,094697
+385	28.04.2019	18:25	So	5		Bremen	Langemarckstraße	0	0	1	2	5	2						3	3		37				73	21	71	2019	04	28	he	na	PKW	RF	EK		8,789883	53,071399
+386	29.04.2019	12:55	Mo	5		Bremen	Benquestraße	0	0	1	2	5	2		8				3	3		28					21	71	2019	04	29	he	na	PKW	RF	EK		8,828431	53,087751
+387	29.04.2019	14:15	Mo	5		Bremen	Wartburgstraße	0	0	1	2	3	1						3	2		34					92	71	2019	04	29	he	na	SOF	RF	AB		8,788429	53,093953
+388	29.04.2019	15:00	Mo	5		Bremen	Oslebshauser Landstraße	0	0	1	2	3							3	6		49					21	71	2019	04	29	he	tr	PKW	RF	LV		8,731357	53,130889
+389	29.04.2019	15:15	Mo	5		Bremen	Warturmer Heerstraße	0	0	0	2	5	2						5	3		28					21	71	2019	04	29	he	na	PKW	RF	EK		8,766853	53,071265
+390	29.04.2019	16:00	Mo	5		Bremen	Vahrer Straße	0	0	1	2	4							3	6		49					71	71	2019	04	29	he	tr	RF	RF	LV		8,881995	53,075542
+391	30.04.2019	14:10	Di	5		Bremen	Millstätter Straße	0	0	1	2	3	2						3	6		11	14				21	71	2019	04	30	he	tr	PKW	RF	LV		8,864110	53,102559
+392	30.04.2019	14:45	Di	5		Bremen	Lilienthaler Heerstraße	0	0	1	2	0							3	6		10					71	71	2019	04	30	he	tr	RF	RF	LV		8,882038	53,103287
+393	30.04.2019	15:16	Di	5		Bremen	Waller Ring	0	0	1	2	5	2						3	2		34					21	71	2019	04	30	he	tr	PKW	RF	AB		8,786195	53,103063
+394	30.04.2019	15:55	Di	5		Bremen	Bördestraße	0	0	1	2	5	2						3	2		28					21	71	2019	04	30	he	tr	PKW	RF	AB		8,694005	53,180620
+395	30.04.2019	17:00	Di	5		Bremen	Bismarckstraße	0	0	0	2	5	3						5	3		35					21	71	2019	04	30	he	tr	PKW	RF	EK		8,851332	53,073653
+396	01.05.2019	05:30	Mi	5		Bremen	Luisental	0	0	1	2	1			7				3	7		1	49				71	21	2019	05	01	dä	tr	RF	PKW	SO		8,871835	53,098356
+397	01.05.2019	09:50	Mi	5		Bremen	Herdentorsteinweg	0	0	1	2	1							3	5		45					21	71	2019	05	01	he	tr	PKW	RF	RV		8,811389	53,080179
+398	01.05.2019	14:20	Mi	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	5	2		3			9	3	3		28					21	71	2019	05	01	he	tr	PKW	RF	EK		8,740053	53,051448
+399	01.05.2019	17:40	Mi	5		Bremen	Waller Ring	0	0	0	2	1							5	5		14	49				71	21	2019	05	01	he	tr	RF	PKW	RV		8,776858	53,098950
+400	01.05.2019	17:45	Mi	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	6							3	4		9					71	81	2019	05	01	he	tr	RF	FG	ÜS		8,794636	53,066962
+401	01.05.2019	18:30	Mi	5		Bremen	Franz-Böhmert-Straße	0	0	0	2	5	1						5	3		28					21	71	2019	05	01	he	tr	PKW	RF	EK		8,838219	53,067823
+402	02.05.2019	02:08	Do	5		Bremen	Bahnhofstraße	0	0	1	1	0							3	7		49					71		2019	05	02	du	tr	RF	-	SO		8,810608	53,080622
+403	02.05.2019	11:39	Do	5		Bremen	Kirchbachstraße	0	0	1	2	5	2						3	3		2				89	71	71	2019	05	02	he	tr	RF	RF	EK		8,854744	53,076464
+404	02.05.2019	14:22	Do	5		Bremen	Bahnhofsplatz	0	0	4	2	5							3	3		37					71	33	2019	05	02	he	tr	RF	BUS	EK		8,813797	53,081934
+405	02.05.2019	18:50	Do	5		Bremen	Carl-Goerdeler-Straße	0	0	0	2	5	2						5	3		37					71	21	2019	05	02	he	tr	RF	PKW	EK		8,899011	53,076161
+406	03.05.2019	07:10	Fr	5		Bremen	Vegesacker Rampe	0	0	1	2	5							3	3		37					71	21	2019	05	03	he	tr	RF	PKW	EK		8,619927	53,172971
+407	03.05.2019	09:50	Fr	5		Bremen	Theodor-Heuss-Allee	0	0	1	2	5	2						3	3		49					21	71	2019	05	03	he	tr	PKW	RF	EK		8,814141	53,085198
+408	03.05.2019	12:30	Fr	5		Bremen	Schierker Straße	0	0	0	2	1							5	7		44					71	21	2019	05	03	he	tr	RF	PKW	SO		8,846190	53,067267
+409	03.05.2019	14:50	Fr	5		Bremen	Universitätsallee	0	0	2	2	6							3	4		49		69			71	81	2019	05	03	he	tr	RF	FG	ÜS		8,846547	53,106124
+410	03.05.2019	15:00	Fr	5		Bremen	Georg-Bitter-Straße	0	0	1	2	5	2						3	3		28					71	21	2019	05	03	he	tr	RF	PKW	EK		8,855688	53,069633
+411	04.05.2019	04:28	Sa	5		Bremen	Findorffstraße	0	0	0	4	5	2						5	3		28					71	21	2019	05	04	du	tr	RF	PKW	EK		8,811528	53,089520
+412	04.05.2019	15:45	Sa	5		Bremen	Willy-Brandt-Platz	0	0	0	2	0							5	7		49					21	71	2019	05	04	he	tr	PKW	RF	SO		8,814924	53,084586
+413	05.05.2019	10:38	So	5		Bremen	Rembertiring	0	0	1	2	5							3	3		37					21	71	2019	05	05	he	tr	PKW	RF	EK		8,818352	53,077419
+414	05.05.2019	11:05	So	5		Bremen	Regensburger Straße	0	0	1	2	1							3	5		24					71	21	2019	05	05	he	na	RF	PKW	RV		8,800735	53,097329
+415	05.05.2019	19:15	So	5		Bremen	Rotdornallee	0	0	2	3	5	2						3	3		34				89	21	71	2019	05	05	he	tr	PKW	RF	EK		8,686113	53,172842
+416	05.05.2019	20:45	So	5		Bremen	Augsburger Straße	0	0	0	2	2							5	5		14	49	49			71	21	2019	05	05	dä	tr	RF	PKW	RV		8,800241	53,095206
+417	06.05.2019	09:09	Mo	5		Bremen	Schwaneweder Straße	0	0	1	2	5	2						3	3		35					21	71	2019	05	06	he	na	PKW	RF	EK		8,578079	53,206479
+418	06.05.2019	09:55	Mo	5		Bremen	Pfalzburger Straße	0	0	1	2	5	3						3	3		37		10			21	71	2019	05	06	he	tr	PKW	RF	EK		8,870598	53,063790
+419	06.05.2019	14:25	Mo	5		Bremen	In der Vahr	0	0	0	2	5	1					8	5	3		36				73	21	71	2019	05	06	he	na	PKW	RF	EK		8,878621	53,078893
+420	06.05.2019	17:12	Mo	5		Bremen	Brüggeweg	0	0	1	2	5							3	3		49		9		73	21	71	2019	05	06	he	na	PKW	RF	EK		8,897445	53,058568
+421	07.05.2019	06:45	Di	5		Bremen	Otto-Brenner-Allee	0	0	1	2	5							3	3		34					21	71	2019	05	07	he	na	PKW	RF	EK		8,964328	53,063184
+422	07.05.2019	13:40	Di	5		Bremen	Brabantstraße	0	0	0	2	5							5	3		49					71	21	2019	05	07	he	tr	RF	PKW	EK		8,779519	53,094980
+423	07.05.2019	16:45	Di	5		Bremen	Bahnhofsplatz	0	0	0	2	5	2						5	2		49					71	21	2019	05	07	he	tr	RF	PKW	AB		8,814446	53,081407
+424	07.05.2019	16:50	Di	5		Bremen	Theodor-Storm-Straße	0	0	1	2	4							3	2		11					71	21	2019	05	07	he	tr	RF	PKW	AB		8,791784	53,061590
+425	07.05.2019	19:30	Di	5		Bremen	Am Kaffee-Quartier	0	0	1	2	5							3	3		37					21	71	2019	05	07	he	tr	PKW	RF	EK		8,785269	53,084421
+426	07.05.2019	23:42	Di	5		Bremen	Wohldstraße	0	0	1	1	0							3	7		1	49				71		2019	05	07	du	tr	RF	-	SO		8,592236	53,183108
+427	08.05.2019	06:40	Mi	5		Bremen	Grasberger Straße	0	0	1	2	5	2						3	3		27		10			21	71	2019	05	08	dä	tr	PKW	RF	EK		8,763533	53,108923
+428	08.05.2019	07:02	Mi	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	2		9				3	3		35					44	71	2019	05	08	he	tr	LKW	RF	EK		8,901489	53,059464
+429	08.05.2019	09:00	Mi	5		Bremen	Niedersachsendamm	0	0	2	2	6							3	4		64					81	71	2019	05	08	he	tr	FG	RF	ÜS		8,820621	53,050834
+430	08.05.2019	18:50	Mi	5		Bremen	Konsul-Smidt-Straße	0	0	1	2	5							3	2		35					21	71	2019	05	08	dä	tr	PKW	RF	AB		8,766800	53,094756
+431	09.05.2019	07:25	Do	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	2					8	3	2		34					21	71	2019	05	09	he	tr	PKW	RF	AB		8,906317	53,059586
+432	09.05.2019	07:45	Do	5		Bremen	Robert-Koch-Straße	0	0	1	2	5	1						3	3		28		10		73	71	21	2019	05	09	he	na	RF	PKW	EK		8,819671	53,038326
+433	09.05.2019	07:45	Do	5		Bremen	Am Deich	0	0	1	2	0							3	7		65					81	72	2019	05	09	he	na	FG	RF	SO		8,795794	53,077111
+434	09.05.2019	12:00	Do	5		Bremen	Hünertshagen	0	0	1	2	0							3	7		4	49				71	21	2019	05	09	he	tr	RF	PKW	SO		8,637236	53,187374
+435	09.05.2019	15:00	Do	5		Bremen	Am Hohentorsplatz	0	0	1	1	0							3	7		2	1				71		2019	05	09	he	tr	RF	-	SO		8,787474	53,074121
+436	09.05.2019	15:30	Do	5		Bremen	Apfelallee	0	0	0	2	1							5	7		14	49				71	21	2019	05	09	he	tr	RF	PKW	SO		8,902452	53,100547
+437	09.05.2019	19:45	Do	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	5	1		9			8	3	2		34					21	71	2019	05	09	he	tr	PKW	RF	AB		8,808682	53,082899
+438	10.05.2019	12:05	Fr	5		Bremen	Hindenburgstraße	0	0	0	2	5	2						5	3		28		10			21	71	2019	05	10	he	tr	PKW	RF	EK		8,688426	53,169694
+439	10.05.2019	14:28	Fr	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5	3						3	3		14					71	21	2019	05	10	he	tr	RF	PKW	EK		8,849578	53,085288
+440	10.05.2019	14:30	Fr	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5							3	3		49				89	21	71	2019	05	10	he	tr	PKW	RF	EK		8,843500	53,083656
+441	11.05.2019	01:30	Sa	5		Bremen	Kurfürstenallee	0	0	1	1	0			8				3	7		49					71		2019	05	11	du	tr	RF	-	SO		8,854551	53,082596
+442	11.05.2019	10:30	Sa	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5	1						3	3		49	35	31			71	21	2019	05	11	he	tr	RF	PKW	EK		8,831634	53,081123
+443	11.05.2019	13:25	Sa	5		Bremen	Parkallee	0	0	0	2	7							5	7		49					71	93	2019	05	11	he	tr	RF	FG	SO		8,834204	53,095399
+444	11.05.2019	15:15	Sa	5		Bremen	Weserwehr	0	0	2	2	4							3	6		49	14				71	71	2019	05	11	he	tr	RF	RF	LV		8,867930	53,061427
+445	12.05.2019	11:50	So	5		Bremen	Buntentorsteinweg	0	0	0	2	1							5	5		14					71	21	2019	05	12	he	tr	RF	PKW	RV		8,807011	53,064764
+446	12.05.2019	15:30	So	5		Bremen	Yorckstraße	0	0	0	2	1							5	5		49					71	21	2019	05	12	he	tr	RF	PKW	RV		8,807094	53,064150
+447	12.05.2019	18:30	So	5		Bremen	Waller Heerstraße	0	0	0	2	5							5	2		34					21	71	2019	05	12	he	tr	PKW	RF	AB		8,782314	53,104564
+448	13.05.2019	07:10	Mo	5		Bremen	Theodor-Billroth-Straße	0	0	1	2	5	3		9				3	2		34		10			21	71	2019	05	13	he	tr	PKW	RF	AB		8,821552	53,037573
+449	13.05.2019	09:55	Mo	5		Bremen	Martinistraße	0	0	2	2	5							3	3		14	49				71	71	2019	05	13	he	tr	RF	RF	EK		8,804474	53,075500
+450	13.05.2019	11:30	Mo	5		Bremen	Admiralstraße	0	0	0	2	5	3						5	3		37		49			71	21	2019	05	13	he	tr	RF	PKW	EK		8,806963	53,089557
+451	13.05.2019	15:00	Mo	5		Bremen	Borgfelder Deich	0	0	0	2	3							5	6		26					71	71	2019	05	13	he	tr	RF	RF	LV		8,884860	53,132257
+452	13.05.2019	15:40	Mo	5		Bremen	Kornstraße	0	0	1	2	5	1						3	3		35					21	71	2019	05	13	he	tr	PKW	RF	EK		8,798815	53,065844
+453	13.05.2019	16:10	Mo	5		Bremen	Am Fuchsberg	0	0	1	2	5	1						3	2		34					21	71	2019	05	13	he	tr	PKW	RF	AB		8,744451	53,130229
+454	13.05.2019	16:15	Mo	5		Bremen	Am Wall	0	0	0	2	4							5	2		35					21	71	2019	05	13	he	tr	PKW	RF	AB		8,812853	53,073376
+455	13.05.2019	16:20	Mo	5		Bremen	Henri-Dunant-Straße	0	0	1	2	5	1		3				3	2		28					21	71	2019	05	13	he	tr	PKW	RF	AB		8,882070	53,079096
+456	13.05.2019	17:10	Mo	5		Bremen	Merkurstraße	0	0	1	2	5	1					8	3	2		34					21	71	2019	05	13	he	tr	PKW	RF	AB		8,737049	53,079718
+457	13.05.2019	17:30	Mo	5		Bremen	Rekumer Straße	0	0	0	2	4							5	6		49					21	71	2019	05	13	he	tr	PKW	RF	LV		8,509715	53,207410
+458	13.05.2019	18:30	Mo	5		Bremen	Brokmerländer Straße	0	0	1	2	5	2						3	3		27					21	71	2019	05	13	he	tr	PKW	RF	EK		8,758447	53,057085
+459	13.05.2019	19:45	Mo	5		Bremen	Sandhofstraße	0	0	1	2	5	2						3	3		37		10			21	71	2019	05	13	dä	tr	PKW	RF	EK		8,892070	53,047972
+460	14.05.2019	16:22	Di	5		Bremen	Friedrich-Rauers-Straße	0	0	1	3	5	1						3	3		28					21	71	2019	05	14	he	tr	PKW	RF	EK		8,804627	53,085784
+461	14.05.2019	17:10	Di	5		Bremen	Landrat-Christians-Straße	0	0	1	2	5	1	5					3	2		34					21	71	2019	05	14	he	tr	PKW	RF	AB		8,584544	53,181452
+462	14.05.2019	18:45	Di	5		Bremen	Heinrich-Plett-Allee	0	0	1	3	2			3				3	6		14					1	21	2019	05	14	he	tr	KRD	PKW	LV		8,715623	53,054209
+463	14.05.2019	18:55	Di	5		Bremen	Am Markt	0	0	1	1	0							3	1		10	49				71		2019	05	14	he	tr	RF	-	F		8,807017	53,075178
+464	15.05.2019	09:14	Mi	5		Bremen	Stubbener Straße	0	0	1	2	5	1						3	3		27		9			21	71	2019	05	15	he	tr	PKW	RF	EK		8,740611	53,127802
+465	15.05.2019	11:00	Mi	5		Bremen	Osterfeuerbergstraße	0	0	0	2	1							5	5		14					71	21	2019	05	15	he	tr	RF	PKW	RV		8,790363	53,097240
+466	15.05.2019	16:00	Mi	5		Bremen	Konsul-Smidt-Straße	0	0	0	2	1	1		8				5	1		49					71	21	2019	05	15	he	tr	RF	PKW	F		8,765078	53,095702
+467	15.05.2019	17:00	Mi	5		Bremen	Sielwall	0	0	1	2	1							3	7		49					92	71	2019	05	15	he	tr	SOF	RF	SO		8,823909	53,070933
+468	15.05.2019	17:30	Mi	5		Bremen	Robert-Bunsen-Straße	0	0	2	3	5	2						3	3		49					21	71	2019	05	15	he	tr	PKW	RF	EK		8,886743	53,100682
+469	16.05.2019	07:15	Do	5		Bremen	Lausanner Straße	0	0	1	2	5							3	3		28					21	71	2019	05	16	he	tr	PKW	RF	EK		8,951861	53,072654
+470	16.05.2019	15:05	Do	5		Bremen	Burgdammer Ring	0	0	1	2	1	5		7				3	5		49					71	21	2019	05	16	he	na	RF	PKW	RV		8,709620	53,175371
+471	17.05.2019	07:53	Fr	5		Bremen	Kohlenstraße	0	1	0	2	5	1						2	3		35				73	21	71	2019	05	17	he	na	PKW	RF	EK		8,794920	53,093972
+472	17.05.2019	13:15	Fr	5		Bremen	Am Stern	0	0	1	2	5	7						3	3		31					71	61	2019	05	17	he	tr	RF	SOF	EK		8,824385	53,084351
+473	17.05.2019	14:35	Fr	5		Bremen	Wilseder-Berg-Straße	0	0	1	2	5	7		8				3	3		28					21	71	2019	05	17	he	tr	PKW	RF	EK		8,879882	53,072190
+474	17.05.2019	15:05	Fr	5		Bremen	Bahnhofstraße	0	0	1	2	1	6		8				3	5		45					21	71	2019	05	17	he	tr	PKW	RF	RV		8,810654	53,080514
+475	17.05.2019	18:45	Fr	5		Bremen	Thalenhorststraße	0	0	0	2	5	1		4			8	5	2		49					71	21	2019	05	17	he	tr	RF	PKW	AB		8,959243	53,041858
+476	18.05.2019	10:30	Sa	5		Bremen	Grenzwehr	0	0	1	2	1							3	5		45					21	71	2019	05	18	he	tr	PKW	RF	RV		8,941454	53,070498
+477	18.05.2019	17:00	Sa	5		Bremen	George-Albrecht-Straße	0	0	1	2	0							3	7		65					81	71	2019	05	18	he	tr	FG	RF	SO		8,571192	53,183960
+478	18.05.2019	18:00	Sa	5		Bremen	Ritterhuder Straße	0	0	0	2	2							5	5		14	49				71	21	2019	05	18	he	tr	RF	PKW	RV		8,760700	53,116654
+479	18.05.2019	18:13	Sa	5		Bremen	Christernstraße	0	0	1	2	3							3	6		14					33	72	2019	05	18	he	tr	BUS	RF	LV		8,885514	53,056769
+480	18.05.2019	23:05	Sa	5		Bremen	Am Hohentorsplatz	0	0	1	1	0							3	1		1	49				71		2019	05	18	dä	tr	RF	-	F		8,787871	53,073879
+481	18.05.2019	23:30	Sa	5		Bremen	Mittelwischweg	0	1	0	1	0							2	1		1	49				72		2019	05	18	du	tr	RF	-	F		8,782689	53,123231
+482	19.05.2019	10:20	So	5		Bremen	Arsterdamm	0	0	0	2	5							5	3		31					21	71	2019	05	19	he	tr	PKW	RF	EK		8,832353	53,040216
+483	19.05.2019	12:45	So	5		Bremen	Fährstraße	0	0	1	2	1							3	5		49					71	21	2019	05	19	he	tr	RF	PKW	RV		8,860993	53,066504
+484	20.05.2019	08:10	Mo	5		Bremen	Rudolf-Breitscheid-Straße	0	0	0	2	1	2						5	7		49					71	21	2019	05	20	he	tr	RF	PKW	SO		8,560087	53,190912
+485	20.05.2019	10:41	Mo	5		Bremen	Hansestraße	0	0	1	2	5	1		4	6			3	3		31					21	71	2019	05	20	he	tr	PKW	RF	EK		8,791084	53,091485
+486	20.05.2019	11:40	Mo	5		Bremen	Schwachhauser Heerstraße	0	0	0	2	5	1		8				5	3		28					21	71	2019	05	20	he	tr	PKW	RF	EK		8,837106	53,082596
+487	20.05.2019	17:03	Mo	5		Bremen	Kattenturmer Heerstraße	0	1	0	2	5	2						2	3		49					21	71	2019	05	20	he	tr	PKW	RF	EK		8,815294	53,041900
+488	20.05.2019	18:56	Mo	5		Bremen	Rodenkicher Weg	0	0	0	2	1							5	7		49					21	71	2019	05	20	he	tr	PKW	RF	SO		8,762956	53,080432
+489	21.05.2019	07:35	Di	5		Bremen	Friesenwerder	0	0	1	2	5							3	2		35					40	71	2019	05	21	he	na	LKW	RF	AB		8,757777	53,058039
+490	22.05.2019	08:00	Mi	5		Bremen	Parkstraße	0	0	1	2	5	2						3	3		28		10		73	21	71	2019	05	22	he	na	PKW	RF	EK		8,821774	53,084188
+491	22.05.2019	18:40	Mi	5		Bremen	Landrat-Christians-Straße	0	0	1	2	6	5						3	4		42					71	81	2019	05	22	he	tr	RF	FG	ÜS		8,572853	53,181500
+492	22.05.2019	19:30	Mi	5		Bremen	Hastedter Osterdeich	0	0	1	2	5							3	2		34					21	71	2019	05	22	he	tr	PKW	RF	AB		8,860870	53,063402
+493	23.05.2019	07:35	Do	5		Bremen	Arsterdamm	0	0	1	2	5	2						3	2		28					21	72	2019	05	23	he	tr	PKW	RF	AB		8,825283	53,043554
+494	23.05.2019	07:40	Do	5		Bremen	Buchenstraße	0	0	2	2	3							3	6		22					71	71	2019	05	23	he	tr	RF	RF	LV		8,855409	53,084420
+495	23.05.2019	08:40	Do	2	6	Bremen	Neuenlander Straße	0	0	1	2	5	2		9				3	3		37	49				71	71	2019	05	23	he	tr	RF	RF	EK		8,790532	53,061169
+496	23.05.2019	09:50	Do	5		Bremen	Am Neustadtsbahnhof	0	0	1	2	5	1		9				3	3		31					71	51	2019	05	23	he	tr	RF	LKW	EK		8,786313	53,074501
+497	23.05.2019	15:16	Do	5		Bremen	Nordstraße	0	0	1	2	5	2						3	3		37					21	71	2019	05	23	he	tr	PKW	RF	EK		8,780028	53,093283
+498	23.05.2019	17:40	Do	5		Bremen	Breitenweg	0	0	0	2	0							5	7		49					71	21	2019	05	23	he	tr	RF	PKW	SO		8,810064	53,082151
+499	24.05.2019	06:50	Fr	5		Bremen	Am Stern	0	0	1	2	5							3	2		34					21	71	2019	05	24	he	tr	PKW	RF	AB		8,825164	53,084517
+500	24.05.2019	10:47	Fr	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	1	2	5	2		8			8	3	2		34					21	71	2019	05	24	he	tr	PKW	RF	AB		8,804179	53,072371
+501	24.05.2019	11:22	Fr	5		Bremen	Ritterhuder Heerstraße	0	1	0	2	5	2		4				2	3		28					21	71	2019	05	24	he	tr	PKW	RF	EK		8,736582	53,142478
+502	24.05.2019	12:20	Fr	5		Bremen	Duckwitzstraße	0	0	1	2	3	1					8	3	2		34					44	71	2019	05	24	he	tr	LKW	RF	AB		8,778719	53,064661
+503	24.05.2019	13:15	Fr	5		Bremen	Buntentorsteinweg	0	0	0	2	1							5	7		49					71	21	2019	05	24	he	tr	RF	PKW	SO		8,804895	53,066064
+504	24.05.2019	20:55	Fr	5		Bremen	Caroline-Herschel-Straße	0	0	0	2	5	1					8	6	3		1	31				71	21	2019	05	24	he	tr	RF	PKW	EK		8,859379	53,102811
+505	26.05.2019	06:44	So	5		Bremen	Buntentorsteinweg	0	0	1	1	0							3	7		1	49				71		2019	05	26	du	tr	RF	-	SO		8,802191	53,067607
+506	26.05.2019	18:00	So	5		Bremen	Curiestraße	0	0	0	2	1							5	7		49					71	21	2019	05	26	he	tr	RF	PKW	SO		8,894607	53,107891
+507	27.05.2019	14:15	Mo	5		Bremen	Heukämpendamm	0	0	1	2	3							3	6		49					71	71	2019	05	27	he	tr	RF	RF	LV		8,843677	53,031466
+508	27.05.2019	15:00	Mo	5		Bremen	Vahrer Straße	0	0	0	2	1							5	7		49					21	72	2019	05	27	he	tr	PKW	RF	SO		8,882958	53,076468
+509	27.05.2019	16:30	Mo	5		Bremen	Petershagener Straße	0	0	1	2	1							3	3		36					21	71	2019	05	27	he	tr	PKW	RF	EK		8,856911	53,073454
+510	27.05.2019	18:25	Mo	5		Bremen	Kornstraße	0	0	1	2	5	3						3	3		37					21	71	2019	05	27	he	tr	PKW	RF	EK		8,813728	53,055624
+511	28.05.2019	01:15	Di	5		Bremen	Am Dobben	0	0	0	2	5	1						5	3		36					21	71	2019	05	28	du	tr	PKW	RF	EK		8,822579	53,075297
+512	28.05.2019	07:35	Di	5		Bremen	Bürgermeister-Reuter-Straße	0	0	1	2	5	2		7				3	3		28					21	71	2019	05	28	he	tr	PKW	RF	EK		8,894607	53,079470
+513	28.05.2019	13:42	Di	5		Bremen	Otto-Brenner-Allee	0	1	0	2	5							2	2		35					21	71	2019	05	28	he	tr	PKW	RF	AB		8,963577	53,061079
+514	28.05.2019	19:45	Di	5		Bremen	Weserstrandstraße	0	0	1	1	0	5						3	1		1	49				71		2019	05	28	dä	tr	RF	-	F		8,564416	53,182749
+515	29.05.2019	08:30	Mi	5		Bremen	Kirchweg	0	0	0	2	0							5	7		14	22				21	71	2019	05	29	he	tr	PKW	RF	SO		8,806732	53,060463
+516	29.05.2019	09:30	Mi	5		Bremen	Parkallee	0	0	1	2	5	2						3	3		32					21	71	2019	05	29	he	tr	PKW	RF	EK		8,833458	53,094449
+517	29.05.2019	13:20	Mi	5		Bremen	Münchener Straße	0	0	1	2	5	2						3	3		31					21	71	2019	05	29	he	tr	PKW	RF	EK		8,794912	53,093967
+518	29.05.2019	13:25	Mi	5		Bremen	Am Fallturm	0	0	1	2	5							3	7		37					21	71	2019	05	29	he	tr	PKW	RF	SO		8,859060	53,111029
+519	29.05.2019	14:00	Mi	5		Bremen	Am Kaffee-Quartier	0	0	1	2	5	2					9	3	3		37					21	71	2019	05	29	he	tr	PKW	RF	EK		8,784679	53,084700
+520	29.05.2019	16:04	Mi	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	5						8	3	3		28		52			61	71	2019	05	29	he	tr	SOF	RF	EK		8,758839	53,116007
+521	30.05.2019	11:15	Do	5		Bremen	Hardenbergstraße	0	0	1	2	1							3	5		1	49				71	21	2019	05	30	he	tr	RF	PKW	RV		8,809184	53,060808
+522	30.05.2019	11:20	Do	5		Bremen	Vegesacker Heerstraße	0	0	1	2	0	3						3	7		49					71	71	2019	05	30	he	tr	RF	RF	SO		8,650290	53,174003
+523	30.05.2019	16:43	Do	5		Bremen	Am Werderufer	0	0	2	2	6							3	4		49	42				71	81	2019	05	30	he	tr	RF	FG	ÜS		8,808749	53,066775
+524	30.05.2019	18:50	Do	5		Bremen	Züricher Straße	0	0	1	2	5			6				3	3		37					71	21	2019	05	30	he	tr	RF	PKW	EK		8,938987	53,068197
+525	31.05.2019	13:56	Fr	5		Bremen	Kurt-Schumacher-Allee	0	0	1	2	5	3		9				3	2		49					21	71	2019	05	31	he	tr	PKW	RF	AB		8,884827	53,078930
+526	31.05.2019	15:10	Fr	5		Bremen	Buntentorsteinweg	0	0	1	2	0							3	7		49					71	71	2019	05	31	he	tr	RF	RF	SO		8,810099	53,062643
+527	01.06.2019	11:30	Sa	5		Bremen	Hermann-Fortmann-Straße	0	0	1	2	7							3	7						87	83	71	2019	06	01	he	tr	FG	RF	SO		8,635755	53,171022
+528	01.06.2019	12:50	Sa	5		Bremen	Herdentorswallstraße	0	0	1	2	5							3	3		36					21	71	2019	06	01	he	tr	PKW	RF	EK		8,808910	53,078558
+529	01.06.2019	13:10	Sa	5		Bremen	Hindenburgstraße	0	1	0	2	5	2						2	3		49					22	72	2019	06	01	he	tr	PKW	RF	EK		8,695268	53,168734
+530	02.06.2019	18:50	So	5		Bremen	Verdener Straße	0	0	2	2	5	1					8	3	3		49		49			71	71	2019	06	02	he	tr	RF	RF	EK		8,842730	53,072309
+531	02.06.2019	19:36	So	5		Bremen	Schragestraße	0	0	1	1	0							3	7		49					71		2019	06	02	he	tr	RF	-	SO		8,744215	53,136946
+532	02.06.2019	19:43	So	5		Bremen	Huchtinger Heerstraße	1	0	0	2	5	2						1	3		37		13			71	21	2019	06	02	he	tr	RF	PKW	EK		8,733771	53,058435
+533	02.06.2019	21:51	So	5		Bremen	Altenwall	0	0	0	2	5	1						5	3		31					21	71	2019	06	02	dä	tr	PKW	RF	EK		8,810622	53,071781
+534	02.06.2019	21:55	So	5		Bremen	Oslebshauser Heerstraße	0	1	0	1	7							2	1		1	49				72		2019	06	02	du	tr	RF	-	F		8,731352	53,135181
+535	03.06.2019	06:30	Mo	5		Bremen	Am Stern	0	0	1	2	5	2	7					3	2		34					51	72	2019	06	03	he	tr	LKW	RF	AB		8,825210	53,084328
+536	03.06.2019	08:45	Mo	5		Bremen	Schleswiger Straße	0	0	1	1	0							3	1		49				73	71		2019	06	03	he	na	RF	-	F		8,792380	53,099343
+537	03.06.2019	10:08	Mo	5		Bremen	Spitzenkiel	0	0	1	1	0							3	1		49				73	71		2019	06	03	he	na	RF	-	F		8,804367	53,079612
+538	03.06.2019	17:10	Mo	5		Bremen	Schlachte	0	0	2	2	4							3	6		19					71	71	2019	06	03	he	tr	RF	RF	LV		8,807939	53,072366
+539	03.06.2019	23:00	Mo	5		Bremen	Bardenflethstraße	0	1	0	1	0							2	7		49				73	72		2019	06	03	du	na	RF	-	SO		8,768124	53,062059
+540	04.06.2019	12:02	Di	5		Bremen	Anna-Stiegler-Straße	0	0	1	2	5	2					8	3	3		34					21	71	2019	06	04	he	tr	PKW	RF	EK		8,828802	53,041806
+541	04.06.2019	16:55	Di	5		Bremen	Hammersbecker Straße	0	1	0	1	0							2	7		49					71		2019	06	04	he	tr	RF	-	SO		8,605803	53,184545
+542	04.06.2019	17:00	Di	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	5			3			8	3	3		31					71	61	2019	06	04	he	tr	RF	SOF	EK		8,796942	53,068529
+543	04.06.2019	17:15	Di	5		Bremen	Steinsetzerstraße	0	0	0	2	0							5	7		35					21	71	2019	06	04	he	tr	PKW	RF	SO		8,849292	53,047487
+544	04.06.2019	18:30	Di	5		Bremen	Gustav-Radbruch-Straße	0	1	0	2	3	3						2	6		35					71	71	2019	06	04	he	tr	RF	RF	LV		8,899303	53,084146
+545	04.06.2019	18:50	Di	5		Bremen	Beppener Straße	0	0	0	2	0							5	7		49					71	21	2019	06	04	he	tr	RF	PKW	SO		8,818955	53,025315
+546	04.06.2019	20:40	Di	5		Bremen	Friedrich-Ebert-Straße	0	0	2	2	5			4			8	3	3		49					71	71	2019	06	04	he	tr	RF	RF	EK		8,801518	53,071594
+547	05.06.2019	11:05	Mi	5		Bremen	Lesumer Heerstraße	0	1	0	2	2	2						2	6		49		35			21	72	2019	06	05	he	tr	PKW	RF	LV		8,669950	53,174649
+548	05.06.2019	13:05	Mi	5		Bremen	Daniel-Von-Büren-Straße	0	0	1	2	5	2						3	3		28		9	49		21	71	2019	06	05	he	tr	PKW	RF	EK		8,800964	53,084463
+549	05.06.2019	13:25	Mi	5		Bremen	Den Haager Straße	0	0	1	2	5			7				3	3		49		49			21	71	2019	06	05	he	tr	PKW	RF	EK		8,724088	53,046100
+550	05.06.2019	15:30	Mi	5		Bremen	Vorstraße	0	0	0	2	1						8	5	7		49					71	21	2019	06	05	he	tr	RF	PKW	SO		8,867152	53,103443
+551	05.06.2019	18:00	Mi	5		Bremen	Lloydstraße	0	0	0	2	0	2						5	7		49					51	71	2019	06	05	he	tr	LKW	RF	SO		8,787388	53,083385
+552	05.06.2019	19:15	Mi	5		Bremen	Oslebshauser Tor	0	0	1	2	0							3	7		49					71	21	2019	06	05	he	tr	RF	PKW	SO		8,741112	53,137940
+553	06.06.2019	11:15	Do	5		Bremen	Vor dem Steintor	0	0	1	2	0							3	1		49				73	71	21	2019	06	06	he	na	RF	PKW	F		8,827084	53,072764
+554	06.06.2019	13:00	Do	5		Bremen	Lise-Meitner-Straße	0	0	0	2	1							5	7		49					71	21	2019	06	06	he	tr	RF	PKW	SO		8,854433	53,101994
+555	06.06.2019	14:40	Do	2	6	Bremen	Flughafendamm	0	1	0	2	5	1					8	2	2		35					21	71	2019	06	06	he	tr	PKW	RF	AB		8,799705	53,054918
+556	06.06.2019	17:25	Do	5		Bremen	Leher Heerstraße	0	0	1	2	5	3						3	7		49					71	71	2019	06	06	he	tr	RF	RF	SO		8,880710	53,101656
+557	06.06.2019	17:50	Do	5		Bremen	Humboldtstraße	0	0	2	2	5	3						3	3		37					71	71	2019	06	06	he	tr	RF	RF	EK		8,824928	53,075137
+558	06.06.2019	18:10	Do	4		Bremen	Horner Heerstraße	0	0	0	2	5	1		3				5	3		49		49			21	71	2019	06	06	he	tr	PKW	RF	EK		8,870666	53,094623
+559	06.06.2019	19:00	Do	5		Bremen	Schubertstraße	0	0	1	2	1						8	3	7		45					21	71	2019	06	06	he	tr	PKW	RF	SO		8,835523	53,084239
+560	07.06.2019	07:50	Fr	5		Bremen	Lüneburger Straße	0	0	0	2	6							5	1		49					71	81	2019	06	07	he	tr	RF	FG	F		8,833859	53,070940
+561	07.06.2019	07:55	Fr	5		Bremen	Züricher Straße	0	0	1	2	5			9				3	3		49					71	33	2019	06	07	he	tr	RF	BUS	EK		8,938102	53,068435
+562	07.06.2019	08:14	Fr	5		Bremen	Im Dorfe	0	0	1	2	1	5						3	5		49					71	21	2019	06	07	he	tr	RF	PKW	RV		8,651049	53,180716
+563	07.06.2019	10:10	Fr	5		Bremen	Heinrich-Baden-Weg	0	0	1	2	4							3	6		49		11			59	72	2019	06	07	he	tr	SOF	RF	LV		8,924095	53,079312
+564	07.06.2019	10:20	Fr	5		Bremen	Jakobistraße	0	0	0	2	5	3						5	3		37		49			21	71	2019	06	07	he	tr	PKW	RF	EK		8,801676	53,079994
+565	07.06.2019	12:30	Fr	5		Bremen	Posener Straße	0	0	0	2	1							5	5		49					71	21	2019	06	07	he	tr	RF	PKW	RV		8,763383	53,118620
+566	07.06.2019	12:36	Fr	5		Bremen	Weserstrandstraße	0	0	1	2	5	4						3	2		34					21	71	2019	06	07	he	tr	PKW	RF	AB		8,571078	53,181213
+567	07.06.2019	17:20	Fr	5		Bremen	H.-H.-Meier-Allee	0	0	1	2	5	1						3	3		49		49			21	71	2019	06	07	he	tr	PKW	RF	EK		8,845303	53,091098
+568	08.06.2019	00:10	Sa	5		Bremen	Auf dem Beginenlande	0	1	0	1	0	2						2	7		49				73	71		2019	06	08	du	na	RF	-	SO		8,818427	53,042541
+569	08.06.2019	09:45	Sa	5		Bremen	Josef-Böhm-Straße	0	0	1	2	4							3	6		24					21	71	2019	06	08	he	na	PKW	RF	LV		8,842891	53,033703
+570	08.06.2019	12:00	Sa	5		Bremen	Baumstraße	0	0	0	2	0							5	7		49				73	71	21	2019	06	08	he	na	RF	PKW	SO		8,788480	53,085225
+571	09.06.2019	11:45	So	5		Bremen	Theodor-Heuss-Allee	0	0	0	3	1							5	5		49					21	71	2019	06	09	he	tr	PKW	RF	RV		8,812590	53,085982
+572	09.06.2019	19:20	So	4		Bremen	Osterdeich	0	1	0	2	2							2	6		1	14				71	71	2019	06	09	dä	tr	RF	RF	LV		8,834730	53,068058
+573	09.06.2019	21:05	So	5		Bremen	Bürgermeister-Spitta-Allee	0	0	1	2	5	1		8			8	3	3		31					21	72	2019	06	09	he	tr	PKW	RF	EK		8,875038	53,082428
+574	10.06.2019	18:07	Mo	5		Bremen	Gustav-Deetjen-Allee	0	0	1	1	0							3	7		49					71		2019	06	10	he	tr	RF	-	SO		8,817161	53,083592
+575	10.06.2019	20:06	Mo	5		Bremen	Hansator	0	0	1	2	5	2		8				3	3		34					21	71	2019	06	10	he	na	PKW	RF	EK		8,781681	53,086227
+576	11.06.2019	08:40	Di	5		Bremen	Oslebshauser Heerstraße	0	0	1	2	5	2						3	3		28					21	71	2019	06	11	he	na	PKW	RF	EK		8,731062	53,135263
+577	11.06.2019	17:10	Di	5		Bremen	Hoffnungstraße	0	0	1	2	5	2						3	3		34					21	71	2019	06	11	he	tr	PKW	RF	EK		8,789260	53,097309
+578	11.06.2019	17:40	Di	5		Bremen	Steller Straße	0	0	0	2	1							5	7		49					71	21	2019	06	11	he	tr	RF	PKW	SO		8,738575	53,041716
+579	11.06.2019	18:00	Di	5		Bremen	Am Dobben	0	0	1	2	5							3	2		34					21	71	2019	06	11	he	tr	PKW	RF	AB		8,823641	53,076881
+580	12.06.2019	07:30	Mi	5		Bremen	Landrat-Christians-Straße	0	0	1	2	0							3	7		65					81	71	2019	06	12	he	tr	FG	RF	SO		8,582698	53,182180
+581	12.06.2019	13:15	Mi	5		Bremen	Koppelweg (Hemelingen)	0	0	1	2	4							3	6		49					71	71	2019	06	12	he	tr	RF	RF	LV		8,899869	53,038426
+582	12.06.2019	14:15	Mi	5		Bremen	Richthofenstraße	0	0	0	2	2							5	7		36					40	71	2019	06	12	he	tr	LKW	RF	SO		8,672332	53,182584
+583	12.06.2019	15:20	Mi	5		Bremen	Rembertiring	0	0	1	2	5	1		3			8	3	2		49				73	71	21	2019	06	12	he	na	RF	PKW	AB		8,817059	53,078800
+584	12.06.2019	15:25	Mi	5		Bremen	Achterstraße	0	0	1	2	3	1						3	2		35	37			73	21	71	2019	06	12	he	na	PKW	RF	AB		8,861669	53,099316
+585	13.06.2019	11:05	Do	5		Bremen	Edisonstraße	0	0	1	2	1							3	5		45					21	71	2019	06	13	he	tr	PKW	RF	RV		8,890589	53,110575
+586	13.06.2019	14:05	Do	5		Bremen	Am Wall	0	0	1	1	0			9				3	1		49					71		2019	06	13	he	tr	RF	-	F		8,813998	53,073036
+587	13.06.2019	17:54	Do	5		Bremen	Buntentorsteinweg	0	0	0	2	0							5	7		49					71	21	2019	06	13	he	tr	RF	PKW	SO		8,801601	53,067931
+588	13.06.2019	18:53	Do	5		Bremen	Mahndorfer Heerstraße	0	0	2	2	5	1						3	3		34					51	71	2019	06	13	he	tr	LKW	RF	EK		8,953742	53,034097
+589	14.06.2019	14:20	Fr	5		Bremen	Osterfeuerberger Ring	0	0	1	3	0							3	7		49					21	21	2019	06	14	he	tr	PKW	PKW	SO		8,796079	53,102952
+590	14.06.2019	14:30	Fr	5		Bremen	Elsasser Straße	0	0	1	2	4							3	6		49					40	71	2019	06	14	he	tr	LKW	RF	LV		8,840013	53,078655
+591	14.06.2019	15:30	Fr	5		Bremen	Steffensweg	0	1	1	2	5						8	2	3		49					71	71	2019	06	14	he	tr	RF	RF	EK		8,781973	53,095887
+592	14.06.2019	15:45	Fr	5		Bremen	Hollerlander Weg	0	0	1	2	0							3	7		49					21	71	2019	06	14	he	tr	PKW	RF	SO		8,902171	53,105873
+593	14.06.2019	16:20	Fr	5		Bremen	Louis-Krages-Straße	0	1	0	1	0			9				2	1		49					71		2019	06	14	he	tr	RF	-	F		8,749923	53,120260
+594	14.06.2019	16:50	Fr	5		Bremen	H.-H.-Meier-Allee	0	0	0	2	5	1						5	3		37					71	71	2019	06	14	he	tr	RF	RF	EK		8,849975	53,094748
+595	14.06.2019	17:20	Fr	2			Autobahnzubringer Überseestsad	0	0	1	2	5	2						3	3		28					21	71	2019	06	14	he	tr	PKW	RF	EK		8,793246	53,092838
+596	14.06.2019	22:30	Fr	5		Bremen	Am Herzogenkamp	0	0	1	2	1	3						3	5		49					40	72	2019	06	14	du	tr	LKW	RF	RV		8,868498	53,098714
+597	14.06.2019	23:02	Fr	5		Bremen	Gröpelinger Heerstraße	0	0	0	2	1							6	5		1	49				71	21	2019	06	14	du	tr	RF	PKW	RV		8,757407	53,117456
+598	15.06.2019	10:03	Sa	5		Bremen	Weg im Vogelschutzgehölz	0	0	1	2	7							3	7						88	93	71	2019	06	15	he	tr	FG	RF	SO		8,768122	53,132884
+599	15.06.2019	11:46	Sa	5		Bremen	Vor dem Steintor	0	0	1	1	0							3	1		49					71		2019	06	15	he	tr	RF	-	F		8,827130	53,072752
+600	15.06.2019	12:35	Sa	5		Bremen	Fedelhören	0	0	1	2	5	1		8				3	3		28					21	72	2019	06	15	he	tr	PKW	RF	EK		8,818078	53,077724
+601	15.06.2019	14:30	Sa	5		Bremen	Fedelhören	0	0	1	2	5	2						3	3		28					21	71	2019	06	15	he	tr	PKW	RF	EK		8,818094	53,077695
+602	15.06.2019	15:30	Sa	5		Bremen	Hemmstraße	0	0	1	2	4							3	6		49					71	71	2019	06	15	he	tr	RF	RF	LV		8,809871	53,095712
+603	15.06.2019	15:35	Sa	5		Bremen	Stader Landstraße	0	0	0	2	5	3						5	3		34		10			21	71	2019	06	15	he	tr	PKW	RF	EK		8,712828	53,169898
+604	15.06.2019	18:10	Sa	5		Bremen	Osenbrückstraße	0	0	1	2	5							3	3		10		49			72	21	2019	06	15	he	tr	RF	PKW	EK		8,887620	53,059482
+605	16.06.2019	13:10	So	5		Bremen	Vahrer Straße	0	0	1	2	0	1						3	7		49					71	72	2019	06	16	he	tr	RF	RF	SO		8,888025	53,066749
+606	16.06.2019	14:15	So	5		Bremen	Bunnsackerweg	0	0	1	3	0							3	6		20					71	71	2019	06	16	he	tr	RF	RF	LV		8,861476	53,039574
+607	16.06.2019	16:37	So	5		Bremen	Theodor-Billroth-Straße	0	1	0	2	0							2	7		45					92	71	2019	06	16	he	tr	SOF	RF	SO		8,817622	53,038993
+608	16.06.2019	17:30	So	5		Bremen	H.-H.-Meier-Allee	0	0	1	2	5	1						3	2		35					21	72	2019	06	16	he	tr	PKW	RF	AB		8,846703	53,092674
+609	16.06.2019	18:00	So	5		Bremen	Kiebitzbrink	0	0	1	2	5	2						3	3		37					71	71	2019	06	16	he	tr	RF	RF	EK		8,907111	53,120714
+610	16.06.2019	20:20	So	5		Bremen	Hastedter Osterdeich	0	0	1	2	5							3	2		34					21	71	2019	06	16	he	na	PKW	RF	AB		8,859143	53,063706
+611	17.06.2019	07:20	Mo	5		Bremen	Marcusallee	0	0	1	2	5	1						3	3		28					21	71	2019	06	17	he	tr	PKW	RF	EK		8,900867	53,089352
+612	17.06.2019	08:10	Mo	5		Bremen	Stresemannstraße	0	0	1	2	5	3						3	3		37					21	71	2019	06	17	he	tr	PKW	RF	EK		8,860044	53,072319
+613	17.06.2019	09:40	Mo	5		Bremen	Schwachhauser Heerstraße	0	1	1	2	6	1		5			8	2	4		10					71	81	2019	06	17	he	tr	RF	FG	ÜS		8,856581	53,088943
+614	17.06.2019	13:40	Mo	5		Bremen	Klattenweg	0	0	0	2	1							5	7		49					71	21	2019	06	17	he	tr	RF	PKW	SO		8,850139	53,090298
+615	17.06.2019	16:05	Mo	5		Bremen	Parkallee	0	0	0	2	5	3						5	2		49		49			21	71	2019	06	17	he	tr	PKW	RF	AB		8,824312	53,084018
+616	17.06.2019	16:30	Mo	5		Bremen	Kornstraße	0	0	0	2	5							5	2		34					21	71	2019	06	17	he	tr	PKW	RF	AB		8,809635	53,058455
+617	17.06.2019	16:30	Mo	5		Bremen	Burchardstraße	0	0	0	2	4							5	6		11		11			71	21	2019	06	17	he	tr	RF	PKW	LV		8,788872	53,099578
+618	17.06.2019	17:20	Mo	5		Bremen	Vor dem Steintor	0	0	1	2	4	2						3	2		37					21	71	2019	06	17	he	tr	PKW	RF	AB		8,825840	53,073025
+619	17.06.2019	17:50	Mo	5		Bremen	Bultenweg	0	1	0	1	0							2	7		1	49				71		2019	06	17	he	tr	RF	-	SO		8,955724	53,076006
+620	17.06.2019	20:40	Mo	5		Bremen	An der Gete	0	0	1	3	4							3	6		11					21	71	2019	06	17	he	tr	PKW	RF	LV		8,854036	53,080746
+621	18.06.2019	08:40	Di	5		Bremen	Franziuseck	0	0	1	2	5	1					8	3	2		34					21	71	2019	06	18	he	tr	PKW	RF	AB		8,804211	53,072371
+622	18.06.2019	13:15	Di	5		Bremen	An der Weide	0	0	1	2	5	3						3	3		49		49			21	71	2019	06	18	he	tr	PKW	RF	EK		8,816340	53,081086
+623	19.06.2019	07:38	Mi	5		Bremen	Breitenweg	0	0	1	2	5	1		3			8	3	3		34					21	71	2019	06	19	he	tr	PKW	RF	EK		8,812708	53,081091
+624	19.06.2019	10:55	Mi	5		Bremen	Unterm Berg	0	0	1	2	0	5		6				3	7						85	93	71	2019	06	19	he	tr	FG	RF	SO		8,509235	53,208278
+625	19.06.2019	14:50	Mi	5		Bremen	Willhelm-Kaisen-Brücke	0	0	1	2	0	2		3			8	3	2		34					21	71	2019	06	19	he	tr	PKW	RF	AB		8,804156	53,072346
+626	19.06.2019	15:15	Mi	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	6							3	4		42					71	81	2019	06	19	he	tr	RF	FG	ÜS		8,796234	53,068036
+627	19.06.2019	16:10	Mi	5		Bremen	Lüssumer Straße	0	1	0	2	9	2						2	7		1	49				71	21	2019	06	19	he	tr	RF	PKW	SO		8,574839	53,192616
+628	20.06.2019	07:33	Do	5		Bremen	Richthofenstraße	0	0	1	2	5	2						3	3		35					71	21	2019	06	20	he	tr	RF	PKW	EK		8,658336	53,174257
+629	20.06.2019	09:25	Do	5		Bremen	Morgenlandstraße	0	0	1	2	5	1						3	3		28					21	71	2019	06	20	he	tr	PKW	RF	EK		8,763388	53,116622
+630	20.06.2019	12:00	Do	5		Bremen	Zum Huchtinger Bahnhof	0	0	1	2	5	3						3	3		28					21	72	2019	06	20	he	tr	PKW	RF	EK		8,742885	53,059889
+631	20.06.2019	12:15	Do	5		Bremen	Falkenstraße	0	0	1	2	6	1		4			8	3	4		60					81	71	2019	06	20	he	tr	FG	RF	ÜS		8,802077	53,084857
+632	20.06.2019	12:20	Do	5		Bremen	Vor dem Steintor	0	0	1	2	1							3	1		49					71	21	2019	06	20	he	tr	RF	PKW	F		8,829743	53,071819
+633	20.06.2019	15:15	Do	5		Bremen	Kleine Helle	0	0	1	2	4							3	7		49					71	21	2019	06	20	he	tr	RF	PKW	SO		8,802768	53,084262
+634	20.06.2019	17:45	Do	5		Bremen	Stader Straße	0	0	1	2	1							3	5		45					21	71	2019	06	20	he	tr	PKW	RF	RV		8,848926	53,068153
+635	20.06.2019	22:00	Do	5		Bremen	Große Johannisstraße	0	0	0	2	1							5	5		49				87	71	21	2019	06	20	dä	tr	RF	PKW	RV		8,796781	53,071755
+636	20.06.2019	23:08	Do	5		Bremen	Osterdeich	0	0	1	1	0	1		0	9			3	1		49					71		2019	06	20	du	na	RF	-	F		8,824527	53,069038
+637	21.06.2019	05:10	Fr	5		Bremen	Langemarckstraße	0	0	1	2	1			9				3	1		14	49				72	21	2019	06	21	he	tr	RF	PKW	F		8,795741	53,075352
+638	21.06.2019	14:15	Fr	5		Bremen	Falkenstraße	0	0	1	2	3	1		8				3	6		11		25			21	71	2019	06	21	he	tr	PKW	RF	LV		8,803060	53,084505
+639	21.06.2019	14:30	Fr	5		Bremen	Kornstraße	0	0	1	2	5	1					8	3	3		31					21	71	2019	06	21	he	tr	PKW	RF	EK		8,819618	53,048617
+640	21.06.2019	15:15	Fr	5		Bremen	Herrlichkeit	0	0	1	2	5	6						3	3		37					71	21	2019	06	21	he	tr	RF	PKW	EK		8,802234	53,073629
+641	21.06.2019	16:25	Fr	5		Bremen	Oslebshauser Landstraße	0	0	1	2	5	1						3	3		27					21	71	2019	06	21	he	tr	PKW	RF	EK		8,734989	53,132283
+642	21.06.2019	16:55	Fr	5		Bremen	Am Wandrahm	0	0	1	2	0							3	7		69				87	83	71	2019	06	21	he	tr	FG	RF	SO		8,803632	53,082393
+643	21.06.2019	23:00	Fr	5		Bremen	Außer der Schleifmühle	0	0	1	2	5	1		9			8	3	2		34		10			21	71	2019	06	21	du	tr	PKW	RF	AB		8,819638	53,080536
+644	22.06.2019	01:13	Sa	5		Bremen	Bertholdstraße	0	0	0	2	1							6	5		1	49				71	21	2019	06	22	du	tr	RF	PKW	RV		8,609485	53,176887
+645	22.06.2019	10:15	Sa	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	3						3	3		37					40	71	2019	06	22	he	tr	LKW	RF	EK		8,887445	53,062253
+646	22.06.2019	15:45	Sa	5		Bremen	Landrat-Christians-Straße	0	0	1	1	0	5						3	1		49					71		2019	06	22	he	tr	RF	-	F		8,585075	53,181195
+647	22.06.2019	16:50	Sa	5		Bremen	Oberblockland	0	1	1	2	3							2	6		14					71	72	2019	06	22	he	tr	RF	RF	LV		8,848167	53,142516
+648	22.06.2019	17:00	Sa	5		Bremen	Grambkermoorer Landstraße	0	0	1	2	5	2						3	3		27		35			21	71	2019	06	22	he	tr	PKW	RF	EK		8,722087	53,158763
+649	22.06.2019	21:00	Sa	5		Bremen	Kreinsloger	0	0	1	2	6							3	4		10	42				71	81	2019	06	22	he	tr	RF	FG	ÜS		8,558180	53,190128
+650	23.06.2019	12:10	So	5			Wadeackersee	0	0	1	1	0							3	7		49					71		2019	06	23	he	tr	RF	-	SO		8,828737	53,025999
+651	24.06.2019	07:42	Mo	5		Bremen	Arberger Heerstraße	0	0	4	4	6			5				3	4		41					71	81	2019	06	24	he	tr	RF	FG	ÜS		8,908238	53,039816
+652	24.06.2019	09:50	Mo	5		Bremen	Eickedorfer Straße	0	0	2	3	0						8	3	1		31				82	21	71	2019	06	24	he	tr	PKW	RF	F		8,810455	53,092603
+653	24.06.2019	14:35	Mo	5		Bremen	Beim Handelsmuseum	0	0	1	2	1							3	5		49					21	71	2019	06	24	he	tr	PKW	RF	RV		8,810514	53,083811
+654	24.06.2019	14:35	Mo	5		Bremen	Eickedorfer Straße	0	0	1	3	2	1						3	6		49					21	21	2019	06	24	he	tr	PKW	PKW	LV		8,808358	53,094668
+655	24.06.2019	15:10	Mo	5		Bremen	Landwehrstraße	0	0	1	2	5	1						3	3		37					21	71	2019	06	24	he	tr	PKW	RF	EK		8,791782	53,090925
+656	24.06.2019	18:40	Mo	5		Bremen	Schwachhauser Heerstraße	0	0	0	2	5							5	3		37					21	71	2019	06	24	he	tr	PKW	RF	EK		8,870918	53,091459
+657	24.06.2019	20:55	Mo	5		Bremen	Vor dem Steintor	0	1	0	2	0	2						2	6		13					11	71	2019	06	24	he	tr	KRD	RF	LV		8,829676	53,071890
+658	25.06.2019	11:50	Di	5		Bremen	Graf-Moltke-Straße	0	0	1	2	5	1		4			8	3	2		35		10			21	71	2019	06	25	he	tr	PKW	RF	AB		8,832761	53,077479
+659	25.06.2019	13:10	Di	5		Bremen	Rablinghauser Landstraße	0	0	1	2	4							3	6		10	49	49			71	71	2019	06	25	he	tr	RF	RF	LV		8,752825	53,089356
+660	25.06.2019	15:20	Di	5		Bremen	Richard-Boljahn-Allee	0	0	1	2	5							3	2		34					21	71	2019	06	25	he	tr	PKW	RF	AB		8,875976	53,082142
+661	25.06.2019	15:45	Di	5		Bremen	Rockwinkeler Landstraße	0	0	1	2	5	1						3	2		31					71	21	2019	06	25	he	tr	RF	PKW	AB		8,940033	53,080340
+662	25.06.2019	21:00	Di	5		Bremen	Olgaweg	0	0	1	2	0	2						3	2		35		49			71	21	2019	06	25	dä	tr	RF	PKW	AB		8,835217	53,062907
+663	26.06.2019	11:20	Mi	5		Bremen	Schorf	0	0	1	2	5							3	3		34	28				21	71	2019	06	26	he	tr	PKW	RF	EK		8,893561	53,098379
+664	26.06.2019	12:30	Mi	5		Bremen	Herrlichkeit	0	0	1	2	5	2						3	3		28					21	71	2019	06	26	he	tr	PKW	RF	EK		8,803223	53,072234
+665	26.06.2019	13:15	Mi	5		Bremen	Günther-Hafemann-Straße	0	0	1	2	5	2						3	2		35					71	21	2019	06	26	he	tr	RF	PKW	AB		8,919900	53,073399
+666	26.06.2019	14:35	Mi	5		Bremen	Am Wall	0	0	1	2	5	1		3				3	2		34					21	71	2019	06	26	he	tr	PKW	RF	AB		8,809195	53,078832
+667	26.06.2019	14:36	Mi	5		Bremen	Ladestraße	0	1	0	2	5	1						2	2		34					40	72	2019	06	26	he	tr	LKW	RF	AB		8,771590	53,079303
+668	26.06.2019	19:20	Mi	5		Bremen	Osterfeuerberger Ring	0	0	0	2	1							5	5		14	49				71	21	2019	06	26	he	tr	RF	PKW	RV		8,791991	53,103108
+669	27.06.2019	13:20	Do	5		Bremen	Hannoversche Straße	0	0	2	2	0	1						3	3		31		49			71	31	2019	06	27	he	tr	RF	BUS	EK		8,887467	53,050533
+670	27.06.2019	15:30	Do	5		Bremen	Richard-Boljahn-Allee	0	0	0	2	4							5	6		11					71	71	2019	06	27	he	tr	RF	RF	LV		8,880343	53,082444
+671	27.06.2019	16:30	Do	5		Bremen	Konsul-Smidt-Straße	0	0	0	3	2							5	3		31		14			72	21	2019	06	27	he	tr	RF	PKW	EK		8,782329	53,087173
+672	27.06.2019	18:00	Do	5		Bremen	Universitätsallee	0	0	0	2	5	3						5	3		37		10			21	71	2019	06	27	he	tr	PKW	RF	EK		8,858011	53,102897
+673	27.06.2019	18:06	Do	5		Bremen	Findorffstraße	0	0	1	2	5	1					8	3	2		34					21	71	2019	06	27	he	tr	PKW	RF	AB		8,808479	53,088036
+674	28.06.2019	09:00	Fr	5		Bremen	Landrat-Christians-Straße	0	0	1	1	0							3	1		49					71		2019	06	28	he	tr	RF	-	F		8,577931	53,181651
+675	28.06.2019	13:18	Fr	5		Bremen	Am Stern	0	0	1	2	3	2		8			8	3	3		34					21	71	2019	06	28	he	tr	PKW	RF	EK		8,824553	53,084184
+676	28.06.2019	13:30	Fr	5		Bremen	Kurfürstenallee	0	0	1	2	5	1					8	3	3		31					71	44	2019	06	28	he	tr	RF	LKW	EK		8,853832	53,082367
+677	28.06.2019	13:35	Fr	5		Bremen	Osterdeich	0	0	1	1	7							3	7		49	55				71		2019	06	28	he	tr	RF	-	SO		8,817225	53,069995
+678	28.06.2019	15:40	Fr	5		Bremen	Autobahnzubringer Horn-Lehe /	0	0	1	2	5							3	3		28					21	71	2019	06	28	he	tr	PKW	RF	EK		8,879742	53,112575
+679	28.06.2019	17:25	Fr	5		Bremen	Am Lehester Deich	0	0	1	2	5							3	3		37		49			71	21	2019	06	28	he	tr	RF	PKW	EK		8,896283	53,118541
+680	28.06.2019	22:40	Fr	5		Bremen	Hastedter Heerstraße	0	1	0	2	4	1						2	6		10					71	71	2019	06	28	du	tr	RF	RF	LV		8,876556	53,066056
+681	29.06.2019	20:45	Sa	5		Bremen	Friedrich-Ebert-Straße	0	0	0	2	5	2						5	3		34					71	21	2019	06	29	he	tr	RF	PKW	EK		8,799802	53,070066
+682	29.06.2019	21:45	Sa	5		Bremen	Ludwig-Roselius-Allee	0	0	1	1	0			5				3	1		49					71		2019	06	29	he	tr	RF	-	F		8,906328	53,071339
+683	30.06.2019	19:45	So	5		Bremen	Habenhauser Deich	0	0	1	2	4							3	6		49				82	71	71	2019	06	30	he	tr	RF	RF	LV		8,860698	53,049933
+684	01.07.2019	06:10	Mo	5		Bremen	Heisiusstraße	0	0	1	2	5	1						3	3		27				82	21	71	2019	07	01	he	tr	PKW	RF	EK		8,918736	53,041200
+685	01.07.2019	07:45	Mo	5		Bremen	Am Hohentorsplatz	0	0	1	2	5	2						3	2		34					40	71	2019	07	01	he	tr	LKW	RF	AB		8,786321	53,074524
+686	01.07.2019	09:20	Mo	5		Bremen	Malerstraße	0	0	1	2	1						8	3	3		49					71	71	2019	07	01	he	tr	RF	RF	EK		8,870290	53,064867
+687	01.07.2019	11:30	Mo	5		Bremen	Osterholzer Landstraße	0	0	1	2	0	1		8			8	3	2		35					21	71	2019	07	01	he	tr	PKW	RF	AB		8,931691	53,062198
+688	01.07.2019	12:00	Mo	5		Bremen	Am Hulsberg	0	0	2	2	6							3	4		63					81	71	2019	07	01	he	tr	FG	RF	ÜS		8,846502	53,071536
+689	01.07.2019	18:00	Mo	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	3	1					8	3	6		22					71	71	2019	07	01	he	tr	RF	RF	LV		8,803879	53,080266
+690	01.07.2019	19:14	Mo	5		Bremen	Wolfardstraße	0	0	0	2	5							5	3		34					71	21	2019	07	01	he	tr	RF	PKW	EK		8,789671	53,086609
+691	02.07.2019	06:30	Di	5		Bremen	Hermannsburg	0	0	1	2	5	2						3	3		28					21	71	2019	07	02	he	tr	PKW	RF	EK		8,730080	53,034023
+692	02.07.2019	06:45	Di	5		Bremen	Stromer Landstraße	0	1	0	2	5	2						2	3		28				82	71	21	2019	07	02	he	tr	RF	PKW	EK		8,723616	53,076689
+693	02.07.2019	08:35	Di	5		Bremen	Baumhauser Weg	0	0	0	2	4							5	6		24					21	71	2019	07	02	he	tr	PKW	RF	LV		8,856385	53,041237
+694	02.07.2019	09:20	Di	5		Bremen	Huchtinger Heerstraße	0	0	1	2	5	3						3	2		34					21	71	2019	07	02	he	tr	PKW	RF	AB		8,737767	53,056403
+695	02.07.2019	10:25	Di	5		Bremen	Kurt-Schumacher-Allee	0	0	1	2	5	2		8				3	3		28					21	71	2019	07	02	he	tr	PKW	RF	EK		8,886651	53,079193
+696	02.07.2019	13:30	Di	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	1							3	5		45					21	71	2019	07	02	he	tr	PKW	RF	RV		8,771671	53,109562
+697	02.07.2019	13:40	Di	5		Bremen	Bremerhavener Straße	0	0	0	2	5							5	3		37					21	71	2019	07	02	du	tr	PKW	RF	EK		8,781434	53,097625
+698	02.07.2019	14:25	Di	5		Bremen	Bremerhavener Straße	0	1	0	2	5							2	3		28					21	71	2019	07	02	he	tr	PKW	RF	EK		8,781316	53,097560
+699	02.07.2019	18:25	Di	5		Bremen	Bremer Heerstraße	0	0	1	2	0	2						3	2		34					21	71	2019	07	02	he	tr	PKW	RF	AB		8,703392	53,160734
+700	02.07.2019	21:20	Di	5		Bremen	Kurfürstenallee	0	0	2	2	4	2		8				3	6		10					72	71	2019	07	02	he	tr	RF	RF	LV		8,850329	53,081597
+701	03.07.2019	07:40	Mi	5		Bremen	Duckwitzstraße	0	0	1	2	5	3						3	3		37					21	71	2019	07	03	he	tr	PKW	RF	EK		8,774272	53,061408
+702	03.07.2019	10:30	Mi	5		Bremen	Neustadtscontrescarpe	0	0	0	2	5	1		3				5	3		28		10			21	71	2019	07	03	he	tr	PKW	RF	EK		8,796953	53,068603
+703	03.07.2019	15:50	Mi	5		Bremen	Bremerhavener Straße	0	0	1	2	5							3	3		37					21	71	2019	07	03	he	tr	PKW	RF	EK		8,773722	53,101937
+704	03.07.2019	20:05	Mi	5		Bremen	Osterdeich	0	0	2	2	4							3	6		11		49			71	71	2019	07	03	he	tr	RF	RF	LV		8,829739	53,068703
+705	04.07.2019	13:30	Do	5		Bremen	Hermann-Osterloh-Straße	0	0	1	2	0							3	7		49					71	81	2019	07	04	he	tr	RF	FG	SO		8,923985	53,044131
+706	04.07.2019	15:40	Do	5		Bremen	Utbremer Straße	0	0	1	2	5	2						3	3		37		10			21	71	2019	07	04	he	tr	PKW	RF	EK		8,790580	53,096143
+707	04.07.2019	17:30	Do	5		Bremen	Lloydstraße	0	0	1	2	5	1					8	3	3		31					21	71	2019	07	04	he	tr	PKW	RF	EK		8,790242	53,086066
+708	04.07.2019	17:30	Do	5		Bremen	Langemarckstraße	0	0	0	2	5	1					8	5	3		31					71	21	2019	07	04	he	tr	RF	PKW	EK		8,797141	53,076341
+709	04.07.2019	20:50	Do	5		Bremen	Hastedter Brückenstraße	0	0	2	2	4							3	6		11					71	71	2019	07	04	he	tr	RF	RF	LV		8,852770	53,061405
+710	04.07.2019	21:58	Do	5		Bremen	Münsterstraße	0	0	1	2	5	2						3	3		28		49			21	71	2019	07	04	dä	tr	PKW	RF	EK		8,811721	53,030839
+711	05.07.2019	12:05	Fr	5		Bremen	Am Waller Freihafen	0	0	1	2	5							3	3		37		49			71	40	2019	07	05	he	tr	RF	LKW	EK		8,771054	53,095230
+712	05.07.2019	17:45	Fr	5		Bremen	Amelinghauser Straße	0	0	0	2	1							5	7		49					71	21	2019	07	05	du	tr	RF	PKW	SO		8,882373	53,074572
+713	06.07.2019	10:26	Sa	5		Bremen	Rockwinkeler Heerstraße	0	0	1	2	5							3	3		37					21	71	2019	07	06	he	tr	PKW	RF	EK		8,905418	53,098383
+714	06.07.2019	15:17	Sa	5		Bremen	Halenbeckstraße	0	0	1	2	5	2						3	3		27					71	21	2019	07	06	he	na	RF	PKW	EK		8,616247	53,172681
+715	06.07.2019	21:30	Sa	5		Bremen	Buddestraße	0	0	1	2	1							3	5		1	49				71	21	2019	07	06	dä	tr	RF	PKW	RV		8,810541	53,090327
+716	07.07.2019	13:40	So	5		Bremen	Arsterdamm	0	0	1	2	5							3	3		28					21	71	2019	07	07	he	tr	PKW	RF	EK		8,831028	53,040855
+717	07.07.2019	19:51	So	5		Bremen	An der Weide	0	0	1	2	0			9				3	7		45					21	71	2019	07	07	he	tr	PKW	RF	SO		8,815911	53,080965
+718	08.07.2019	05:58	Mo	5		Bremen	Kleine Marschstraße	0	0	1	1	0							3	7		49					71		2019	07	08	he	tr	RF	-	SO		8,891029	53,047411
+719	08.07.2019	07:10	Mo	4		Bremen	Am Stern	0	0	1	2	0	1		8				3	3		49					21	71	2019	07	08	he	tr	PKW	RF	EK		8,825060	53,084579
+720	08.07.2019	10:35	Mo	2		Bremen	Neuenlander Straße	0	0	0	2	5	1						5	3		35					21	71	2019	07	08	he	tr	PKW	RF	EK		8,795124	53,057697
+721	08.07.2019	10:35	Mo	5		Bremen	Alfred-Faust-Straße	0	0	1	2	5	2		9				3	3		28					21	71	2019	07	08	he	tr	PKW	RF	EK		8,826173	53,034355
+722	08.07.2019	16:10	Mo	5		Bremen	Waller Heerstraße	0	0	1	2	5	2		3				3	2		34					21	71	2019	07	08	he	tr	PKW	RF	AB		8,780189	53,105574
+723	08.07.2019	16:46	Mo	5		Bremen	Rosenpfad	0	0	1	2	5							3	3		28					71	21	2019	07	08	he	tr	RF	PKW	EK		8,811922	53,057384
+724	08.07.2019	18:25	Mo	5		Bremen	Martinistraße	0	0	1	2	6	1					8	3	4		42					71	81	2019	07	08	he	tr	RF	FG	ÜS		8,800585	53,078541
+725	09.07.2019	09:00	Di	5		Bremen	Kirchhuchtinger Landstraße	0	0	0	2	0							5	7		69					81	71	2019	07	09	he	tr	FG	RF	SO		8,736265	53,044928
+726	09.07.2019	13:00	Di	5		Bremen	Stellichter Straße	0	1	0	1	0	2						2	1		49					71		2019	07	09	he	tr	RF	-	F		8,884152	53,071797
+727	09.07.2019	15:42	Di	5		Bremen	Flensburger Straße	0	0	0	2	1							5	5		14					71	21	2019	07	09	he	tr	RF	PKW	RV		8,788998	53,101496
+728	09.07.2019	17:00	Di	5		Bremen	Farger Straße	0	0	1	2	5	3						3	3		37		10			21	71	2019	07	09	he	tr	PKW	RF	EK		8,524033	53,202883
+729	10.07.2019	18:00	Mi	5		Bremen	Konsul-Smidt-Straße	0	0	0	2	4							5	6		9					71	71	2019	07	10	he	tr	RF	RF	LV		8,780438	53,088178
+730	10.07.2019	23:50	Mi	5		Bremen	Hannoversche Straße	0	0	2	2	4							3	6		1	9				71	71	2019	07	10	du	tr	RF	RF	LV		8,886930	53,050429
+731	11.07.2019	16:10	Do	5		Bremen	Hermann-Fortmann-Straße	0	0	1	2	5	3	5					3	2		37					40	71	2019	07	11	he	tr	LKW	RF	AB		8,634363	53,170156
+732	12.07.2019	06:51	Fr	5		Bremen	Waller Straße	0	0	1	1	0							3	7		49				73	71		2019	07	12	he	na	RF	-	SO		8,778864	53,106562
+733	12.07.2019	11:30	Fr	5		Bremen	Glücksburger Straße	0	0	0	2	2	1						5	6		13					71	21	2019	07	12	he	tr	RF	PKW	LV		8,791771	53,103970
+734	12.07.2019	13:40	Fr	5		Bremen	Hindenburgstraße	0	0	0	2	4	1					8	5	2		28					21	72	2019	07	12	he	tr	PKW	RF	AB		8,695303	53,168754
+735	12.07.2019	14:16	Fr	5		Bremen	Georg-Bitter-Straße	0	0	1	2	5	1					8	3	3		1	31				72	21	2019	07	12	he	tr	RF	PKW	EK		8,854503	53,067010
+736	12.07.2019	14:50	Fr	5		Bremen	Züricher Straße	0	1	0	2	5	2						2	3		28					21	71	2019	07	12	he	tr	PKW	RF	EK		8,940052	53,067918
+737	12.07.2019	15:25	Fr	5		Bremen	Bayernstraße	0	0	1	2	5							3	3		37		49			71	21	2019	07	12	he	tr	RF	PKW	EK		8,797841	53,104688
+738	12.07.2019	15:44	Fr	4		Bremen	Am Stern	0	0	1	2	3	1		8				3	2		49					21	71	2019	07	12	he	tr	PKW	RF	AB		8,825163	53,084514
+739	12.07.2019	18:30	Fr	5		Bremen	Am Hodenberger Deich	0	0	1	3	0	6						3	6		11		49			54	71	2019	07	12	he	tr	SOF	RF	LV		8,955638	53,105136
+740	13.07.2019	11:00	Sa	5		Bremen	Stockholmer Straße	0	0	1	2	5							3	3		28					21	71	2019	07	13	he	na	PKW	RF	EK		8,716111	53,178215
+741	14.07.2019	13:05	So	5		Bremen	Gastfeldstraße	0	0	1	2	1							3	7		36	49	49			71	21	2019	07	14	he	tr	RF	PKW	SO		8,796604	53,064764
+742	15.07.2019	17:20	Mo	5		Bremen	Schlachte	0	0	1	2	5							3	2		35					71	71	2019	07	15	he	tr	RF	RF	AB		8,803364	53,075394
+743	16.07.2019	11:05	Di	5		Bremen	Lindenstraße	0	0	1	2	5	3						3	3		37					21	71	2019	07	16	he	tr	PKW	RF	EK		8,607619	53,176109
+744	16.07.2019	14:00	Di	5		Bremen	Borgfelder Heerstraße	0	1	0	1	0							2	7		1	49				72		2019	07	16	he	tr	RF	-	SO		8,897482	53,118686
+745	16.07.2019	17:25	Di	5		Bremen	Lange Reihe	0	0	0	2	1	3						5	6		14	52	49			71	21	2019	07	16	he	tr	RF	PKW	LV		8,778280	53,101248
+746	17.07.2019	10:30	Mi	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	5	2						3	3		28					21	71	2019	07	17	he	tr	PKW	RF	EK		8,729954	53,040006
+747	17.07.2019	13:20	Mi	2	6	Bremen	Neuenlander Straße	0	1	0	2	5	2						2	3		28					21	71	2019	07	17	he	tr	PKW	RF	EK		8,783901	53,065721
+748	17.07.2019	17:40	Mi	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	6							3	4		40					71	81	2019	07	17	he	tr	RF	FG	ÜS		8,762835	53,114165
+749	17.07.2019	17:45	Mi	5		Bremen	Beckstraße	0	1	0	2	7							2	7		69					93	71	2019	07	17	he	tr	FG	RF	SO		8,614472	53,190371
+750	17.07.2019	17:58	Mi	5		Bremen	Wätjenstraße	0	0	1	2	5	1						3	2		35					21	71	2019	07	17	he	tr	PKW	RF	AB		8,849975	53,087703
+751	18.07.2019	08:45	Do	5		Bremen	Jan-Reiners-Wanderweg	0	1	1	2	5	2						2	3		27		49			71	71	2019	07	18	he	tr	RF	RF	EK		8,888808	53,125541
+752	18.07.2019	12:00	Do	5		Bremen	Kattenturmer Heerstraße	0	0	1	1	0							3	7		49					71		2019	07	18	he	tr	RF	-	SO		8,811013	53,034681
+753	18.07.2019	13:30	Do	5		Bremen	Hastedter Osterdeich	0	0	1	2	5							3	2		37					21	72	2019	07	18	he	tr	PKW	RF	AB		8,866613	53,062164
+754	18.07.2019	22:50	Do	5		Bremen	Geschwister-Scholl-Straße	0	1	0	1	0							2	7		49	1				72		2019	07	18	du	tr	RF	-	SO		8,907294	53,078220
+755	18.07.2019	22:51	Do	5		Bremen	Wachmannstraße	0	0	1	1	0							3	1		49					71		2019	07	18	du	tr	RF	-	F		8,826846	53,084779
+756	19.07.2019	14:55	Fr	5		Bremen	Bromberger Straße	0	0	1	2	2							3	6		14					21	72	2019	07	19	he	tr	PKW	RF	LV		8,769198	53,116290
+757	21.07.2019	13:30	So	5		Bremen	Oberneulander Landstraße	0	0	1	2	3	2						3	2		34					21	71	2019	07	21	he	tr	PKW	RF	AB		8,902970	53,104170
+758	21.07.2019	13:30	So	5		Bremen	Bahnhofsplatz	0	0	0	2	1							5	7		49					21	71	2019	07	21	he	tr	PKW	RF	SO		8,813744	53,082251
+759	21.07.2019	14:25	So	5		Bremen	Ritterhuder Heerstraße	0	0	0	2	5							5	3		49					21	72	2019	07	21	he	tr	PKW	RF	EK		8,738317	53,134708
+760	22.07.2019	08:30	Mo	5		Bremen	Reiherstraße	0	1	0	2	0							2	7		69					83	71	2019	07	22	he	tr	FG	RF	SO		8,727157	53,139054
+761	22.07.2019	10:15	Mo	5		Bremen	Striekenkamp	0	0	1	3	3							3	6		22					21	71	2019	07	22	he	tr	PKW	RF	LV		8,553722	53,191255
+762	22.07.2019	10:45	Mo	5		Bremen	Cornelius-Edzard-Straße	0	0	1	2	5	2						3	3		28		49			21	71	2019	07	22	he	tr	PKW	RF	EK		8,796658	53,056640
+763	22.07.2019	16:31	Mo	5		Bremen	Hastedter Heerstraße	0	0	1	2	5	1		2				3	2		10	49				71	21	2019	07	22	he	tr	RF	PKW	AB		8,871427	53,066620
+764	23.07.2019	07:35	Di	5		Bremen	Bremerhavener Straße	0	0	1	2	5	2						3	3		28					21	71	2019	07	23	he	tr	PKW	RF	EK		8,773678	53,101317
+765	23.07.2019	09:40	Di	5		Bremen	Bei den Drei Pfählen	0	0	1	2	0							3	2		34					21	71	2019	07	23	he	tr	PKW	RF	AB		8,853988	53,070706
+766	23.07.2019	09:55	Di	5		Bremen	Utbremer Ring	0	0	1	2	3							3	2		34					21	71	2019	07	23	he	tr	PKW	RF	AB		8,802875	53,101380
+767	23.07.2019	10:00	Di	5		Bremen	Campus Ring	0	0	0	2	1							5	5		49					71	21	2019	07	23	he	tr	RF	PKW	RV		8,648428	53,166958
+768	23.07.2019	10:30	Di	5		Bremen	Georg-Gleistein-Straße	0	0	1	2	5							3	3		32					21	71	2019	07	23	he	tr	PKW	RF	EK		8,618854	53,178189
+769	23.07.2019	10:45	Di	5		Bremen	Hermann-Koenen-Straße	0	0	1	2	4	2						3	6		9	11				71	71	2019	07	23	he	tr	RF	RF	LV		8,914375	53,062668
+770	23.07.2019	15:40	Di	5		Bremen	Langemarckstraße	0	1	0	2	3							2	6		22					71	71	2019	07	23	he	tr	RF	RF	LV		8,789995	53,071665
+771	23.07.2019	18:20	Di	5		Bremen	Erasmusstraße	0	0	0	2	5							5	2		37					21	71	2019	07	23	he	tr	PKW	RF	AB		8,785060	53,090390
+772	24.07.2019	10:15	Mi	5			Bürgerpark	0	0	1	2	0							3	7		69					83	71	2019	07	24	he	tr	FG	RF	SO		8,831591	53,092732
+773	24.07.2019	10:30	Mi	5		Bremen	Bürgermeister-Kaisen-Allee	0	0	1	2	5			4				3	3		27					72	21	2019	07	24	he	tr	RF	PKW	EK		8,904810	53,119169
+774	24.07.2019	17:45	Mi	5		Bremen	Rockwinkeler Landstraße	0	0	1	3	5	2						3	3		49				89	21	71	2019	07	24	he	tr	PKW	RF	EK		8,923446	53,091124
+775	24.07.2019	18:50	Mi	5		Bremen	Osterdeich	0	0	1	1	0	1		3			8	3	7		49					71		2019	07	24	he	tr	RF	-	SO		8,832085	53,068658
+776	24.07.2019	20:43	Mi	5		Bremen	Am Dobben	0	0	1	1	0							3	7		49					71		2019	07	24	he	tr	RF	-	SO		8,822871	53,073998
+777	24.07.2019	23:20	Mi	5		Bremen	Kulenkampffallee	0	0	1	2	1							3	7		49					71	21	2019	07	24	du	tr	RF	PKW	SO		8,849079	53,095180
+778	25.07.2019	09:50	Do	5		Bremen	Am Hodenberger Deich	0	0	1	2	5	3						3	3		37		13	49		40	71	2019	07	25	he	tr	LKW	RF	EK		8,949657	53,092790
+779	25.07.2019	11:20	Do	5		Bremen	Papagoyenboom	0	0	0	3	0	2						5	2		35					40	71	2019	07	25	he	tr	LKW	RF	AB		8,799563	53,073586
+780	25.07.2019	11:55	Do	5		Bremen	Woltmershauser Straße	0	0	1	2	5	3						3	3		34					21	72	2019	07	25	he	tr	PKW	RF	EK		8,774645	53,080341
+781	25.07.2019	14:40	Do	5		Bremen	Auf der Ahnte	0	0	1	1	0							3	7		49					71		2019	07	25	he	tr	RF	-	SO		8,574968	53,198937
+782	25.07.2019	18:20	Do	5		Bremen	Lüssumer Straße	0	0	1	2	0							3	7		9	49				71	71	2019	07	25	he	tr	RF	RF	SO		8,574611	53,192794
+783	25.07.2019	21:45	Do	5		Bremen	Rönnebecker Straße	0	0	1	2	5	2						3	3		28					21	71	2019	07	25	du	tr	PKW	RF	EK		8,555863	53,185668
+784	26.07.2019	12:20	Fr	5		Bremen	Kirchbachstraße	0	0	1	2	3							3	2		34					21	71	2019	07	26	he	tr	PKW	RF	AB		8,851260	53,083959
+785	27.07.2019	11:45	Sa	5		Bremen	Am Weserhof	0	0	2	2	4	6						3	1		11		11			71	71	2019	07	27	he	tr	RF	RF	F		8,885589	53,027716
+786	27.07.2019	17:30	Sa	5		Bremen	Vor dem Steintor	0	0	0	2	0							5	1		49	14				71	21	2019	07	27	he	tr	RF	PKW	F		8,827166	53,072741
+787	27.07.2019	19:30	Sa	5		Bremen	Am Rabenfeld	0	0	0	2	1							5	7		49					21	71	2019	07	27	he	tr	PKW	RF	SO		8,621657	53,181910
+788	28.07.2019	01:00	So	5		Bremen	Herbststraße	0	0	0	2	1							5	5		14					71	21	2019	07	28	du	tr	RF	PKW	RV		8,810005	53,092803
+789	28.07.2019	10:50	So	5		Bremen	Obernstraße	0	0	1	2	0							3	6		49					71	71	2019	07	28	he	tr	RF	RF	LV		8,804780	53,077379
+790	28.07.2019	12:15	So	5		Bremen	Georg-Gröning-Straße	0	0	1	2	5	2						3	2		37		10			21	71	2019	07	28	he	tr	PKW	RF	AB		8,827707	53,083024
+791	28.07.2019	14:20	So	5		Bremen	Tiefer	0	0	2	2	6			7				3	7		49		69			71	81	2019	07	28	he	tr	RF	FG	SO		8,808052	53,072325
+792	29.07.2019	03:30	Mo	5		Bremen	Luganer Straße	0	0	1	2	0							3	7		49					92	71	2019	07	29	dä	tr	SOF	RF	SO		8,946293	53,073557
+793	29.07.2019	13:35	Mo	5		Bremen	Georg-Henschel-Straße	0	1	0	2	3							2	6		37					71	21	2019	07	29	he	tr	RF	PKW	LV		8,735418	53,084223
+794	29.07.2019	16:00	Mo	5		Bremen	Konrad-Adenauer-Allee	0	0	1	2	5	1						3	3		31					71	21	2019	07	29	he	tr	RF	PKW	EK		8,869239	53,074801
+795	29.07.2019	16:21	Mo	5		Bremen	Langemarckstraße	0	0	2	2	4			9				3	6		9					71	71	2019	07	29	he	tr	RF	RF	LV		8,784196	53,068042
+796	29.07.2019	16:25	Mo	5		Bremen	Vorkampsweg	0	0	1	2	6	2						3	7		34		62			71	81	2019	07	29	he	tr	RF	FG	SO		8,867833	53,103236
+797	29.07.2019	17:45	Mo	5		Bremen	Hugo-Schauinsland-Platz	0	0	1	2	5							3	3		36	37				40	72	2019	07	29	he	tr	LKW	RF	EK		8,811373	53,083360
+798	30.07.2019	08:15	Di	5		Bremen	Parkallee	0	0	1	2	0							3	7		69					83	71	2019	07	30	he	tr	FG	RF	SO		8,829767	53,089758
+799	30.07.2019	10:50	Di	5		Bremen	Reiherstraße	0	0	1	2	0							3	3		27					71	21	2019	07	30	he	tr	RF	PKW	EK		8,725563	53,139775
+800	30.07.2019	11:55	Di	5		Bremen	Johann-Janssen-Straße	0	1	0	2	0							2	7		45					21	71	2019	07	30	he	tr	PKW	RF	SO		8,608614	53,185670
+801	30.07.2019	12:48	Di	5		Bremen	Schwachhauser Ring	0	1	0	2	5							2	3		31					71	21	2019	07	30	he	tr	RF	PKW	EK		8,835110	53,091434
+802	30.07.2019	13:00	Di	5		Bremen	Graf-Moltke-Straße	0	0	0	2	5	2						5	2		34					71	21	2019	07	30	he	tr	RF	PKW	AB		8,833554	53,079725
+803	31.07.2019	10:20	Mi	5		Bremen	In der Vahr	0	1	0	2	5	2		9				2	3		28					21	71	2019	07	31	he	tr	PKW	RF	EK		8,876549	53,081024
+804	31.07.2019	10:40	Mi	5		Bremen	Am Rüten	0	0	0	2	4							5	1		10	37				71	21	2019	07	31	he	tr	RF	PKW	F		8,896586	53,098949
+805	01.08.2019	09:15	Do	5		Bremen	Bürgermeister-Kaisen-Allee	0	0	0	2	0							5	7		49					71	21	2019	08	01	he	tr	RF	PKW	SO		8,902562	53,120002
+806	01.08.2019	14:00	Do	5		Bremen	Theodor-Heuss-Allee	0	0	0	2	5	1						5	2		34					21	71	2019	08	01	he	tr	PKW	RF	AB		8,808519	53,088064
+807	01.08.2019	14:58	Do	5		Bremen	Schillerstraße	0	0	0	2	5	2						5	3		27					71	21	2019	08	01	he	tr	RF	PKW	EK		8,813789	53,079422
+808	01.08.2019	17:00	Do	5		Bremen	Mahndorfer Heerstraße	0	0	1	2	5							3	3		28					21	71	2019	08	01	he	tr	PKW	RF	EK		8,948881	53,035937
+809	01.08.2019	20:25	Do	5		Bremen	Neuenlander Straße	0	0	1	1	0			9				3	7		13	49			73	72		2019	08	01	he	na	RF	-	SO		8,795175	53,057958
+810	02.08.2019	06:00	Fr	5		Bremen	Europaallee	0	0	1	2	5	2						3	2		35		1			21	71	2019	08	02	he	tr	PKW	RF	AB		8,895680	53,033752
+811	02.08.2019	19:30	Fr	5		Bremen	Friedrich-Ebert-Straße	0	0	1	1	0	2		8				3	1		13	49			73	71		2019	08	02	he	na	RF	-	F		8,796937	53,068593
+812	03.08.2019	14:45	Sa	5		Bremen	Am Weserhof	0	0	1	2	4							3	6		24					71	53	2019	08	03	he	tr	RF	SOF	LV		8,872339	53,034661
+813	05.08.2019	12:40	Mo	2	6	Bremen	Neuenlander Straße	0	0	1	2	5	2		4			8	3	2		34					46	71	2019	08	05	he	tr	LKW	RF	AB		8,792839	53,059332
+814	05.08.2019	16:47	Mo	5		Bremen	Neuenstraße	0	1	0	2	5							2	7		37		10			21	71	2019	08	05	he	tr	PKW	RF	SO		8,796548	53,081705
+815	06.08.2019	09:25	Di	5		Bremen	Friedrich-Ebert-Straße	0	0	1	3	0			9				3	7		49		49			58	58	2019	08	06	he	tr	LKW	LKW	SO		8,800708	53,071185
+816	06.08.2019	10:47	Di	5		Bremen	Georg-Gröning-Straße	0	0	0	2	1	2						5	5		34		34			71	21	2019	08	06	he	tr	RF	PKW	RV		8,831387	53,083767
+817	06.08.2019	13:40	Di	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	2					8	3	3		34		8			21	71	2019	08	06	he	tr	PKW	RF	EK		8,889505	53,061663
+818	06.08.2019	14:10	Di	5		Bremen	Hohenlohestraße	0	0	1	2	1							3	7		45					21	71	2019	08	06	he	tr	PKW	RF	SO		8,817539	53,083422
+819	06.08.2019	16:31	Di	5		Bremen	Stader Straße	0	0	1	2	5	1					8	3	3		31					71	71	2019	08	06	he	tr	RF	RF	EK		8,853978	53,074884
+820	06.08.2019	21:40	Di	5		Bremen	Am Hulsberg	0	0	0	2	1							5	5		49					71	21	2019	08	06	dä	tr	RF	PKW	RV		8,849261	53,071359
+821	07.08.2019	07:00	Mi	5		Bremen	Hemmstraße	0	0	1	2	5	1		3				3	2		35					21	72	2019	08	07	he	tr	PKW	RF	AB		8,808288	53,094694
+822	07.08.2019	07:47	Mi	5		Bremen	Große Sortillienstraße	0	0	1	2	5	1		4				3	2		34					51	72	2019	08	07	he	tr	LKW	RF	AB		8,788204	53,076464
+823	07.08.2019	09:45	Mi	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5	3						3	3		37					21	71	2019	08	07	he	tr	PKW	RF	EK		8,841885	53,083343
+824	07.08.2019	10:45	Mi	5		Bremen	An der Weide	0	0	1	2	5	3						3	3		37					21	71	2019	08	07	he	tr	PKW	RF	EK		8,816056	53,081139
+825	07.08.2019	16:00	Mi	5		Bremen	In der Vahr	0	0	0	2	4	3						5	2		34				89	21	71	2019	08	07	he	tr	PKW	RF	AB		8,875971	53,081636
+826	08.08.2019	08:55	Do	5		Bremen	Heinrich-Hertz-Straße	0	1	0	2	5	2						2	3		28					21	71	2019	08	08	he	tr	PKW	RF	EK		8,874469	53,083213
+827	08.08.2019	09:22	Do	5		Bremen	Wardamm	0	1	0	1	0	4						2	7		49					71		2019	08	08	he	tr	RF	-	SO		8,747767	53,062975
+828	08.08.2019	11:15	Do	5		Bremen	Weserstrandstraße	0	0	1	2	5							3	3		37					21	71	2019	08	08	he	tr	PKW	RF	EK		8,571160	53,181219
+829	08.08.2019	12:25	Do	5		Bremen	Duckwitzstraße	0	1	1	2	3							2	6		22	14				72	71	2019	08	08	he	tr	RF	RF	LV		8,769358	53,063668
+830	08.08.2019	15:30	Do	5		Bremen	Vegesacker Heerstraße	0	0	1	1	0	5		9				3	7		4					71		2019	08	08	he	tr	RF	-	SO		8,648546	53,173749
+831	08.08.2019	15:30	Do	5		Bremen	Waller Ring	0	0	0	2	5							5	3		37					71	21	2019	08	08	he	tr	RF	PKW	EK		8,781364	53,100931
+832	08.08.2019	16:05	Do	5		Bremen	Gustav-Heinemann-Straße	0	0	0	2	5	1		3				5	3		37					21	71	2019	08	08	he	tr	PKW	RF	EK		8,818894	53,099126
+833	08.08.2019	17:00	Do	5		Bremen	Burger Heerstraße	0	0	1	2	5	2						3	2		34					21	71	2019	08	08	he	tr	PKW	RF	AB		8,704599	53,155199
+834	08.08.2019	19:30	Do	5		Bremen	Am Markt	0	0	2	2	2							3	6		14					71	71	2019	08	08	he	tr	RF	RF	LV		8,806946	53,075557
+835	08.08.2019	22:50	Do	5		Bremen	Hermann-Funk-Straße	0	0	1	2	0	2					8	3	7		37					21	71	2019	08	08	du	tr	PKW	RF	SO		8,882628	53,053151
+836	09.08.2019	05:25	Fr	5		Bremen	Pfalzburger Straße	0	0	0	2	5	2						5	3		28					21	71	2019	08	09	dä	tr	PKW	RF	EK		8,872465	53,063137
+837	09.08.2019	12:30	Fr	5		Bremen	Schulstraße	0	1	1	2	7							2	7		49				88	71	93	2019	08	09	he	tr	RF	FG	SO		8,796816	53,069646
+838	09.08.2019	13:40	Fr	5		Bremen	Stromer Landstraße	0	1	0	2	5	2						2	3		28					71	21	2019	08	09	he	tr	RF	PKW	EK		8,723608	53,076735
+839	09.08.2019	14:50	Fr	5		Bremen	Osterdeich	0	0	1	2	5	1		3			8	3	3		31					21	72	2019	08	09	he	tr	PKW	RF	EK		8,853499	53,064886
+840	09.08.2019	15:10	Fr	5		Bremen	Falkenstraße	0	0	0	2	0							5	7		31		49			21	71	2019	08	09	he	tr	PKW	RF	SO		8,803098	53,084656
+841	09.08.2019	16:30	Fr	5		Bremen	Senator-Apelt-Straße	0	0	1	2	4							3	6		11				84	72	72	2019	08	09	he	na	RF	RF	LV		8,721556	53,106405
+842	09.08.2019	17:34	Fr	5		Bremen	Achterstraße	0	0	1	2	5							3	2		34					21	71	2019	08	09	he	na	PKW	RF	AB		8,861682	53,099339
+843	09.08.2019	22:40	Fr	5		Bremen	Ludwig-Waigand-Straße	0	0	0	2	0							5	7		49					71	21	2019	08	09	du	tr	RF	PKW	SO		8,833512	53,034271
+844	10.08.2019	05:32	Sa	5		Bremen	Buntentorsteinweg	0	0	1	2	1	2						3	1		1	13				71	21	2019	08	10	dä	tr	RF	PKW	F		8,800925	53,068386
+845	10.08.2019	11:00	Sa	5		Bremen	Martinistraße	0	0	1	1	0							3	1		13					71		2019	08	10	he	tr	RF	-	F		8,805461	53,074424
+846	10.08.2019	12:13	Sa	5		Bremen	Luisental	0	0	1	2	1			9				3	5		45		10			21	71	2019	08	10	he	tr	PKW	RF	RV		8,879780	53,097892
+847	10.08.2019	14:30	Sa	5		Bremen	Contrescarpe	0	0	0	2	1							5	1		10		49			71	21	2019	08	10	he	tr	RF	PKW	F		8,813803	53,077614
+848	10.08.2019	17:13	Sa	5		Bremen	Hamburger Straße	0	1	0	2	2							2	6		16	22				71	71	2019	08	10	he	tr	RF	RF	LV		8,850179	53,067755
+849	10.08.2019	22:40	Sa	5		Bremen	Osterdeich	0	0	1	2	6			9				3	4		1	64				81	71	2019	08	10	du	tr	FG	RF	ÜS		8,821301	53,069103
+850	11.08.2019	15:30	So	5		Bremen	Nordstraße	0	0	1	2	5	2						3	3		31	28				3	71	2019	08	11	he	tr	KRD	RF	EK		8,776163	53,098664
+851	11.08.2019	18:40	So	5		Bremen	Sandhofstraße	0	0	0	2	1							5	5		14					71	21	2019	08	11	he	tr	RF	PKW	RV		8,892091	53,047972
+852	12.08.2019	09:22	Mo	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	4							3	6		10	13				71	71	2019	08	12	he	tr	RF	RF	LV		8,805654	53,081160
+853	12.08.2019	09:25	Mo	4		Bremen	Bürgermeister-Kaisen-Allee	0	0	1	2	5	1						3	2		34					21	71	2019	08	12	he	tr	PKW	RF	AB		8,899666	53,121055
+854	12.08.2019	16:45	Mo	5		Bremen	Horner Heerstraße	0	0	1	2	4							3	6		10	11				71	71	2019	08	12	he	tr	RF	RF	LV		8,869796	53,097238
+855	13.08.2019	08:10	Di	5		Bremen	Tiefer	0	0	1	1	8	1						3	1		8	13			73	71		2019	08	13	he	na	RF	-	F		8,808940	53,072218
+856	13.08.2019	08:35	Di	5		Bremen	Friesenwerder	0	1	0	2	0							2	2		34				73	21	71	2019	08	13	he	na	PKW	RF	AB		8,788214	53,076483
+857	13.08.2019	13:35	Di	5		Bremen	Ahlringstraße	0	0	0	2	5	1						5	3		28					21	71	2019	08	13	he	tr	PKW	RF	EK		8,886287	53,061042
+858	13.08.2019	15:00	Di	5		Bremen	Osterholzer Landstraße	0	0	1	1	7	1						3	1		13					72		2019	08	13	he	na	RF	-	F		8,934502	53,069573
+859	13.08.2019	15:15	Di	5		Bremen	Herdentorsteinweg	0	0	1	2	0	1					8	3	1		31					71	21	2019	08	13	he	tr	RF	PKW	F		8,812633	53,080851
+860	13.08.2019	15:40	Di	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	5	1						3	3		28					21	71	2019	08	13	he	na	PKW	RF	EK		8,740632	53,052648
+861	13.08.2019	18:03	Di	5		Bremen	Daniel-Von-Büren-Straße	0	0	2	2	6						8	3	4		62		13			81	71	2019	08	13	he	tr	FG	RF	ÜS		8,798385	53,083566
+862	13.08.2019	20:00	Di	5		Bremen	Kirchbachstraße	0	0	1	2	3							3	6		22	14	49			71	71	2019	08	13	dä	na	RF	RF	LV		8,855189	53,081172
+863	13.08.2019	20:00	Di	5		Bremen	Hartwigstraße	0	0	0	2	1	3						5	7		49				73	71	21	2019	08	13	dä	na	RF	PKW	SO		8,832401	53,087859
+864	14.08.2019	09:30	Mi	5		Bremen	Pieperstraße	0	0	0	2	1							5	7		49					44	71	2019	08	14	he	tr	LKW	RF	SO		8,803648	53,077550
+865	14.08.2019	11:40	Mi	5		Bremen	Elisabethstraße	0	0	0	2	1							5	7		49					71	21	2019	08	14	he	tr	RF	PKW	SO		8,786407	53,097002
+866	14.08.2019	12:43	Mi	5		Bremen	Niederblockland	0	2	0	1	0							2	1		49					71		2019	08	14	he	tr	RF	-	F		8,838651	53,154587
+867	14.08.2019	16:00	Mi	5		Bremen	Bennigsenstraße	0	1	0	2	5	2						2	2		35		10			21	71	2019	08	14	he	tr	PKW	RF	AB		8,856557	53,071352
+868	14.08.2019	16:20	Mi	5		Bremen	Hastedter Heerstraße	0	1	0	2	4							2	6		2	10				71	72	2019	08	14	he	tr	RF	RF	LV		8,857598	53,069879
+869	14.08.2019	17:45	Mi	5		Bremen	Luzerner Straße	0	0	0	2	5	2						5	3		28		8			21	71	2019	08	14	he	tr	PKW	RF	EK		8,944736	53,065785
+870	14.08.2019	19:20	Mi	5		Bremen	Stader Straße	0	1	0	1	0							2	7		13					71		2019	08	14	he	tr	RF	-	SO		8,849189	53,068442
+871	15.08.2019	17:00	Do	5		Bremen	Lloydstraße	0	0	1	2	5							3	3		37					71	21	2019	08	15	he	tr	RF	PKW	EK		8,788093	53,083998
+872	15.08.2019	18:00	Do	5		Bremen	Georg-Gröning-Straße	0	0	0	2	2							5	6		14					71	21	2019	08	15	he	tr	RF	PKW	LV		8,838173	53,085175
+873	15.08.2019	18:48	Do	5		Bremen	Süderstraße	0	0	1	2	5	1						3	3		27					71	21	2019	08	15	he	tr	RF	PKW	EK		8,796433	53,071926
+874	16.08.2019	07:25	Fr	5		Bremen	Ludwig-Roselius-Allee	0	0	1	2	5	1						3	2		34		34		73	21	71	2019	08	16	he	na	PKW	RF	AB		8,902144	53,071604
+875	16.08.2019	07:30	Fr	5		Bremen	Werftstraße	0	0	1	2	5							3	3		34				73	21	71	2019	08	16	he	na	PKW	RF	EK		8,763519	53,108991
+876	16.08.2019	10:57	Fr	5		Bremen	Sankt-Jürgen-Straße	0	0	0	2	3	1		9			8	5	3		10	28				71	21	2019	08	16	he	tr	RF	PKW	EK		8,836687	53,075374
+877	16.08.2019	12:25	Fr	5		Bremen	Langenstraße	0	0	0	2	1							5	1		14	49				71	21	2019	08	16	he	tr	RF	PKW	F		8,798696	53,079005
+878	16.08.2019	13:33	Fr	5		Bremen	Diedrich-Steilen-Straße	0	0	0	2	5	2						5	3		37		9			21	71	2019	08	16	he	tr	PKW	RF	EK		8,619155	53,181330
+879	16.08.2019	14:50	Fr	5		Bremen	Woltmershauser Straße	0	0	0	2	5	2						5	2		34					40	71	2019	08	16	he	tr	LKW	RF	AB		8,783113	53,076375
+880	16.08.2019	15:05	Fr	5		Bremen	Bismarckstraße	0	0	2	2	5	3						3	3		10		37			71	71	2019	08	16	he	tr	RF	RF	EK		8,831596	53,077627
+881	17.08.2019	01:20	Sa	5		Bremen	Waller Ring	0	0	1	2	5	1						3	3		1	28				71	21	2019	08	17	du	na	RF	PKW	EK		8,777797	53,099432
+882	17.08.2019	14:45	Sa	5		Bremen	Jürgensdeich	0	0	1	3	1							3	5		45		45			21	21	2019	08	17	he	na	PKW	PKW	RV		8,851037	53,063265
+883	17.08.2019	19:00	Sa	5		Bremen	Gröpelinger Heerstraße	0	0	0	2	1							5	5		49					71	21	2019	08	17	he	tr	RF	PKW	RV		8,771558	53,109615
+884	17.08.2019	20:35	Sa	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	5	2						3	2		35				81	21	71	2019	08	17	du	na	PKW	RF	AB		8,739511	53,048804
+885	18.08.2019	04:30	So	5		Bremen	Am Wall	0	1	0	1	0							2	1		1	49				71		2019	08	18	du	na	RF	-	F		8,812912	53,073982
+886	18.08.2019	13:45	So	5		Bremen	Friedrich-Ebert-Straße	0	0	0	2	5	2						5	3		34					21	71	2019	08	18	he	na	PKW	RF	EK		8,799944	53,070045
+887	19.08.2019	11:00	Mo	5		Bremen	Halsmühlener Straße	0	0	1	2	0							3	7		37					21	71	2019	08	19	he	tr	PKW	RF	SO		8,956628	53,056014
+888	19.08.2019	13:20	Mo	5		Bremen	Rockwinkeler Landstraße	0	0	0	2	5							5	3		28					71	21	2019	08	19	he	tr	RF	PKW	EK		8,936726	53,090717
+889	19.08.2019	15:20	Mo	5		Bremen	Oewerweg	0	0	1	2	3							3	2		34					21	71	2019	08	19	he	tr	PKW	RF	AB		8,937994	53,061216
+890	20.08.2019	07:45	Di	5		Bremen	Bei den Drei Pfählen	0	0	1	3	3							3	6		22					71	71	2019	08	20	he	tr	RF	RF	LV		8,852963	53,070795
+891	20.08.2019	12:45	Di	5		Bremen	Rembertiring	0	0	0	2	4							5	6		9					71	71	2019	08	20	he	tr	RF	RF	LV		8,815975	53,079383
+892	20.08.2019	17:20	Di	5		Bremen	Autobahnzubringer Horn-Lehe /	0	0	1	2	5	1		3			8	3	3		31					71	21	2019	08	20	he	tr	RF	PKW	EK		8,883417	53,110605
+893	20.08.2019	18:08	Di	5		Bremen	Friedrich-Ebert-Straße	0	0	2	4	0							3	7		45					21	71	2019	08	20	he	tr	PKW	RF	SO		8,800649	53,071123
+894	20.08.2019	21:55	Di	5		Bremen	Eduard-Schopf-Allee	0	0	1	2	5	6					8	3	3		28					21	71	2019	08	20	du	tr	PKW	RF	EK		8,791888	53,082629
+895	21.08.2019	07:25	Mi	5		Bremen	Borgfelder Heerstraße	0	0	1	1	0							3	7		49					71		2019	08	21	he	tr	RF	-	SO		8,899915	53,123473
+896	21.08.2019	07:35	Mi	5		Bremen	Bahnhofsplatz	0	0	1	2	5	1					8	3	3		34					21	71	2019	08	21	he	tr	PKW	RF	EK		8,813593	53,082398
+897	21.08.2019	08:55	Mi	5		Bremen	Sielwall	0	0	1	2	6	1						3	3		31		67			71	84	2019	08	21	he	tr	RF	FG	EK		8,823180	53,072948
+898	21.08.2019	13:00	Mi	5		Bremen	Achterstraße	0	0	1	2	1							3	7		14	49				59	71	2019	08	21	he	tr	SOF	RF	SO		8,845061	53,105398
+899	21.08.2019	13:33	Mi	5		Bremen	Rudolf-Tarnow-Straße	0	0	1	1	0	1						3	1		49					71		2019	08	21	he	tr	RF	-	F		8,895953	53,097709
+900	21.08.2019	16:15	Mi	5		Bremen	Habenhauser Deich	0	0	2	2	4							3	6		24		49			71	71	2019	08	21	he	tr	RF	RF	LV		8,845217	53,056304
+901	21.08.2019	16:35	Mi	5		Bremen	Vegesacker Heerstraße	0	0	1	2	0							3	7		36					21	72	2019	08	21	he	tr	PKW	RF	SO		8,656266	53,174543
+902	21.08.2019	18:15	Mi	5		Bremen	Am Hulsberg	0	0	2	2	4							3	7		68		49			84	71	2019	08	21	he	tr	FG	RF	SO		8,847542	53,071539
+903	21.08.2019	18:30	Mi	5		Bremen	Vorstraße	0	0	1	1	0							3	1		49					71		2019	08	21	he	na	RF	-	F		8,869054	53,102632
+904	22.08.2019	08:30	Do	5		Bremen	Bennigsenstraße	0	0	1	1	0	1						3	7		49					71		2019	08	22	he	tr	RF	-	SO		8,856514	53,071365
+905	22.08.2019	10:00	Do	1	270	Bremen	Bundesautobahn A 270	0	0	1	2	5	4						3	3		28					21	72	2019	08	22	he	tr	PKW	RF	EK	absteigend	8,619042	53,180571
+906	22.08.2019	11:00	Do	5		Bremen	Hammersbecker Straße	0	0	1	2	5	3		3				3	3		37					21	71	2019	08	22	he	tr	PKW	RF	EK		8,605556	53,184577
+907	22.08.2019	12:00	Do	5		Bremen	Inselstraße	0	0	1	2	1							3	5		45					21	71	2019	08	22	he	tr	PKW	RF	RV		8,864319	53,064480
+908	22.08.2019	12:05	Do	5		Bremen	Vor dem Steintor	0	1	0	1	0							2	7		49					71		2019	08	22	he	tr	RF	-	SO		8,830958	53,071436
+909	22.08.2019	12:20	Do	5		Bremen	Buntentorsteinweg	0	0	1	2	1							3	5		45					21	71	2019	08	22	he	tr	PKW	RF	RV		8,803583	53,066813
+910	22.08.2019	15:25	Do	5		Bremen	Cuxhavener Straße	0	0	1	1	0			2				3	7		49					71		2019	08	22	he	tr	RF	-	SO		8,774141	53,099745
+911	22.08.2019	18:00	Do	5		Bremen	Steffensweg	0	0	0	2	5	2						5	2		28					71	21	2019	08	22	he	tr	RF	PKW	AB		8,786181	53,091076
+912	22.08.2019	18:25	Do	5		Bremen	Kurfürstenallee	0	0	1	2	5	1		3			8	3	3		34					21	71	2019	08	22	he	tr	PKW	RF	EK		8,860639	53,082438
+913	23.08.2019	12:25	Fr	5		Bremen	Schwachhauser Heerstraße	0	0	0	2	3	1		9			8	5	6		14					71	71	2019	08	23	he	tr	RF	RF	LV		8,849878	53,085174
+914	23.08.2019	14:54	Fr	5		Bremen	Hemmstraße	0	0	1	2	6	1						3	4		42					71	81	2019	08	23	he	tr	RF	FG	ÜS		8,808326	53,094690
+915	23.08.2019	16:45	Fr	5		Bremen	Hermann-Fortmann-Straße	0	0	1	2	1							3	7		13					71	21	2019	08	23	he	tr	RF	PKW	SO		8,635415	53,170729
+916	24.08.2019	00:50	Sa	5		Bremen	Auf dem Beginenlande	0	0	0	2	1							6	1		1	13				71	21	2019	08	24	du	tr	RF	PKW	F		8,818695	53,043835
+917	24.08.2019	17:45	Sa	5		Bremen	Sankt-Jürgen-Straße	0	0	1	2	3							3	2		35					71	71	2019	08	24	he	tr	RF	RF	AB		8,836666	53,075300
+918	24.08.2019	23:30	Sa	5		Bremen	Langemarckstraße	0	0	1	1	0	2						3	7		1	49				71		2019	08	24	du	tr	RF	-	SO		8,792865	53,073582
+919	25.08.2019	11:23	So	5		Bremen	Parallelweg	0	0	0	2	1	6						5	5		34					71	21	2019	08	25	he	tr	RF	PKW	RV		8,790867	53,098991
+920	25.08.2019	17:05	So	5		Bremen	Jürgensdeich	0	0	0	2	1	5						5	6		14					21	71	2019	08	25	he	tr	PKW	RF	LV		8,851080	53,062549
+921	25.08.2019	18:45	So	5		Bremen	Brakkämpe	0	0	1	2	0	3						3	7		69				87	83	71	2019	08	25	he	tr	FG	RF	SO		8,763343	53,059735
+922	25.08.2019	21:30	So	5		Bremen	Rheinstraße	0	0	0	2	1							5	7		14					71	21	2019	08	25	du	tr	RF	PKW	SO		8,787270	53,068166
+923	25.08.2019	22:10	So	5		Bremen	Osterdeich	0	0	1	2	4							3	6		11	1				71	71	2019	08	25	du	tr	RF	RF	LV		8,810804	53,071683
+924	26.08.2019	06:00	Mo	5		Bremen	Große Johannisstraße	0	0	0	2	1	1						5	5		13	14				92	71	2019	08	26	he	tr	SOF	RF	RV		8,796411	53,071913
+925	26.08.2019	13:30	Mo	5		Bremen	Kirchbachstraße	0	0	1	2	1							3	5		14					71	21	2019	08	26	he	tr	RF	PKW	RV		8,852051	53,083436
+926	26.08.2019	15:00	Mo	5		Bremen	Kornstraße	0	0	1	2	5							3	2		35					92	71	2019	08	26	he	tr	SOF	RF	AB		8,814259	53,055134
+927	26.08.2019	16:18	Mo	5		Bremen	Elisabethstraße	0	0	1	1	0							3	1		55					71		2019	08	26	he	tr	RF	-	F		8,786726	53,097101
+928	27.08.2019	05:18	Di	5		Bremen	Wehrpromenade	0	0	0	2	7							5	7						88	93	72	2019	08	27	du	tr	FG	RF	SO		8,852512	53,059535
+929	27.08.2019	10:10	Di	5		Bremen	Kurfürstenallee	0	0	1	2	5							3	3		49					21	71	2019	08	27	he	tr	PKW	RF	EK		8,846375	53,081162
+930	27.08.2019	10:47	Di	5		Bremen	Balgebrückstraße	0	0	0	2	5							5	3		37					71	33	2019	08	27	he	tr	RF	BUS	EK		8,808299	53,074362
+931	27.08.2019	11:42	Di	5		Bremen	Langemarckstraße	0	1	0	2	6						8	2	4		31					71	81	2019	08	27	he	tr	RF	FG	ÜS		8,790900	53,072389
+932	27.08.2019	13:35	Di	5		Bremen	Schorf	0	0	1	1	8							3	7		12	48				71		2019	08	27	he	tr	RF	-	SO		8,888762	53,096916
+933	27.08.2019	18:36	Di	5		Bremen	Vahrer Straße	0	0	0	2	5	1		3				5	3		31					71	21	2019	08	27	he	tr	RF	PKW	EK		8,886649	53,071485
+934	28.08.2019	05:20	Mi	5		Bremen	Osterholzer Heerstraße	0	0	1	2	5	3						3	3		37					21	71	2019	08	28	du	tr	PKW	RF	EK		8,944115	53,058192
+935	28.08.2019	07:45	Mi	5		Bremen	Stapelfeldtstraße	0	0	1	2	5	3						3	3		37					21	71	2019	08	28	he	tr	PKW	RF	EK		8,752804	53,116178
+936	28.08.2019	09:10	Mi	5		Bremen	Hastedter Heerstraße	0	0	1	2	5							3	3		37					21	71	2019	08	28	he	tr	PKW	RF	EK		8,874367	53,066591
+937	28.08.2019	13:40	Mi	5		Bremen	Friedrich-Karl-Straße	0	0	1	4	3							3	6		14					71	71	2019	08	28	he	tr	RF	RF	LV		8,844439	53,076051
+938	28.08.2019	16:00	Mi	5		Bremen	Am Herzogenkamp	0	0	1	2	4							3	6		11					72	71	2019	08	28	he	tr	RF	RF	LV		8,861675	53,099303
+939	28.08.2019	18:00	Mi	5		Bremen	Louis-Seegelken-Straße	0	0	1	2	4							3	6		24					71	21	2019	08	28	he	tr	RF	PKW	LV		8,688265	53,179276
+940	28.08.2019	21:50	Mi	5		Bremen	Osterdeich	0	0	0	2	4			9				5	6		11					72	71	2019	08	28	du	na	RF	RF	LV		8,811059	53,071583
+941	29.08.2019	07:15	Do	5		Bremen	Halmerweg	0	0	1	2	5							3	3		28					21	71	2019	08	29	dä	na	PKW	RF	EK		8,759118	53,119445
+942	29.08.2019	08:00	Do	5		Bremen	Leher Heerstraße	0	1	0	2	5	1						2	3		37					71	21	2019	08	29	he	na	RF	PKW	EK		8,873825	53,101329
+943	29.08.2019	08:30	Do	5		Bremen	Föhrenstraße	0	0	1	2	1	2						3	5		45					21	72	2019	08	29	he	na	PKW	RF	RV		8,878927	53,064912
+944	29.08.2019	08:30	Do	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	1	2	5	2						3	2		49					21	71	2019	08	29	he	na	PKW	RF	AB		8,803341	53,072280
+945	29.08.2019	09:00	Do	5		Bremen	Louis-Seegelken-Straße	0	1	0	1	0	2						2	7		49				73	71		2019	08	29	he	na	RF	-	SO		8,690142	53,180514
+946	29.08.2019	11:55	Do	5		Bremen	Leher Heerstraße	0	0	1	2	5			3				3	3		37					21	71	2019	08	29	he	tr	PKW	RF	EK		8,882972	53,100727
+947	29.08.2019	12:00	Do	5		Bremen	Bürgerpark-Meierei	0	0	1	2	2							3	6		14					71	72	2019	08	29	he	tr	RF	RF	LV		8,835140	53,097241
+948	29.08.2019	13:10	Do	5		Bremen	Alte Waller Straße	0	0	1	2	5							3	2		35					40	71	2019	08	29	he	tr	LKW	RF	AB		8,778494	53,108340
+949	29.08.2019	15:15	Do	5		Bremen	Buntentorsteinweg	0	0	1	2	4							3	6		8					71	71	2019	08	29	he	tr	RF	RF	LV		8,800499	53,068748
+950	29.08.2019	16:30	Do	5		Bremen	Saarstraße	0	0	1	2	4							3	2		34					71	21	2019	08	29	he	tr	RF	PKW	AB		8,909198	53,056417
+951	29.08.2019	17:15	Do	5		Bremen	Ostpreußische Straße	0	0	1	2	1							3	7		49					71	21	2019	08	29	he	tr	RF	PKW	SO		8,859518	53,078481
+952	29.08.2019	18:25	Do	5		Bremen	Kasseler Straße	0	0	0	2	1							5	5		14	49				71	21	2019	08	29	dä	tr	RF	PKW	RV		8,819403	53,095302
+953	29.08.2019	22:48	Do	5		Bremen	Faulenstraße	0	1	0	2	4							2	6		10					71	71	2019	08	29	du	tr	RF	RF	LV		8,798198	53,080179
+954	30.08.2019	07:15	Fr	5		Bremen	Vor dem Steintor	0	0	1	2	2	1						3	7		14					40	71	2019	08	30	he	tr	LKW	RF	SO		8,829649	53,071913
+955	30.08.2019	07:40	Fr	5		Bremen	Vegesacker Straße	0	0	1	2	5	2						3	2		11					71	21	2019	08	30	he	tr	RF	PKW	AB		8,783161	53,099226
+956	30.08.2019	08:30	Fr	5		Bremen	Tiefer	0	0	1	2	5	1					8	3	3		31					21	71	2019	08	30	he	tr	PKW	RF	EK		8,810758	53,072013
+957	30.08.2019	08:45	Fr	5		Bremen	Vor den Seelanden	0	0	1	2	3							3	6		35					71	21	2019	08	30	he	tr	RF	PKW	LV		8,736558	53,062667
+958	30.08.2019	12:40	Fr	5		Bremen	Barbarossastraße	0	0	1	2	5	2						3	3		28		10			21	71	2019	08	30	he	tr	PKW	RF	EK		8,863449	53,079922
+959	30.08.2019	20:05	Fr	5		Bremen	Hasenhöft	0	0	1	2	1							3	7		2	4				72	92	2019	08	30	he	tr	RF	SOF	SO		8,662537	53,170238
+960	30.08.2019	20:50	Fr	5		Bremen	Am Lehester Deich	0	0	1	2	5	1					8	3	2		34					21	71	2019	08	30	du	tr	PKW	RF	AB		8,897037	53,118235
+961	31.08.2019	01:15	Sa	5		Bremen	Woltmershauser Straße	0	0	1	2	4							3	6		1	9				71	71	2019	08	31	du	tr	RF	RF	LV		8,783306	53,076196
+962	31.08.2019	16:20	Sa	5		Bremen	Stader Landstraße	0	0	1	2	5							3	2		34					21	71	2019	08	31	he	tr	PKW	RF	AB		8,702491	53,167659
+963	31.08.2019	21:15	Sa	5		Bremen	Bahnhofstraße	0	0	1	2	1	6						3	7		13	14				71	21	2019	08	31	du	tr	RF	PKW	SO		8,810643	53,080223
+964	01.09.2019	00:30	So	5		Bremen	Hillmannplatz	0	0	1	2	2							3	7		49	1				71	21	2019	09	01	du	na	RF	PKW	SO		8,809935	53,080614
+965	01.09.2019	20:00	So	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	5	2		9	0		8	3	3		31					71	71	2019	09	01	he	tr	RF	RF	EK		8,801733	53,071288
+966	02.09.2019	07:45	Mo	5		Bremen	Bultstraße	0	0	0	2	5							5	3		37					71	21	2019	09	02	he	tr	RF	PKW	EK		8,894717	53,043809
+967	02.09.2019	07:45	Mo	5		Bremen	Walter-Flex-Straße	0	0	1	2	5	2						3	3		28					21	71	2019	09	02	he	tr	PKW	RF	EK		8,622744	53,183976
+968	02.09.2019	08:20	Mo	5		Bremen	Pappelstraße	0	0	1	2	5							3	2		9					71	21	2019	09	02	he	tr	RF	PKW	AB		8,785677	53,071084
+969	02.09.2019	08:20	Mo	5		Bremen	Grenzwehr	0	0	1	2	5	2		9				3	3		28					21	71	2019	09	02	he	tr	PKW	RF	EK		8,936385	53,073802
+970	02.09.2019	14:15	Mo	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	5	2						3	3		34		49			21	71	2019	09	02	he	tr	PKW	RF	EK		8,800054	53,078220
+971	03.09.2019	07:30	Di	5		Bremen	Upper Borg	0	0	0	2	5							5	2		28					21	71	2019	09	03	he	na	PKW	RF	AB		8,901951	53,112127
+972	03.09.2019	09:40	Di	5		Bremen	Am Stern	0	0	0	2	5							5	2		34					21	71	2019	09	03	he	tr	PKW	RF	AB		8,824401	53,084445
+973	03.09.2019	12:45	Di	5		Bremen	Am Wasser	0	0	2	2	4	5						3	6		11					71	71	2019	09	03	he	na	RF	RF	LV		8,634363	53,163423
+974	03.09.2019	17:15	Di	5		Bremen	Schubertstraße	0	0	1	2	1							3	5		45					21	71	2019	09	03	he	tr	PKW	RF	RV		8,834737	53,085009
+975	04.09.2019	07:50	Mi	5		Bremen	Stresemannstraße	0	0	1	2	5	1		0	8		8	3	3		31		49			71	21	2019	09	04	he	tr	RF	PKW	EK		8,864172	53,071123
+976	04.09.2019	10:30	Mi	5		Bremen	Liebrechtstraße	0	0	1	2	5	2						3	3		37					21	71	2019	09	04	he	tr	PKW	RF	EK		8,572822	53,195171
+977	04.09.2019	13:10	Mi	5		Bremen	Wachmannstraße	0	0	1	3	3							3	7		45					21	71	2019	09	04	he	tr	PKW	RF	SO		8,827042	53,084821
+978	04.09.2019	15:15	Mi	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	2	2	5							3	3		31					71	71	2019	09	04	he	tr	RF	RF	EK		8,803687	53,072448
+979	04.09.2019	15:20	Mi	5		Bremen	Hemmstraße	0	0	0	2	3							5	6		37					71	11	2019	09	04	he	tr	RF	KRD	LV		8,814803	53,101733
+980	04.09.2019	17:35	Mi	5		Bremen	Löhstraße	0	0	0	2	5	1		9				5	3		37					21	71	2019	09	04	dä	sch	PKW	RF	EK		8,597563	53,184815
+981	04.09.2019	19:18	Mi	5		Bremen	In der Vahr	0	0	1	2	5	3		9				3	3		37					21	71	2019	09	04	dä	na	PKW	RF	EK		8,876545	53,081410
+982	04.09.2019	19:50	Mi	5		Bremen	Leher Heerstraße	0	0	1	2	5	2		4			8	3	3		35		2		73	21	71	2019	09	04	du	na	PKW	RF	EK		8,874268	53,101260
+983	05.09.2019	07:50	Do	5		Bremen	Tietjenstraße	0	0	1	2	0						8	3	1		10		10		89	21	71	2019	09	05	he	tr	PKW	RF	F		8,865875	53,100802
+984	05.09.2019	09:10	Do	5		Bremen	Malerstraße	0	0	1	2	5	2						3	2		34					92	71	2019	09	05	he	tr	SOF	RF	AB		8,867881	53,062049
+985	05.09.2019	10:30	Do	5		Bremen	Imre-Nagy-Weg	0	0	0	2	5							5	3		37					21	71	2019	09	05	he	tr	PKW	RF	EK		8,817172	53,076383
+986	05.09.2019	12:47	Do	5		Bremen	Am Neustadtsbahnhof	0	1	0	1	0							2	7		49					71		2019	09	05	he	tr	RF	-	SO		8,788214	53,078265
+987	05.09.2019	13:50	Do	5		Bremen	Pastorenweg	0	1	0	2	5	3						2	2		35					21	71	2019	09	05	he	tr	PKW	RF	AB		8,762497	53,112201
+988	05.09.2019	14:30	Do	5		Bremen	Geeren	0	0	0	2	5	2						5	3		34					21	71	2019	09	05	he	tr	PKW	RF	EK		8,795623	53,080637
+989	05.09.2019	15:40	Do	5		Bremen	Gröpelinger Heerstraße	0	0	0	2	3							5	2		34					21	71	2019	09	05	he	na	PKW	RF	AB		8,761543	53,114597
+990	05.09.2019	16:05	Do	5		Bremen	Lloydstraße	0	0	1	2	5	1					8	3	2		31					21	71	2019	09	05	he	tr	PKW	RF	AB		8,789116	53,084974
+991	05.09.2019	17:00	Do	5		Bremen	Georg-Bitter-Straße	0	0	1	2	5	2						3	3		34		9			21	71	2019	09	05	he	tr	PKW	RF	EK		8,855106	53,068437
+992	05.09.2019	17:45	Do	5		Bremen	Fleetrade	0	0	0	2	0						8	5	7		49					71	21	2019	09	05	he	tr	RF	PKW	SO		8,863429	53,065041
+993	06.09.2019	07:09	Fr	5		Bremen	Bruchweg	0	0	1	2	2	7		8				3	7		37					44	71	2019	09	06	he	tr	LKW	RF	SO		8,894548	53,050905
+994	06.09.2019	13:45	Fr	5		Bremen	Pappelstraße	0	0	0	2	5	2		7				5	3		28					21	71	2019	09	06	he	tr	PKW	RF	EK		8,792490	53,067065
+995	06.09.2019	14:30	Fr	5		Bremen	Bismarckstraße	0	0	1	2	5						8	3	2		34					21	71	2019	09	06	he	tr	PKW	RF	AB		8,852491	53,073621
+996	06.09.2019	15:15	Fr	5		Bremen	Ludwig-Quidde-Straße	0	0	1	1	0	3						3	3		49					71		2019	09	06	he	tr	RF	-	EK		8,862640	53,067726
+997	06.09.2019	18:10	Fr	5		Bremen	Hermannsburg	0	0	1	2	5							3	2		35					21	71	2019	09	06	he	tr	PKW	RF	AB		8,732628	53,037886
+998	07.09.2019	12:30	Sa	5		Bremen	Schwarzer Weg	0	0	1	2	5	2						3	2		27					71	11	2019	09	07	he	tr	RF	KRD	AB		8,752895	53,122782
+999	07.09.2019	13:20	Sa	5		Bremen	Langemarckstraße	0	0	1	2	6							3	7		63					81	71	2019	09	07	he	tr	FG	RF	SO		8,789561	53,071193
+1000	07.09.2019	15:58	Sa	5		Bremen	Hollerallee	0	0	2	2	6							3	4		42					71	81	2019	09	07	he	tr	RF	FG	ÜS		8,822651	53,085343
+1001	07.09.2019	16:55	Sa	5		Bremen	Am Wall	0	0	1	1	0							3	7		1					71		2019	09	07	he	tr	RF	-	SO		8,812486	53,075751
+1002	07.09.2019	23:00	Sa	5		Bremen	Utbremer Ring	0	1	0	1	0	2						2	1		49				90	71		2019	09	07	du	na	RF	-	F		8,816909	53,097013
+1003	09.09.2019	13:15	Mo	5		Bremen	Hemelinger Heerstraße	0	0	1	2	5	3						3	2		35					21	71	2019	09	09	he	tr	PKW	RF	AB		8,894843	53,046029
+1004	09.09.2019	15:30	Mo	5		Bremen	Sebaldsbrücker Heerstraße	0	0	0	2	4							5	6		10					71	71	2019	09	09	he	sch	RF	RF	LV		8,901669	53,059488
+1005	09.09.2019	16:00	Mo	5		Bremen	Hastedter Heerstraße	0	0	0	3	1	1					8	5	3		31				73	71	21	2019	09	09	he	na	RF	PKW	EK		8,872404	53,067459
+1006	09.09.2019	19:40	Mo	5		Bremen	Hansestraße	0	0	1	2	5	2					8	3	3		31					21	71	2019	09	09	dä	tr	PKW	RF	EK		8,787394	53,089993
+1007	09.09.2019	21:40	Mo	5		Bremen	Langemarckstraße	0	0	1	2	6	2						3	4		42	1				71	81	2019	09	09	du	tr	RF	FG	ÜS		8,789963	53,071430
+1008	10.09.2019	08:00	Di	5		Bremen	Bei den Drei Pfählen	0	0	0	2	1							5	5		49	10				71	21	2019	09	10	he	tr	RF	PKW	RV		8,854545	53,070637
+1009	10.09.2019	11:00	Di	5		Bremen	Koblenzer Straße	0	0	1	2	1	3						3	1		52	13				71	21	2019	09	10	he	tr	RF	PKW	F		8,961780	53,061308
+1010	10.09.2019	11:23	Di	5		Bremen	Breitenweg	0	0	1	1	0	1						3	7		49					71		2019	09	10	he	tr	RF	-	SO		8,812317	53,080943
+1011	10.09.2019	14:40	Di	4		Bremen	Langemarckstraße	0	0	1	2	5	1					8	3	2		35					21	71	2019	09	10	he	tr	PKW	RF	AB		8,796953	53,076451
+1012	10.09.2019	15:45	Di	5		Bremen	Eickedorfer Straße	0	0	1	2	0							3	6		64		49			81	71	2019	09	10	he	tr	FG	RF	LV		8,811748	53,091851
+1013	10.09.2019	18:50	Di	5		Bremen	Freiligrathstraße	0	0	1	2	1							3	7		45		49			21	71	2019	09	10	he	tr	PKW	RF	SO		8,861600	53,083708
+1014	11.09.2019	08:55	Mi	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	3	2						3	6		21					71	71	2019	09	11	he	tr	RF	RF	LV		8,897198	53,059277
+1015	11.09.2019	10:45	Mi	5		Bremen	Heinkenstraße	0	0	0	2	1							5	5		34	14				21	71	2019	09	11	he	tr	PKW	RF	RV		8,797511	53,080402
+1016	11.09.2019	17:25	Mi	5		Bremen	Schwachhauser Ring	0	0	2	2	4							3	6		14					71	71	2019	09	11	he	na	RF	RF	LV		8,841066	53,089196
+1017	12.09.2019	07:40	Do	5		Bremen	Regensburger Straße	0	0	1	2	5							3	3		37		10			11	71	2019	09	12	he	tr	KRD	RF	EK		8,803911	53,096040
+1018	12.09.2019	07:45	Do	5		Bremen	Piependamm	0	0	0	2	1							5	5		14					71	21	2019	09	12	he	tr	RF	PKW	RV		8,852899	53,041559
+1019	12.09.2019	11:50	Do	5		Bremen	In der Vahr	0	0	1	2	5	2						3	3		28					21	71	2019	09	12	he	tr	PKW	RF	EK		8,878347	53,079554
+1020	12.09.2019	17:18	Do	5		Bremen	Hardenbergstraße	0	0	0	2	1							6	7		1	14				71	21	2019	09	12	he	tr	RF	PKW	SO		8,809323	53,060692
+1021	13.09.2019	07:55	Fr	5		Bremen	Kolk	0	0	1	1	0							3	7		49					71		2019	09	13	he	na	RF	-	SO		8,928676	53,060654
+1022	13.09.2019	11:10	Fr	5		Bremen	Alfred-Faust-Straße	0	0	0	2	5							5	3		37					71	21	2019	09	13	he	tr	RF	PKW	EK		8,832176	53,033626
+1023	13.09.2019	13:17	Fr	5		Bremen	Hans-Böckler-Straße	0	0	2	2	5							3	3		37					71	71	2019	09	13	he	tr	RF	RF	EK		8,790274	53,086121
+1024	13.09.2019	14:15	Fr	5		Bremen	Stader Straße	0	0	0	3	2	1		8			8	5	2		31					71	21	2019	09	13	he	tr	RF	PKW	AB		8,854004	53,074736
+1025	13.09.2019	14:46	Fr	5		Bremen	Sankt-Gotthard-Straße	0	0	1	2	5	1						3	2		34					21	71	2019	09	13	he	tr	PKW	RF	AB		8,953154	53,066524
+1026	13.09.2019	14:55	Fr	5		Bremen	Schwachhauser Ring	0	0	1	2	5	1						3	3		24					21	71	2019	09	13	he	tr	PKW	RF	EK		8,847180	53,086994
+1027	13.09.2019	15:15	Fr	5		Bremen	Waller Ring	0	0	1	2	3	1					8	3	2		34					21	71	2019	09	13	he	tr	PKW	RF	AB		8,779304	53,100198
+1028	13.09.2019	15:20	Fr	5		Bremen	Steinsetzerstraße	0	0	1	2	5							3	3		27					21	71	2019	09	13	he	tr	PKW	RF	EK		8,848022	53,047114
+1029	13.09.2019	16:45	Fr	5		Bremen	Ludwig-Roselius-Allee	0	0	2	2	4							3	6		10					71	71	2019	09	13	he	tr	RF	RF	LV		8,928947	53,072061
+1030	14.09.2019	02:20	Sa	5		Bremen	Vor dem Steintor	0	0	0	2	0							5	1		49					71	21	2019	09	14	du	tr	RF	PKW	F		8,832036	53,071070
+1031	14.09.2019	13:55	Sa	5		Bremen	Brenningstraße	0	1	0	2	5	1						2	3		49					21	71	2019	09	14	he	tr	PKW	RF	EK		8,833673	53,033265
+1032	14.09.2019	22:30	Sa	5		Bremen	Osterfeuerberger Ring	0	0	0	2	1							5	6		9					71	21	2019	09	14	du	tr	RF	PKW	LV		8,791835	53,103397
+1033	15.09.2019	12:00	So	5		Bremen	Vegesacker Weserpromenade	0	0	1	2	7							3	7		69					93	71	2019	09	15	he	tr	FG	RF	SO		8,620952	53,168890
+1034	15.09.2019	15:45	So	5		Bremen	Bürgerpark-Meierei	0	0	2	2	6							3	4		42					71	81	2019	09	15	he	tr	RF	FG	ÜS		8,819620	53,092311
+1035	16.09.2019	09:30	Mo	5		Bremen	Am Herzogenkamp	0	0	1	1	0							3	1		49					71		2019	09	16	he	tr	RF	-	F		8,868734	53,098668
+1036	16.09.2019	10:40	Mo	5		Bremen	An der Aumunder Kirche	0	0	0	2	3							5	6		14					71	21	2019	09	16	he	tr	RF	PKW	LV		8,623945	53,174347
+1037	16.09.2019	14:50	Mo	5		Bremen	Rembertistraße	0	0	1	2	1							3	5		49	45				21	71	2019	09	16	he	tr	PKW	RF	RV		8,818293	53,079950
+1038	16.09.2019	14:55	Mo	5		Bremen	Heinrich-Plett-Allee	0	0	2	2	4	2						3	6		10					71	71	2019	09	16	he	na	RF	RF	LV		8,723852	53,043535
+1039	16.09.2019	16:30	Mo	5		Bremen	Wilhelm-Kaisen-Brücke	0	1	1	2	4	2		8			8	2	6		11		10			71	71	2019	09	16	he	tr	RF	RF	LV		8,804165	53,072359
+1040	16.09.2019	18:13	Mo	5		Bremen	Waller Heerstraße	0	0	1	2	5	1		8			8	3	3		31					21	71	2019	09	16	he	tr	PKW	RF	EK		8,784996	53,102211
+1041	17.09.2019	08:00	Di	5		Bremen	Parkallee	0	0	1	2	3							3	1		14					71	71	2019	09	17	he	tr	RF	RF	F		8,822287	53,082409
+1042	17.09.2019	08:06	Di	5		Bremen	Emil-Richter-Straße	0	0	1	2	0							3	1		37					71	21	2019	09	17	he	tr	RF	PKW	F		8,828799	53,035020
+1043	17.09.2019	13:20	Di	5		Bremen	Lange Reihe	0	0	1	2	5							3	2		34					21	71	2019	09	17	he	tr	PKW	RF	AB		8,778681	53,100761
+1044	17.09.2019	15:15	Di	5		Bremen	Graf-Moltke-Straße	0	0	1	2	5	1		8				3	2		35				73	21	71	2019	09	17	he	na	PKW	RF	AB		8,832782	53,077503
+1045	17.09.2019	16:10	Di	5		Bremen	Achterstraße	0	0	1	2	5	2						3	3		27		27			72	71	2019	09	17	he	tr	RF	RF	EK		8,859347	53,100440
+1046	17.09.2019	16:15	Di	5		Bremen	Friedrich-Rauers-Straße	0	0	1	2	5	1						3	3		28					21	71	2019	09	17	he	na	PKW	RF	EK		8,804611	53,085781
+1047	18.09.2019	08:10	Mi	5		Bremen	Überseetor	0	0	1	2	5							3	3		28					21	71	2019	09	18	he	tr	PKW	RF	EK		8,774167	53,095439
+1048	18.09.2019	13:20	Mi	5		Bremen	Landwehrstraße	0	0	1	2	5			4				3	3		31					71	21	2019	09	18	he	tr	RF	PKW	EK		8,792994	53,089075
+1049	18.09.2019	15:45	Mi	5		Bremen	Langemarckstraße	0	0	1	2	5	1					8	3	2		34					21	71	2019	09	18	he	tr	PKW	RF	AB		8,787404	53,069937
+1050	18.09.2019	17:25	Mi	5		Bremen	Friedrich-Humbert-Straße	0	0	1	2	5	3					9	3	2		35					21	71	2019	09	18	he	tr	PKW	RF	AB		8,635151	53,167012
+1051	18.09.2019	18:50	Mi	5		Bremen	Schwachhauser Heerstraße	0	0	0	2	5	1						5	3		31		31			71	21	2019	09	18	he	tr	RF	PKW	EK		8,831387	53,081226
+1052	19.09.2019	05:50	Do	5		Bremen	Vegesacker Heerstraße	0	0	1	2	5	1					9	3	3		28					21	71	2019	09	19	du	tr	PKW	RF	EK		8,638118	53,173238
+1053	19.09.2019	07:35	Do	5		Bremen	Münchener Straße	0	0	1	2	5	2						3	2		34					21	71	2019	09	19	he	tr	PKW	RF	AB		8,794904	53,093933
+1054	19.09.2019	09:23	Do	5		Bremen	Eduard-Schopf-Allee	0	1	0	2	5							2	3		28					21	71	2019	09	19	he	tr	PKW	RF	EK		8,787018	53,082960
+1055	19.09.2019	10:50	Do	5		Bremen	Geschwister-Scholl-Straße	0	0	1	2	5							3	3		37					71	21	2019	09	19	he	tr	RF	PKW	EK		8,904448	53,078481
+1056	19.09.2019	13:15	Do	5		Bremen	Heukämpendamm	0	0	2	3	4							3	6		13					71	71	2019	09	19	he	tr	RF	RF	LV		8,841159	53,032113
+1057	19.09.2019	14:30	Do	5		Bremen	Theodor-Heuss-Allee	0	0	1	2	4	1					8	3	2		35					21	71	2019	09	19	he	tr	PKW	RF	AB		8,816539	53,084139
+1058	19.09.2019	21:40	Do	5		Bremen	Ostertorsteinweg	0	0	1	1	0	1						3	7		49				89	71		2019	09	19	du	tr	RF	-	SO		8,823008	53,072944
+1059	20.09.2019	05:50	Fr	5		Bremen	Stedingsehre	0	0	0	2	4							6	6		1	14				71	21	2019	09	20	du	tr	RF	PKW	LV		8,762138	53,061147
+1060	20.09.2019	07:55	Fr	5		Bremen	Bromberger Straße	0	0	1	2	2							3	6		37		37			21	71	2019	09	20	he	tr	PKW	RF	LV		8,763605	53,119846
+1061	20.09.2019	08:25	Fr	5		Bremen	Friedrich-Ebert-Straße	0	0	0	2	5	1					8	5	2		34					21	72	2019	09	20	he	tr	PKW	RF	AB		8,793691	53,066366
+1062	20.09.2019	10:40	Fr	5		Bremen	Herbststraße	0	0	0	2	5	1						5	3		27					71	40	2019	09	20	he	tr	RF	LKW	EK		8,809007	53,092348
+1063	20.09.2019	12:20	Fr	5		Bremen	Ludwig-Roselius-Allee	0	0	1	2	5	3						3	7		37		9			21	71	2019	09	20	he	tr	PKW	RF	SO		8,932595	53,069784
+1064	20.09.2019	13:40	Fr	5		Bremen	Bremerhavener Straße	0	0	1	2	3	2						3	6		10					21	71	2019	09	20	he	tr	PKW	RF	LV		8,773577	53,101597
+1065	20.09.2019	14:37	Fr	5		Bremen	Am Deich	0	0	1	2	5	1					8	3	3		28					21	71	2019	09	20	he	tr	PKW	RF	EK		8,797146	53,076338
+1066	20.09.2019	17:00	Fr	5		Bremen	Doventorscontrescarpe	0	0	1	2	5							3	2		34					21	71	2019	09	20	he	tr	PKW	RF	AB		8,794974	53,084648
+1067	20.09.2019	18:30	Fr	5		Bremen	Ritterhuder Heerstraße	0	0	1	2	5							3	3		37					71	21	2019	09	20	he	tr	RF	PKW	EK		8,737566	53,134325
+1068	21.09.2019	14:40	Sa	5		Bremen	Dobbenweg	0	0	1	1	0	1					8	3	1		49					71		2019	09	21	he	tr	RF	-	F		8,825615	53,078765
+1069	21.09.2019	17:45	Sa	5		Bremen	Hinter dem Hasenberge	0	0	0	2	1	2						5	5		34					71	21	2019	09	21	he	tr	RF	PKW	RV		8,729431	53,138256
+1070	22.09.2019	12:15	So	5		Bremen	Schubertstraße	0	0	0	2	0							5	7		49					71	21	2019	09	22	he	tr	RF	PKW	SO		8,834525	53,085261
+1071	22.09.2019	12:30	So	5		Bremen	Thomas-Mann-Straße	0	0	1	2	7							3	7		69				87	83	71	2019	09	22	he	tr	FG	RF	SO		8,839981	53,091250
+1072	22.09.2019	15:00	So	5		Bremen	Lothringer Straße	0	1	0	2	5	1						2	3		27					21	72	2019	09	22	he	tr	PKW	RF	EK		8,838334	53,081394
+1073	22.09.2019	18:40	So	5		Bremen	Heinrich-Heine-Straße	0	0	0	2	1							5	5		14					71	21	2019	09	22	he	tr	RF	PKW	RV		8,871537	53,084711
+1074	23.09.2019	09:08	Mo	5		Bremen	Hamburger Straße	0	0	1	2	5							3	3		36					21	71	2019	09	23	he	tr	PKW	RF	EK		8,838431	53,069766
+1075	23.09.2019	13:58	Mo	5		Bremen	Am Rüten	0	0	1	1	0	2						3	1		49					71		2019	09	23	he	na	RF	-	F		8,899199	53,104889
+1076	23.09.2019	16:00	Mo	5		Bremen	Volkmannstraße	0	0	1	1	0						8	3	7		49	4				71		2019	09	23	he	tr	RF	-	SO		8,808320	53,057752
+1077	23.09.2019	18:15	Mo	5		Bremen	Kreinsloger	0	0	1	2	6							3	4		63	69				81	72	2019	09	23	he	tr	FG	RF	ÜS		8,561657	53,191748
+1078	23.09.2019	18:20	Mo	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	5	2						3	3		28		10			21	71	2019	09	23	he	tr	PKW	RF	EK		8,770984	53,109895
+1079	24.09.2019	07:45	Di	5		Bremen	Leher Heerstraße	0	0	0	2	2			9				5	6		20					71	71	2019	09	24	he	tr	RF	RF	LV		8,871586	53,098965
+1080	24.09.2019	15:35	Di	5		Bremen	Kirchbachstraße	0	0	0	2	1							5	1		49					71	21	2019	09	24	he	tr	RF	PKW	F		8,854967	53,079746
+1081	24.09.2019	16:08	Di	5		Bremen	Am Lehester Deich	0	0	0	2	5	2						5	3		10	37				72	21	2019	09	24	he	tr	RF	PKW	EK		8,897820	53,117649
+1082	24.09.2019	16:25	Di	5		Bremen	Göttinger Straße	0	0	0	2	5	1						5	3		27		49			71	21	2019	09	24	he	tr	RF	PKW	EK		8,812322	53,095673
+1083	24.09.2019	17:30	Di	5		Bremen	Waller Heerstraße	0	0	1	2	1							3	7		13					71	72	2019	09	24	he	tr	RF	RF	SO		8,786648	53,100674
+1084	24.09.2019	18:30	Di	5		Bremen	Münchener Straße	0	0	0	2	1							5	7		14	49				71	21	2019	09	24	dä	tr	RF	PKW	SO		8,798246	53,094634
+1085	24.09.2019	18:30	Di	5		Bremen	Bischofsnadel	0	0	1	2	5	2						3	3		27				73	5	71	2019	09	24	he	na	KRD	RF	EK		8,814911	53,077179
+1086	24.09.2019	19:00	Di	5		Bremen	Klitzenburg	0	0	1	2	3							3	6		15					71	71	2019	09	24	dä	tr	RF	RF	LV		8,759652	53,125106
+1087	25.09.2019	06:20	Mi	5		Bremen	In der Vahr	0	0	1	2	0							3	2		27	34			73	21	71	2019	09	25	du	na	PKW	RF	AB		8,876604	53,081399
+1088	25.09.2019	07:18	Mi	5		Bremen	Bahnhofsplatz	0	0	0	2	0	3						5	7		36				73	21	71	2019	09	25	he	na	PKW	RF	SO		8,813792	53,082243
+1089	25.09.2019	07:35	Mi	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5							3	2		34				73	21	71	2019	09	25	he	na	PKW	RF	AB		8,835928	53,082401
+1090	25.09.2019	09:00	Mi	5		Bremen	Eduard-Schopf-Allee	0	0	1	2	5	1						3	3		34				73	21	72	2019	09	25	he	na	PKW	RF	EK		8,791868	53,082620
+1091	25.09.2019	11:30	Mi	5		Bremen	Arsterdamm	0	0	1	2	5	3						3	2		34		9		73	21	71	2019	09	25	he	na	PKW	RF	AB		8,822458	53,044531
+1092	25.09.2019	11:32	Mi	5		Bremen	Senator-Apelt-Straße	0	0	1	2	5	2		9			8	3	2		35	27			73	21	71	2019	09	25	he	na	PKW	RF	AB		8,770169	53,072274
+1093	25.09.2019	13:55	Mi	5		Bremen	Langemarckstraße	0	0	1	2	0	1		9				3	2		34				73	21	71	2019	09	25	he	na	PKW	RF	AB		8,795210	53,075250
+1094	25.09.2019	14:00	Mi	5		Bremen	Airbus-Allee	0	0	1	2	0			9				3	7		49				73	59	71	2019	09	25	he	na	SOF	RF	SO		8,787431	53,055969
+1095	25.09.2019	15:35	Mi	5		Bremen	Parkallee	0	1	1	2	4	6						2	6		24	49	24	49	74	71	72	2019	09	25	he	sch	RF	RF	LV		8,825832	53,085075
+1096	25.09.2019	16:05	Mi	5		Bremen	Sankt-Jürgen-Straße	0	0	1	2	5	2						3	2		35					21	71	2019	09	25	he	tr	PKW	RF	AB		8,837420	53,075118
+1097	26.09.2019	08:07	Do	5		Bremen	Feuerkuhle	0	0	1	2	1							3	5		45		10		73	21	71	2019	09	26	he	na	PKW	RF	RV		8,860669	53,070227
+1098	26.09.2019	08:30	Do	5		Bremen	Martinistraße	0	0	0	2	1	2						5	1		13				73	71	21	2019	09	26	he	na	RF	PKW	F		8,802162	53,077811
+1099	26.09.2019	08:40	Do	5		Bremen	Achterdiek	0	0	1	2	5							3	3		37					21	71	2019	09	26	he	tr	PKW	RF	EK		8,897418	53,094352
+1100	26.09.2019	10:30	Do	5		Bremen	Alfred-Faust-Straße	0	1	0	2	2	3						2	6		36					21	72	2019	09	26	he	tr	PKW	RF	LV		8,830422	53,034092
+1101	26.09.2019	12:30	Do	5		Bremen	Osterdeich	0	0	1	3	4							3	6		11		11		73	71	71	2019	09	26	he	na	RF	RF	LV		8,832389	53,068520
+1102	26.09.2019	15:50	Do	5		Bremen	Am Stern	0	0	1	2	5	7						3	2		34		49		73	21	71	2019	09	26	he	na	PKW	RF	AB		8,824978	53,084157
+1103	26.09.2019	16:00	Do	5		Bremen	Wartburgstraße	0	0	1	2	5	1					8	3	2		34				73	21	71	2019	09	26	he	na	PKW	RF	AB		8,788461	53,093975
+1104	26.09.2019	17:09	Do	5		Bremen	Hans-Böckler-Straße	0	0	1	2	5	3						3	3		9	13			73	71	21	2019	09	26	he	na	RF	PKW	EK		8,787343	53,087614
+1105	26.09.2019	18:40	Do	5		Bremen	Züricher Straße	0	0	0	2	0	1						5	1		49		28	34	89	72	21	2019	09	26	he	tr	RF	PKW	F		8,934400	53,069299
+1106	27.09.2019	07:30	Fr	5				0	0	1	1	0							3	1		13	49			74	71		2019	09	27	dä	sch	RF	-	F		8,906060	53,081471
+1107	27.09.2019	07:50	Fr	5		Bremen	Heinrich-Plett-Allee	0	0	1	2	5	2						3	3		28				73	21	71	2019	09	27	he	na	PKW	RF	EK		8,716680	53,056469
+1108	27.09.2019	08:15	Fr	5		Bremen	Pappelstraße	0	0	0	2	1							5	7		14	49			73	71	21	2019	09	27	he	na	RF	PKW	SO		8,793265	53,066653
+1109	27.09.2019	12:50	Fr	5		Bremen	Halmerweg	0	0	0	2	5							5	3		35					21	71	2019	09	27	he	tr	PKW	RF	EK		8,759483	53,119944
+1110	27.09.2019	13:10	Fr	5		Bremen	Gevekohtstraße	0	1	0	2	0	2						2	3		27				73	71	21	2019	09	27	he	na	RF	PKW	EK		8,846180	53,090765
+1111	27.09.2019	15:10	Fr	5		Bremen	Weserpromenade	0	0	1	2	4							3	6		24		24			71	71	2019	09	27	he	tr	RF	RF	LV		8,807054	53,072667
+1112	27.09.2019	16:00	Fr	5		Bremen	Vahrer Straße	0	0	1	2	5							3	2		49		49			21	71	2019	09	27	he	tr	PKW	RF	AB		8,887746	53,068540
+1113	27.09.2019	17:10	Fr	5		Bremen	Vorstraße	0	0	1	1	0							3	7		13	49			73	71		2019	09	27	he	na	RF	-	SO		8,870269	53,102145
+1114	28.09.2019	10:03	Sa	5		Bremen	Hindenburgstraße	0	0	1	1	0							3	7		13				74	72		2019	09	28	he	sch	RF	-	SO		8,700895	53,167885
+1115	28.09.2019	11:35	Sa	5		Bremen	Georg-Gleistein-Straße	0	0	1	2	5	3		9				3	2		34					21	71	2019	09	28	he	tr	PKW	RF	AB		8,619208	53,181711
+1116	28.09.2019	12:00	Sa	5		Bremen	Bürgermeister-Smidt-Straße	0	0	0	2	3	1					8	5	2		34					21	71	2019	09	28	he	tr	PKW	RF	AB		8,800585	53,078558
+1117	28.09.2019	18:05	Sa	5		Bremen	Frieslandstraße	0	0	2	3	5	7					8	3	3		31					21	71	2019	09	28	he	tr	PKW	RF	EK		8,757841	53,058516
+1118	28.09.2019	19:20	Sa	5		Bremen	Gröpelinger Heerstraße	0	0	0	2	5	1		4				5	2		34					21	71	2019	09	28	du	tr	PKW	RF	AB		8,761269	53,114938
+1119	30.09.2019	13:00	Mo	5		Bremen	Rembertistraße	0	0	2	2	6							3	7		42					71	81	2019	09	30	he	na	RF	FG	SO		8,818413	53,080036
+1120	30.09.2019	13:00	Mo	5		Bremen	Graubündener Straße	0	0	1	2	5							3	3		28					71	3	2019	09	30	he	na	RF	KRD	EK		8,951754	53,072603
+1121	30.09.2019	13:30	Mo	5		Bremen	Duckwitzstraße	0	0	1	2	4							3	7		9				73	71	21	2019	09	30	he	na	RF	PKW	SO		8,773784	53,061901
+1122	30.09.2019	16:20	Mo	5		Bremen	Lüssumer Straße	0	0	0	2	5	2	5					5	3		28		49			21	71	2019	09	30	he	tr	PKW	RF	EK		8,577554	53,187309
+1123	01.10.2019	12:20	Di	5		Bremen	Findorffstraße	0	0	1	2	6							3	7		64				73	81	71	2019	10	01	he	na	FG	RF	SO		8,806593	53,087290
+1124	01.10.2019	12:45	Di	5		Bremen	Nernststraße	0	0	1	2	1							3	5		45					21	71	2019	10	01	he	tr	PKW	RF	RV		8,894274	53,101725
+1125	02.10.2019	13:20	Mi	5		Bremen	Flughafenallee	1	0	0	1	0			9				1	1		4	49			73	71		2019	10	02	he	na	RF	-	F		8,785833	53,052864
+1126	02.10.2019	14:40	Mi	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	5	1						3	3		28					21	71	2019	10	02	he	na	PKW	RF	EK		8,740573	53,054250
+1127	02.10.2019	16:40	Mi	5		Bremen	Martinistraße	0	1	0	2	5	2		9				2	2		34					21	72	2019	10	02	he	na	PKW	RF	AB		8,802197	53,077801
+1128	02.10.2019	18:20	Mi	5		Bremen	Herderstraße	0	0	0	2	1	1						5	5		49		43		73	71	21	2019	10	02	du	na	RF	PKW	RV		8,827635	53,078681
+1129	02.10.2019	18:50	Mi	5		Bremen	Theodor-Billroth-Straße	0	0	1	2	5	3		9				3	3		36	37				21	71	2019	10	02	dä	na	PKW	RF	EK		8,821919	53,037266
+1130	02.10.2019	22:34	Mi	5		Bremen	Hermann-Koenen-Straße	0	0	1	2	5	1		8				3	3		31	34			73	21	71	2019	10	02	du	na	PKW	RF	EK		8,914125	53,062686
+1131	03.10.2019	15:35	Do	5		Bremen	Lissaer Straße	0	0	1	2	1							3	5		37				73	21	71	2019	10	03	he	na	PKW	RF	RV		8,770590	53,114151
+1132	03.10.2019	22:00	Do	5		Bremen	Kasseler Straße	0	0	0	2	1							5	5		14					71	21	2019	10	03	du	tr	RF	PKW	RV		8,817469	53,095745
+1133	04.10.2019	22:40	Fr	5		Bremen	Walsroder Straße	0	0	1	2	1							3	7		14	49			89	21	71	2019	10	04	du	sch	PKW	RF	SO		8,802036	53,093930
+1134	05.10.2019	10:31	Sa	5		Bremen	An der Finkenau	0	0	1	2	4							3	6		14					21	71	2019	10	05	he	tr	PKW	RF	LV		8,736212	53,127896
+1135	05.10.2019	13:50	Sa	5		Bremen	Wachmannstraße	0	0	1	2	4							3	6		24					21	71	2019	10	05	he	tr	PKW	RF	LV		8,836548	53,087149
+1136	05.10.2019	16:40	Sa	5		Bremen	Am Dobben	0	0	1	1	0							3	1		49					71		2019	10	05	he	tr	RF	-	F		8,822842	53,075668
+1137	07.10.2019	05:38	Mo	5		Bremen	Am Stern	0	0	1	2	5	2						3	3		28					21	71	2019	10	07	du	tr	PKW	RF	EK		8,824446	53,084478
+1138	07.10.2019	12:00	Mo	5		Bremen	Georg-Gleistein-Straße	0	0	1	2	5							3	2		35					21	71	2019	10	07	he	tr	PKW	RF	AB		8,618868	53,178625
+1139	07.10.2019	16:10	Mo	5		Bremen	Ortkampsweg	0	0	0	2	4							5	6		35	10				71	21	2019	10	07	he	tr	RF	PKW	LV		8,722651	53,060233
+1140	07.10.2019	17:35	Mo	5		Bremen	Hansator	0	1	0	2	5	1		4	2		8	2	3		31					71	61	2019	10	07	he	tr	RF	SOF	EK		8,782753	53,087142
+1141	09.10.2019	08:05	Mi	5		Bremen	Hamburger Straße	0	0	1	2	1							3	5		45					21	71	2019	10	09	he	tr	PKW	RF	RV		8,846772	53,068319
+1142	09.10.2019	13:30	Mi	5		Bremen	Pfalzburger Straße	0	0	1	2	5							3	3		37		10			21	72	2019	10	09	he	tr	PKW	RF	EK		8,870513	53,063742
+1143	09.10.2019	15:00	Mi	2	74	Bremen	Wilhelmshavener Straße	0	0	1	2	5	2		9				3	3		37					21	71	2019	10	09	he	tr	PKW	RF	EK		8,523647	53,199413
+1144	09.10.2019	19:05	Mi	5		Bremen	Schwachhauser Ring	0	0	0	2	5						8	5	2		35					21	71	2019	10	09	du	na	PKW	RF	AB		8,847169	53,086981
+1145	10.10.2019	06:40	Do	5		Bremen	Findorffstraße	0	0	1	2	5	1		9				3	2		34					21	71	2019	10	10	dä	sch	PKW	RF	AB		8,808481	53,088031
+1146	10.10.2019	09:20	Do	5		Bremen	Bahnhofsplatz	0	0	0	6	1			5				5	5		14	49				33	71	2019	10	10	he	na	BUS	RF	RV		8,813470	53,082322
+1147	10.10.2019	10:10	Do	5		Bremen	Stresemannstraße	0	0	1	2	0							3	7		13					21	72	2019	10	10	he	sch	PKW	RF	SO		8,862943	53,071715
+1148	10.10.2019	16:08	Do	5		Bremen	Breitenweg	0	0	1	2	5	1					8	3	3		31				88	21	71	2019	10	10	he	tr	PKW	RF	EK		8,812365	53,080940
+1149	10.10.2019	19:25	Do	5		Bremen	Leher Heerstraße	0	0	0	2	5	3						5	3		14					71	21	2019	10	10	du	tr	RF	PKW	EK		8,879970	53,101182
+1150	10.10.2019	23:20	Do	5		Bremen	Wilhelm-Kaisen-Brücke	0	1	0	2	4							2	6		1	2	49			71	21	2019	10	10	du	tr	RF	PKW	LV		8,805370	53,073012
+1151	11.10.2019	17:15	Fr	5		Bremen	Hollerallee	0	0	0	2	5	3						5	3		37		10			21	71	2019	10	11	he	sch	PKW	RF	EK		8,830494	53,081699
+1152	11.10.2019	17:45	Fr	5		Bremen	Alfelder Straße	0	1	0	2	1							2	5		14	45				21	71	2019	10	11	dä	tr	PKW	RF	RV		8,858641	53,068503
+1153	12.10.2019	11:30	Sa	5		Bremen	Waller Ring	0	0	0	2	5							5	2		34		49		73	21	71	2019	10	12	he	na	PKW	RF	AB		8,781436	53,100931
+1154	12.10.2019	13:15	Sa	5		Bremen	Neuenlander Straße	0	0	1	2	5	3		9				3	3		37					21	71	2019	10	12	he	na	PKW	RF	EK		8,809079	53,051202
+1155	12.10.2019	19:20	Sa	5		Bremen	Waller Heerstraße	0	0	0	2	5							5	2		34		10			21	72	2019	10	12	du	na	PKW	RF	AB		8,782287	53,104546
+1156	13.10.2019	14:50	So	5		Bremen	Georg-Gröning-Straße	0	0	1	2	4							3	2		35				82	21	71	2019	10	13	he	na	PKW	RF	AB		8,847126	53,087039
+1157	13.10.2019	16:15	So	5		Bremen	Woltmershauser Straße	0	0	1	2	1			9				3	5		45					21	71	2019	10	13	he	tr	PKW	RF	RV		8,769378	53,082519
+1158	14.10.2019	15:00	Mo	5		Bremen	Weserdeich	0	0	1	2	9							3	7		69				87	83	71	2019	10	14	he	tr	FG	RF	SO		8,861331	53,035787
+1159	14.10.2019	15:15	Mo	5		Bremen	Ludwig-Erhard-Straße	0	0	1	2	5	3						3	3		37		49			21	72	2019	10	14	he	tr	PKW	RF	EK		8,731437	53,081073
+1160	14.10.2019	15:35	Mo	5		Bremen	Alter Winterweg	0	0	0	2	5							5	3		28					21	71	2019	10	14	he	tr	PKW	RF	EK		8,772550	53,109087
+1161	14.10.2019	15:40	Mo	5		Bremen	Osterfeuerberger Ring	0	0	1	2	5	2						3	3		28					21	71	2019	10	14	he	tr	PKW	RF	EK		8,797731	53,102811
+1162	14.10.2019	19:25	Mo	5		Bremen	Geeren	0	0	0	2	1							5	1		49					21	71	2019	10	14	du	tr	PKW	RF	F		8,796186	53,080477
+1163	15.10.2019	07:00	Di	5		Bremen	Akazienweg (Hohweg)	0	1	0	1	0							2	1		49				73	71		2019	10	15	du	na	RF	-	F		8,787520	53,110387
+1164	15.10.2019	10:53	Di	5		Bremen	Leher Heerstraße	0	0	1	2	3	3		0	9			3	6		14					72	21	2019	10	15	he	tr	RF	PKW	LV		8,877932	53,101416
+1165	15.10.2019	11:40	Di	5		Bremen	Kattenturmer Heerstraße	0	0	0	2	5	3						5	3		37					21	71	2019	10	15	he	tr	PKW	RF	EK		8,814792	53,040959
+1166	16.10.2019	07:10	Mi	5		Bremen	Hermann-Wegener-Straße	0	0	1	2	5							3	3		28				73	21	72	2019	10	16	du	na	PKW	RF	EK		8,632260	53,169594
+1167	16.10.2019	08:40	Mi	5		Bremen	Utbremer Ring	0	1	0	2	5						8	2	2		35					21	71	2019	10	16	he	na	PKW	RF	AB		8,807612	53,099828
+1168	16.10.2019	09:00	Mi	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5							3	3		28	35			73	21	71	2019	10	16	he	na	PKW	RF	EK		8,852212	53,086169
+1169	16.10.2019	11:50	Mi	5		Bremen	Hinter der Grambker Kirche	0	0	1	2	1						9	3	7		37				73	21	71	2019	10	16	he	na	PKW	RF	SO		8,717324	53,142955
+1170	16.10.2019	17:45	Mi	5		Bremen	Leher Heerstraße	0	0	1	2	5	1						3	2		34					44	71	2019	10	16	he	tr	LKW	RF	AB		8,870124	53,097090
+1171	17.10.2019	10:00	Do	5		Bremen	Leher Heerstraße	0	0	1	1	0			9				3	7		49					71		2019	10	17	he	tr	RF	-	SO		8,881330	53,102630
+1172	17.10.2019	11:55	Do	5		Bremen	Kohlhökerstraße	0	0	0	3	4	2						5	7		69					83	71	2019	10	17	he	na	FG	RF	SO		8,817247	53,075175
+1173	17.10.2019	15:48	Do	5		Bremen	Hohentorsheerstraße	0	0	1	1	0	7		8				3	7		13	49				72		2019	10	17	he	na	RF	-	SO		8,785389	53,070958
+1174	17.10.2019	16:25	Do	5		Bremen	Osterdeich	0	0	0	2	1							5	5		37					71	21	2019	10	17	he	tr	RF	PKW	RV		8,820382	53,069420
+1175	17.10.2019	17:10	Do	5		Bremen	Hans-Bredow-Straße	0	0	0	2	5	1					8	5	2		49		49			71	21	2019	10	17	he	tr	RF	PKW	AB		8,961882	53,053273
+1176	17.10.2019	17:32	Do	5		Bremen	Wetterungsweg	0	0	1	2	5	3						3	3		27	13			74	71	21	2019	10	17	he	na	RF	PKW	EK		8,839235	53,106783
+1177	17.10.2019	17:35	Do	5		Bremen	Ostertorstraße	0	0	1	1	0							3	7		1					71		2019	10	17	he	tr	RF	-	SO		8,812204	53,073524
+1178	17.10.2019	17:35	Do	5		Bremen	Leher Heerstraße	0	1	1	2	4							2	6		9		49			71	71	2019	10	17	he	tr	RF	RF	LV		8,873018	53,100748
+1179	17.10.2019	20:13	Do	5		Bremen	Kuhgrabenweg	0	0	2	2	6							3	4		42					71	81	2019	10	17	du	tr	RF	FG	ÜS		8,901607	53,108672
+1180	18.10.2019	08:10	Fr	5		Bremen	Stoteler Straße	0	1	0	1	0							2	7		49					71		2019	10	18	he	na	RF	-	SO		8,755483	53,119951
+1181	18.10.2019	08:20	Fr	5		Bremen	Turnerstraße	0	0	1	1	0	2	5					3	1		13					72		2019	10	18	he	na	RF	-	F		8,568681	53,204059
+1182	18.10.2019	12:15	Fr	5		Bremen	Theodor-Billroth-Straße	0	0	1	2	0	2						3	2		34					21	71	2019	10	18	he	tr	PKW	RF	AB		8,819687	53,038326
+1183	18.10.2019	12:35	Fr	5		Bremen	Beim Neustadtsgüterbahnhof	0	0	1	2	3							3	2		34					40	71	2019	10	18	he	tr	LKW	RF	AB		8,784154	53,073383
+1184	18.10.2019	12:45	Fr	5		Bremen	Contrescarpe	0	0	1	2	3	2						3	7		45					21	71	2019	10	18	he	tr	PKW	RF	SO		8,816807	53,072941
+1185	18.10.2019	13:30	Fr	5		Bremen	Am Dobben	0	1	0	2	5	2						2	3		37					71	21	2019	10	18	he	tr	RF	PKW	EK		8,823646	53,076965
+1186	18.10.2019	15:00	Fr	5		Bremen	Kohlenstraße	0	0	1	2	5	2						3	3		28					21	71	2019	10	18	he	na	PKW	RF	EK		8,794877	53,093943
+1187	18.10.2019	17:30	Fr	5		Bremen	Schwarzer Weg	0	0	1	2	5							3	3		30					21	71	2019	10	18	dä	tr	PKW	RF	EK		8,753587	53,123294
+1188	18.10.2019	20:00	Fr	5		Bremen	Breitenweg	0	0	1	2	5						8	3	3		31					21	71	2019	10	18	du	na	PKW	RF	EK		8,808460	53,082966
+1189	18.10.2019	23:54	Fr	5		Bremen	Teerhof	0	1	0	1	0							2	7		1	49				71		2019	10	18	du	tr	RF	-	SO		8,802130	53,073707
+1190	19.10.2019	07:20	Sa	5		Bremen	Lissaer Straße	0	1	0	2	4							2	6		24					21	71	2019	10	19	du	tr	PKW	RF	LV		8,770608	53,114184
+1191	19.10.2019	14:10	Sa	5		Bremen	Vahrer Straße	0	0	0	2	5							5	7		49		49			71	21	2019	10	19	he	tr	RF	PKW	SO		8,881920	53,076290
+1192	20.10.2019	05:09	So	5		Bremen	Gustav-Deetjen-Allee	0	0	1	1	0							3	7		49				73	71		2019	10	20	du	na	RF	-	SO		8,817319	53,085520
+1193	21.10.2019	15:15	Mo	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	1						8	3	6		37	13				71	71	2019	10	21	he	tr	RF	RF	LV		8,837127	53,082372
+1194	21.10.2019	15:56	Mo	5		Bremen	Walliser Straße	0	0	0	2	1							5	7		11					71	21	2019	10	21	he	tr	RF	PKW	SO		8,952347	53,070846
+1195	21.10.2019	17:30	Mo	5		Bremen	Vegesacker Straße	0	0	0	2	1							5	5		49					71	21	2019	10	21	he	tr	RF	PKW	RV		8,782898	53,099545
+1196	21.10.2019	19:00	Mo	5		Bremen	Brüggeweg	0	0	0	2	4							5	6		9					71	71	2019	10	21	du	tr	RF	RF	LV		8,894395	53,053377
+1197	22.10.2019	07:32	Di	5		Bremen	Überseetor	0	0	1	2	5	1						3	3		28					21	71	2019	10	22	dä	tr	PKW	RF	EK		8,770482	53,095499
+1198	22.10.2019	07:50	Di	5		Bremen	Hammersbecker Straße	0	0	1	2	5	2		9				3	3		32					21	71	2019	10	22	dä	tr	PKW	RF	EK		8,593540	53,184333
+1199	22.10.2019	14:00	Di	5		Bremen	Hohentorsheerstraße	0	0	0	2	5	1						5	3		27					71	21	2019	10	22	he	tr	RF	PKW	EK		8,783279	53,069721
+1200	22.10.2019	15:40	Di	5		Bremen	Zum Panrepel	0	0	1	2	1							3	7		45					40	71	2019	10	22	he	tr	LKW	RF	SO		8,962984	53,043788
+1201	22.10.2019	16:30	Di	5		Bremen	Konsul-Smidt-Straße	0	0	1	2	5	3						3	2		2	34				21	71	2019	10	22	he	tr	PKW	RF	AB		8,772933	53,092008
+1202	22.10.2019	18:00	Di	5		Bremen	Vor dem Steintor	0	0	0	2	2	2					8	5	5		14					21	71	2019	10	22	dä	tr	PKW	RF	RV		8,828338	53,072387
+1203	22.10.2019	18:10	Di	5		Bremen	Herbststraße	0	0	1	2	5	1						3	3		10					71	21	2019	10	22	dä	tr	RF	PKW	EK		8,805547	53,090847
+1204	23.10.2019	07:50	Mi	5		Bremen	Hastedter Heerstraße	0	0	1	2	5	2						3	2		35					21	71	2019	10	23	he	tr	PKW	RF	AB		8,858070	53,069467
+1205	23.10.2019	09:00	Mi	5		Bremen	Hemelinger Heerstraße	0	0	0	2	1	2						5	5		10	14				71	21	2019	10	23	he	tr	RF	PKW	RV		8,896120	53,045189
+1206	23.10.2019	18:50	Mi	5		Bremen	Arberger Heerstraße	0	0	1	2	5	2						3	3		28					21	71	2019	10	23	du	tr	PKW	RF	EK		8,918146	53,038893
+1207	23.10.2019	23:20	Mi	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	1	2	5	1		3				3	2		34					21	71	2019	10	23	du	tr	PKW	RF	AB		8,801309	53,071484
+1208	24.10.2019	13:10	Do	5		Bremen	Hemmstraße	0	0	1	2	2							3	6		14					71	71	2019	10	24	he	tr	RF	RF	LV		8,803761	53,093072
+1209	24.10.2019	15:05	Do	5		Bremen	Bismarckstraße	0	0	1	2	1							3	7		49				89	71	21	2019	10	24	he	tr	RF	PKW	SO		8,853953	53,073341
+1210	24.10.2019	16:02	Do	5		Bremen	Gabriel-Seidl-Straße	0	0	0	2	5	1						5	3		28					21	71	2019	10	24	he	tr	PKW	RF	EK		8,830443	53,085644
+1211	25.10.2019	11:10	Fr	5		Bremen	Gröpelinger Heerstraße	0	0	0	2	1	3						5	7		49					71	21	2019	10	25	he	tr	RF	PKW	SO		8,755567	53,119178
+1212	25.10.2019	14:30	Fr	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	3	2						3	6		36		49			21	71	2019	10	25	he	tr	PKW	RF	LV		8,747220	53,126277
+1213	25.10.2019	14:43	Fr	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	5						8	3	3		49		9			21	71	2019	10	25	he	tr	PKW	RF	EK		8,751965	53,122218
+1214	25.10.2019	14:45	Fr	5		Bremen	Lupinenstraße	0	0	1	2	6							3	7		68					81	71	2019	10	25	he	tr	FG	RF	SO		8,755792	53,124583
+1215	25.10.2019	15:30	Fr	5		Bremen	Turnerstraße	0	0	0	2	5							5	3		37					71	21	2019	10	25	he	tr	RF	PKW	EK		8,547913	53,195769
+1216	25.10.2019	15:30	Fr	5		Bremen	Stadtländerstraße	0	0	0	2	0							5	7		49					71	21	2019	10	25	dä	tr	RF	PKW	SO		8,904483	53,089381
+1217	25.10.2019	20:55	Fr	5		Bremen	Dechanatstraße	0	0	0	2	1							5	7		14	49				71	21	2019	10	25	du	tr	RF	PKW	SO		8,809061	53,074088
+1218	26.10.2019	11:10	Sa	5		Bremen	Findorffstraße	0	0	1	2	5							3	3		35					21	71	2019	10	26	he	tr	PKW	RF	EK		8,804587	53,085841
+1219	26.10.2019	12:55	Sa	5		Bremen	Züricher Straße	0	0	0	2	1							5	5		49					71	21	2019	10	26	he	tr	RF	PKW	RV		8,938708	53,063777
+1220	26.10.2019	16:05	Sa	5		Bremen	Louis-Leitz-Straße	0	1	0	2	5	7						2	3		28					21	71	2019	10	26	he	tr	PKW	RF	EK		8,908646	53,085099
+1221	28.10.2019	08:05	Mo	5		Bremen	Überseetor	0	0	1	2	2	2						3	7		49					21	71	2019	10	28	he	tr	PKW	RF	SO		8,782456	53,087087
+1222	28.10.2019	15:10	Mo	5		Bremen	Auf den Kahlken	0	0	0	3	2							5	6		14					71	71	2019	10	28	he	tr	RF	RF	LV		8,727881	53,044947
+1223	29.10.2019	07:00	Di	2	6	Bremen	Kattenturmer Heerstraße	0	0	1	2	5	1						3	2		34				73	44	71	2019	10	29	he	na	LKW	RF	AB		8,818346	53,046679
+1224	29.10.2019	07:40	Di	5		Bremen	Grambker Heerstraße	0	0	0	3	3							5	6		28		14			21	71	2019	10	29	he	tr	PKW	RF	LV		8,711493	53,147375
+1225	29.10.2019	08:10	Di	5		Bremen	Tiefer	0	0	1	2	4							3	7		49		49			71	71	2019	10	29	he	tr	RF	RF	SO		8,808428	53,072351
+1226	29.10.2019	08:55	Di	5		Bremen	Altenwall	0	0	1	2	5	2						3	3		31					71	21	2019	10	29	he	tr	RF	PKW	EK		8,810632	53,071784
+1227	29.10.2019	09:09	Di	5		Bremen	Fresenbergstraße	0	0	1	2	4	1						3	2		35				82	21	72	2019	10	29	he	na	PKW	RF	AB		8,560602	53,184320
+1228	29.10.2019	09:10	Di	5		Bremen	Nansenstraße	0	0	1	2	5	1						3	3		36					40	71	2019	10	29	he	na	LKW	RF	EK		8,793166	53,091443
+1229	29.10.2019	11:19	Di	5		Bremen	Hammersbecker Straße	0	0	1	2	3	1					8	3	2		34					33	71	2019	10	29	he	tr	BUS	RF	AB		8,619439	53,184050
+1230	29.10.2019	12:50	Di	5		Bremen	Pfalzburger Straße	0	0	1	2	5	3						3	2		34					21	71	2019	10	29	he	tr	PKW	RF	AB		8,874992	53,062215
+1231	29.10.2019	14:50	Di	5		Bremen	Schwachhauser Ring	0	0	1	2	3	1		9			8	3	2		34					21	72	2019	10	29	he	tr	PKW	RF	AB		8,849868	53,085244
+1232	29.10.2019	16:00	Di	5		Bremen	Vorstraße	0	0	0	2	5							5	3		37					71	21	2019	10	29	he	tr	RF	PKW	EK		8,871419	53,101885
+1233	29.10.2019	17:20	Di	5		Bremen	An der Weide	0	0	0	2	1	1		5				5	7		49					33	71	2019	10	29	he	tr	BUS	RF	SO		8,819166	53,080405
+1234	29.10.2019	17:50	Di	5		Bremen	Landrat-Christians-Straße	0	0	1	2	5	2					8	3	3		34					21	71	2019	10	29	du	tr	PKW	RF	EK		8,579520	53,182917
+1235	30.10.2019	09:10	Mi	5		Bremen	Ricarda-Huch-Straße	0	0	0	2	0							5	7		14					21	71	2019	10	30	he	tr	PKW	RF	SO		8,825460	53,101244
+1236	30.10.2019	09:35	Mi	5		Bremen	Präsident-Kennedy-Platz	0	0	1	3	5							3	3		4	37				21	71	2019	10	30	he	tr	PKW	RF	EK		8,815182	53,077090
+1237	30.10.2019	12:30	Mi	5		Bremen	Wartburgstraße	0	0	0	3	6							5	4		69					81	71	2019	10	30	he	tr	FG	RF	ÜS		8,788719	53,093565
+1238	30.10.2019	14:50	Mi	5		Bremen	Senator-Apelt-Straße	0	0	0	2	5	1		8				5	3		28					21	71	2019	10	30	he	tr	PKW	RF	EK		8,733605	53,087116
+1239	30.10.2019	14:55	Mi	5		Bremen	Am Weser-Terminal	0	0	0	2	7							5	7		49				82	71	84	2019	10	30	he	tr	RF	FG	SO		8,786723	53,081968
+1240	30.10.2019	15:55	Mi	5		Bremen	Bachstraße	0	0	1	2	1							3	5		45					21	71	2019	10	30	he	tr	PKW	RF	RV		8,795148	53,068172
+1241	30.10.2019	17:55	Mi	5		Bremen	Bardenflethstraße	0	0	1	1	0							3	7		4				89	71		2019	10	30	du	na	RF	-	SO		8,767465	53,061293
+1242	30.10.2019	18:00	Mi	5		Bremen	Koringstraße	0	0	0	2	1							5	5		14					71	21	2019	10	30	du	tr	RF	PKW	RV		8,633430	53,185689
+1243	31.10.2019	19:30	Do	5		Bremen	Rotdornallee	0	0	1	2	5	1						3	3		28					21	71	2019	10	31	du	na	PKW	RF	EK		8,686071	53,173312
+1244	01.11.2019	08:45	Fr	5		Bremen	Halmerweg	0	0	1	2	5	1						3	2		35					71	21	2019	11	01	he	tr	RF	PKW	AB		8,759467	53,119957
+1245	01.11.2019	09:00	Fr	5		Bremen	Kurt-Schumacher-Allee	0	0	1	1	0							3	1		49					71		2019	11	01	he	tr	RF	-	F		8,884103	53,078899
+1246	01.11.2019	10:00	Fr	2	6	Bremen	Neuenlander Straße	0	0	1	2	1							3	3		37		9			21	71	2019	11	01	he	tr	PKW	RF	EK		8,816356	53,049269
+1247	01.11.2019	10:20	Fr	5		Bremen	Weserstrandstraße	0	0	1	2	5	5		9				3	3		37					21	71	2019	11	01	he	tr	PKW	RF	EK		8,571164	53,181222
+1248	01.11.2019	12:00	Fr	5		Bremen	Hans-Böckler-Straße	0	0	1	2	5						8	3	3		49					71	71	2019	11	01	he	na	RF	RF	EK		8,790176	53,086103
+1249	01.11.2019	13:00	Fr	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5							3	3		49					92	71	2019	11	01	he	tr	SOF	RF	EK		8,896855	53,059083
+1250	01.11.2019	13:15	Fr	5		Bremen	Hemmstraße	0	0	1	2	4	2						3	6		10				73	71	71	2019	11	01	he	na	RF	RF	LV		8,812148	53,097778
+1251	01.11.2019	18:45	Fr	5		Bremen	Hamburger Straße	0	0	1	2	6							3	1		64		49			81	71	2019	11	01	du	na	FG	RF	F		8,837859	53,069874
+1252	02.11.2019	15:50	Sa	5		Bremen	Straßburger Straße	0	0	1	1	0	3						3	7		49				89	71		2019	11	02	he	na	RF	-	SO		8,838189	53,078855
+1253	02.11.2019	17:40	Sa	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	5	2					9	3	3		27					21	72	2019	11	02	du	na	PKW	RF	EK		8,846354	53,047508
+1254	02.11.2019	19:30	Sa	5		Bremen	Karl-Carstens-Brücke	0	0	2	2	0							3	7		1	42				71	93	2019	11	02	du	na	RF	FG	SO		8,851756	53,055318
+1255	02.11.2019	23:58	Sa	2	74	Bremen	Bundesstraße B 74	0	1	0	2	5	1					8	2	3		1		49		73	71	21	2019	11	02	du	na	RF	PKW	EK		8,714121	53,180243
+1256	04.11.2019	07:40	Mo	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5	2						3	2		34				74	21	71	2019	11	04	dä	sch	PKW	RF	AB		8,862887	53,090190
+1257	04.11.2019	07:40	Mo	5		Bremen	Doventorstraße	0	0	1	2	5	1						3	3		31					92	71	2019	11	04	dä	na	SOF	RF	EK		8,796333	53,082450
+1258	04.11.2019	11:30	Mo	5		Bremen	Gustav-Deetjen-Allee	0	0	1	2	5	1						3	2		34					51	71	2019	11	04	he	tr	LKW	RF	AB		8,815138	53,082277
+1259	04.11.2019	13:06	Mo	5		Bremen	Vor dem Steintor	0	0	1	1	0							3	1		49	14			73	71		2019	11	04	he	na	RF	-	F		8,830435	53,071637
+1260	04.11.2019	16:30	Mo	5		Bremen	In der Vahr	0	0	1	2	5	2		4				3	3		37					21	71	2019	11	04	dä	na	PKW	RF	EK		8,879672	53,078120
+1261	04.11.2019	18:00	Mo	5		Bremen	Hohweg	0	0	1	1	0	2						3	1		49				73	71		2019	11	04	du	na	RF	-	F		8,798927	53,113627
+1262	04.11.2019	22:20	Mo	5		Bremen	Wartburgstraße	0	0	1	2	4							3	6		14					71	71	2019	11	04	du	sch	RF	RF	LV		8,787501	53,094742
+1263	05.11.2019	07:45	Di	5		Bremen	Stresemannstraße	0	0	1	2	5	3						3	3		49					21	71	2019	11	05	he	sch	PKW	RF	EK		8,858011	53,072461
+1264	05.11.2019	08:30	Di	5		Bremen	Sebaldsbrücker Heerstraße	0	0	0	2	1	3						5	7		14	49			73	92	71	2019	11	05	he	na	SOF	RF	SO		8,885487	53,063042
+1265	05.11.2019	12:05	Di	5		Bremen	Martinistraße	0	0	0	2	0							5	3		37					71	33	2019	11	05	he	tr	RF	BUS	EK		8,804222	53,075816
+1266	05.11.2019	13:40	Di	5		Bremen	Stresemannstraße	0	0	0	2	5							5	3		36	37				40	71	2019	11	05	he	na	LKW	RF	EK		8,857957	53,072461
+1267	05.11.2019	18:20	Di	5		Bremen	Ostertorstraße	0	0	0	2	5	3						5	3		37				73	71	21	2019	11	05	du	na	RF	PKW	EK		8,809458	53,074582
+1268	05.11.2019	18:20	Di	5		Bremen	Martinistraße	0	0	1	2	5							3	2		34					21	71	2019	11	05	du	na	PKW	RF	AB		8,805724	53,074111
+1269	05.11.2019	20:00	Di	5		Bremen	Wachmannstraße	0	0	1	2	6							3	4		50	13			73	71	81	2019	11	05	du	na	RF	FG	ÜS		8,831929	53,086063
+1270	05.11.2019	22:50	Di	5		Bremen	Wielandstraße	0	0	1	1	0	2						3	7		1	49				71		2019	11	05	du	na	RF	-	SO		8,827106	53,073006
+1271	05.11.2019	23:15	Di	5		Bremen	Balgebrückstraße	0	0	1	1	0							3	1		49					71		2019	11	05	du	na	RF	-	F		8,807365	53,074174
+1272	06.11.2019	14:15	Mi	5		Bremen	Louis-Krages-Straße	0	0	2	2	5	3		9				3	3		37					21	71	2019	11	06	he	na	PKW	RF	EK		8,745481	53,122620
+1273	06.11.2019	20:25	Mi	5		Bremen	Sankt-Magnus-Straße	0	0	1	2	1							3	5		45					21	71	2019	11	06	du	sch	PKW	RF	RV		8,789035	53,094220
+1274	07.11.2019	12:00	Do	5		Bremen	Otto-Suhr-Straße	0	0	1	2	5	3						3	3		28					21	71	2019	11	07	he	tr	PKW	RF	EK		8,892525	53,081212
+1275	07.11.2019	17:10	Do	5		Bremen	Hemmstraße	0	0	1	2	5	1		9			8	3	3		35					33	71	2019	11	07	du	na	BUS	RF	EK		8,808245	53,094629
+1276	07.11.2019	19:00	Do	5		Bremen	Schwachhauser Ring	0	1	0	2	4	1					8	2	3		35				73	21	71	2019	11	07	du	na	PKW	RF	EK		8,847137	53,087007
+1277	07.11.2019	20:10	Do	5		Bremen	Vegesacker Straße	0	0	1	2	1							3	5		45					21	71	2019	11	07	du	na	PKW	RF	RV		8,783027	53,099393
+1278	08.11.2019	11:25	Fr	5		Bremen	Kreinsloger	0	0	1	2	5	3						3	3		36		10			21	71	2019	11	08	he	tr	PKW	RF	EK		8,570687	53,195711
+1279	08.11.2019	13:30	Fr	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	5	1						3	2		34					21	71	2019	11	08	he	tr	PKW	RF	AB		8,801507	53,079796
+1280	08.11.2019	13:30	Fr	5		Bremen	Daniel-Von-Büren-Straße	0	0	1	1	0							3	1		9	49				71		2019	11	08	he	na	RF	-	F		8,798912	53,083730
+1281	08.11.2019	15:15	Fr	5		Bremen	Lesumer Heerstraße	0	0	1	2	3							3	2		35					21	71	2019	11	08	he	tr	PKW	RF	AB		8,684571	53,171006
+1282	08.11.2019	16:00	Fr	5		Bremen	Abfahrt Stephanibrücke / B 6	0	0	1	2	2							3	6		14	49	14	49		72	72	2019	11	08	he	tr	RF	RF	LV		8,790575	53,080331
+1283	08.11.2019	17:10	Fr	5		Bremen	Klausstraße	0	0	0	2	5	3						5	3		10		35			71	21	2019	11	08	dä	tr	RF	PKW	EK		8,889833	53,052080
+1284	08.11.2019	19:05	Fr	5		Bremen	Ludwig-Roselius-Allee	0	0	1	2	4			9				3	6		9					71	71	2019	11	08	du	na	RF	RF	LV		8,928086	53,072351
+1285	09.11.2019	14:50	Sa	5		Bremen	Kurfürstenallee	0	0	1	2	3			8				3	6		49		49			33	71	2019	11	09	he	tr	BUS	RF	LV		8,850045	53,081333
+1286	10.11.2019	14:00	So	5		Bremen	Dietrich-Bonhoeffer-Straße	0	1	0	2	5	2		8				2	3		28					21	72	2019	11	10	he	tr	PKW	RF	EK		8,904499	53,078491
+1287	10.11.2019	18:25	So	5		Bremen	Bredenstraße	0	0	1	2	5							3	3		37					21	71	2019	11	10	du	tr	PKW	RF	EK		8,804938	53,075556
+1288	11.11.2019	14:45	Mo	5		Bremen	Hastedter Heerstraße	0	0	1	2	5	2		4				3	3		31					6	71	2019	11	11	he	tr	KRD	RF	EK		8,867458	53,066898
+1289	11.11.2019	15:10	Mo	5		Bremen	Kremser Straße	0	0	1	2	5	3						3	2		35					21	71	2019	11	11	he	tr	PKW	RF	AB		8,862254	53,102841
+1290	11.11.2019	16:55	Mo	5		Bremen	Waller Ring	0	0	1	2	5	2						3	3		27					21	71	2019	11	11	du	tr	PKW	RF	EK		8,783802	53,101769
+1291	12.11.2019	07:30	Di	5		Bremen	Hamburger Straße	0	0	0	2	1							5	7		49	14				71	21	2019	11	12	dä	tr	RF	PKW	SO		8,842653	53,069017
+1292	12.11.2019	10:45	Di	5		Bremen	Vor dem Steintor	0	0	0	2	1	2						5	7		36					44	71	2019	11	12	he	tr	LKW	RF	SO		8,828794	53,072184
+1293	12.11.2019	12:00	Di	5		Bremen	Leipziger Straße	0	0	2	2	6							3	4		42					71	81	2019	11	12	he	tr	RF	FG	ÜS		8,816099	53,092822
+1294	12.11.2019	15:50	Di	5		Bremen	Kap-Horn-Straße	0	0	1	2	0	3		6				3	3		37					21	72	2019	11	12	he	na	PKW	RF	EK		8,736469	53,116871
+1295	13.11.2019	07:53	Mi	5		Bremen	Eduard-Schopf-Allee	0	0	1	2	5	2		8				3	3		28		10			21	71	2019	11	13	he	tr	PKW	RF	EK		8,787018	53,082957
+1296	13.11.2019	13:00	Mi	5		Bremen	Alte Heerstraße	0	0	1	2	5							3	3		37		10			21	71	2019	11	13	he	tr	PKW	RF	EK		8,733886	53,058593
+1297	13.11.2019	14:00	Mi	5		Bremen	Schubertstraße	0	0	1	2	1							3	5		45					21	71	2019	11	13	he	tr	PKW	RF	RV		8,835609	53,084091
+1298	13.11.2019	17:10	Mi	5		Bremen	Steffensweg	0	0	0	2	5	1						5	2		34					21	71	2019	11	13	du	tr	PKW	RF	AB		8,782898	53,094053
+1299	13.11.2019	17:15	Mi	5		Bremen	Falkenstraße	0	0	2	3	4			9				3	4		66					81	72	2019	11	13	du	tr	FG	RF	ÜS		8,805131	53,083612
+1300	13.11.2019	17:45	Mi	5		Bremen	Hemelinger Hafendamm	0	0	1	2	3							3	2		49					71	71	2019	11	13	du	na	RF	RF	AB		8,883634	53,048235
+1301	13.11.2019	18:33	Mi	5		Bremen	Bürgermeister-Smidt-Straße	0	0	0	2	5	2						5	3		37		10			21	71	2019	11	13	du	tr	PKW	RF	EK		8,800526	53,078845
+1302	14.11.2019	09:15	Do	5		Bremen	Autobahnzubringer Horn-Lehe /	0	0	1	2	5							3	3		37					71	71	2019	11	14	he	tr	RF	RF	EK		8,886158	53,109773
+1303	14.11.2019	09:40	Do	5		Bremen	Osterdeich	0	0	0	2	5	2					8	5	3		14					21	71	2019	11	14	he	tr	PKW	RF	EK		8,824488	53,068931
+1304	14.11.2019	13:20	Do	5		Bremen	Schevemoorer Landstraße	0	0	1	2	5	3						3	3		37					21	71	2019	11	14	he	tr	PKW	RF	EK		8,943852	53,077999
+1305	14.11.2019	14:40	Do	5		Bremen	Auf dem Dreieck	0	0	1	2	5	3						3	3		37				73	21	71	2019	11	14	he	na	PKW	RF	EK		8,786047	53,080002
+1306	14.11.2019	17:50	Do	5		Bremen	Westerstraße	0	0	1	2	5	3						3	3		37		9			21	71	2019	11	14	du	tr	PKW	RF	EK		8,797125	53,073590
+1307	14.11.2019	18:35	Do	5		Bremen	Riensberger Straße	0	0	0	2	4							5	7		24					21	71	2019	11	14	du	tr	PKW	RF	SO		8,864239	53,094713
+1308	14.11.2019	20:05	Do	5		Bremen	Goetheplatz	0	0	1	2	5	2		9				3	2		34		49			21	71	2019	11	14	du	tr	PKW	RF	AB		8,815876	53,072533
+1309	15.11.2019	07:35	Fr	5		Bremen	Gustav-Heinemann-Straße	0	0	1	1	0							3	7		51	49				71		2019	11	15	dä	tr	RF	-	SO		8,818786	53,099123
+1310	15.11.2019	11:00	Fr	5		Bremen	Hollerallee	0	0	1	2	5	1					8	3	2		35					21	71	2019	11	15	he	tr	PKW	RF	AB		8,831677	53,081181
+1311	15.11.2019	11:30	Fr	5		Bremen	Ritterhuder Heerstraße	0	0	1	2	5	3						3	3		37		49			21	72	2019	11	15	he	tr	PKW	RF	EK		8,736947	53,133940
+1312	15.11.2019	12:25	Fr	5		Bremen	An der Weserbahn	0	0	1	2	0							3	1		28					21	71	2019	11	15	he	tr	PKW	RF	F		8,797382	53,086219
+1313	15.11.2019	17:30	Fr	5		Bremen	Beim Ohlenhof	0	0	0	2	1							5	2		13					71	21	2019	11	15	du	tr	RF	PKW	AB		8,759064	53,117913
+1314	16.11.2019	10:30	Sa	5		Bremen	Vor dem Steintor	0	0	1	1	0							3	7		49				89	71		2019	11	16	he	na	RF	-	SO		8,832321	53,070936
+1315	16.11.2019	14:40	Sa	5		Bremen	Dithmarscher Freiheit	0	0	0	2	1							5	6		49	14				71	21	2019	11	16	he	na	RF	PKW	LV		8,797382	53,103767
+1316	16.11.2019	16:30	Sa	5		Bremen	Schönauenstraße	0	0	1	1	0							3	7		49				73	71		2019	11	16	du	na	RF	-	SO		8,888851	53,097812
+1317	16.11.2019	19:30	Sa	5		Bremen	Auf dem Peterswerder	0	0	1	1	0							3	1		49					71		2019	11	16	du	na	RF	-	F		8,836349	53,067713
+1318	16.11.2019	23:00	Sa	5		Bremen	Hannoversche Straße	0	0	0	2	5	3		9				6	2		1	34	10			21	71	2019	11	16	du	na	PKW	RF	AB		8,891815	53,048757
+1319	17.11.2019	17:05	So	5		Bremen	Tiefer	0	0	0	3	5							5	3		37					71	21	2019	11	17	du	tr	RF	PKW	EK		8,808977	53,072145
+1320	18.11.2019	13:45	Mo	5		Bremen	Am Stern	0	0	0	2	2							5	6		49					71	21	2019	11	18	he	na	RF	PKW	LV		8,824952	53,084158
+1321	18.11.2019	14:30	Mo	5		Bremen	Parkallee	0	0	1	2	5	7		8				3	3		49					21	71	2019	11	18	dä	na	PKW	RF	EK		8,824756	53,084131
+1322	18.11.2019	16:25	Mo	5		Bremen	Am Werfttor	0	0	1	2	3	4						3	6		22				73	21	71	2019	11	18	du	na	PKW	RF	LV		8,599811	53,177520
+1323	18.11.2019	16:35	Mo	5		Bremen	Buntentorsteinweg	0	0	1	2	5							3	2		32				73	21	71	2019	11	18	du	na	PKW	RF	AB		8,802368	53,067481
+1324	18.11.2019	16:40	Mo	5		Bremen	In der Vahr	0	0	1	2	5	3						3	3		37					21	71	2019	11	18	du	na	PKW	RF	EK		8,877114	53,080872
+1325	18.11.2019	16:50	Mo	5		Bremen	Kornstraße	0	0	0	2	5	1						5	2		34					21	71	2019	11	18	du	na	PKW	RF	AB		8,804418	53,062112
+1326	18.11.2019	16:55	Mo	5		Bremen	Stader Straße	0	0	1	2	5	1					8	3	3		10				81	21	72	2019	11	18	du	na	PKW	RF	EK		8,854320	53,075129
+1327	18.11.2019	17:30	Mo	5		Bremen	Zur Vegesacker Fähre	0	0	1	2	5	2		8				3	2		35					21	71	2019	11	18	du	na	PKW	RF	AB		8,627711	53,171308
+1328	18.11.2019	17:45	Mo	5		Bremen	Utbremer Ring	0	0	1	2	5	2						3	2		35				73	21	71	2019	11	18	du	na	PKW	RF	AB		8,821860	53,095644
+1329	18.11.2019	23:05	Mo	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	6							3	7		69		50		73	81	71	2019	11	18	du	na	FG	RF	SO		8,889924	53,061521
+1330	19.11.2019	08:30	Di	5		Bremen	Ohmstraße	0	1	0	2	0	2						2	7		32					21	71	2019	11	19	he	na	PKW	RF	SO		8,891597	53,108495
+1331	19.11.2019	09:45	Di	5		Bremen	Kreftingstraße	0	0	1	2	5	2						3	3		28				73	40	71	2019	11	19	he	na	LKW	RF	EK		8,822724	53,074303
+1332	19.11.2019	09:45	Di	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	5	2		4				3	3		31				73	21	71	2019	11	19	he	na	PKW	RF	EK		8,741163	53,052642
+1333	19.11.2019	15:45	Di	5		Bremen	Achterstraße	0	1	0	2	5	2						2	3		28		28			21	71	2019	11	19	du	na	PKW	RF	EK		8,861664	53,099300
+1334	20.11.2019	15:10	Mi	5		Bremen	Stresemannstraße	0	0	0	2	1	3		3				5	7		49	36	49			21	71	2019	11	20	he	na	PKW	RF	SO		8,869185	53,068870
+1335	20.11.2019	17:05	Mi	5		Bremen	Bayernstraße	0	0	1	2	5	2						3	3		37					71	21	2019	11	20	du	tr	RF	PKW	EK		8,798322	53,104406
+1336	21.11.2019	06:20	Do	5		Bremen	Kornstraße	0	0	1	2	5							3	2		34				73	40	71	2019	11	21	du	na	LKW	RF	AB		8,806829	53,060457
+1337	21.11.2019	12:16	Do	5		Bremen	Vor dem Steintor	0	0	1	1	0							3	1		49					71		2019	11	21	he	na	RF	-	F		8,827151	53,072750
+1338	21.11.2019	13:00	Do	5		Bremen	An der Kämenade	0	0	1	2	0	1						3	2		14					21	71	2019	11	21	he	na	PKW	RF	AB		8,931584	53,062236
+1339	21.11.2019	17:05	Do	5		Bremen	Neidenburger Straße	0	0	1	2	5	1						3	3		28					21	71	2019	11	21	du	tr	PKW	RF	EK		8,868048	53,072951
+1340	21.11.2019	17:35	Do	5		Bremen	Autobahnzubringer Universität	0	0	1	2	5							3	2		34				73	21	71	2019	11	21	du	na	PKW	RF	AB		8,858194	53,104998
+1341	21.11.2019	18:45	Do	5		Bremen	Bennigsenstraße	0	0	1	2	5						8	3	2		35				74	21	71	2019	11	21	du	sch	PKW	RF	AB		8,856949	53,072686
+1342	22.11.2019	13:30	Fr	5		Bremen	Schwachhauser Heerstraße	0	0	0	2	5						8	5	2		34					21	71	2019	11	22	he	tr	PKW	RF	AB		8,870601	53,091305
+1343	22.11.2019	13:55	Fr	5		Bremen	Grambker Heerstraße	0	0	1	2	5	2						3	3		28					21	71	2019	11	22	he	tr	PKW	RF	EK		8,712426	53,145106
+1344	22.11.2019	14:15	Fr	5		Bremen	Bürgermeister-Smidt-Straße	0	0	0	2	5	1					8	5	3		31					71	21	2019	11	22	he	tr	RF	PKW	EK		8,801027	53,078864
+1345	22.11.2019	16:45	Fr	5		Bremen	Waller Straße	0	0	1	2	3							3	6		23				73	21	71	2019	11	22	dä	na	PKW	RF	LV		8,782947	53,153867
+1346	23.11.2019	13:00	Sa	5		Bremen	Schubertstraße	0	0	0	2	1							5	7		10					71	21	2019	11	23	he	tr	RF	PKW	SO		8,834842	53,084980
+1347	23.11.2019	14:10	Sa	5		Bremen	Chemnitzer Straße	0	0	1	1	0							3	7		49					71		2019	11	23	he	tr	RF	-	SO		8,814007	53,092516
+1348	23.11.2019	16:35	Sa	5		Bremen	Schwarzer Weg	0	1	0	1	0							2	7		1	49				71		2019	11	23	dä	tr	RF	-	SO		8,753692	53,123394
+1349	23.11.2019	19:45	Sa	5		Bremen	Frieslandstraße	0	0	2	2	4							3	6		1	10				71	71	2019	11	23	du	tr	RF	RF	LV		8,758772	53,058447
+1350	24.11.2019	16:21	So	5		Bremen	Alter Postweg	0	0	0	2	5	1						5	3		27					71	21	2019	11	24	du	tr	RF	PKW	EK		8,873037	53,063787
+1351	25.11.2019	07:30	Mo	5		Bremen	Heinrich-Plett-Allee	0	0	1	2	5			3				3	3		49					40	71	2019	11	25	dä	tr	LKW	RF	EK		8,715497	53,053965
+1352	25.11.2019	13:20	Mo	5		Bremen	Friedrichsdorfer Straße	0	0	1	2	0	1		8				3	2		34					21	71	2019	11	25	he	tr	PKW	RF	AB		8,636037	53,171286
+1353	26.11.2019	07:00	Di	5		Bremen	Am Stern	0	1	0	2	5	7		8				2	3		28					21	71	2019	11	26	du	na	PKW	RF	EK		8,825029	53,084591
+1354	26.11.2019	07:55	Di	5		Bremen	Nordstraße	0	0	1	2	5	2						3	2		34					21	71	2019	11	26	he	tr	PKW	RF	AB		8,778494	53,094886
+1355	26.11.2019	08:00	Di	5		Bremen	Am Rabenfeld	0	0	1	2	5	2						3	3		28				73	21	71	2019	11	26	he	na	PKW	RF	EK		8,625474	53,181298
+1356	26.11.2019	15:45	Di	5		Bremen	Am Wasser	0	1	0	1	0	5						2	1		13					72		2019	11	26	dä	na	RF	-	F		8,630120	53,165615
+1357	26.11.2019	18:25	Di	5		Bremen	Admiralstraße	0	0	1	2	5	2						3	3		36					21	71	2019	11	26	du	tr	PKW	RF	EK		8,804935	53,091527
+1358	27.11.2019	08:55	Mi	5		Bremen	Seewenjestraße	0	0	1	2	5	1						3	2		35					21	71	2019	11	27	he	tr	PKW	RF	AB		8,770512	53,113985
+1359	27.11.2019	09:40	Mi	5		Bremen	Hans-Böckler-Straße	0	0	1	2	5	2	5					3	3		1	37				71	71	2019	11	27	he	sch	RF	RF	EK		8,793396	53,085299
+1360	27.11.2019	16:00	Mi	5		Bremen	Schlengstraße	0	0	0	2	5	3					8	5	3		49					71	21	2019	11	27	he	sch	RF	PKW	EK		8,893228	53,050107
+1361	27.11.2019	16:40	Mi	5		Bremen	Carl-Goerdeler-Straße	0	0	0	2	5							5	3		37					71	21	2019	11	27	du	na	RF	PKW	EK		8,899934	53,076151
+1362	27.11.2019	17:30	Mi	5		Bremen	Universitäts-Boulevard	0	0	0	2	5	2					8	5	2		34				74	32	72	2019	11	27	du	sch	BUS	RF	AB		8,845587	53,106295
+1363	27.11.2019	18:30	Mi	5		Bremen	Bergiusstraße	0	0	1	2	0							3	7		45		50		73	21	71	2019	11	27	du	na	PKW	RF	SO		8,894805	53,111499
+1364	27.11.2019	21:40	Mi	5		Bremen	Bundesautobahn A 270	0	0	0	2	5	2	5					5	3		28					21	71	2019	11	27	du	na	PKW	RF	EK		8,577071	53,188409
+1365	28.11.2019	07:50	Do	5		Bremen	Konsul-Smidt-Straße	0	0	1	2	5	2						3	3		37					71	21	2019	11	28	du	na	RF	PKW	EK		8,781662	53,087579
+1366	28.11.2019	13:42	Do	5		Bremen	Bahnhofstraße	0	0	1	2	1	1						3	7		11				73	71	33	2019	11	28	he	na	RF	BUS	SO		8,811061	53,081272
+1367	28.11.2019	15:05	Do	5		Bremen	Bismarckstraße	0	0	0	2	1							5	7		14	49				71	21	2019	11	28	he	na	RF	PKW	SO		8,840550	53,076286
+1368	28.11.2019	16:15	Do	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	3	3						3	2		34					21	71	2019	11	28	dä	na	PKW	RF	AB		8,739814	53,050204
+1369	28.11.2019	20:06	Do	5		Bremen	Bahnhofsplatz	0	0	1	2	6							3	4		69					81	71	2019	11	28	du	na	FG	RF	ÜS		8,812652	53,082538
+1370	29.11.2019	07:00	Fr	5		Bremen	Georg-Bitter-Straße	0	0	1	2	4	1						3	2		35					21	71	2019	11	29	dä	tr	PKW	RF	AB		8,854470	53,067020
+1371	29.11.2019	07:15	Fr	5		Bremen	Stresemannstraße	0	0	1	2	4	1		3				3	2		34		9			21	71	2019	11	29	dä	tr	PKW	RF	AB		8,864349	53,071152
+1372	29.11.2019	11:30	Fr	5		Bremen	Leher Heerstraße	0	0	1	2	5	3						3	3		49		9		73	21	71	2019	11	29	he	na	PKW	RF	EK		8,880600	53,101535
+1373	29.11.2019	13:10	Fr	5		Bremen	Axstedter Straße	0	0	0	2	1							5	7		14	49				71	21	2019	11	29	he	na	RF	PKW	SO		8,749966	53,127999
+1374	29.11.2019	14:05	Fr	5		Bremen	Wachmannstraße	0	0	0	2	5	2		8				5	3		28				73	71	21	2019	11	29	he	na	RF	PKW	EK		8,825181	53,084423
+1375	29.11.2019	14:50	Fr	5		Bremen	Waller Heerstraße	0	0	1	3	0							3	7		69		69		73	81	81	2019	11	29	he	na	FG	FG	SO		8,790234	53,096512
+1376	29.11.2019	15:15	Fr	5		Bremen	Blumenthalstraße	0	0	1	2	6							3	4		42					71	81	2019	11	29	he	tr	RF	FG	ÜS		8,818663	53,084223
+1377	29.11.2019	16:10	Fr	5		Bremen	Friedhofstraße	0	0	1	2	5	3						3	2		35					21	71	2019	11	29	he	na	PKW	RF	AB		8,857008	53,091250
+1378	29.11.2019	16:30	Fr	5		Bremen	Am Herzogenkamp	0	1	0	2	5	2		8				2	3		28				73	21	71	2019	11	29	dä	na	PKW	RF	EK		8,862115	53,099332
+1379	29.11.2019	16:50	Fr	5		Bremen	Stresemannstraße	0	1	0	2	5	3						2	2		34				73	21	71	2019	11	29	du	na	PKW	RF	AB		8,867501	53,069847
+1380	29.11.2019	16:57	Fr	5		Bremen	Utbremer Straße	0	0	1	2	2	2						3	6		49	14			73	21	71	2019	11	29	du	na	PKW	RF	LV		8,790961	53,095415
+1381	29.11.2019	17:45	Fr	5		Bremen	Arsterdamm	0	0	0	2	5							5	3		50	9			73	71	21	2019	11	29	du	na	RF	PKW	EK		8,831956	53,040419
+1382	30.11.2019	10:45	Sa	5		Bremen	Hindenburgstraße	0	0	1	1	0							3	7		13					71		2019	11	30	he	na	RF	-	SO		8,690936	53,168726
+1383	30.11.2019	21:20	Sa	5		Bremen	Am Stern	0	0	1	2	5	1						3	3		37	28				21	71	2019	11	30	du	tr	PKW	RF	EK		8,825164	53,084230
+1384	01.12.2019	12:35	So	5		Bremen	Kohlenstraße	0	0	0	2	5	1						5	3		28					21	71	2019	12	01	he	tr	PKW	RF	EK		8,794866	53,093943
+1385	02.12.2019	07:55	Mo	5		Bremen	Straßburger Straße	0	0	2	2	0							3	7		45					40	71	2019	12	02	he	na	LKW	RF	SO		8,838498	53,079730
+1386	02.12.2019	08:34	Mo	5		Bremen	Huchtinger Heerstraße	0	0	1	2	5	2						3	2		49				89	21	71	2019	12	02	he	tr	PKW	RF	AB		8,727103	53,057417
+1387	02.12.2019	17:40	Mo	5		Bremen	August-Bebel-Allee	0	0	1	2	5							3	3		35					21	71	2019	12	02	du	na	PKW	RF	EK		8,885976	53,085963
+1388	03.12.2019	11:55	Di	5		Bremen	Albrechtstraße	0	0	1	2	3			7				3	2		36					71	71	2019	12	03	he	tr	RF	RF	AB		8,821324	53,074975
+1389	03.12.2019	12:15	Di	5		Bremen	In den Barken	0	0	1	2	5							3	3		30					21	71	2019	12	03	he	tr	PKW	RF	EK		8,769664	53,113231
+1390	03.12.2019	13:07	Di	5		Bremen	Sandstraße	0	0	0	2	1							5	5		36					44	72	2019	12	03	he	tr	LKW	RF	RV		8,810514	53,075218
+1391	03.12.2019	13:25	Di	5		Bremen	Lindenhofstraße	0	0	0	2	1							5	7		36					21	72	2019	12	03	he	tr	PKW	RF	SO		8,756036	53,113740
+1392	03.12.2019	14:45	Di	5		Bremen	Pfarrfeldsweg	0	0	5	2	5							3	2		35					71	31	2019	12	03	he	na	RF	BUS	AB		8,852354	53,045305
+1393	03.12.2019	15:20	Di	5		Bremen	Am Schwarzen Meer	0	0	0	2	5							5	2		34					21	71	2019	12	03	he	tr	PKW	RF	AB		8,836430	53,071597
+1394	03.12.2019	16:12	Di	5		Bremen	Parkallee	0	0	1	2	5	2						3	3		28	34				21	71	2019	12	03	he	tr	PKW	RF	EK		8,825714	53,084792
+1395	04.12.2019	17:00	Mi	5		Bremen	Johann-Jacobs-Straße	0	0	1	2	3							3	6		21	25				40	71	2019	12	04	du	tr	LKW	RF	LV		8,783870	53,086405
+1396	04.12.2019	18:05	Mi	5		Bremen	Kurfürstenallee	0	0	1	3	5	1						3	2		34					21	71	2019	12	04	du	tr	PKW	RF	AB		8,846472	53,081020
+1397	05.12.2019	07:50	Do	5		Bremen	Hammersbecker Straße	0	0	0	2	5							5	3		13		49			21	71	2019	12	05	dä	tr	PKW	RF	EK		8,632346	53,183347
+1398	05.12.2019	10:40	Do	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5	1		4				3	3		34					21	71	2019	12	05	he	tr	PKW	RF	EK		8,850002	53,085029
+1399	05.12.2019	11:55	Do	5		Bremen	Weserstrandstraße	0	0	1	2	5	2						3	3		37					21	71	2019	12	05	he	tr	PKW	RF	EK		8,571132	53,181220
+1400	05.12.2019	12:30	Do	5		Bremen	Colmarer Straße	0	0	1	2	7							3	7		69				87	83	71	2019	12	05	he	tr	FG	RF	SO		8,841861	53,080155
+1401	05.12.2019	14:15	Do	5		Bremen	Gottlieb-Daimler-Straße	0	0	1	2	5	1						3	2		35					21	71	2019	12	05	he	tr	PKW	RF	AB		8,713703	53,140077
+1402	06.12.2019	02:45	Fr	5		Bremen	Stader Landstraße	0	0	0	3	1							6	7		1	14				72	21	2019	12	06	du	na	RF	PKW	SO		8,710170	53,168046
+1403	06.12.2019	05:50	Fr	5		Bremen	Sulzbacher Straße	0	0	0	2	5	1						5	3		37	28			73	71	21	2019	12	06	du	na	RF	PKW	EK		8,907913	53,053472
+1404	06.12.2019	08:05	Fr	5		Bremen	Vorstraße	0	0	0	2	2	1						5	6		13	49			73	71	21	2019	12	06	he	na	RF	PKW	LV		8,873321	53,101358
+1405	06.12.2019	08:50	Fr	5		Bremen	Valckenburghstraße	0	0	0	2	2							5	6		36					21	71	2019	12	06	he	na	PKW	RF	LV		8,815023	53,051881
+1406	06.12.2019	12:50	Fr	5		Bremen	Tessiner Straße	0	0	1	2	3							3	2		35				73	21	71	2019	12	06	he	na	PKW	RF	AB		8,945574	53,068181
+1407	06.12.2019	14:10	Fr	5		Bremen	Timmersloher Straße	0	0	1	3	3							3	6		14					71	71	2019	12	06	he	sch	RF	RF	LV		8,806630	53,093705
+1408	06.12.2019	15:00	Fr	5		Bremen	Airbus-Allee	0	0	1	2	5							3	3		28				89	21	71	2019	12	06	dä	na	PKW	RF	EK		8,789545	53,054695
+1409	06.12.2019	23:35	Fr	5		Bremen	Am Wall	0	0	1	2	5	1		8			8	3	3		34		1		73	21	71	2019	12	06	du	na	PKW	RF	EK		8,803267	53,080189
+1410	07.12.2019	16:45	Sa	5		Bremen	Randweg	0	1	0	1	0							2	7		49					72		2019	12	07	du	na	RF	-	SO		8,736088	53,137265
+1411	07.12.2019	18:30	Sa	5		Bremen	Kreinsloger	0	0	0	2	5	1						5	3		35					21	71	2019	12	07	du	na	PKW	RF	EK		8,562235	53,192316
+1412	08.12.2019	00:35	So	5		Bremen	In der Vahr	0	1	1	2	5	1		2			8	2	3		1	2				71	61	2019	12	08	du	tr	RF	SOF	EK		8,878927	53,078922
+1413	08.12.2019	11:30	So	5		Bremen	Bahnhofsplatz	0	0	0	3	1							5	5		49		49		73	21	71	2019	12	08	he	na	PKW	RF	RV		8,813682	53,081827
+1414	08.12.2019	11:30	So	5		Bremen	Bahnhofsplatz	0	0	0	3	1							5	5		49				73	21	71	2019	12	08	he	na	PKW	RF	RV		8,813639	53,081823
+1415	08.12.2019	20:03	So	5		Bremen	Balgebrückstraße	0	0	1	2	6			5	2			3	4		41					71	81	2019	12	08	du	na	RF	FG	ÜS		8,808092	53,074456
+1416	09.12.2019	08:45	Mo	5		Bremen	Kurfürstenallee	0	0	1	2	5	3		9				3	2		34					21	71	2019	12	09	he	tr	PKW	RF	AB		8,843988	53,081088
+1417	09.12.2019	13:15	Mo	5		Bremen	Friedrich-Karl-Straße	0	0	1	2	5	3						3	2		35					21	71	2019	12	09	he	tr	PKW	RF	AB		8,844227	53,075381
+1418	09.12.2019	13:30	Mo	5		Bremen	Am Dobben	0	0	1	1	0			2				3	7		49					71		2019	12	09	he	tr	RF	-	SO		8,822595	53,074768
+1419	09.12.2019	17:30	Mo	5		Bremen	Kirchhooper Straße	0	0	1	2	5	2						3	3		28					21	71	2019	12	09	du	na	PKW	RF	EK		8,612401	53,184307
+1420	10.12.2019	09:20	Di	5		Bremen	Christernstraße	0	0	1	2	3							3	6		11	10			73	21	72	2019	12	10	he	na	PKW	RF	LV		8,899861	53,052895
+1421	10.12.2019	12:50	Di	5		Bremen	Schwachhauser Heerstraße	0	0	1	3	4							3	6		11				73	71	71	2019	12	10	he	na	RF	RF	LV		8,858016	53,089030
+1422	10.12.2019	13:30	Di	5		Bremen	Sebaldsbrücker Heerstraße	0	0	0	2	3	1						5	3		14					21	71	2019	12	10	he	tr	PKW	RF	EK		8,897670	53,059116
+1423	10.12.2019	13:55	Di	5		Bremen	Leher Heerstraße	0	0	0	2	5	3						5	3		37					21	71	2019	12	10	he	tr	PKW	RF	EK		8,870215	53,097596
+1424	10.12.2019	15:20	Di	5		Bremen	Bremerhavener Straße	0	0	1	2	5	2						3	3		28					21	71	2019	12	10	he	tr	PKW	RF	EK		8,771912	53,102736
+1425	10.12.2019	20:20	Di	5		Bremen	Nancystraße	0	0	1	2	7							3	7		69					83	71	2019	12	10	du	na	FG	RF	SO		8,846939	53,080482
+1426	11.12.2019	06:30	Mi	5		Bremen	Geeren	0	0	0	2	0							5	7		49					21	71	2019	12	11	du	na	PKW	RF	SO		8,797060	53,080186
+1427	11.12.2019	09:40	Mi	5		Bremen	Am Speicher XI	0	0	0	2	0							5	5		45				73	21	71	2019	12	11	he	na	PKW	RF	RV		8,768232	53,098279
+1428	11.12.2019	10:00	Mi	5		Bremen	Aumunder Feldstraße	0	0	1	2	0	1					8	3	7		49					21	71	2019	12	11	he	na	PKW	RF	SO		8,626147	53,183762
+1429	11.12.2019	15:00	Mi	5		Bremen	Hansestraße	0	0	1	2	4	1		8			8	3	2		34				73	21	71	2019	12	11	he	na	PKW	RF	AB		8,785436	53,088747
+1430	11.12.2019	17:20	Mi	5		Bremen	Wohldstraße	0	0	1	2	5							3	7		35					21	71	2019	12	11	du	tr	PKW	RF	SO		8,587344	53,182622
+1431	11.12.2019	20:26	Mi	5		Bremen	Eislebener Straße	0	0	1	1	0	1						3	7		49					71		2019	12	11	du	na	RF	-	SO		8,873114	53,079628
+1432	12.12.2019	07:50	Do	5		Bremen	Kurfürstenallee	0	0	0	2	5	1					8	5	2		35					40	71	2019	12	12	du	na	LKW	RF	AB		8,854014	53,082270
+1433	12.12.2019	14:15	Do	5		Bremen	Bürgermeister-Spitta-Allee	0	0	1	2	5	2						3	7		28					21	71	2019	12	12	he	tr	PKW	RF	SO		8,875308	53,082799
+1434	12.12.2019	16:40	Do	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	5							3	3		28		9			21	72	2019	12	12	dä	tr	PKW	RF	EK		8,846890	53,048314
+1435	13.12.2019	07:41	Fr	5		Bremen	Steffensweg	0	0	1	2	5							3	3		49					21	71	2019	12	13	dä	tr	PKW	RF	EK		8,784121	53,092965
+1436	13.12.2019	11:15	Fr	5		Bremen	Alte Heerstraße	0	0	1	2	5	1						3	3		28					21	71	2019	12	13	he	tr	PKW	RF	EK		8,733884	53,058432
+1437	14.12.2019	11:25	Sa	5		Bremen	Fährstraße	0	0	0	2	1							5	5		44				73	71	21	2019	12	14	he	na	RF	PKW	RV		8,859521	53,064248
+1438	14.12.2019	13:05	Sa	5		Bremen	Parallelweg	0	0	1	1	0							3	1		49					72		2019	12	14	he	na	RF	-	F		8,795886	53,094887
+1439	14.12.2019	13:14	Sa	5		Bremen	Wiedaustraße	0	0	0	2	5	2		4				5	3		28					21	72	2019	12	14	he	tr	PKW	RF	EK		8,786230	53,103030
+1440	14.12.2019	19:03	Sa	5		Bremen	In der Vahr	0	1	0	1	0							2	1		1	49			88	72		2019	12	14	du	na	RF	-	F		8,875751	53,081845
+1441	15.12.2019	12:20	So	5		Bremen	Hannoversche Straße	0	0	1	2	0							3	7		45		49			21	72	2019	12	15	he	na	PKW	RF	SO		8,884503	53,053720
+1442	16.12.2019	08:45	Mo	5		Bremen	Oldenburger Str, Abfahrt Heinr	0	0	1	2	5	1						3	3		28					21	72	2019	12	16	he	na	PKW	RF	EK		8,715366	53,050733
+1443	16.12.2019	11:38	Mo	5		Bremen	Karl-Kautsky-Straße	0	0	0	1	0							5	7		49	14				71		2019	12	16	he	tr	RF	-	SO		8,892295	53,080962
+1444	16.12.2019	13:34	Mo	5		Bremen	An der Weide	0	0	1	2	5	1					8	3	2		35					21	71	2019	12	16	he	tr	PKW	RF	AB		8,814141	53,081201
+1445	16.12.2019	14:00	Mo	5		Bremen	Am Stern	0	0	1	2	5	7		8				3	2		34				73	40	71	2019	12	16	he	na	LKW	RF	AB		8,824978	53,084152
+1446	16.12.2019	14:50	Mo	5		Bremen	Limburger Straße	0	0	1	2	5	1					8	3	2		34					21	71	2019	12	16	he	tr	PKW	RF	AB		8,712930	53,049772
+1447	16.12.2019	16:35	Mo	5		Bremen	Werderstraße	0	0	0	2	5							5	2		35					21	71	2019	12	16	du	tr	PKW	RF	AB		8,805702	53,071642
+1448	17.12.2019	16:50	Di	5		Bremen	Rockwinkeler Heerstraße	0	0	1	2	3							3	6		22		22			92	71	2019	12	17	du	na	SOF	RF	LV		8,920136	53,092020
+1449	17.12.2019	21:28	Di	5		Bremen	Vor dem Steintor	0	1	0	2	0			8				2	7		1	69				81	71	2019	12	17	du	na	FG	RF	SO		8,824896	53,072986
+1450	18.12.2019	08:10	Mi	5		Bremen	Alfred-Faust-Straße	0	0	1	2	3							3	3		34					21	71	2019	12	18	dä	tr	PKW	RF	EK		8,829628	53,034232
+1451	18.12.2019	08:45	Mi	5		Bremen	Osterdeich	0	0	1	3	0							3	7		69					83	83	2019	12	18	he	tr	FG	FG	SO		8,832168	53,068490
+1452	18.12.2019	11:05	Mi	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	5	3						3	3		37					21	72	2019	12	18	he	tr	PKW	RF	EK		8,755432	53,119173
+1453	18.12.2019	13:30	Mi	5		Bremen	Bublitzer Straße	0	0	0	2	1							5	5		49					71	21	2019	12	18	he	tr	RF	PKW	RV		8,707177	53,175260
+1454	18.12.2019	13:50	Mi	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	2	2	6			3			8	3	4		42					71	81	2019	12	18	he	tr	RF	FG	ÜS		8,805928	53,073279
+1455	19.12.2019	09:00	Do	5		Bremen	Hans-Böckler-Straße	0	0	1	1	0							3	1		49					71		2019	12	19	he	na	RF	-	F		8,792358	53,085636
+1456	19.12.2019	14:56	Do	5		Bremen	Pfalzburger Straße	0	1	0	2	5	2						2	3		34		9	49		21	71	2019	12	19	he	tr	PKW	RF	EK		8,872452	53,063142
+1457	19.12.2019	17:10	Do	5		Bremen	Klattenweg	0	0	0	2	1							5	5		45					21	71	2019	12	19	du	na	PKW	RF	RV		8,848886	53,092271
+1458	19.12.2019	17:20	Do	5		Bremen	Schüsselkorb	0	0	0	2	1							5	6		23					21	71	2019	12	19	du	tr	PKW	RF	LV		8,809082	53,078138
+1459	19.12.2019	17:35	Do	5		Bremen	Kirchhuchtinger Landstraße	0	0	0	2	5	2					8	5	3		49		49			21	71	2019	12	19	du	na	PKW	RF	EK		8,738553	53,047295
+1460	19.12.2019	19:12	Do	5		Bremen	Charlotte-Wolff-Allee	0	0	1	2	5	1		8				3	3		34				73	21	71	2019	12	19	du	na	PKW	RF	EK		8,677664	53,173344
+1461	20.12.2019	06:45	Fr	5		Bremen	Osterstraße	0	0	0	2	5	2		9				5	2		34					21	72	2019	12	20	du	tr	PKW	RF	AB		8,800915	53,071803
+1462	20.12.2019	08:40	Fr	5		Bremen	Lilienthaler Heerstraße	0	0	1	2	5	2		9				3	3		37					21	71	2019	12	20	he	tr	PKW	RF	EK		8,893926	53,115237
+1463	20.12.2019	14:00	Fr	5		Bremen	Doventorsteinweg	0	0	1	2	2	2						3	3		34					21	71	2019	12	20	he	tr	PKW	RF	EK		8,799715	53,084260
+1464	20.12.2019	23:05	Fr	5		Bremen	Herdentorsteinweg	0	0	1	2	2						8	3	6		14					71	21	2019	12	20	du	tr	RF	PKW	LV		8,810922	53,080025
+1465	21.12.2019	21:45	Sa	5		Bremen	Osterdeich	0	0	2	2	6							3	4		1	42				72	81	2019	12	21	du	tr	RF	FG	ÜS		8,810579	53,071739
+1466	23.12.2019	12:35	Mo	5		Bremen	Duckwitzstraße	0	0	0	2	3	2		8				5	2		34					21	71	2019	12	23	he	na	PKW	RF	AB		8,771274	53,063732
+1467	23.12.2019	13:15	Mo	5		Bremen	Am Stern	0	0	1	2	5							3	3		28					21	71	2019	12	23	he	tr	PKW	RF	EK		8,824454	53,084531
+1468	23.12.2019	14:00	Mo	5		Bremen	In der Vahr	0	0	1	2	5	1		8			8	3	2		28				73	21	71	2019	12	23	he	na	PKW	RF	AB		8,878690	53,078810
+1469	23.12.2019	15:10	Mo	4		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	0	2						3	2		34					21	71	2019	12	23	he	na	PKW	RF	AB		8,802806	53,079947
+1470	23.12.2019	15:40	Mo	5		Bremen	Hermann-Böse-Straße	0	0	1	2	5	1		8			8	3	2		28	34			73	21	71	2019	12	23	he	na	PKW	RF	AB		8,817429	53,083437
+1471	23.12.2019	18:01	Mo	5		Bremen	Vor dem Steintor	0	0	0	2	1							5	5		14	49				71	21	2019	12	23	he	tr	RF	PKW	RV		8,831705	53,071099
+1472	24.12.2019	07:45	Di	5		Bremen	Neuenlander Straße	0	0	1	2	5	3						3	3		37					21	71	2019	12	24	dä	tr	PKW	RF	EK		8,809924	53,050999
+1473	24.12.2019	14:30	Di	5		Bremen	Hohentorsheerstraße	0	0	1	2	5	1						3	3		27					21	71	2019	12	24	he	na	PKW	RF	EK		8,783274	53,069721
+1474	25.12.2019	17:10	Mi	5		Bremen	Beneckendorffallee	0	0	1	2	5	1						3	3		31					21	71	2019	12	25	du	na	PKW	RF	EK		8,869571	53,074594
+1475	27.12.2019	14:15	Fr	5		Bremen	Waller Ring	0	0	1	2	5	1		8			8	3	2		49					21	71	2019	12	27	he	tr	PKW	RF	AB		8,776171	53,098668
+1476	30.12.2019	14:05	Mo	5		Bremen	Hamfhofsweg	0	0	1	2	5	1						3	3		28					21	71	2019	12	30	he	tr	PKW	RF	EK		8,894167	53,128836
+1477	31.12.2019	19:00	Di	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	1	2	5	2					8	3	2		34					21	71	2019	12	31	du	tr	PKW	RF	AB		8,804139	53,072350

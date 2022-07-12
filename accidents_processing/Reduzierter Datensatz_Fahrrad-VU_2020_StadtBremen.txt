@@ -1,0 +1,1355 @@
+﻿LfNr	Datum	Zeit	WoTag	Kl	NrBu	Gemeinde	Strasse	Gt	Sv	Lv	Bet	Art	Char1	Char2	Beso1	Beso2	Beso3	LZ	Kat	Typ	UTyp	1Urs01	1Urs02	2Urs01	2Urs02	AUrs01	AV1	AV2	Jahr	Mt	Tag	Licht	Str_Zus	Bet_01	Bet_02	Unf_Typ	Fahrtrichtung	Koord.x	Koord.y
+1	02.01.2020	22:30	Do	5		Bremen	Lesumer Heerstraße	0	0	1	1	0	2		9				3	7		1	49				71		2020	01	02	du	na	RF	-	SO		8,684104	53,170957
+2	03.01.2020	17:10	Fr	5		Bremen	Autobahnzubringer Horn-Lehe /	0	0	1	2	5	2					8	3	2		35					21	71	2020	01	03	du	na	PKW	RF	AB		8,879570	53,113038
+3	05.01.2020	17:10	So	5		Bremen	Werderstraße	0	1	0	2	5	2		9				2	2		34					21	71	2020	01	05	du	na	PKW	RF	AB		8,805681	53,071600
+4	06.01.2020	09:10	Mo	5		Bremen	In der Vahr	0	0	1	2	5							3	3		37					59	71	2020	01	06	he	na	SOF	RF	EK		8,876632	53,081451
+5	06.01.2020	13:00	Mo	5		Bremen	Richard-Boljahn-Allee	0	0	1	2	5	1						3	3		31					21	71	2020	01	06	he	na	PKW	RF	EK		8,876236	53,082168
+6	06.01.2020	13:10	Mo	5		Bremen	Meinert-Löffler-Straße	0	0	1	2	5							3	2		34					21	71	2020	01	06	he	tr	PKW	RF	AB		8,619123	53,186097
+7	06.01.2020	15:00	Mo	5		Bremen	Theodor-Billroth-Straße	0	0	1	2	6							3	4		10					71	81	2020	01	06	he	tr	RF	FG	ÜS		8,826103	53,034986
+8	07.01.2020	08:25	Di	5		Bremen	Zum Sebaldsbrücker Bahnhof	0	0	0	2	0	3						5	2		49	34				40	71	2020	01	07	he	tr	LKW	RF	AB		8,882959	53,063272
+9	07.01.2020	14:00	Di	5		Bremen	Lindenstraße	0	0	1	1	0			5				3	7		49					71		2020	01	07	he	tr	RF	-	SO		8,600200	53,177787
+10	07.01.2020	17:45	Di	5		Bremen	Buntentorsteinweg	0	0	1	2	3							3	6		34					40	71	2020	01	07	dä	tr	LKW	RF	LV		8,809142	53,063379
+11	08.01.2020	08:20	Mi	5		Bremen	Utbremer Straße	0	0	1	2	5						8	3	3		31					72	21	2020	01	08	he	na	RF	PKW	EK		8,793204	53,092522
+12	08.01.2020	09:00	Mi	5		Bremen	Spittaler Straße	0	1	0	2	5	1		9				2	3		28					71	21	2020	01	08	he	na	RF	PKW	EK		8,863735	53,106327
+13	08.01.2020	12:55	Mi	5		Bremen	Sonneberger Straße	0	0	1	2	2							3	6		36					21	71	2020	01	08	he	tr	PKW	RF	LV		8,876379	53,079113
+14	08.01.2020	16:35	Mi	5		Bremen	Hollerallee	0	0	1	2	3	2		9				3	2		34					21	71	2020	01	08	du	na	PKW	RF	AB		8,827353	53,083057
+15	08.01.2020	19:55	Mi	5		Bremen	Am Stern	0	0	1	2	5	7		8				3	3		28					21	71	2020	01	08	du	tr	PKW	RF	EK		8,824499	53,084577
+16	09.01.2020	07:40	Do	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	0							3	7		49				73	21	71	2020	01	09	du	na	PKW	RF	SO		8,795381	53,067529
+17	09.01.2020	08:50	Do	5		Bremen	Friesenwerder	0	0	0	2	5						8	5	2		31		31		73	71	21	2020	01	09	he	na	RF	PKW	AB		8,786785	53,074528
+18	09.01.2020	11:55	Do	5		Bremen	In der Vahr	0	1	0	2	5	1						2	3		34					21	71	2020	01	09	he	na	PKW	RF	EK		8,876545	53,081072
+19	09.01.2020	12:30	Do	5		Bremen	Kastanienstraße	0	0	0	2	4							5	6		14				73	40	71	2020	01	09	he	na	LKW	RF	LV		8,799826	53,092015
+20	09.01.2020	14:33	Do	5		Bremen	Am Bahnhof Sankt Magnus	0	1	0	1	0	1						2	7		49				73	71		2020	01	09	he	na	RF	-	SO		8,669167	53,172128
+21	09.01.2020	19:23	Do	5		Bremen	Blinkfüer	0	0	1	1	8	2						3	1		49				73	71		2020	01	09	du	na	RF	-	F		8,570242	53,188421
+22	10.01.2020	07:35	Fr	5		Bremen	Modersohnweg	0	0	0	2	1							5	5		14				73	71	21	2020	01	10	du	na	RF	PKW	RV		8,910598	53,093209
+23	10.01.2020	07:45	Fr	5		Bremen	Kirchbachstraße	0	0	1	2	3							3	6		49					71	71	2020	01	10	dä	tr	RF	RF	LV		8,854830	53,076425
+24	10.01.2020	09:46	Fr	5		Bremen	Sankt-Jürgen-Straße	0	0	1	2	4							3	6		9					71	72	2020	01	10	he	tr	RF	RF	LV		8,834574	53,072255
+25	10.01.2020	10:42	Fr	5		Bremen	Horner Heerstraße	0	0	1	1	0	1		5				3	1		49					71		2020	01	10	he	tr	RF	-	F		8,869861	53,097290
+26	10.01.2020	13:45	Fr	5		Bremen	Hamburger Straße	0	0	2	2	6			5				3	4		41				73	71	81	2020	01	10	he	na	RF	FG	ÜS		8,843224	53,068961
+27	10.01.2020	16:15	Fr	5		Bremen	Linzer Straße	0	0	1	2	0							3	7		55				70	59	71	2020	01	10	dä	sch	SOF	RF	SO		8,862418	53,108944
+28	10.01.2020	20:50	Fr	5		Bremen	Linzer Straße	0	0	0	2	0							5	7		49				70	92	71	2020	01	10	du	sch	SOF	RF	SO		8,862635	53,109045
+29	11.01.2020	10:10	Sa	5		Bremen	Ernst-Buchholz-Straße	0	0	0	2	5	2		9				5	3		49				73	71	21	2020	01	11	he	na	RF	PKW	EK		8,847459	53,045378
+30	11.01.2020	15:00	Sa	5		Bremen	Kornstraße	0	0	1	2	5	1					8	3	2		34					21	71	2020	01	11	he	tr	PKW	RF	AB		8,798852	53,065837
+31	12.01.2020	21:24	So	5		Bremen	Vor dem Steintor	0	0	1	2	3							3	6		16					21	71	2020	01	12	du	na	PKW	RF	LV		8,830853	53,071450
+32	13.01.2020	07:00	Mo	5		Bremen	Am Dobben	0	0	1	2	4	1		8				3	2		35				73	40	72	2020	01	13	du	na	LKW	RF	AB		8,819170	53,080213
+33	13.01.2020	07:45	Mo	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	5	2						3	2		34					21	71	2020	01	13	dä	na	PKW	RF	AB		8,738470	53,047250
+34	13.01.2020	08:10	Mo	5		Bremen	Hastedter Heerstraße	0	1	0	2	5						8	2	3		36					21	71	2020	01	13	he	tr	PKW	RF	EK		8,856187	53,070487
+35	13.01.2020	09:45	Mo	2	6	Bremen	Neuenlander Straße	0	0	1	2	5	2						3	3		28					21	71	2020	01	13	he	tr	PKW	RF	EK		8,783901	53,065699
+36	13.01.2020	11:55	Mo	5		Bremen	Rostocker Straße	0	0	1	2	5							3	3		49				73	21	71	2020	01	13	he	na	PKW	RF	EK		8,758276	53,121589
+37	13.01.2020	12:30	Mo	5		Bremen	Autobahnzubringer Horn-Lehe /	0	0	1	2	5	1					8	3	2		34					21	71	2020	01	13	he	tr	PKW	RF	AB		8,881722	53,111241
+38	13.01.2020	12:47	Mo	5		Bremen	Horner Straße	0	0	1	1	0							3	7		49					71		2020	01	13	he	tr	RF	-	SO		8,831240	53,075236
+39	13.01.2020	17:40	Mo	5		Bremen	In der Vahr	0	0	1	2	5							3	3		49					21	71	2020	01	13	du	tr	PKW	RF	EK		8,877090	53,080969
+40	14.01.2020	06:15	Di	5		Bremen	Walsroder Straße	0	0	2	2	6							3	4		64				89	81	71	2020	01	14	du	na	FG	RF	ÜS		8,802039	53,093935
+41	14.01.2020	06:50	Di	5		Bremen	In der Vahr	0	0	1	2	5	1					8	3	2		34					21	71	2020	01	14	du	na	PKW	RF	AB		8,878937	53,078922
+42	14.01.2020	08:01	Di	5		Bremen	Verdener Straße	0	0	1	2	3	3						3	2		35					21	71	2020	01	14	dä	na	PKW	RF	AB		8,842679	53,072058
+43	14.01.2020	12:45	Di	5		Bremen	Habenhauser Deich	0	0	1	2	6							3	4		69					81	71	2020	01	14	he	na	FG	RF	ÜS		8,855023	53,053531
+44	14.01.2020	16:25	Di	5		Bremen	Vegesacker Heerstraße	0	1	0	2	5							2	3		37		49			71	1	2020	01	14	dä	tr	RF	KRD	EK		8,650097	53,173951
+45	14.01.2020	19:40	Di	5		Bremen	Hochschulring	0	0	0	2	5	1		8				5	3		37					21	71	2020	01	14	du	tr	PKW	RF	EK		8,818856	53,111712
+46	15.01.2020	07:15	Mi	5		Bremen	Im Alten Dorf	0	0	0	2	7							5	7		69				87	83	71	2020	01	15	dä	tr	FG	RF	SO		8,949866	53,044504
+47	15.01.2020	07:45	Mi	5		Bremen	Utbremer Ring	0	0	1	1	0							3	7		49				88	71		2020	01	15	dä	tr	RF	-	SO		8,809860	53,099097
+48	15.01.2020	10:35	Mi	5		Bremen	Sorgenfrei	0	0	0	2	1							5	7		45					71	21	2020	01	15	he	tr	RF	PKW	SO		8,838667	53,072396
+49	15.01.2020	12:00	Mi	5		Bremen	Georg-Bitter-Weg	0	0	1	2	1	2						3	7		10					71	21	2020	01	15	he	tr	RF	PKW	SO		8,853907	53,066124
+50	15.01.2020	12:45	Mi	5		Bremen	Buntentorsteinweg	0	0	1	2	6			9				3	4		64					81	71	2020	01	15	he	tr	FG	RF	ÜS		8,802264	53,067485
+51	15.01.2020	17:05	Mi	5		Bremen	Rockwinkeler Heerstraße	0	1	1	2	4	2						2	6		9				73	71	72	2020	01	15	du	na	RF	RF	LV		8,927078	53,090043
+52	15.01.2020	19:30	Mi	5		Bremen	Autobahnzubringer Universität	0	0	1	2	5	1						3	3		34				73	21	71	2020	01	15	du	na	PKW	RF	EK		8,858188	53,105071
+53	16.01.2020	05:40	Do	5		Bremen	Sankt-Pauli-Deich	0	0	1	1	0							3	5		49					71		2020	01	16	du	tr	RF	-	RV		8,802344	53,070720
+54	16.01.2020	11:45	Do	5		Bremen	Alfred-Faust-Straße	0	0	1	2	5							3	2		35					21	72	2020	01	16	he	na	PKW	RF	AB		8,823260	53,030474
+55	16.01.2020	11:50	Do	5		Bremen	Am Hulsberg	0	0	0	2	1							5	1		49				88	71	21	2020	01	16	he	tr	RF	PKW	F		8,843956	53,071945
+56	16.01.2020	13:30	Do	5		Bremen	Sankt-Pauli-Deich	0	1	0	2	5	2						2	2		34					71	71	2020	01	16	he	tr	RF	RF	AB		8,802857	53,069961
+57	16.01.2020	13:42	Do	5		Bremen	Borchshöher Straße	0	0	0	2	5	1					8	5	3		31					71	21	2020	01	16	he	na	RF	PKW	EK		8,641085	53,188974
+58	16.01.2020	13:45	Do	5		Bremen	Hannoversche Straße	0	0	0	2	4	3		9				5	2		34		10		82	21	72	2020	01	16	he	tr	PKW	RF	AB		8,891737	53,048340
+59	16.01.2020	16:00	Do	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	3							3	6		22					71	71	2020	01	16	he	tr	RF	RF	LV		8,858274	53,089085
+60	16.01.2020	16:00	Do	5		Bremen	Kurfürstenallee	0	0	1	2	5							3	2		37		10			21	72	2020	01	16	he	tr	PKW	RF	AB		8,867361	53,082009
+61	17.01.2020	08:30	Fr	5		Bremen	Ostertorsteinweg	0	0	1	2	0	2						3	6		49					21	71	2020	01	17	he	tr	PKW	RF	LV		8,822222	53,072836
+62	17.01.2020	08:45	Fr	5		Bremen	Warfer Landstraße	0	0	1	2	5	2						3	3		28		10			21	72	2020	01	17	he	sch	PKW	RF	EK		8,898485	53,134648
+63	17.01.2020	09:17	Fr	5		Bremen	Kremser Straße	0	0	1	2	5							3	2		35					21	72	2020	01	17	he	tr	PKW	RF	AB		8,862372	53,102872
+64	17.01.2020	11:30	Fr	5		Bremen	Friedrich-Engels-Straße	0	1	0	2	3							2	6		49	14				21	72	2020	01	17	he	tr	PKW	RF	LV		8,853167	53,048836
+65	17.01.2020	12:35	Fr	1	270	Bremen	Bundesautobahn A 270	0	0	1	2	5	5						3	3		28					21	71	2020	01	17	he	tr	PKW	RF	EK	absteigend	8,587242	53,182693
+66	17.01.2020	13:20	Fr	5		Bremen	Woltmershauser Straße	0	0	1	2	3	3						3	6		14					71	71	2020	01	17	he	tr	RF	RF	LV		8,762315	53,087126
+67	19.01.2020	08:49	So	5		Bremen	Blocklander Hemmstraße	0	0	1	1	0							3	1		49					71		2020	01	19	he	wgl	RF	-	F		8,796519	53,136544
+68	19.01.2020	09:13	So	5		Bremen	Carl-Severing-Straße	0	0	1	2	0			7				3	7		69					83	71	2020	01	19	he	wgl	FG	RF	SO		8,888242	53,083571
+69	19.01.2020	20:53	So	5		Bremen	Hamburger Straße	0	0	1	2	5	2						3	2		22					21	71	2020	01	19	du	tr	PKW	RF	AB		8,843610	53,068878
+70	20.01.2020	06:40	Mo	5		Bremen	Ortelsburger Straße	0	0	1	2	5							3	3		28					21	71	2020	01	20	du	sch	PKW	RF	EK		8,855004	53,079799
+71	20.01.2020	08:45	Mo	5		Bremen	Osterdeich	0	0	0	2	5							5	3		31					71	21	2020	01	20	he	tr	RF	PKW	EK		8,824628	53,068903
+72	20.01.2020	10:29	Mo	5		Bremen	Europaallee	1	0	0	2	5	2						1	3		28					46	72	2020	01	20	he	tr	LKW	RF	EK		8,900760	53,032923
+73	20.01.2020	16:05	Mo	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5							3	2		49		9		73	21	71	2020	01	20	he	na	PKW	RF	AB		8,867283	53,091110
+74	20.01.2020	16:30	Mo	5		Bremen	Kirchweg	0	0	1	2	6	1						3	4		42				89	71	81	2020	01	20	he	tr	RF	FG	ÜS		8,809018	53,061611
+75	20.01.2020	17:05	Mo	5		Bremen	Ernst-Waldau-Straße	0	0	1	2	0							3	7		69					83	71	2020	01	20	dä	tr	FG	RF	SO		8,753276	53,128409
+76	20.01.2020	18:40	Mo	5		Bremen	Rembertiring	0	0	1	2	5	2						3	3		37		10			21	71	2020	01	20	du	tr	PKW	RF	EK		8,818175	53,077724
+77	21.01.2020	07:45	Di	5		Bremen	Horner Heerstraße	0	0	0	2	5							5	3		34					21	71	2020	01	21	du	tr	PKW	RF	EK		8,870703	53,095885
+78	21.01.2020	08:05	Di	5		Bremen	Lesumstraße	0	0	1	2	5	1						3	3		28					21	72	2020	01	21	he	tr	PKW	RF	EK		8,644126	53,165042
+79	21.01.2020	08:25	Di	5		Bremen	Am Brill	0	0	1	2	5	1		9			8	3	2		34		49			21	71	2020	01	21	dä	tr	PKW	RF	AB		8,800352	53,078756
+80	21.01.2020	11:45	Di	5		Bremen	Theodor-Billroth-Straße	0	0	1	2	0	2					8	3	2		34		10		82	21	71	2020	01	21	he	tr	PKW	RF	AB		8,822005	53,037155
+81	22.01.2020	06:30	Mi	5		Bremen	Riensberger Straße	0	0	1	1	0	2						3	7		49				73	72		2020	01	22	du	na	RF	-	SO		8,865156	53,096562
+82	22.01.2020	07:15	Mi	2	6	Bremen	Neuenlander Straße	0	0	1	2	5	3						3	3		37				73	21	71	2020	01	22	du	na	PKW	RF	EK		8,808999	53,051263
+83	22.01.2020	07:30	Mi	5		Bremen	Neuenlander Straße	0	0	1	2	4	1					8	3	2		31					71	21	2020	01	22	du	na	RF	PKW	AB		8,788000	53,062759
+84	22.01.2020	07:45	Mi	5		Bremen	Carl-Schurz-Straße	0	0	1	2	3							3	5		37					21	71	2020	01	22	dä	na	PKW	RF	RV		8,840759	53,084410
+85	23.01.2020	07:47	Do	5		Bremen	Gustav-Deetjen-Allee	0	0	1	2	5	6						3	2		34		11			33	71	2020	01	23	dä	tr	BUS	RF	AB		8,818523	53,086459
+86	23.01.2020	08:20	Do	5		Bremen	Altenescher Straße	0	0	1	2	5							3	2		34					21	71	2020	01	23	he	tr	PKW	RF	AB		8,769648	53,110398
+87	23.01.2020	10:10	Do	5		Bremen	Birkenstraße	0	0	1	2	1			8			9	3	5		45					21	71	2020	01	23	he	tr	PKW	RF	RV		8,808382	53,081164
+88	23.01.2020	15:00	Do	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	3	1					8	3	6		49					71	21	2020	01	23	he	tr	RF	PKW	LV		8,850710	53,085141
+89	23.01.2020	15:35	Do	5		Bremen	Eickedorfer Straße	0	1	0	2	5	2						2	3		37					71	71	2020	01	23	he	tr	RF	RF	EK		8,810447	53,092927
+90	24.01.2020	07:30	Fr	5		Bremen	Friedrich-Klippert-Straße	0	0	1	2	5	2						3	3		28					21	71	2020	01	24	dä	tr	PKW	RF	EK		8,626971	53,169775
+91	24.01.2020	08:00	Fr	5		Bremen	Söldnerweg	0	0	1	1	0							3	1		49					71		2020	01	24	dä	sch	RF	-	F		8,925560	53,040209
+92	24.01.2020	08:00	Fr	5		Bremen	Zur Vegesacker Fähre	0	0	1	2	5	2	5					3	2		1	34				21	71	2020	01	24	du	na	PKW	RF	AB		8,627695	53,171305
+93	24.01.2020	13:16	Fr	5		Bremen	Huchtinger Heerstraße	0	0	1	2	6							3	7		66					81	71	2020	01	24	he	tr	FG	RF	SO		8,739650	53,055005
+94	24.01.2020	13:55	Fr	5		Bremen	Außer der Schleifmühle	0	0	1	1	0			6				3	1		49				76	71		2020	01	24	he	sch	RF	-	F		8,820001	53,080366
+95	24.01.2020	21:30	Fr	5		Bremen	Arsterdamm	0	0	1	2	5	2						3	3		28					21	71	2020	01	24	du	na	PKW	RF	EK		8,825293	53,043573
+96	24.01.2020	23:45	Fr	5		Bremen	Meyerstraße	0	0	1	2	4	6						3	3		49		49			21	71	2020	01	24	du	na	PKW	RF	EK		8,796835	53,064554
+97	25.01.2020	18:00	Sa	5		Bremen	Theodor-Storm-Straße	0	0	0	2	5	3						5	3		49		37			21	71	2020	01	25	du	tr	PKW	RF	EK		8,792206	53,061272
+98	26.01.2020	04:02	So	5		Bremen	Bahnhofsplatz	0	0	0	2	1							5	7		49	14				21	71	2020	01	26	du	tr	PKW	RF	SO		8,813478	53,082319
+99	26.01.2020	14:36	So	5		Bremen	Bahnhofsplatz	0	0	0	2	1							5	7		49					21	71	2020	01	26	du	tr	PKW	RF	SO		8,813537	53,082414
+100	26.01.2020	15:16	So	5		Bremen	Bahnhofsplatz	0	0	0	2	1							5	7		14					21	71	2020	01	26	he	tr	PKW	RF	SO		8,813604	53,081874
+101	27.01.2020	17:45	Mo	5		Bremen	Leher Heerstraße	0	0	0	2	4							5	7		49					71	21	2020	01	27	du	na	RF	PKW	SO		8,884849	53,100147
+102	28.01.2020	13:35	Di	5		Bremen	Waller Heerstraße	0	0	1	2	5	2						3	3		35		11		73	21	71	2020	01	28	he	na	PKW	RF	EK		8,772583	53,109161
+103	28.01.2020	17:25	Di	5		Bremen	Philipp-Scheidemann-Straße	0	0	1	2	6							3	4		49					71	81	2020	01	28	du	na	RF	FG	ÜS		8,878766	53,085319
+104	28.01.2020	17:25	Di	5		Bremen	Carl-Francke-Straße	0	1	0	2	5	1						2	2		35				73	21	71	2020	01	28	du	na	PKW	RF	AB		8,779554	53,068627
+105	29.01.2020	06:10	Mi	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	2	5	3						3	2		34					40	71	2020	01	29	du	na	LKW	RF	AB		8,740691	53,052332
+106	29.01.2020	07:30	Mi	5		Bremen	Am Schwarzen Meer	0	0	0	2	1							5	7		49				73	71	21	2020	01	29	du	na	RF	PKW	SO		8,834614	53,071183
+107	29.01.2020	08:42	Mi	5		Bremen	Berliner Freiheit	0	0	1	2	5							3	3		37					21	72	2020	01	29	he	na	PKW	RF	EK		8,894103	53,082198
+108	29.01.2020	16:55	Mi	5		Bremen	Bürgermeister-Smidt-Straße	0	0	0	2	5	1		9			8	5	3		31		49		73	71	21	2020	01	29	dä	na	RF	PKW	EK		8,807301	53,082361
+109	31.01.2020	01:00	Fr	5		Bremen	Sögestraße	0	0	1	1	0	1						3	1		13	49			73	72		2020	01	31	du	na	RF	-	F		8,808766	53,078426
+110	31.01.2020	03:55	Fr	5		Bremen	Findorffstraße	0	0	1	1	0	4						3	7		1	49				71		2020	01	31	du	na	RF	-	SO		8,809763	53,088658
+111	31.01.2020	09:25	Fr	5		Bremen	Henri-Dunant-Straße	0	0	1	2	5							3	3		28					21	71	2020	01	31	he	tr	PKW	RF	EK		8,880726	53,081059
+112	31.01.2020	12:10	Fr	5		Bremen	Hollerallee	0	0	1	2	5	3						3	2		34					21	71	2020	01	31	he	tr	PKW	RF	AB		8,826828	53,083302
+113	31.01.2020	13:17	Fr	5		Bremen	Julius-Brecht-Allee	0	0	1	2	5	1		3	5			3	3		31		31			21	71	2020	01	31	he	tr	PKW	RF	EK		8,878530	53,078926
+114	01.02.2020	13:55	Sa	3		Bremen	Senator-Bölken-Straße	0	0	0	2	5	2		8				5	7		49					21	71	2020	02	01	he	na	PKW	RF	SO		8,882167	53,100930
+115	01.02.2020	13:55	Sa	5		Bremen	Alter Dorfweg	0	0	0	2	1							5	7		49				73	71	21	2020	02	01	he	na	RF	PKW	SO		8,740171	53,048301
+116	02.02.2020	16:45	So	5		Bremen	Gastfeldstraße	0	0	0	2	1							5	7		49				73	71	21	2020	02	02	he	na	RF	PKW	SO		8,796572	53,064783
+117	02.02.2020	17:35	So	5		Bremen	Achterstraße	0	0	0	2	5							5	2		35					21	71	2020	02	02	du	tr	PKW	RF	AB		8,861659	53,099306
+118	03.02.2020	08:40	Mo	5		Bremen	Leher Heerstraße	0	0	2	2	6	1		8			8	3	4		69					81	71	2020	02	03	he	na	FG	RF	ÜS		8,880686	53,101670
+119	03.02.2020	11:15	Mo	5		Bremen	Steffensweg	0	0	0	2	0							5	3		28				73	21	71	2020	02	03	he	na	PKW	RF	EK		8,780661	53,098066
+120	04.02.2020	11:38	Di	5		Bremen	Herdentorsteinweg	0	0	1	2	5	1					8	3	2		35				89	21	71	2020	02	04	he	na	PKW	RF	AB		8,812644	53,080811
+121	04.02.2020	13:30	Di	5		Bremen	Hastedter Osterdeich	0	0	1	2	5							3	2		34					21	72	2020	02	04	he	tr	PKW	RF	AB		8,868831	53,061898
+122	04.02.2020	14:00	Di	5		Bremen	Flughafendamm	0	0	1	1	0	2					8	3	7		49					71		2020	02	04	he	na	RF	-	SO		8,785001	53,060887
+123	04.02.2020	14:45	Di	5		Bremen	Rotdornallee	0	1	0	2	5	2						2	3		27		49		73	71	21	2020	02	04	he	na	RF	PKW	EK		8,685360	53,176893
+124	04.02.2020	15:40	Di	5		Bremen	Sankt-Pauli-Deich	0	0	1	2	1							3	5		45					21	71	2020	02	04	he	tr	PKW	RF	RV		8,802642	53,070214
+125	05.02.2020	08:50	Mi	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	3							3	2		35					21	71	2020	02	05	he	tr	PKW	RF	AB		8,806668	53,081679
+126	05.02.2020	17:40	Mi	5		Bremen	Überseetor	0	0	1	2	5	1						3	3		31					71	21	2020	02	05	du	tr	RF	PKW	EK		8,774245	53,095386
+127	06.02.2020	11:40	Do	5		Bremen	Landrat-Christians-Straße	0	0	1	2	5	2						3	2		34					21	71	2020	02	06	he	tr	PKW	RF	AB		8,572795	53,181452
+128	06.02.2020	12:30	Do	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	4	2						3	3		34					21	71	2020	02	06	he	tr	PKW	RF	EK		8,846944	53,048308
+129	06.02.2020	14:10	Do	5		Bremen	In der Vahr	0	0	1	2	5	1		8			8	3	2		35					21	71	2020	02	06	he	tr	PKW	RF	AB		8,875923	53,082187
+130	06.02.2020	14:48	Do	5		Bremen	Parkallee	0	0	1	2	3	1		9				3	2		35					71	71	2020	02	06	he	tr	RF	RF	AB		8,832229	53,092993
+131	07.02.2020	06:40	Fr	5	70	Bremen	Ritterhuder Heerstraße	0	0	0	2	5	1						5	3		35					72	21	2020	02	07	du	tr	RF	PKW	EK		8,751769	53,163989
+132	07.02.2020	09:15	Fr	5		Bremen	Admiralstraße	0	1	1	2	3							2	2		2	49				71	71	2020	02	07	he	tr	RF	RF	AB		8,806145	53,090367
+133	07.02.2020	14:38	Fr	5		Bremen	Luisental	0	0	0	2	4							5	6		24					21	71	2020	02	07	he	tr	PKW	RF	LV		8,872675	53,098290
+134	07.02.2020	15:09	Fr	5		Bremen	Leher Heerstraße	0	0	1	2	5							3	3		37					21	71	2020	02	07	he	tr	PKW	RF	EK		8,884919	53,100084
+135	07.02.2020	17:54	Fr	5		Bremen	Brenningstraße	0	0	0	2	1						8	5	3		42					21	71	2020	02	07	du	tr	PKW	RF	EK		8,834440	53,034311
+136	08.02.2020	01:15	Sa	5		Bremen	Fleetrade	0	0	1	1	0							3	7		49					71		2020	02	08	du	tr	RF	-	SO		8,863466	53,065001
+137	09.02.2020	02:23	So	5		Bremen	Rembertiring	0	0	1	2	0						8	3	7		31					71	21	2020	02	09	du	na	RF	PKW	SO		8,818207	53,077640
+138	09.02.2020	05:15	So	5		Bremen	An der Weide	0	0	0	2	1	2		3				5	3		9				89	71	21	2020	02	09	du	tr	RF	PKW	EK		8,816657	53,080833
+139	10.02.2020	14:05	Mo	5		Bremen	Vor dem Steintor	0	1	0	1	0							2	7		49					72		2020	02	10	he	na	RF	-	SO		8,829346	53,072008
+140	11.02.2020	09:55	Di	5		Bremen	Otto-Suhr-Straße	0	1	0	2	5							2	3		37				73	21	71	2020	02	11	he	na	PKW	RF	EK		8,893336	53,082206
+141	11.02.2020	14:20	Di	5		Bremen	An der Grenzpappel	0	0	1	2	5							3	3		37					71	21	2020	02	11	he	na	RF	PKW	EK		8,880482	53,060981
+142	11.02.2020	14:45	Di	5		Bremen	Kattenescher Weg	0	0	1	2	5	2		8				3	3		28		9		73	21	71	2020	02	11	he	na	PKW	RF	EK		8,811661	53,030904
+143	11.02.2020	16:30	Di	5		Bremen	Löhstraße	0	1	0	2	5	1						2	3		49	28				21	71	2020	02	11	he	tr	PKW	RF	EK		8,599784	53,177890
+144	11.02.2020	16:30	Di	5		Bremen	Gottlieb-Daimler-Straße	0	0	0	2	6	1		9				5	4		64					81	71	2020	02	11	he	tr	FG	RF	ÜS		8,704347	53,140682
+145	12.02.2020	09:30	Mi	5		Bremen	Hochschulring	0	0	0	2	5	1					8	5	3		34					21	71	2020	02	12	he	tr	PKW	RF	EK		8,849895	53,112059
+146	12.02.2020	16:45	Mi	5		Bremen	Osterholzer Landstraße	0	1	0	2	5	3		9				2	3		36	37				21	71	2020	02	12	he	tr	PKW	RF	EK		8,931809	53,061953
+147	13.02.2020	13:00	Do	5		Bremen	Martinistraße	0	1	0	2	6			3				2	4		11	38			73	71	81	2020	02	13	he	na	RF	FG	ÜS		8,805059	53,074340
+148	13.02.2020	13:40	Do	5		Bremen	Horner Heerstraße	0	0	0	2	1							5	7		49				73	21	71	2020	02	13	he	na	PKW	RF	SO		8,870666	53,096042
+149	13.02.2020	14:05	Do	5		Bremen	Kirchbachstraße	0	0	2	2	5	1						3	3		31				73	71	61	2020	02	13	he	na	RF	SOF	EK		8,855060	53,082032
+150	13.02.2020	15:40	Do	5		Bremen	Utrechter Straße	0	0	0	3	1							5	7		49		49		73	71	71	2020	02	13	he	na	RF	RF	SO		8,734640	53,041058
+151	13.02.2020	19:35	Do	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	1		8			8	3	2		34					21	71	2020	02	13	du	na	PKW	RF	AB		8,884130	53,063603
+152	14.02.2020	14:43	Fr	5		Bremen	Wiener Straße	0	0	0	2	5	2		4			8	5	2		34					33	71	2020	02	14	he	tr	BUS	RF	AB		8,845555	53,106326
+153	14.02.2020	15:20	Fr	5		Bremen	Rembertiring	0	0	1	2	5	3						3	3		49		49			71	21	2020	02	14	he	tr	RF	PKW	EK		8,814130	53,080361
+154	14.02.2020	18:55	Fr	5		Bremen	Ostertorsteinweg	0	0	0	3	1							5	5		49				73	71	21	2020	02	14	du	na	RF	PKW	RV		8,820723	53,072609
+155	16.02.2020	17:15	So	5		Bremen	Bismarckstraße	0	0	1	3	3							3	6		20	22				71	71	2020	02	16	he	tr	RF	RF	LV		8,839125	53,076584
+156	17.02.2020	06:45	Mo	5		Bremen	Eislebener Straße	0	1	0	2	5	2						2	3		28					21	71	2020	02	17	du	tr	PKW	RF	EK		8,874276	53,078416
+157	17.02.2020	09:45	Mo	5		Bremen	Sedanstraße	0	0	0	2	1							5	5		49		14			71	21	2020	02	17	he	tr	RF	PKW	RV		8,802811	53,066840
+158	17.02.2020	14:04	Mo	5		Bremen	Hamburger Straße	0	0	0	2	1							5	5		49					71	21	2020	02	17	he	tr	RF	PKW	RV		8,842352	53,069070
+159	18.02.2020	08:35	Di	5		Bremen	Lange Reihe	0	0	0	2	5	2						5	3		35					21	71	2020	02	18	he	tr	PKW	RF	EK		8,777850	53,101556
+160	18.02.2020	12:20	Di	5		Bremen	In der Vahr	0	0	1	2	0							3	7		49					21	71	2020	02	18	he	tr	PKW	RF	SO		8,875869	53,081545
+161	18.02.2020	13:50	Di	5		Bremen	Bredenstraße	0	0	1	2	4							3	6		49		49			21	71	2020	02	18	he	tr	PKW	RF	LV		8,804600	53,075502
+162	18.02.2020	15:20	Di	5		Bremen	Hollerallee	0	0	0	2	5	7		3				5	3		28					21	71	2020	02	18	he	tr	PKW	RF	EK		8,825135	53,084213
+163	18.02.2020	16:30	Di	5		Bremen	Am Lehester Deich	0	0	1	2	5	1		3				3	3		28					21	71	2020	02	18	he	tr	PKW	RF	EK		8,883379	53,121364
+164	19.02.2020	08:10	Mi	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5	2						3	3		28		9			21	71	2020	02	19	he	tr	PKW	RF	EK		8,833785	53,081858
+165	19.02.2020	08:50	Mi	5		Bremen	Friedrich-Karl-Straße	0	0	1	2	0							3	7		45				73	44	71	2020	02	19	he	na	LKW	RF	SO		8,843036	53,072678
+166	19.02.2020	09:00	Mi	5		Bremen	Am Stern	0	0	1	2	5							3	2		28				73	21	71	2020	02	19	he	na	PKW	RF	AB		8,825166	53,084513
+167	19.02.2020	15:30	Mi	5		Bremen	Lausanner Straße	0	0	0	1	0	3						5	1		49				73	71		2020	02	19	he	na	RF	-	F		8,950864	53,076302
+168	20.02.2020	06:15	Do	5		Bremen	Theodor-Neutig-Straße	0	0	1	2	4							3	6		25		2		73	21	71	2020	02	20	du	na	PKW	RF	LV		8,627985	53,172704
+169	20.02.2020	10:30	Do	5		Bremen	Rotdornallee	0	0	0	2	5	2		9				5	3		28					21	71	2020	02	20	he	na	PKW	RF	EK		8,686065	53,173312
+170	20.02.2020	17:15	Do	5		Bremen	Kattenturmer Heerstraße	0	0	1	2	5	3						3	2		34					21	71	2020	02	20	he	tr	PKW	RF	AB		8,818014	53,046624
+171	20.02.2020	21:14	Do	5		Bremen	Vor dem Steintor	0	0	1	2	5	6		2			8	3	3		31				73	71	61	2020	02	20	du	na	RF	SOF	EK		8,832754	53,070901
+172	21.02.2020	09:15	Fr	5		Bremen	Bahnhofsplatz	0	0	0	2	0	2						5	7		25		49			61	71	2020	02	21	he	tr	SOF	RF	SO		8,813682	53,081823
+173	21.02.2020	15:37	Fr	5		Bremen	Am Stern	0	0	0	2	5	7		8				5	3		28					21	71	2020	02	21	he	tr	PKW	RF	EK		8,824407	53,084466
+174	22.02.2020	11:35	Sa	5		Bremen	Franz-Schütte-Allee	0	1	0	1	0							2	7		49				73	71		2020	02	22	he	na	RF	-	SO		8,907567	53,082177
+175	24.02.2020	14:45	Mo	5		Bremen	Arsterdamm	0	0	1	2	5							3	2		34					21	71	2020	02	24	he	tr	PKW	RF	AB		8,837438	53,037858
+176	24.02.2020	15:45	Mo	5		Bremen	Kirchweg	0	0	1	2	5	2						3	3		28		10			21	71	2020	02	24	he	na	PKW	RF	EK		8,799104	53,056466
+177	24.02.2020	16:20	Mo	5		Bremen	Rockwinkeler Landstraße	0	0	1	2	5	2						3	2		35				73	21	71	2020	02	24	he	na	PKW	RF	AB		8,937734	53,075426
+178	24.02.2020	16:59	Mo	5		Bremen	Wachmannstraße	0	0	0	2	5	1		2			8	5	3		31					71	61	2020	02	24	dä	na	RF	SOF	EK		8,838704	53,087735
+179	24.02.2020	18:55	Mo	5		Bremen	Duckwitzstraße	0	0	1	2	5	1					8	3	2		34				73	21	72	2020	02	24	du	na	PKW	RF	AB		8,778754	53,064591
+180	24.02.2020	21:23	Mo	5		Bremen	Innsbrucker Straße	0	1	0	1	0							2	7		49				73	71		2020	02	24	du	na	RF	-	SO		8,813363	53,102068
+181	25.02.2020	12:55	Di	5		Bremen	Mittelkampstraße	0	0	0	2	5							5	2		34				89	71	21	2020	02	25	he	tr	RF	PKW	AB		8,774315	53,077633
+182	25.02.2020	13:00	Di	5		Bremen	Graf-Haeseler-Straße	0	0	0	2	4							5	6		14					21	71	2020	02	25	he	tr	PKW	RF	LV		8,840914	53,077011
+183	25.02.2020	14:55	Di	5		Bremen	Christernstraße	0	0	1	2	3	1		9				3	2		34					21	72	2020	02	25	he	tr	PKW	RF	AB		8,894376	53,054428
+184	26.02.2020	07:20	Mi	5		Bremen	Hemmstraße	0	0	1	1	0						8	3	7		49					71		2020	02	26	he	na	RF	-	SO		8,814326	53,100783
+185	26.02.2020	07:40	Mi	5		Bremen	Fröbelstraße	0	0	1	2	5	2						3	3		28					21	71	2020	02	26	he	tr	PKW	RF	EK		8,604362	53,175595
+186	26.02.2020	10:10	Mi	5		Bremen	Lothringer Straße	0	0	0	2	1	2						5	5		49					71	21	2020	02	26	he	tr	RF	PKW	RV		8,838117	53,081288
+187	26.02.2020	13:15	Mi	5		Bremen	Georg-Gröning-Straße	0	0	0	2	1							5	5		49					71	21	2020	02	26	he	tr	RF	PKW	RV		8,829746	53,083461
+188	26.02.2020	15:00	Mi	5		Bremen	Quintschlag	0	0	0	2	1							5	7		49		49			71	40	2020	02	26	he	na	RF	LKW	SO		8,879782	53,063868
+189	26.02.2020	16:00	Mi	5		Bremen	Schillerstraße	0	0	0	2	5	2						5	3		27					71	21	2020	02	26	he	tr	RF	PKW	EK		8,813779	53,079419
+190	27.02.2020	13:37	Do	5		Bremen	Knochenhauerstraße	0	0	2	2	6							3	4		49		69			71	81	2020	02	27	he	tr	RF	FG	ÜS		8,805920	53,078911
+191	27.02.2020	16:00	Do	5		Bremen	Utbremer Ring	0	0	1	2	1	2		4			8	3	7		49		49			21	71	2020	02	27	he	na	PKW	RF	SO		8,805445	53,100485
+192	27.02.2020	16:40	Do	5		Bremen	Kurfürstenallee	0	0	0	2	1							5	5		14	49	43			71	21	2020	02	27	he	na	RF	PKW	RV		8,838232	53,082573
+193	28.02.2020	05:10	Fr	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5						8	3	3		49					21	72	2020	02	28	du	tr	PKW	RF	EK		8,884152	53,063635
+194	28.02.2020	08:20	Fr	5		Bremen	Riensberger Straße	0	0	1	1	0							3	1		49					72		2020	02	28	he	na	RF	-	F		8,864915	53,095869
+195	28.02.2020	10:56	Fr	5		Bremen	Bennigsenstraße	0	0	0	3	0	1						5	6		14					21	21	2020	02	28	he	tr	PKW	PKW	LV		8,856128	53,073908
+196	28.02.2020	18:00	Fr	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	1	0							3	7		49					71		2020	02	28	he	tr	RF	-	SO		8,730255	53,040229
+197	28.02.2020	22:57	Fr	5		Bremen	Ostertorstraße	0	0	0	2	5	2						5	3		37		10			71	21	2020	02	28	du	na	RF	PKW	EK		8,811635	53,073640
+198	01.03.2020	17:50	So	5		Bremen	Meyerstraße	0	0	0	2	1							5	7		14	49				71	21	2020	03	01	du	tr	RF	PKW	SO		8,796181	53,064182
+199	01.03.2020	20:10	So	5		Bremen	Breitenweg	0	0	1	2	5	1		3			8	3	3		31					21	71	2020	03	01	du	tr	PKW	RF	EK		8,811287	53,081497
+200	02.03.2020	06:00	Mo	5		Bremen	Karl-Carstens-Brücke	0	0	1	2	5	1		8			8	3	2		34					21	72	2020	03	02	du	tr	PKW	RF	AB		8,853585	53,064822
+201	02.03.2020	15:30	Mo	5		Bremen	Rudolf-Schulze-Weg	0	0	1	2	5	2		7				3	3		27					21	71	2020	03	02	he	tr	PKW	RF	EK		8,891925	53,127365
+202	04.03.2020	13:05	Mi	5		Bremen	Vegesacker Heerstraße	0	0	2	2	5	1					8	3	2		34					21	71	2020	03	04	he	tr	PKW	RF	AB		8,638097	53,173231
+203	04.03.2020	13:45	Mi	5		Bremen	Morgenlandstraße	0	0	2	3	6							3	4		49	11				71	81	2020	03	04	he	tr	RF	FG	ÜS		8,761674	53,115302
+204	04.03.2020	14:00	Mi	5		Bremen	Kattenescher Weg	0	0	1	2	5	2						3	3		28		9			21	72	2020	03	04	he	tr	PKW	RF	EK		8,811610	53,030924
+205	04.03.2020	17:30	Mi	5		Bremen	Lupinenstraße	0	0	1	2	2							3	7		49		49			21	71	2020	03	04	he	na	PKW	RF	SO		8,756293	53,124141
+206	04.03.2020	18:15	Mi	5		Bremen	Osterdeich	0	0	2	2	5	2		9				3	3		37				73	71	72	2020	03	04	dä	na	RF	RF	EK		8,840914	53,067405
+207	05.03.2020	14:45	Do	5		Bremen	Ludwig-Quidde-Straße	0	0	0	2	4	2						5	2		35					21	72	2020	03	05	he	tr	PKW	RF	AB		8,863450	53,068429
+208	05.03.2020	20:30	Do	5		Bremen	Dithmarscher Freiheit	0	0	0	2	1							6	5		1	14	45			71	21	2020	03	05	du	tr	RF	PKW	RV		8,798090	53,103564
+209	06.03.2020	07:50	Fr	5		Bremen	Schwachhauser Heerstraße	0	1	0	2	3							2	6		14					71	71	2020	03	06	he	na	RF	RF	LV		8,834316	53,081974
+210	06.03.2020	12:43	Fr	5		Bremen	Kissinger Straße	0	0	0	2	5							5	3		14					71	21	2020	03	06	he	na	RF	PKW	EK		8,803723	53,101696
+211	06.03.2020	13:00	Fr	5		Bremen	Hannoversche Straße	0	0	0	2	5							5	7		14	49				71	21	2020	03	06	he	na	RF	PKW	SO		8,891630	53,049933
+212	06.03.2020	16:10	Fr	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5	3		9				3	2		34					21	71	2020	03	06	he	na	PKW	RF	AB		8,829402	53,080588
+213	06.03.2020	18:25	Fr	5		Bremen	In der Vahr	0	0	1	2	5							3	2		34				73	21	71	2020	03	06	dä	na	PKW	RF	AB		8,880595	53,076733
+214	06.03.2020	21:55	Fr	5		Bremen	Balgebrückstraße	0	0	0	2	5	1					8	5	2		34				89	21	71	2020	03	06	du	na	PKW	RF	AB		8,806400	53,073653
+215	07.03.2020	11:15	Sa	5		Bremen	Utbremer Ring	0	0	1	2	5	2						3	3		28					21	71	2020	03	07	he	na	PKW	RF	EK		8,805541	53,100672
+216	07.03.2020	14:05	Sa	5		Bremen	Langemarckstraße	0	0	1	2	3							3	6		22					71	71	2020	03	07	he	tr	RF	RF	LV		8,789556	53,071201
+217	07.03.2020	18:24	Sa	5		Bremen	Hemmstraße	0	0	1	2	7			6				3	7		44				85	58	72	2020	03	07	du	tr	LKW	RF	SO		8,818912	53,115224
+218	08.03.2020	10:30	So	5		Bremen	Bahnhofsplatz	0	0	0	2	1							5	7		14	49				21	71	2020	03	08	he	tr	PKW	RF	SO		8,811963	53,083277
+219	08.03.2020	18:25	So	5		Bremen	Woltmershauser Straße	0	0	1	2	5	3		9				3	2		35					21	71	2020	03	08	dä	na	PKW	RF	AB		8,773097	53,081143
+220	09.03.2020	12:00	Mo	5		Bremen	Am Stern	0	0	1	2	5	7						3	3		28					21	71	2020	03	09	he	tr	PKW	RF	EK		8,824849	53,084159
+221	09.03.2020	12:40	Mo	5		Bremen	Parkallee	0	1	0	2	5	7						2	3		37	28				21	71	2020	03	09	he	tr	PKW	RF	EK		8,824741	53,084136
+222	09.03.2020	14:04	Mo	5		Bremen	Gustav-Deetjen-Allee	0	0	1	2	3	1						3	2		49					21	71	2020	03	09	he	tr	PKW	RF	AB		8,818411	53,086485
+223	09.03.2020	14:06	Mo	5		Bremen	Am Wandrahm	0	0	1	2	0							3	7		49					71	21	2020	03	09	he	tr	RF	PKW	SO		8,805461	53,081568
+224	09.03.2020	16:10	Mo	5		Bremen	Sebaldsbrücker Heerstraße	0	1	0	2	5			9			8	2	2		34					21	71	2020	03	09	he	na	PKW	RF	AB		8,886850	53,062543
+225	10.03.2020	12:30	Di	5		Bremen	Wartburgstraße	0	0	1	2	0							3	6		69		42			81	71	2020	03	10	he	tr	FG	RF	LV		8,788847	53,093508
+226	10.03.2020	15:50	Di	5		Bremen	Wilhelm-Wolters-Straße	0	0	0	2	0							5	1		13	49			73	71	21	2020	03	10	he	na	RF	PKW	F		8,895342	53,066709
+227	10.03.2020	18:32	Di	5		Bremen	Eduard-Grunow-Straße	0	1	0	2	6							2	4		69				73	81	71	2020	03	10	du	na	FG	RF	ÜS		8,821152	53,077498
+228	11.03.2020	10:30	Mi	5		Bremen	Buntentorsteinweg	0	0	1	2	1							3	7		14					21	71	2020	03	11	he	tr	PKW	RF	SO		8,813269	53,058365
+229	11.03.2020	10:55	Mi	5		Bremen	Am Stern	0	0	1	2	5	1		8				3	2		34					40	71	2020	03	11	he	tr	LKW	RF	AB		8,824516	53,084559
+230	11.03.2020	11:45	Mi	5		Bremen	Arberger Heerstraße	0	0	1	2	5	2						3	3		37					21	71	2020	03	11	he	tr	PKW	RF	EK		8,927952	53,038461
+231	11.03.2020	17:00	Mi	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	0	1					8	3	3		31					71	21	2020	03	11	he	tr	RF	PKW	EK		8,836183	53,082316
+232	11.03.2020	18:15	Mi	5		Bremen	Edisonstraße	0	0	1	2	5	3						3	3		37					21	72	2020	03	11	du	tr	PKW	RF	EK		8,892115	53,111705
+233	11.03.2020	21:45	Mi	5		Bremen	Oslebshauser Heerstraße	0	0	0	4	1	2						5	3		35		49		73	21	71	2020	03	11	du	na	PKW	RF	EK		8,727715	53,136293
+234	12.03.2020	17:30	Do	5		Bremen	Friedrich-Ebert-Straße	0	1	0	2	6							2	4		42					71	81	2020	03	12	he	tr	RF	FG	ÜS		8,791497	53,065009
+235	13.03.2020	11:00	Fr	5		Bremen	Obervielander Straße	0	0	1	2	5	3						3	3		37		49			21	72	2020	03	13	he	na	PKW	RF	EK		8,738438	53,051634
+236	13.03.2020	12:50	Fr	5		Bremen	Hemelinger Heerstraße	0	0	1	2	5	3						3	3		37					21	71	2020	03	13	he	tr	PKW	RF	EK		8,894881	53,045999
+237	13.03.2020	13:30	Fr	5		Bremen	Borgfelder Allee	0	0	1	2	5	1						3	2		28				84	21	71	2020	03	13	he	na	PKW	RF	AB		8,898882	53,128581
+238	13.03.2020	14:30	Fr	5		Bremen	Beim Industriehafen	0	0	1	2	5	2						3	2		34					51	71	2020	03	13	he	tr	LKW	RF	AB		8,726599	53,129338
+239	13.03.2020	18:20	Fr	5		Bremen	Wachmannstraße	0	0	1	1	0			8				3	1		13	49				71		2020	03	13	he	tr	RF	-	F		8,829692	53,085489
+240	14.03.2020	19:30	Sa	5		Bremen	Alte Waller Straße	0	0	1	2	6							3	4		42					71	81	2020	03	14	du	tr	RF	FG	ÜS		8,776402	53,109419
+241	14.03.2020	20:25	Sa	5		Bremen	Sankt-Pauli-Deich	0	0	0	2	5	1						5	3		49					71	71	2020	03	14	du	tr	RF	RF	EK		8,802881	53,069940
+242	16.03.2020	17:05	Mo	5		Bremen	Am Neustadtsbahnhof	0	0	1	2	5							3	3		49					71	71	2020	03	16	he	tr	RF	RF	EK		8,786825	53,075403
+243	16.03.2020	17:30	Mo	5		Bremen	Kirchweg	0	0	1	3	5	3						3	3		37					21	71	2020	03	16	he	tr	PKW	RF	EK		8,804973	53,059501
+244	17.03.2020	17:25	Di	5		Bremen	Buntentorsteinweg	0	0	1	2	1							3	7		45					21	72	2020	03	17	he	tr	PKW	RF	SO		8,815086	53,056180
+245	18.03.2020	08:00	Mi	5		Bremen	Osterholzer Heerstraße	0	0	1	2	5	3						3	3		28					21	71	2020	03	18	he	tr	PKW	RF	EK		8,935849	53,058687
+246	18.03.2020	12:45	Mi	5		Bremen	Glückstraße	0	0	1	2	5	2						3	3		28					21	71	2020	03	18	he	tr	PKW	RF	EK		8,870636	53,067044
+247	19.03.2020	04:01	Do	5		Bremen	Flughafendamm	0	0	1	2	5	2		4				3	3		49					21	71	2020	03	19	du	na	PKW	RF	EK		8,785924	53,057372
+248	19.03.2020	11:40	Do	5		Bremen	Faulenstraße	0	0	1	1	0							3	7		49					71		2020	03	19	he	tr	RF	-	SO		8,797543	53,080450
+249	21.03.2020	08:20	Sa	5		Bremen	Mühlenstraße	0	1	0	1	0							2	7		49					71		2020	03	21	he	tr	RF	-	SO		8,572353	53,183188
+250	21.03.2020	19:23	Sa	5		Bremen	Bahnhofsplatz	0	0	1	1	0							3	1		1	49				71		2020	03	21	du	tr	RF	-	F		8,813966	53,081400
+251	22.03.2020	14:55	So	5		Bremen	Kuhstraße	0	0	0	2	1							5	7		14	49				71	21	2020	03	22	he	tr	RF	PKW	SO		8,597512	53,182269
+252	23.03.2020	15:10	Mo	5		Bremen	Hamburger Straße	0	0	0	2	3	1					8	5	6		14	49				71	21	2020	03	23	he	tr	RF	PKW	LV		8,848897	53,067952
+253	23.03.2020	18:00	Mo	5		Bremen	Neukirchstraße	0	0	1	3	1							3	7		49					71	21	2020	03	23	he	tr	RF	PKW	SO		8,809305	53,094898
+254	24.03.2020	12:05	Di	5		Bremen	Ilmenauer Straße	0	0	0	2	1							5	5		14					71	21	2020	03	24	he	tr	RF	PKW	RV		8,848843	53,069694
+255	24.03.2020	16:30	Di	5		Bremen	Senator-Apelt-Straße	0	0	1	2	5	1		4				3	3		28					21	71	2020	03	24	he	tr	PKW	RF	EK		8,738599	53,088415
+256	25.03.2020	06:35	Mi	5		Bremen	Buntentorsteinweg	0	1	0	1	0			9				2	1		49					71		2020	03	25	he	tr	RF	-	F		8,811520	53,060599
+257	25.03.2020	12:05	Mi	5		Bremen	Dötlinger Straße	0	0	0	2	1							5	7		49					92	72	2020	03	25	he	tr	SOF	RF	SO		8,770544	53,080289
+258	25.03.2020	15:43	Mi	5		Bremen	Kuhgrabenweg	0	1	1	2	6							2	4		69		18			84	71	2020	03	25	he	tr	FG	RF	ÜS		8,858789	53,124326
+259	26.03.2020	01:20	Do	5		Bremen	Theodor-Heuss-Allee	0	1	0	2	6							2	4		49		1			71	81	2020	03	26	du	tr	RF	FG	ÜS		8,812416	53,086044
+260	26.03.2020	12:56	Do	5		Bremen	Georg-Gleistein-Straße	0	0	1	2	5	3						3	3		37					21	71	2020	03	26	he	tr	PKW	RF	EK		8,618828	53,177710
+261	26.03.2020	13:25	Do	5		Bremen	Hannoversche Straße	0	0	0	2	5	3		9				5	3		37					21	72	2020	03	26	he	tr	PKW	RF	EK		8,891538	53,048314
+262	27.03.2020	11:45	Fr	5		Bremen	Am Rüten	0	0	0	2	0							5	7		49	14				21	71	2020	03	27	he	tr	PKW	RF	SO		8,896527	53,098904
+263	27.03.2020	15:00	Fr	5		Bremen	Christophweg	0	0	1	2	6							3	4		64					81	72	2020	03	27	he	tr	FG	RF	ÜS		8,812537	53,062855
+264	27.03.2020	17:30	Fr	5		Bremen	Osterfeuerberger Ring	0	0	1	2	3	1					8	3	3		34					21	71	2020	03	27	he	tr	PKW	RF	EK		8,794147	53,103046
+265	28.03.2020	12:30	Sa	5		Bremen	Auf den Häfen	0	0	1	2	5							3	3		49	35			89	21	71	2020	03	28	he	tr	PKW	RF	EK		8,819725	53,075780
+266	30.03.2020	13:20	Mo	5		Bremen	Lilienthaler Heerstraße	0	0	1	2	5	1					8	3	2		34					44	72	2020	03	30	he	na	LKW	RF	AB		8,887950	53,109184
+267	30.03.2020	17:30	Mo	5		Bremen	Vegesacker Weserpromenade	0	0	1	2	6							3	4		69				87	81	71	2020	03	30	he	tr	FG	RF	ÜS		8,616773	53,171697
+268	31.03.2020	13:00	Di	5		Bremen	Emder Straße 83	0	0	1	2	0	2						3	7		69				87	83	71	2020	03	31	he	tr	FG	RF	SO		8,775812	53,102213
+269	31.03.2020	14:15	Di	5		Bremen	Am Dobben	0	0	0	2	5	1						5	2		31					71	21	2020	03	31	he	tr	RF	PKW	AB		8,823866	53,078223
+270	31.03.2020	16:15	Di	5		Bremen	Ludwig-Erhard-Straße	0	0	1	2	5	3						3	3		37					21	72	2020	03	31	he	tr	PKW	RF	EK		8,733406	53,081265
+271	31.03.2020	17:15	Di	5		Bremen	Bürgermeister-Smidt-Straße	0	0	0	2	5						8	5	3		34	49	49			21	71	2020	03	31	he	tr	PKW	RF	EK		8,808562	53,082918
+272	01.04.2020	15:20	Mi	5		Bremen	Hannoversche Straße	0	0	0	2	3							5	6		26	49				21	71	2020	04	01	he	tr	PKW	RF	LV		8,884575	53,054347
+273	03.04.2020	08:30	Fr	5		Bremen	Hankenstraße	0	0	1	2	5	1		3				3	3		34		9			21	71	2020	04	03	he	tr	PKW	RF	EK		8,799147	53,079502
+274	04.04.2020	02:30	Sa	5		Bremen	Graf-Haeseler-Straße	0	0	0	2	1							5	5		49					71	21	2020	04	04	he	tr	RF	PKW	RV		8,842907	53,076675
+275	04.04.2020	12:55	Sa	5		Bremen	Berckstraße	0	0	1	2	5	3						3	3		34		10			21	71	2020	04	04	he	tr	PKW	RF	EK		8,874257	53,097024
+276	05.04.2020	12:30	So	5		Bremen	Neuwieder Straße	0	0	0	2	1							6	7		1	49				71	21	2020	04	05	he	tr	RF	PKW	SO		8,960324	53,069866
+277	05.04.2020	14:25	So	5		Bremen	Lesumbroker Landstraße	0	1	0	1	0							2	1		49					72		2020	04	05	he	tr	RF	-	F		8,630576	53,156768
+278	05.04.2020	14:45	So	5		Bremen	Osterdeich	0	0	1	2	5	2						3	2		34					21	71	2020	04	05	he	tr	PKW	RF	AB		8,838154	53,067837
+279	05.04.2020	15:15	So	5		Bremen	Osterdeich	0	0	0	2	1			8			8	5	7		14	49				71	21	2020	04	05	he	tr	RF	PKW	SO		8,825736	53,068859
+280	05.04.2020	15:30	So	5		Bremen	Adolf-Reichwein-Straße	0	0	0	2	1							5	7		49	14				71	21	2020	04	05	he	tr	RF	PKW	SO		8,896940	53,084900
+281	05.04.2020	16:00	So	5		Bremen	Wasserhorst	0	1	0	2	5	1					8	2	2		35					21	72	2020	04	05	he	tr	PKW	RF	AB		8,751769	53,163941
+282	05.04.2020	16:45	So	5		Bremen	Frieslandstraße	0	0	1	1	0							3	7		49					72		2020	04	05	he	tr	RF	-	SO		8,761116	53,059387
+283	05.04.2020	18:55	So	5		Bremen	Osterdeich	0	0	1	1	0							3	7		49					71		2020	04	05	he	tr	RF	-	SO		8,835727	53,068261
+284	06.04.2020	08:40	Mo	5		Bremen	Am Stern	0	0	1	2	5	7		8				3	2		34					21	71	2020	04	06	he	tr	PKW	RF	AB		8,824539	53,084564
+285	06.04.2020	11:55	Mo	5		Bremen	Duckwitzstraße	0	0	0	2	5	2		4				5	3		37					72	21	2020	04	06	he	tr	RF	PKW	EK		8,771440	53,063880
+286	06.04.2020	14:50	Mo	5		Bremen	Waller Damm	0	0	1	2	5							3	3		37	1				72	21	2020	04	06	he	tr	RF	PKW	EK		8,799367	53,114703
+287	06.04.2020	16:00	Mo	5		Bremen	Koringstraße	0	0	1	2	3	3						3	2		35					21	71	2020	04	06	he	tr	PKW	RF	AB		8,635216	53,185033
+288	06.04.2020	19:11	Mo	5		Bremen	H.-H.-Meier-Allee	0	1	0	2	5							2	7		49	10				71	71	2020	04	06	he	tr	RF	RF	SO		8,847995	53,093521
+289	06.04.2020	20:20	Mo	5		Bremen	Lahnstraße	0	0	1	2	0	2						3	7		55					71	21	2020	04	06	dä	tr	RF	PKW	SO		8,791323	53,069852
+290	07.04.2020	07:35	Di	5		Bremen	Bürgermeister-Hildebrand-Straß	0	0	0	2	5							5	6		49	10				71	71	2020	04	07	he	tr	RF	RF	LV		8,792903	53,088621
+291	07.04.2020	11:13	Di	5		Bremen	Wilhelm-Kaisen-Brücke	0	1	0	2	5			3				2	3		31					72	21	2020	04	07	he	tr	RF	PKW	EK		8,804083	53,072351
+292	07.04.2020	14:14	Di	5		Bremen	Uhlandstraße	0	0	1	2	6							3	4		42					71	81	2020	04	07	he	tr	RF	FG	ÜS		8,831304	53,079873
+293	07.04.2020	18:05	Di	5		Bremen	Mahndorfer Bahnhof	0	0	1	2	3	1	6	2				3	2		49	34				21	72	2020	04	07	he	tr	PKW	RF	AB		8,946355	53,039324
+294	08.04.2020	07:40	Mi	5		Bremen	Brüggeweg	0	0	1	1	0	5		9				3	7		49					71		2020	04	08	he	tr	RF	-	SO		8,896216	53,056922
+295	08.04.2020	16:20	Mi	5		Bremen	Parkallee	0	0	0	2	5	2		4			8	5	3		31					71	21	2020	04	08	he	tr	RF	PKW	EK		8,832170	53,092981
+296	08.04.2020	23:54	Mi	5		Bremen	Loignystraße	0	0	0	2	1							5	5		49	14				71	21	2020	04	08	du	tr	RF	PKW	RV		8,859175	53,084226
+297	09.04.2020	10:43	Do	5		Bremen	Am Hohentorsplatz	0	0	1	2	5	1					8	3	3		35		18			21	71	2020	04	09	he	tr	PKW	RF	EK		8,786761	53,074504
+298	10.04.2020	14:55	Fr	5		Bremen	Neanderstraße	0	0	1	3	4							3	6		14					21	71	2020	04	10	he	tr	PKW	RF	LV		8,807108	53,061247
+299	11.04.2020	12:40	Sa	5		Bremen	Hollerallee	0	0	1	2	5	7						3	3		28		28			21	71	2020	04	11	he	tr	PKW	RF	EK		8,825142	53,084240
+300	11.04.2020	13:07	Sa	5		Bremen	Heinrich-Plett-Allee	0	0	0	2	4						8	5	6		14					71	21	2020	04	11	he	tr	RF	PKW	LV		8,723165	53,043996
+301	11.04.2020	18:00	Sa	5				0	0	1	2	9	5						3	6		14	49				71	71	2020	04	11	he	tr	RF	RF	LV		8,807103	53,074989
+302	14.04.2020	08:30	Di	5		Bremen	Fedelhören	0	0	1	2	5							3	3		37					21	71	2020	04	14	he	tr	PKW	RF	EK		8,818164	53,077733
+303	14.04.2020	10:10	Di	5		Bremen	Geestemünder Straße	0	0	0	3	5							5	3		27					21	71	2020	04	14	he	tr	PKW	RF	EK		8,785867	53,100240
+304	15.04.2020	09:25	Mi	5		Bremen	Grambker Heerstraße	0	0	1	1	0	2						3	1		49					71		2020	04	15	he	tr	RF	-	F		8,711511	53,147777
+305	15.04.2020	13:28	Mi	5		Bremen	Föhrenstraße	0	0	1	2	6	1						3	4		49		69			72	81	2020	04	15	he	tr	RF	FG	ÜS		8,876974	53,063339
+306	15.04.2020	15:00	Mi	5		Bremen	Bei den Vier Linden	0	0	0	2	0							5	7		36	49				21	71	2020	04	15	he	tr	PKW	RF	SO		8,862673	53,066324
+307	17.04.2020	12:00	Fr	5		Bremen	Am Fockenberg	0	0	0	2	1							5	7		14	49				71	21	2020	04	17	he	tr	RF	PKW	SO		8,733532	53,133211
+308	17.04.2020	16:50	Fr	5		Bremen	Waller Ring	0	0	0	2	5	3						5	2		34					21	71	2020	04	17	he	tr	PKW	RF	AB		8,785790	53,102804
+309	17.04.2020	18:40	Fr	5		Bremen	Am Dom	0	0	1	2	5							3	6		49	14	49			71	71	2020	04	17	he	tr	RF	RF	LV		8,808454	53,075171
+310	18.04.2020	03:26	Sa	5		Bremen	Leher Heerstraße	0	0	0	1	0							5	7		49					71		2020	04	18	du	tr	RF	-	SO		8,893204	53,098417
+311	18.04.2020	14:25	Sa	5		Bremen	Horner Straße	0	1	0	2	0							2	1		49					92	71	2020	04	18	he	tr	SOF	RF	F		8,831473	53,075948
+312	18.04.2020	20:55	Sa	5		Bremen	Rotdornpfad	0	0	1	2	6							3	4		64					81	71	2020	04	18	du	tr	FG	RF	ÜS		8,901023	53,095515
+313	19.04.2020	15:45	So	5		Bremen	Große Krankenstraße	0	0	0	2	0	1						5	7		49					71	21	2020	04	19	he	tr	RF	PKW	SO		8,797082	53,071662
+314	19.04.2020	17:05	So	5		Bremen	Fabrikenufer	0	0	1	1	0							3	7		49					72		2020	04	19	he	tr	RF	-	SO		8,768119	53,101218
+315	20.04.2020	06:45	Mo	5		Bremen	Hastedter Osterdeich	0	0	1	2	5	2						3	3		35					21	71	2020	04	20	he	tr	PKW	RF	EK		8,860900	53,063384
+316	20.04.2020	12:50	Mo	5		Bremen	Horner Heerstraße	0	0	1	2	3							3	6		22		14	49		71	71	2020	04	20	he	tr	RF	RF	LV		8,871484	53,091757
+317	20.04.2020	12:50	Mo	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	6							3	4		11	49				71	81	2020	04	20	he	tr	RF	FG	ÜS		8,807052	53,081914
+318	20.04.2020	18:00	Mo	5		Bremen	Kirchbachstraße	0	1	0	2	6			3			8	2	4		42					71	81	2020	04	20	he	tr	RF	FG	ÜS		8,853929	53,082680
+319	20.04.2020	19:10	Mo	5		Bremen	Osterholzer Heerstraße	0	0	1	2	5	2						3	3		28					21	71	2020	04	20	he	tr	PKW	RF	EK		8,945676	53,058145
+320	21.04.2020	11:30	Di	5		Bremen	Diedrich-Steilen-Straße	0	0	1	2	1							3	7		14	49				71	21	2020	04	21	he	tr	RF	PKW	SO		8,613806	53,182179
+321	22.04.2020	08:45	Mi	5		Bremen	Rembertistraße	0	0	1	2	5							3	2		35					21	71	2020	04	22	he	tr	PKW	RF	AB		8,819195	53,080219
+322	22.04.2020	11:10	Mi	5		Bremen	Hermann-Fortmann-Straße	0	0	2	2	5							3	3		28					21	71	2020	04	22	he	tr	PKW	RF	EK		8,635988	53,171289
+323	22.04.2020	15:55	Mi	5		Bremen	Buntentorsteinweg	0	0	1	2	5			8			8	3	3		31					71	72	2020	04	22	he	tr	RF	RF	EK		8,809786	53,062845
+324	23.04.2020	14:55	Do	5		Bremen	Ostertorsteinweg	0	1	0	1	0							2	7		49					71		2020	04	23	he	tr	RF	-	SO		8,820575	53,072667
+325	23.04.2020	15:20	Do	5		Bremen	Waller Ring	0	0	1	2	5							3	3		28		11			21	71	2020	04	23	he	tr	PKW	RF	EK		8,781520	53,101020
+326	24.04.2020	12:20	Fr	5		Bremen	Lehnstedter Straße	0	0	1	2	5	1						3	3		28					71	71	2020	04	24	he	tr	RF	RF	EK		8,798321	53,066114
+327	24.04.2020	13:05	Fr	5		Bremen	Osterdeich	0	0	2	2	0							3	7		64		49			81	71	2020	04	24	he	tr	FG	RF	SO		8,815820	53,070334
+328	24.04.2020	13:20	Fr	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	3							3	6		22					71	71	2020	04	24	he	tr	RF	RF	LV		8,804512	53,080640
+329	25.04.2020	12:09	Sa	5		Bremen	Fürther Straße	0	0	1	2	5	1		3				3	3		34					21	71	2020	04	25	he	tr	PKW	RF	EK		8,808374	53,094694
+330	25.04.2020	16:30	Sa	5		Bremen	Georg-Gleistein-Straße	0	0	1	2	5							3	3		28		11			21	71	2020	04	25	he	tr	PKW	RF	EK		8,619005	53,180523
+331	25.04.2020	20:45	Sa	5		Bremen	Arberger Heerstraße	0	0	1	1	0							3	1		1	49				71		2020	04	25	he	tr	RF	-	F		8,933038	53,038919
+332	26.04.2020	09:40	So	5		Bremen	Bardowickstraße	0	0	1	2	5	2						3	3		28					21	71	2020	04	26	he	tr	PKW	RF	EK		8,884203	53,071768
+333	26.04.2020	17:58	So	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	2		4				3	2		34					21	71	2020	04	26	he	tr	PKW	RF	AB		8,884119	53,063642
+334	27.04.2020	15:50	Mo	5		Bremen	Habenhauser Landstraße	0	0	1	2	5	2						3	3		37					21	72	2020	04	27	he	tr	PKW	RF	EK		8,832203	53,050500
+335	28.04.2020	18:20	Di	5		Bremen	Neuenlander Straße	0	0	1	2	5	1		3				3	3		34					21	71	2020	04	28	he	tr	PKW	RF	EK		8,779824	53,068625
+336	29.04.2020	13:15	Mi	5		Bremen	Goliathstraße	0	0	1	2	5	2						3	2		49					21	71	2020	04	29	he	tr	PKW	RF	AB		8,872420	53,063123
+337	29.04.2020	13:35	Mi	5		Bremen	Hastedter Heerstraße	0	0	1	2	3	1					8	3	2		34					21	71	2020	04	29	he	tr	PKW	RF	AB		8,856192	53,070537
+338	29.04.2020	17:05	Mi	5		Bremen	Kurfürstenallee	0	0	1	2	3							3	6		22		22			71	72	2020	04	29	he	na	RF	RF	LV		8,865215	53,082187
+339	29.04.2020	17:05	Mi	5		Bremen	Ostertorsteinweg	0	0	1	1	0						8	3	7		49					71		2020	04	29	he	na	RF	-	SO		8,821055	53,072719
+340	30.04.2020	08:55	Do	5		Bremen	Grenzwehr	0	0	1	1	0	1						3	7		49				73	72		2020	04	30	he	na	RF	-	SO		8,936406	53,073805
+341	30.04.2020	13:25	Do	5		Bremen	Hans-Bredow-Straße	0	1	0	2	5	1		3			8	2	3		31					71	21	2020	04	30	he	tr	RF	PKW	EK		8,958222	53,046687
+342	30.04.2020	14:00	Do	5		Bremen	Neuenlander Straße	0	0	1	2	5							3	3		49	28				21	71	2020	04	30	he	tr	PKW	RF	EK		8,814766	53,049427
+343	30.04.2020	22:55	Do	5		Bremen	Falkenstraße	0	1	0	2	4	2						2	6		11					21	72	2020	04	30	du	tr	PKW	RF	LV		8,806174	53,083037
+344	02.05.2020	12:54	Sa	5		Bremen	Kurfürstenallee	0	0	1	2	5	2						3	2		34					21	71	2020	05	02	he	na	PKW	RF	AB		8,839319	53,081823
+345	02.05.2020	13:25	Sa	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	5	3						3	3		28				73	21	72	2020	05	02	he	na	PKW	RF	EK		8,769379	53,110805
+346	04.05.2020	13:45	Mo	5		Bremen	Bremerhavener Heerstraße	0	1	0	1	0	2						2	7		49					71		2020	05	04	he	tr	RF	-	SO		8,706396	53,175238
+347	04.05.2020	13:45	Mo	5		Bremen	Wildeshauser Straße	0	0	0	2	3							5	6		14					71	21	2020	05	04	he	tr	RF	PKW	LV		8,768500	53,082216
+348	05.05.2020	08:40	Di	5		Bremen	Am Wasser	0	0	1	2	5	2						3	3		35				82	21	72	2020	05	05	he	tr	PKW	RF	EK		8,641245	53,162278
+349	06.05.2020	09:00	Mi	5		Bremen	Schwarzenbergstraße	0	0	1	2	1							3	7		49					71	21	2020	05	06	he	tr	RF	PKW	SO		8,859668	53,085225
+350	06.05.2020	11:45	Mi	5		Bremen	Langemarckstraße	0	0	1	2	6							3	4		42		64			71	81	2020	05	06	he	tr	RF	FG	ÜS		8,790009	53,071644
+351	06.05.2020	14:30	Mi	5		Bremen	Hamburger Straße	0	0	1	2	6	1		8				3	4		42				89	72	81	2020	05	06	he	tr	RF	FG	ÜS		8,841306	53,069228
+352	06.05.2020	16:55	Mi	5		Bremen	Marcusallee	0	0	1	2	5							3	3		49		37			21	71	2020	05	06	he	tr	PKW	RF	EK		8,875016	53,091176
+353	06.05.2020	22:00	Mi	5		Bremen	Vegesacker Straße	0	0	1	2	0	1						3	7		49					71	93	2020	05	06	du	tr	RF	FG	SO		8,785479	53,096755
+354	07.05.2020	10:05	Do	5		Bremen	Grenzstraße	0	0	0	2	1							5	7		49	14				71	21	2020	05	07	he	tr	RF	PKW	SO		8,782668	53,093911
+355	07.05.2020	12:38	Do	5		Bremen	Borgfelder Heerstraße	0	0	1	2	5	2						3	3		37		10			21	71	2020	05	07	he	tr	PKW	RF	EK		8,898491	53,119919
+356	07.05.2020	15:00	Do	5		Bremen	Elisabethstraße	0	0	1	2	0							3	6		49					71	71	2020	05	07	he	tr	RF	RF	LV		8,788247	53,097501
+357	07.05.2020	15:45	Do	5		Bremen	Lesumbroker Landstraße	0	0	0	2	4							5	6		14				89	71	71	2020	05	07	he	tr	RF	RF	LV		8,685266	53,161429
+358	07.05.2020	16:00	Do	5		Bremen	Sonneberger Straße	0	0	1	2	5							3	3		28					21	71	2020	05	07	he	tr	PKW	RF	EK		8,876523	53,081046
+359	07.05.2020	18:07	Do	5		Bremen	Doventorscontrescarpe	0	0	0	2	0							5	7		49		49			71	21	2020	05	07	he	tr	RF	PKW	SO		8,795928	53,083956
+360	08.05.2020	11:45	Fr	5		Bremen	Waller Heerstraße	0	0	0	2	5	2		9				5	3		37					21	71	2020	05	08	he	tr	PKW	RF	EK		8,790044	53,096784
+361	08.05.2020	14:16	Fr	5		Bremen	Hemmstraße	0	1	2	2	5	2						2	3		31					71	33	2020	05	08	he	tr	RF	BUS	EK		8,813111	53,098881
+362	08.05.2020	14:25	Fr	5		Bremen	Bremerhavener Heerstraße	0	0	0	2	5	3						5	3		37		9			21	71	2020	05	08	he	tr	PKW	RF	EK		8,704074	53,172993
+363	08.05.2020	15:25	Fr	2	6	Bremen	Autobahnzubringer Arsten (B 6n	0	0	0	2	5	1					8	5	2		34					21	71	2020	05	08	he	tr	PKW	RF	AB		8,819489	53,048469
+364	08.05.2020	16:30	Fr	5		Bremen	Kattenturmer Heerstraße	0	0	2	2	3							3	6		22					72	72	2020	05	08	he	tr	RF	RF	LV		8,818132	53,047160
+365	09.05.2020	10:30	Sa	5		Bremen	Findorffstraße	0	0	1	2	5	2						3	3		27					71	71	2020	05	09	he	tr	RF	RF	EK		8,809388	53,088518
+366	09.05.2020	11:35	Sa	5		Bremen	Thedinghauser Straße	0	0	2	2	6							3	4		42					71	81	2020	05	09	he	tr	RF	FG	ÜS		8,792667	53,064332
+367	09.05.2020	16:15	Sa	5		Bremen	In der Vahr	0	0	1	2	5	2						3	3		28					21	71	2020	05	09	he	tr	PKW	RF	EK		8,876513	53,081027
+368	09.05.2020	18:50	Sa	5		Bremen	Borgfelder Allee	0	0	1	2	5	1						3	3		28		27			71	33	2020	05	09	he	tr	RF	BUS	EK		8,899011	53,129727
+369	09.05.2020	21:45	Sa	5		Bremen	Süderstraße	0	0	1	2	5	1						3	3		27					71	21	2020	05	09	du	tr	RF	PKW	EK		8,796390	53,071900
+370	10.05.2020	12:00	So	5		Bremen	Hammersbecker Straße	0	0	1	2	5	3						3	3		37					21	72	2020	05	10	he	tr	PKW	RF	EK		8,627609	53,183770
+371	10.05.2020	12:35	So	5		Bremen	Bismarckstraße	0	0	1	1	0							3	7		49					71		2020	05	10	he	tr	RF	-	SO		8,829279	53,077943
+372	10.05.2020	18:45	So	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	4							3	6		9					71	71	2020	05	10	he	sch	RF	RF	LV		8,837535	53,037974
+373	11.05.2020	07:10	Mo	5		Bremen	Borgfelder Heerstraße	0	0	1	2	5	3						3	2		35					71	71	2020	05	11	he	tr	RF	RF	AB		8,899776	53,121306
+374	11.05.2020	15:35	Mo	5		Bremen	Landwehrstraße	0	0	1	2	4	1					8	3	6		49					71	71	2020	05	11	he	tr	RF	RF	LV		8,791218	53,091582
+375	11.05.2020	17:30	Mo	5		Bremen	Oslebshauser Heerstraße	0	0	1	2	6							3	4		65					81	71	2020	05	11	he	tr	FG	RF	ÜS		8,735493	53,133985
+376	12.05.2020	08:45	Di	5		Bremen	Holsteiner Straße	0	1	0	2	1							2	5		49	14				71	40	2020	05	12	he	tr	RF	LKW	RV		8,794024	53,101023
+377	12.05.2020	14:00	Di	5		Bremen	Drakenburger Straße	0	0	0	2	1							5	7		49		49			71	21	2020	05	12	he	tr	RF	PKW	SO		8,868584	53,064561
+378	13.05.2020	08:40	Mi	5		Bremen	Am Hulsberg	0	0	1	2	5	1		9			8	3	2		35					21	71	2020	05	13	he	tr	PKW	RF	AB		8,842803	53,072316
+379	13.05.2020	12:00	Mi	5		Bremen	Eislebener Straße	0	1	0	2	5	2		8				2	3		28					21	71	2020	05	13	he	tr	PKW	RF	EK		8,871921	53,077102
+380	13.05.2020	16:35	Mi	5		Bremen	Pfarrfeldsweg	0	0	0	2	5							5	3		28					71	21	2020	05	13	he	tr	RF	PKW	EK		8,859390	53,046382
+381	13.05.2020	17:00	Mi	5		Bremen	Nienburger Straße	0	0	1	2	5							3	3		49		49			71	21	2020	05	13	he	tr	RF	PKW	EK		8,844621	53,070754
+382	14.05.2020	08:50	Do	5		Bremen	Roßbachstraße	0	0	0	2	3							5	5		14				89	44	71	2020	05	14	he	tr	LKW	RF	RV		8,803455	53,061672
+383	14.05.2020	15:30	Do	5		Bremen	Bürgermeister-Smidt-Brücke	0	0	1	2	7							3	7		49					71	81	2020	05	14	he	tr	RF	FG	SO		8,796668	53,076817
+384	14.05.2020	17:00	Do	5		Bremen	Sagerstraße	0	0	1	2	5						8	3	3		29					21	71	2020	05	14	he	tr	PKW	RF	EK		8,627164	53,170312
+385	15.05.2020	09:20	Fr	5		Bremen	Martinistraße	0	0	1	2	5	2						3	3		35		11			21	71	2020	05	15	he	tr	PKW	RF	EK		8,802157	53,077795
+386	15.05.2020	09:47	Fr	5		Bremen	Georg-Gröning-Straße	0	0	1	2	5	2						3	2		35		35			21	71	2020	05	15	he	tr	PKW	RF	AB		8,837165	53,084958
+387	15.05.2020	14:05	Fr	5		Bremen	Diepenau	0	0	0	2	5	1						5	3		27					72	21	2020	05	15	he	tr	RF	PKW	EK		8,795633	53,080630
+388	15.05.2020	14:30	Fr	5		Bremen	Vor dem Steintor	0	0	1	1	0							3	7		49					72		2020	05	15	he	tr	RF	-	SO		8,829553	53,071913
+389	15.05.2020	15:30	Fr	5		Bremen	Ostertorsteinweg	0	0	0	2	5	2						5	2		34					21	71	2020	05	15	he	tr	PKW	RF	AB		8,818132	53,072390
+390	15.05.2020	15:35	Fr	5		Bremen	Thomas-Mann-Straße	0	0	1	2	0							3	7		36					21	72	2020	05	15	he	tr	PKW	RF	SO		8,838468	53,091401
+391	15.05.2020	15:45	Fr	5		Bremen	Große Johannisstraße	0	0	0	2	1	2						5	2		35					21	71	2020	05	15	he	tr	PKW	RF	AB		8,796623	53,071850
+392	15.05.2020	17:08	Fr	5		Bremen	Seewenjestraße	0	0	0	2	1							5	7		14	49				71	21	2020	05	15	he	tr	RF	PKW	SO		8,767658	53,114796
+393	16.05.2020	10:11	Sa	5		Bremen	Ritterhuder Heerstraße	0	0	0	2	5	2		9				5	2		35					21	71	2020	05	16	he	tr	PKW	RF	AB		8,738529	53,134851
+394	16.05.2020	14:25	Sa	5		Bremen	Bürgermeister-Spitta-Allee	0	1	0	2	5	1		9				2	3		35		10			21	71	2020	05	16	he	tr	PKW	RF	EK		8,872983	53,084752
+395	16.05.2020	15:00	Sa	5		Bremen	Kleine Hundestraße	0	0	0	2	5	2						5	3		37					21	71	2020	05	16	he	tr	PKW	RF	EK		8,806153	53,078413
+396	17.05.2020	12:50	So	5		Bremen	Fleetstraße	0	0	1	1	0							3	7		49	1				71		2020	05	17	he	tr	RF	-	SO		8,790360	53,108949
+397	17.05.2020	13:20	So	5		Bremen	Ansgaritorsteinweg	0	0	0	2	1							5	5		49					71	21	2020	05	17	he	tr	RF	PKW	RV		8,804646	53,081589
+398	17.05.2020	17:50	So	5		Bremen	Tieckstraße	0	1	0	2	6							2	7		68		49			81	72	2020	05	17	he	tr	FG	RF	SO		8,809342	53,059951
+399	17.05.2020	19:35	So	5		Bremen	Schwachhauser Heerstraße	0	1	0	2	5							2	3		37					21	71	2020	05	17	he	tr	PKW	RF	EK		8,832892	53,081458
+400	17.05.2020	20:05	So	5		Bremen	Vor dem Steintor	0	0	0	3	1							5	6		49					71	21	2020	05	17	he	tr	RF	PKW	LV		8,827342	53,072690
+401	17.05.2020	20:15	So	5		Bremen	Ludwig-Roselius-Allee	0	0	0	2	1							5	7		14	49				71	21	2020	05	17	he	tr	RF	PKW	SO		8,922625	53,072656
+402	18.05.2020	11:02	Mo	5		Bremen	Fresenbergstraße	0	1	0	2	5	2						2	2		35					21	71	2020	05	18	he	tr	PKW	RF	AB		8,571320	53,184082
+403	18.05.2020	11:19	Mo	5		Bremen	Hamburger Straße	0	0	0	1	0							5	7		49					71		2020	05	18	he	tr	RF	-	SO		8,841977	53,069173
+404	18.05.2020	14:45	Mo	5		Bremen	Claus-von-Lübken-Straße	0	0	1	1	0							3	7		49	1				71		2020	05	18	he	tr	RF	-	SO		8,534402	53,204336
+405	19.05.2020	00:10	Di	5		Bremen	Industriestraße	0	0	0	2	5	2						6	3		28		49	1		21	71	2020	05	19	du	tr	PKW	RF	EK		8,783869	53,065692
+406	19.05.2020	13:12	Di	5		Bremen	Bremer Heerstraße	0	0	1	2	5	1		4				3	3		31		31			71	21	2020	05	19	he	tr	RF	PKW	EK		8,702040	53,167716
+407	19.05.2020	14:42	Di	5		Bremen	Landrat-Christians-Straße	0	0	2	2	3			9				3	6		22					72	71	2020	05	19	he	tr	RF	RF	LV		8,583889	53,181859
+408	19.05.2020	17:50	Di	5		Bremen	Kornstraße	0	0	1	2	0	1		7				3	2		49					21	71	2020	05	19	he	tr	PKW	RF	AB		8,806924	53,060444
+409	19.05.2020	21:10	Di	5		Bremen	Bennigsenstraße	0	0	0	3	1							5	3		66					81	71	2020	05	19	dä	tr	FG	RF	EK		8,856013	53,073977
+410	20.05.2020	07:50	Mi	5		Bremen	Neuenlander Straße	0	0	0	2	5							5	3		28					40	71	2020	05	20	he	tr	LKW	RF	EK		8,783901	53,065731
+411	20.05.2020	16:05	Mi	5		Bremen	Altenwall	0	0	2	2	4	4						3	7		49					72	71	2020	05	20	he	tr	RF	RF	SO		8,812352	53,073088
+412	20.05.2020	16:30	Mi	5		Bremen	Kirchweg	0	0	1	2	5	3						3	3		2	37				21	71	2020	05	20	he	tr	PKW	RF	EK		8,801923	53,057907
+413	20.05.2020	19:20	Mi	5		Bremen	Wasserhorst	0	0	2	2	3							3	6		22					71	71	2020	05	20	he	tr	RF	RF	LV		8,734535	53,165436
+414	21.05.2020	14:58	Do	5		Bremen	Unterm Berg	0	0	1	2	3							3	6		49					72	72	2020	05	21	he	tr	RF	RF	LV		8,503224	53,213023
+415	21.05.2020	15:10	Do	5		Bremen	Bürgermeister-Spitta-Allee	0	0	1	1	0	1						3	7		49					72		2020	05	21	he	tr	RF	-	SO		8,876105	53,082026
+416	21.05.2020	19:32	Do	5		Bremen	Deichschartweg	0	0	2	2	4							3	6		1	14				71	71	2020	05	21	he	tr	RF	RF	LV		8,810383	53,063134
+417	21.05.2020	20:00	Do	5		Bremen	Oslebshauser Landstraße	0	0	1	2	5	1		3			8	3	2		34					21	71	2020	05	21	he	tr	PKW	RF	AB		8,736448	53,133718
+418	22.05.2020	11:45	Fr	5		Bremen	Oberblockland	0	0	1	1	0							3	1		49					71		2020	05	22	he	tr	RF	-	F		8,858177	53,136252
+419	23.05.2020	12:49	Sa	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	1	2	0						8	3	7		49					61	71	2020	05	23	he	tr	SOF	RF	SO		8,804019	53,072422
+420	24.05.2020	14:20	So	5		Bremen	Eislebener Straße	0	0	1	1	0							3	7		49					71		2020	05	24	he	tr	RF	-	SO		8,869397	53,080529
+421	25.05.2020	11:00	Mo	5		Bremen	Pastorenweg	0	0	0	2	1							5	5		45					21	71	2020	05	25	he	tr	PKW	RF	RV		8,762452	53,112187
+422	25.05.2020	11:00	Mo	5		Bremen	Schwarzer Weg	0	0	1	2	5							3	3		28					21	71	2020	05	25	he	tr	PKW	RF	EK		8,753512	53,123247
+423	25.05.2020	13:40	Mo	5		Bremen	Segelsbrück	0	0	1	2	5	2						3	2		34	28				21	71	2020	05	25	he	tr	PKW	RF	AB		8,896908	53,059061
+424	25.05.2020	18:40	Mo	5		Bremen	Vahrer Straße	0	1	0	2	5	3						2	3		34		34			21	71	2020	05	25	he	tr	PKW	RF	EK		8,887851	53,068754
+425	26.05.2020	08:15	Di	5		Bremen	Oslebshauser Heerstraße	0	0	2	2	6							3	7		49					71	81	2020	05	26	he	tr	RF	FG	SO		8,741807	53,131018
+426	26.05.2020	13:00	Di	5		Bremen	Schwäbisch-Hall-Straße	0	0	0	2	1							5	5		49		49			71	21	2020	05	26	he	tr	RF	PKW	RV		8,765558	53,051065
+427	26.05.2020	13:20	Di	5		Bremen	Kirchweg	0	0	2	2	4	6						3	6		14		14		89	72	72	2020	05	26	he	tr	RF	RF	LV		8,805308	53,058800
+428	26.05.2020	15:35	Di	5		Bremen	Im Arster Felde	0	0	0	2	5							5	3		36		49			21	71	2020	05	26	he	tr	PKW	RF	EK		8,823995	53,039727
+429	26.05.2020	15:45	Di	5		Bremen	Werderstraße	0	0	1	1	0			9				3	1		49					71		2020	05	26	he	tr	RF	-	F		8,807226	53,070582
+430	26.05.2020	18:32	Di	5		Bremen	Sielwall	0	1	0	2	0							2	6		49					71	81	2020	05	26	he	tr	RF	FG	LV		8,823384	53,072314
+431	26.05.2020	22:40	Di	5		Bremen	Lindenhofstraße	0	0	0	3	1							5	5		49	14				21	71	2020	05	26	du	tr	PKW	RF	RV		8,756256	53,113967
+432	27.05.2020	12:15	Mi	5		Bremen	Wischmannstraße	0	0	0	2	2							5	2		34					21	71	2020	05	27	he	tr	PKW	RF	AB		8,823298	53,030458
+433	27.05.2020	13:14	Mi	5		Bremen	Parkallee	0	0	1	1	0	3						3	7		49					71		2020	05	27	he	tr	RF	-	SO		8,826659	53,085480
+434	27.05.2020	16:20	Mi	5		Bremen	Falkensteiner Straße	0	0	1	2	4	6						3	6		49					71	71	2020	05	27	he	tr	RF	RF	LV		8,933762	53,038793
+435	27.05.2020	16:50	Mi	5		Bremen	Meinert-Löffler-Straße	0	0	0	2	5	3						5	3		37		9			21	71	2020	05	27	he	tr	PKW	RF	EK		8,619090	53,185966
+436	27.05.2020	18:10	Mi	5		Bremen	Bürgermeister-Spitta-Allee	0	0	1	2	5	1						3	3		49		31			21	71	2020	05	27	he	tr	PKW	RF	EK		8,872463	53,085773
+437	27.05.2020	18:30	Mi	5		Bremen	Stephanibrücke	0	0	2	2	4							3	6		14					71	71	2020	05	27	he	tr	RF	RF	LV		8,791154	53,080801
+438	28.05.2020	10:30	Do	5		Bremen	Ludwig-Roselius-Allee	0	0	1	2	5	3						3	3		37					21	71	2020	05	28	he	tr	PKW	RF	EK		8,932592	53,069778
+439	28.05.2020	11:35	Do	5		Bremen	Sögestraße	0	0	1	2	5	1		3			8	3	3		34					21	71	2020	05	28	he	tr	PKW	RF	EK		8,807891	53,077861
+440	28.05.2020	12:25	Do	5		Bremen	Alter Dorfweg	0	0	1	2	5	2						3	2		35					21	71	2020	05	28	he	tr	PKW	RF	AB		8,741120	53,049598
+441	28.05.2020	13:40	Do	5		Bremen	Breitenweg	0	0	1	2	5			4			8	3	3		31					21	71	2020	05	28	he	tr	PKW	RF	EK		8,813481	53,080363
+442	28.05.2020	16:45	Do	5			Karl- Carstens-Brücke	0	0	1	2	6							3	4		21					72	81	2020	05	28	he	tr	RF	FG	ÜS		8,852488	53,060052
+443	28.05.2020	18:45	Do	5		Bremen	Heinrich-Schulz-Straße	0	0	0	2	5							5	3		37					21	71	2020	05	28	he	tr	PKW	RF	EK		8,895170	53,083385
+444	28.05.2020	20:40	Do	5		Bremen	Am Stern	0	0	1	2	3	7		8				3	3		28					40	71	2020	05	28	he	tr	LKW	RF	EK		8,825009	53,084590
+445	29.05.2020	08:45	Fr	5		Bremen	Alter Postweg	0	0	1	2	5							3	3		37					71	71	2020	05	29	he	tr	RF	RF	EK		8,865773	53,066535
+446	29.05.2020	10:50	Fr	5		Bremen	Am Stern	0	0	1	2	1							3	3		28					21	71	2020	05	29	he	tr	PKW	RF	EK		8,825052	53,084600
+447	29.05.2020	13:25	Fr	5		Bremen	Kurfürstenallee	0	1	0	2	1			8				2	5		45					40	71	2020	05	29	he	tr	LKW	RF	RV		8,835936	53,082377
+448	29.05.2020	17:24	Fr	5		Bremen	Im Krummen Arm	0	0	0	2	4	2						5	2		11		34			21	71	2020	05	29	he	tr	PKW	RF	AB		8,823778	53,071254
+449	29.05.2020	19:40	Fr	5		Bremen	Gerhard-Rohlfs-Straße	0	0	1	2	6							3	4		2	1				71	81	2020	05	29	dä	tr	RF	FG	ÜS		8,620595	53,172061
+450	30.05.2020	03:30	Sa	5		Bremen	Calvinstraße	0	0	1	1	0							3	7		49					71		2020	05	30	du	tr	RF	-	SO		8,788330	53,092600
+451	30.05.2020	09:25	Sa	5		Bremen	Osterdeich	0	0	1	2	5	1						3	2		28					40	71	2020	05	30	he	tr	LKW	RF	AB		8,838138	53,067841
+452	30.05.2020	13:35	Sa	5		Bremen	Davoser Straße	0	0	0	2	5	2						5	3		49					21	71	2020	05	30	he	tr	PKW	RF	EK		8,949522	53,063197
+453	30.05.2020	14:20	Sa	5		Bremen	Hemmstraße	0	0	1	2	6			9				3	7		65					81	71	2020	05	30	he	tr	FG	RF	SO		8,805295	53,093631
+454	30.05.2020	21:15	Sa	5		Bremen	An der Aue	0	0	1	1	0							3	7		4				89	71		2020	05	30	du	tr	RF	-	SO		8,636656	53,174423
+455	31.05.2020	19:45	So	5		Bremen	Thedinghauser Straße	0	0	0	2	1	1						5	3		27					71	21	2020	05	31	he	tr	RF	PKW	EK		8,800408	53,059599
+456	31.05.2020	22:45	So	5		Bremen	Woltmershauser Straße	0	0	0	2	5	2						5	7		37					71	21	2020	05	31	du	tr	RF	PKW	SO		8,784116	53,075610
+457	01.06.2020	12:30	Mo	5		Bremen	Osterholzer Heerstraße	0	1	1	4	4							2	6		9		49			21	21	2020	06	01	he	tr	PKW	PKW	LV		8,961260	53,057349
+458	01.06.2020	13:45	Mo	5		Bremen	Rembertistraße	0	0	1	1	0							3	7		49					71		2020	06	01	he	tr	RF	-	SO		8,817078	53,078855
+459	01.06.2020	16:25	Mo	5		Bremen	Grindelwaldstraße	0	0	0	2	1							5	5		49	14				71	21	2020	06	01	he	tr	RF	PKW	RV		8,946950	53,075961
+460	01.06.2020	19:40	Mo	5		Bremen	Osterdeich	0	0	1	2	2							3	7		14					71	71	2020	06	01	he	tr	RF	RF	SO		8,824515	53,068529
+461	01.06.2020	20:40	Mo	5		Bremen	Buntentorsteinweg	0	0	1	2	1							3	1		49					71	21	2020	06	01	dä	tr	RF	PKW	F		8,807674	53,064306
+462	02.06.2020	07:00	Di	5		Bremen	Kurfürstenallee	0	0	0	2	2							6	6		2	14				71	21	2020	06	02	he	tr	RF	PKW	LV		8,865247	53,082299
+463	02.06.2020	09:24	Di	5		Bremen	Rembertistraße	0	0	1	2	1							3	5		45					21	71	2020	06	02	he	tr	PKW	RF	RV		8,816163	53,077862
+464	02.06.2020	12:15	Di	5		Bremen	Goliathstraße	0	0	1	2	5	2						3	3		28		10			21	71	2020	06	02	he	tr	PKW	RF	EK		8,872430	53,063165
+465	02.06.2020	15:35	Di	5		Bremen	Niederblockland	0	0	2	2	3							3	6		49					71	71	2020	06	02	he	tr	RF	RF	LV		8,839530	53,151930
+466	02.06.2020	15:45	Di	5		Bremen	Flughafendamm	0	0	1	2	4	1		0	9		8	3	2		49					71	21	2020	06	02	he	tr	RF	PKW	AB		8,786283	53,057568
+467	02.06.2020	20:20	Di	5		Bremen	Ermlandstraße	0	0	1	2	5	3						3	2		35					21	71	2020	06	02	he	tr	PKW	RF	AB		8,553682	53,196191
+468	02.06.2020	21:55	Di	5		Bremen	Theodor-Billroth-Straße	0	0	1	2	6							3	6		64					81	72	2020	06	02	du	tr	FG	RF	LV		8,819253	53,038435
+469	02.06.2020	22:30	Di	5		Bremen	Schlachte	0	0	1	1	8	5						3	7		49	1				71		2020	06	02	dä	tr	RF	-	SO		8,802382	53,076373
+470	03.06.2020	08:45	Mi	5		Bremen	Am Geestkamp	0	0	1	2	5	2						3	3		28				89	21	71	2020	06	03	he	tr	PKW	RF	EK		8,711482	53,147404
+471	03.06.2020	11:45	Mi	5		Bremen	Brokhuchtinger Landstraße	0	0	1	2	5	1		4				3	2		34					40	72	2020	06	03	he	tr	LKW	RF	AB		8,720161	53,056769
+472	03.06.2020	12:15	Mi	5		Bremen	Buntentorsteinweg	0	0	1	2	1							3	5		45					21	71	2020	06	03	he	tr	PKW	RF	RV		8,802727	53,067354
+473	03.06.2020	15:00	Mi	5		Bremen	Schlengstraße	0	0	0	2	5							5	3		49					71	21	2020	06	03	he	tr	RF	PKW	EK		8,891823	53,049507
+474	03.06.2020	17:20	Mi	5		Bremen	Buchenstraße	0	0	0	2	1							5	7		49					71	21	2020	06	03	he	tr	RF	PKW	SO		8,854524	53,084861
+475	03.06.2020	17:47	Mi	5		Bremen	Bahnhofsplatz	0	0	0	1	0							5	7		49				73	72		2020	06	03	he	na	RF	-	SO		8,813438	53,083353
+476	03.06.2020	22:01	Mi	5		Bremen	Graf-Moltke-Straße	0	1	0	1	0							2	1		49					71		2020	06	03	du	tr	RF	-	F		8,833399	53,079270
+477	04.06.2020	12:05	Do	5		Bremen	Charlotte-Wolff-Allee	0	0	1	2	5	2		9				3	3		28		10		73	21	71	2020	06	04	he	na	PKW	RF	EK		8,678201	53,173894
+478	04.06.2020	13:20	Do	5		Bremen	Lahnstraße	0	0	1	2	1							3	6		45					21	71	2020	06	04	he	na	PKW	RF	LV		8,795105	53,067884
+479	04.06.2020	15:01	Do	5		Bremen	Contrescarpe	0	0	1	2	6							3	4		64				73	81	71	2020	06	04	he	na	FG	RF	ÜS		8,816742	53,073052
+480	04.06.2020	15:25	Do	5		Bremen	Eduard-Schopf-Allee	0	1	0	1	0							2	7		49					71		2020	06	04	he	na	RF	-	SO		8,787957	53,083057
+481	05.06.2020	08:40	Fr	5		Bremen	Schwarzer Weg	0	0	1	2	4							3	6		49					71	21	2020	06	05	he	tr	RF	PKW	LV		8,754397	53,123989
+482	05.06.2020	09:55	Fr	5		Bremen	Wätjenstraße	0	0	0	2	5							5	3		37					71	71	2020	06	05	he	tr	RF	RF	EK		8,853880	53,090780
+483	05.06.2020	15:28	Fr	5		Bremen	Buntentorsteinweg	0	0	1	2	1							3	1		49					71	21	2020	06	05	he	na	RF	PKW	F		8,802564	53,067350
+484	05.06.2020	16:25	Fr	5		Bremen	Sagerstraße	0	0	1	2	3							3	7		45					21	72	2020	06	05	he	na	PKW	RF	SO		8,626590	53,170437
+485	07.06.2020	15:25	So	5		Bremen	Buntentorsteinweg	0	0	1	1	0						8	3	1		49					72		2020	06	07	he	na	RF	-	F		8,802484	53,067470
+486	07.06.2020	17:50	So	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	5	2						3	2		34				89	21	71	2020	06	07	he	na	PKW	RF	AB		8,800572	53,078484
+487	07.06.2020	18:45	So	5		Bremen	Friedrich-Stampfer-Straße	0	0	0	2	1							5	7		49					71	21	2020	06	07	he	na	RF	PKW	SO		8,890959	53,085764
+488	07.06.2020	21:00	So	5		Bremen	Den Haager Straße	0	1	0	2	5							2	2		35		10			21	71	2020	06	07	dä	tr	PKW	RF	AB		8,723831	53,046182
+489	08.06.2020	07:10	Mo	5		Bremen	Stephanibrücke	0	0	1	1	0							3	1		13				73	71		2020	06	08	he	na	RF	-	F		8,790033	53,079290
+490	08.06.2020	11:10	Mo	5		Bremen	Wartburgstraße	0	0	1	2	5	2						3	3		28					21	71	2020	06	08	he	tr	PKW	RF	EK		8,790414	53,092123
+491	08.06.2020	11:45	Mo	5		Bremen	Dobbenweg	0	0	1	2	4							3	6		10	49				71	71	2020	06	08	he	tr	RF	RF	LV		8,824282	53,078394
+492	08.06.2020	18:41	Mo	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	6							3	4		65					81	71	2020	06	08	he	tr	FG	RF	ÜS		8,848945	53,050873
+493	08.06.2020	20:52	Mo	5		Bremen	Theodor-Neutig-Straße	0	0	1	2	5	1						3	3		27					21	71	2020	06	08	he	tr	PKW	RF	EK		8,628537	53,175472
+494	09.06.2020	07:35	Di	5		Bremen	Regensburger Straße	0	0	0	2	1							5	5		49					71	21	2020	06	09	he	tr	RF	PKW	RV		8,802865	53,096456
+495	09.06.2020	10:22	Di	5		Bremen	Neuer Schutzdeich	0	1	0	1	0							2	7		49					71		2020	06	09	he	tr	RF	-	SO		8,757938	53,081291
+496	09.06.2020	15:10	Di	5		Bremen	Aumunder Feldstraße	0	0	1	2	5	2						3	3		28		11			21	71	2020	06	09	he	tr	PKW	RF	EK		8,625522	53,181292
+497	09.06.2020	17:00	Di	5		Bremen	Weserwehr	0	0	1	2	0							3	6		22					71	71	2020	06	09	he	tr	RF	RF	LV		8,864837	53,060834
+498	09.06.2020	18:30	Di	5		Bremen	Überseepromenade	0	0	0	2	0							5	7		49					71	81	2020	06	09	he	tr	RF	FG	SO		8,756017	53,099996
+499	10.06.2020	10:06	Mi	5		Bremen	Vahrer Straße	0	0	1	2	5	1		9				3	2		27					21	71	2020	06	10	he	tr	PKW	RF	AB		8,882381	53,075081
+500	10.06.2020	16:58	Mi	5		Bremen	Bindwams	0	0	0	2	5							5	3		28					21	71	2020	06	10	he	tr	PKW	RF	EK		8,789513	53,082960
+501	10.06.2020	17:10	Mi	5		Bremen	Autobahnzubringer Horn-Lehe /	0	0	1	2	5	1						3	3		35					21	71	2020	06	10	he	tr	PKW	RF	EK		8,883401	53,110607
+502	10.06.2020	18:12	Mi	5		Bremen	Vor dem Steintor	0	0	1	1	0							3	1		49				89	71		2020	06	10	he	tr	RF	-	F		8,827109	53,072756
+503	11.06.2020	07:35	Do	5		Bremen	Achterdiek	0	1	0	2	5	7						2	7		28					21	71	2020	06	11	he	na	PKW	RF	SO		8,900924	53,089483
+504	11.06.2020	08:05	Do	5		Bremen	Sankt-Jürgen-Straße	0	0	1	2	1							3	1		13				73	71	21	2020	06	11	he	na	RF	PKW	F		8,835912	53,074196
+505	11.06.2020	08:10	Do	5		Bremen	Ludwig-Roselius-Allee	0	0	1	2	5							3	2		34					40	72	2020	06	11	he	na	LKW	RF	AB		8,902074	53,071594
+506	11.06.2020	10:55	Do	5		Bremen	Schulstraße	0	0	1	2	5	1						3	3		49	28				71	21	2020	06	11	he	na	RF	PKW	EK		8,797860	53,070701
+507	11.06.2020	11:40	Do	5		Bremen	Huchtinger Heerstraße	0	0	1	2	5	1		9				3	3		49		9		73	21	71	2020	06	11	he	na	PKW	RF	EK		8,740578	53,054273
+508	11.06.2020	15:30	Do	2	6	Bremen	Neuenlander Straße	0	0	1	2	5	1						3	2		35				73	71	21	2020	06	11	he	na	RF	PKW	AB		8,819307	53,048224
+509	11.06.2020	16:53	Do	5		Bremen	Waller Heerstraße	0	0	1	2	3	3						3	2		34					21	71	2020	06	11	he	na	PKW	RF	AB		8,788375	53,098388
+510	12.06.2020	09:50	Fr	5		Bremen	Römerstraße	0	0	2	2	0							3	7		27		49			71	71	2020	06	12	he	tr	RF	RF	SO		8,826441	53,074739
+511	12.06.2020	11:36	Fr	5		Bremen	August-Bebel-Allee	0	0	1	2	5	1						3	3		28					21	71	2020	06	12	he	tr	PKW	RF	EK		8,879042	53,085733
+512	12.06.2020	15:30	Fr	5		Bremen	Kalischer Straße	0	0	0	2	1							5	5		49					71	21	2020	06	12	he	tr	RF	PKW	RV		8,764399	53,117370
+513	12.06.2020	18:28	Fr	5		Bremen	Waller Ring	0	0	1	2	4						8	3	2		35					21	71	2020	06	12	he	tr	PKW	RF	AB		8,779331	53,100157
+514	12.06.2020	20:40	Fr	5		Bremen	Vor dem Steintor	0	0	0	2	0							5	1		49					71	21	2020	06	12	he	tr	RF	PKW	F		8,827707	53,072567
+515	12.06.2020	21:10	Fr	5		Bremen	Marcusallee	0	0	2	3	3							3	6		49	14				71	71	2020	06	12	he	tr	RF	RF	LV		8,873262	53,091240
+516	13.06.2020	01:06	Sa	5		Bremen	Buntentorsteinweg	0	0	0	2	1							5	1		14	49				71	21	2020	06	13	du	tr	RF	PKW	F		8,810515	53,062019
+517	13.06.2020	01:30	Sa	5		Bremen	Vor dem Steintor	0	0	0	2	4	2						6	6		1	14				71	21	2020	06	13	du	tr	RF	PKW	LV		8,826388	53,072964
+518	13.06.2020	09:50	Sa	4		Bremen	Am Brahmkamp	0	0	1	2	5							3	2		49					21	71	2020	06	13	he	tr	PKW	RF	AB		8,872168	53,099500
+519	13.06.2020	15:35	Sa	5		Bremen	Hemelinger Heerstraße	0	0	1	2	5	3						3	2		34					21	72	2020	06	13	he	tr	PKW	RF	AB		8,893478	53,046902
+520	14.06.2020	12:00	So	5		Bremen	Heinrich-Plett-Allee	0	0	1	1	0							3	7		49					71		2020	06	14	he	tr	RF	-	SO		8,715392	53,052580
+521	14.06.2020	12:05	So	5		Bremen	Drillstraße	0	0	0	2	1							6	1		1	14				71	21	2020	06	14	he	tr	RF	PKW	F		8,900245	53,050687
+522	16.06.2020	07:50	Di	5		Bremen	Riensberger Straße	0	1	0	2	2							2	6		14					71	21	2020	06	16	he	tr	RF	PKW	LV		8,864883	53,095654
+523	16.06.2020	13:58	Di	5		Bremen	Große Annenstraße	0	0	1	2	5	2						3	3		28					21	71	2020	06	16	he	tr	PKW	RF	EK		8,795912	53,072923
+524	17.06.2020	07:45	Mi	5		Bremen	Am Lehester Deich	0	0	1	2	0							3	3		49					71	71	2020	06	17	he	tr	RF	RF	EK		8,883637	53,121235
+525	17.06.2020	10:20	Mi	5		Bremen	Emmastraße	0	0	1	2	1							3	5		45					21	72	2020	06	17	he	tr	PKW	RF	RV		8,844946	53,091240
+526	17.06.2020	10:47	Mi	5		Bremen	Unter den Eichen	0	0	1	2	0							3	7		49		49			71	71	2020	06	17	he	tr	RF	RF	SO		8,862930	53,090386
+527	17.06.2020	12:50	Mi	5		Bremen	Ehlersdamm	0	1	0	2	5	3		9				2	2		35					71	71	2020	06	17	he	tr	RF	RF	AB		8,948064	53,055824
+528	17.06.2020	13:38	Mi	5		Bremen	Europaallee	0	1	0	2	5	1						2	3		28					21	72	2020	06	17	he	tr	PKW	RF	EK		8,898158	53,033445
+529	17.06.2020	15:15	Mi	5		Bremen	Försteweg	0	0	1	2	5	2						3	3		49					71	71	2020	06	17	he	tr	RF	RF	EK		8,804485	53,059274
+530	17.06.2020	15:30	Mi	5		Bremen	Ludwig-Erhard-Straße	0	0	1	2	5	2						3	3		28					21	71	2020	06	17	he	tr	PKW	RF	EK		8,734774	53,081755
+531	17.06.2020	18:00	Mi	5		Bremen	Kornstraße	0	0	1	2	5							3	3		49					71	21	2020	06	17	he	tr	RF	PKW	EK		8,799458	53,065537
+532	17.06.2020	19:40	Mi	5		Bremen	Parkallee	0	0	1	2	0							3	6		14					21	71	2020	06	17	he	tr	PKW	RF	LV		8,825082	53,084616
+533	17.06.2020	23:15	Mi	5		Bremen	Löwenhof	0	0	1	1	0							3	7		1	49				71		2020	06	17	du	tr	RF	-	SO		8,789655	53,084819
+534	18.06.2020	12:00	Do	5		Bremen	Am Dobben	0	0	1	2	4							3	6		14					71	71	2020	06	18	he	tr	RF	RF	LV		8,823089	53,073286
+535	18.06.2020	16:10	Do	5		Bremen	Bahnhofstraße	0	0	1	2	1							3	5		45				73	21	71	2020	06	18	he	na	PKW	RF	RV		8,810665	53,080316
+536	19.06.2020	10:35	Fr	5		Bremen	Roonstraße	0	0	0	2	1							5	5		44					71	21	2020	06	19	du	tr	RF	PKW	RV		8,827930	53,079055
+537	19.06.2020	11:20	Fr	5		Bremen	Hamburger Straße	0	0	0	2	2						8	5	3		49					71	21	2020	06	19	he	tr	RF	PKW	EK		8,833461	53,070641
+538	19.06.2020	13:15	Fr	5		Bremen	Kulenkampffallee	0	0	1	2	3	2		9				3	2		34					21	71	2020	06	19	he	tr	PKW	RF	AB		8,840939	53,098362
+539	19.06.2020	19:30	Fr	5		Bremen	Klitzenburg	0	0	0	2	1							5	7		49	14				71	21	2020	06	19	he	tr	RF	PKW	SO		8,758906	53,125386
+540	19.06.2020	21:45	Fr	5		Bremen	Fesenfeld	0	0	0	2	4							5	6		24					71	21	2020	06	19	he	tr	RF	PKW	LV		8,833265	53,077119
+541	20.06.2020	15:50	Sa	5		Bremen	Friedrich-Rauers-Straße	0	0	1	2	1	2						3	7		49					21	71	2020	06	20	he	tr	PKW	RF	SO		8,806354	53,084421
+542	20.06.2020	18:00	Sa	5		Bremen	Ostertorsteinweg	0	0	1	1	0	1					8	3	7		49				76	71		2020	06	20	he	tr	RF	-	SO		8,823185	53,072964
+543	21.06.2020	02:30	So	5		Bremen	Gastfeldstraße	0	1	0	1	0							2	1		49					71		2020	06	21	du	tr	RF	-	F		8,798326	53,063568
+544	21.06.2020	14:36	So	5		Bremen	Kirchhuchtinger Landstraße	0	0	1	1	0	2						3	1		1	49				71		2020	06	21	he	tr	RF	-	F		8,736770	53,045644
+545	21.06.2020	15:50	So	5		Bremen	Theodor-Billroth-Straße	0	0	1	2	5	1		9				3	3		35					71	71	2020	06	21	he	tr	RF	RF	EK		8,816463	53,039277
+546	21.06.2020	17:15	So	5		Bremen	Treseburger Straße	0	0	1	2	1							3	5		49				89	71	21	2020	06	21	he	tr	RF	PKW	RV		8,844723	53,068345
+547	22.06.2020	06:00	Mo	5		Bremen	Steubenstraße	0	1	0	2	5	2						2	2		34				82	40	71	2020	06	22	he	tr	LKW	RF	AB		8,867522	53,072343
+548	22.06.2020	11:50	Mo	5		Bremen	Schüsselkorb	0	0	2	2	6	1		4			8	3	3		42					71	81	2020	06	22	he	tr	RF	FG	EK		8,809270	53,077822
+549	22.06.2020	12:30	Mo	5		Bremen	Langemarckstraße	0	0	2	2	2							3	7		14					71	71	2020	06	22	he	tr	RF	RF	SO		8,790961	53,072409
+550	22.06.2020	14:05	Mo	5		Bremen	Habenhauser Deich	0	0	1	2	3							3	6		11					72	71	2020	06	22	he	tr	RF	RF	LV		8,845179	53,056308
+551	22.06.2020	19:30	Mo	5		Bremen	Ochtumstraße	0	0	0	2	1							5	7		49					71	21	2020	06	22	he	tr	RF	PKW	SO		8,767191	53,081692
+552	23.06.2020	08:30	Di	5		Bremen	Martinistraße	0	0	1	2	5	2						3	3		34					21	71	2020	06	23	he	tr	PKW	RF	EK		8,802151	53,077819
+553	23.06.2020	09:10	Di	5		Bremen	Industriestraße	0	0	1	2	5							3	2		49		49			71	21	2020	06	23	he	tr	RF	PKW	AB		8,778848	53,062551
+554	23.06.2020	09:35	Di	5		Bremen	Achterdiek	0	1	1	2	9	6						2	1		49					71	81	2020	06	23	he	tr	RF	FG	F		8,894762	53,097116
+555	23.06.2020	15:15	Di	5		Bremen	Hardenbergstraße	0	0	1	2	4							3	6		11					21	71	2020	06	23	he	tr	PKW	RF	LV		8,811045	53,059354
+556	23.06.2020	17:24	Di	5		Bremen	Eduard-Schopf-Allee	0	0	1	2	5	1						3	3		28					21	71	2020	06	23	he	tr	PKW	RF	EK		8,789491	53,082954
+557	23.06.2020	18:10	Di	5		Bremen	Am Herzogenkamp	0	0	1	2	5	2						3	3		28					21	72	2020	06	23	he	tr	PKW	RF	EK		8,861664	53,099316
+558	23.06.2020	20:19	Di	5		Bremen	Kuhgrabenweg	0	1	1	2	4							2	6		11					71	71	2020	06	23	he	tr	RF	RF	LV		8,855956	53,121255
+559	24.06.2020	08:50	Mi	5		Bremen	Humboldtstraße	0	0	0	2	1							5	5		14	49				72	21	2020	06	24	he	tr	RF	PKW	RV		8,831934	53,074230
+560	24.06.2020	12:30	Mi	5		Bremen	Sielwall	0	0	0	2	1							5	5		49					71	21	2020	06	24	he	tr	RF	PKW	RV		8,823330	53,072686
+561	24.06.2020	13:30	Mi	5		Bremen	Vegesacker Heerstraße	0	0	1	1	0							3	7		49				89	71		2020	06	24	he	tr	RF	-	SO		8,651387	53,174033
+562	24.06.2020	16:15	Mi	5		Bremen	Am Schwarzen Meer	0	0	1	2	3							3	2		34					21	71	2020	06	24	he	tr	PKW	RF	AB		8,836167	53,071536
+563	24.06.2020	16:35	Mi	5		Bremen	Steffensweg	0	0	0	2	3							5	6		21					71	71	2020	06	24	he	tr	RF	RF	LV		8,785285	53,091852
+564	24.06.2020	17:00	Mi	5		Bremen	Außer der Schleifmühle	0	0	1	2	5	1					8	3	2		34		9			21	71	2020	06	24	he	tr	PKW	RF	AB		8,819510	53,080540
+565	24.06.2020	20:35	Mi	5		Bremen	Friedrich-Ebert-Straße	0	0	1	3	4			9				3	6		9					71	71	2020	06	24	he	tr	RF	RF	LV		8,800630	53,071120
+566	25.06.2020	06:40	Do	5		Bremen	Südweststraße	0	0	1	2	5	1		0	8		8	3	3		36					21	71	2020	06	25	he	tr	PKW	RF	EK		8,729136	53,128646
+567	25.06.2020	07:35	Do	5		Bremen	Nernststraße	0	0	0	2	2							5	6		49					71	40	2020	06	25	he	tr	RF	LKW	LV		8,892252	53,099535
+568	25.06.2020	07:40	Do	5		Bremen	Grenzstraße	0	0	0	2	1							5	5		49					71	21	2020	06	25	he	tr	RF	PKW	RV		8,786307	53,095172
+569	25.06.2020	10:04	Do	5		Bremen	Walsroder Straße	0	0	1	2	4							3	6		49					71	21	2020	06	25	he	tr	RF	PKW	LV		8,802100	53,094417
+570	25.06.2020	11:20	Do	5		Bremen	Schwachhauser Heerstraße	0	1	1	2	3			9				2	6		22					72	71	2020	06	25	he	tr	RF	RF	LV		8,854454	53,088070
+571	25.06.2020	11:30	Do	5		Bremen	Rembertiring	0	0	0	2	5						8	5	3		31					71	21	2020	06	25	he	tr	RF	PKW	EK		8,817091	53,078642
+572	25.06.2020	12:55	Do	5		Bremen	Warfer Landstraße	0	0	1	1	0							3	7		49					72		2020	06	25	he	tr	RF	-	SO		8,898563	53,134671
+573	25.06.2020	13:30	Do	5		Bremen	Stader Landstraße	0	0	1	2	5	3						3	3		37					21	71	2020	06	25	he	tr	PKW	RF	EK		8,729689	53,178281
+574	25.06.2020	14:05	Do	5		Bremen	Buntentorsteinweg	0	0	1	1	0			6				3	1						85	71		2020	06	25	he	tr	RF	-	F		8,810790	53,061725
+575	25.06.2020	16:15	Do	5		Bremen	Vor dem Steintor	0	0	1	2	1							3	5		45					21	71	2020	06	25	he	tr	PKW	RF	RV		8,825055	53,072977
+576	25.06.2020	20:30	Do	5		Bremen	An den Kämpen	0	1	0	2	4							2	6		11					71	53	2020	06	25	he	tr	RF	SOF	LV		8,931149	53,137413
+577	26.06.2020	07:15	Fr	5		Bremen	Arsterdamm	0	0	1	2	5	1		3				3	2		27		49			21	71	2020	06	26	he	tr	PKW	RF	AB		8,818395	53,046908
+578	26.06.2020	08:40	Fr	5		Bremen	Bremerhavener Straße	0	0	1	2	5	1		3				3	3		34					21	71	2020	06	26	he	tr	PKW	RF	EK		8,774299	53,101461
+579	26.06.2020	11:25	Fr	5		Bremen	Rembertistraße	0	0	2	2	4			9				3	6		49		49			71	71	2020	06	26	he	tr	RF	RF	LV		8,817697	53,079519
+580	26.06.2020	12:10	Fr	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	3							3	6		14					71	71	2020	06	26	he	tr	RF	RF	LV		8,748480	53,125163
+581	26.06.2020	12:45	Fr	5		Bremen	Leher Heerstraße	0	0	1	2	5							3	3		37					71	21	2020	06	26	he	tr	RF	PKW	EK		8,877907	53,101480
+582	26.06.2020	15:15	Fr	5		Bremen	Kurfürstenallee	0	0	1	2	1							3	5		45					21	71	2020	06	26	he	tr	PKW	RF	RV		8,857067	53,082738
+583	26.06.2020	16:38	Fr	5		Bremen	Kirchbachstraße	0	0	1	2	5	2						3	2		34					21	71	2020	06	26	he	tr	PKW	RF	AB		8,855055	53,078552
+584	26.06.2020	20:57	Fr	5		Bremen	Ludwig-Roselius-Allee	1	0	0	2	5	2					9	1	3		12	49	37			21	71	2020	06	26	he	tr	PKW	RF	EK		8,927692	53,072520
+585	27.06.2020	02:16	Sa	5		Bremen	Werderstraße	0	0	0	2	1							6	5		1					71	21	2020	06	27	du	tr	RF	PKW	RV		8,806622	53,070923
+586	27.06.2020	20:45	Sa	5		Bremen	Doventorstraße	0	0	0	1	0							6	1		1	49				71		2020	06	27	he	na	RF	-	F		8,796541	53,082122
+587	28.06.2020	13:55	So	5		Bremen	Rockwinkeler Landstraße	0	0	0	2	4							5	6		14					71	21	2020	06	28	he	tr	RF	PKW	LV		8,918661	53,092418
+588	28.06.2020	17:44	So	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	1	2	0	1					8	3	7		49					71	71	2020	06	28	he	tr	RF	RF	SO		8,806067	53,073335
+589	29.06.2020	09:40	Mo	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	5	1						3	2		34					21	71	2020	06	29	he	tr	PKW	RF	AB		8,808556	53,082912
+590	29.06.2020	11:00	Mo	5		Bremen	Humboldtstraße	0	0	1	2	0	3						3	7		37					21	71	2020	06	29	he	tr	PKW	RF	SO		8,825776	53,075054
+591	29.06.2020	11:00	Mo	5		Bremen	Hemmstraße	0	0	1	2	4							3	6		9	49				71	71	2020	06	29	he	tr	RF	RF	LV		8,818781	53,109986
+592	29.06.2020	13:15	Mo	5		Bremen	Duckwitzstraße	0	0	1	2	5							3	6		34					21	71	2020	06	29	he	tr	PKW	RF	LV		8,779022	53,064749
+593	29.06.2020	14:15	Mo	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	5	1					8	3	3		34					21	71	2020	06	29	he	tr	PKW	RF	EK		8,844949	53,045754
+594	29.06.2020	14:25	Mo	5		Bremen	Vahrer Straße	0	0	1	1	0							3	7		49					71		2020	06	29	he	tr	RF	-	SO		8,887027	53,070272
+595	29.06.2020	14:45	Mo	5		Bremen	Crüsemannallee	0	0	1	2	5	3		9				3	3		37					21	71	2020	06	29	he	tr	PKW	RF	EK		8,839388	53,098129
+596	29.06.2020	16:20	Mo	5		Bremen	Außer der Schleifmühle	0	0	1	2	4	3						3	2		34					21	71	2020	06	29	he	tr	PKW	RF	AB		8,824180	53,079240
+597	29.06.2020	18:40	Mo	5		Bremen	Buntentorsteinweg	0	0	1	2	3							3	5		45					21	71	2020	06	29	he	tr	PKW	RF	RV		8,802490	53,067370
+598	29.06.2020	19:10	Mo	5		Bremen	Riensberger Straße	0	0	1	2	5							3	3		35					21	71	2020	06	29	he	tr	PKW	RF	EK		8,864502	53,094810
+599	30.06.2020	17:00	Di	5		Bremen	Habenhauser Deich	0	0	1	2	3							3	6		4	49			73	21	71	2020	06	30	he	na	PKW	RF	LV		8,839015	53,056201
+600	30.06.2020	18:00	Di	5		Bremen	In der Vahr	0	0	1	2	5	3						3	3		28					21	71	2020	06	30	he	tr	PKW	RF	EK		8,876204	53,081342
+601	30.06.2020	20:00	Di	5		Bremen	Osterfeuerbergstraße	0	0	1	2	1	1						3	5		45				73	21	72	2020	06	30	he	na	PKW	RF	RV		8,791047	53,100590
+602	01.07.2020	06:45	Mi	5		Bremen	Friedrich-Ebert-Straße	0	0	1	1	0							3	1		49					71		2020	07	01	he	sch	RF	-	F		8,793363	53,066092
+603	01.07.2020	09:10	Mi	5		Bremen	Friedrich-Ebert-Straße	0	0	1	1	0							3	1		49					71		2020	07	01	he	sch	RF	-	F		8,792731	53,065742
+604	01.07.2020	09:30	Mi	5		Bremen	Julius-Brecht-Allee	0	0	1	1	0							3	1		49					71		2020	07	01	he	na	RF	-	F		8,874099	53,078397
+605	01.07.2020	13:15	Mi	5		Bremen	Bismarckstraße	0	0	1	2	4			9				3	6		9				73	71	71	2020	07	01	he	na	RF	RF	LV		8,840590	53,076259
+606	01.07.2020	13:45	Mi	5		Bremen	Domshof	0	1	0	2	0			8				2	4		65				73	81	71	2020	07	01	he	na	FG	RF	ÜS		8,809704	53,076170
+607	02.07.2020	08:05	Do	5		Bremen	Steubenstraße	0	0	1	2	5	2						3	2		34				73	21	71	2020	07	02	he	na	PKW	RF	AB		8,867962	53,072951
+608	02.07.2020	10:50	Do	5		Bremen	Dobbenweg	0	0	1	1	0							3	7		49					71		2020	07	02	he	tr	RF	-	SO		8,825460	53,078929
+609	02.07.2020	12:39	Do	5		Bremen	Baumhauser Weg	0	0	1	1	0							3	7		49					71		2020	07	02	he	tr	RF	-	SO		8,858891	53,045254
+610	02.07.2020	16:30	Do	5		Bremen	Doventorsteinweg	0	0	0	2	1	2						5	5		49					71	21	2020	07	02	he	tr	RF	PKW	RV		8,797929	53,085966
+611	02.07.2020	17:25	Do	5		Bremen	Osterholzer Heerstraße	0	0	1	2	6	1					8	3	4		49					71	81	2020	07	02	he	tr	RF	FG	ÜS		8,930697	53,058936
+612	02.07.2020	19:15	Do	5		Bremen	Leher Heerstraße	0	0	0	2	5	3						5	3		37		9		73	21	71	2020	07	02	he	na	PKW	RF	EK		8,870100	53,097375
+613	02.07.2020	20:48	Do	5		Bremen	Am Brill	0	0	1	2	5	2						3	3		49					21	71	2020	07	02	he	tr	PKW	RF	EK		8,799013	53,079361
+614	03.07.2020	05:55	Fr	5		Bremen	Am Kaffee-Quartier	0	0	0	2	1							5	5		25					21	71	2020	07	03	he	tr	PKW	RF	RV		8,786691	53,083888
+615	03.07.2020	07:15	Fr	5		Bremen	Ludwig-Roselius-Allee	0	0	1	2	5	3		9				3	2		34				73	21	71	2020	07	03	he	na	PKW	RF	AB		8,924677	53,073163
+616	03.07.2020	13:25	Fr	5		Bremen	Funkschneise	0	0	2	2	4	5						3	7		10					1	71	2020	07	03	he	tr	KRD	RF	SO		8,903072	53,049793
+617	04.07.2020	01:10	Sa	5		Bremen	Arster Heerstraße	0	0	0	2	5							5	7		49					21	71	2020	07	04	du	tr	PKW	RF	SO		8,844863	53,031034
+618	04.07.2020	04:20	Sa	5		Bremen	Karl-Carstens-Brücke	0	0	1	1	0						8	3	1		1					71		2020	07	04	dä	tr	RF	-	F		8,852673	53,060708
+619	05.07.2020	06:00	So	5		Bremen	Ostertorsteinweg	0	0	1	1	0							3	7		49					71		2020	07	05	dä	na	RF	-	SO		8,816592	53,072411
+620	05.07.2020	16:30	So	5		Bremen	Fitgerstraße	0	0	0	4	1							5	5		49					21	71	2020	07	05	he	tr	PKW	RF	RV		8,831980	53,091424
+621	06.07.2020	12:25	Mo	5		Bremen	Lloydpassage	0	0	1	2	6							3	4		49					71	81	2020	07	06	he	tr	RF	FG	ÜS		8,805252	53,077930
+622	06.07.2020	13:55	Mo	5		Bremen	Beim Industriehafen	0	0	1	2	6							3	4		63	69				93	72	2020	07	06	he	tr	FG	RF	ÜS		8,726652	53,129296
+623	06.07.2020	16:22	Mo	5		Bremen	Wiedaustraße	0	0	1	2	5							3	3		28		9			21	71	2020	07	06	he	tr	PKW	RF	EK		8,785645	53,101870
+624	06.07.2020	17:25	Mo	5		Bremen	August-Bebel-Allee	0	1	0	2	5	2						2	2		35					21	71	2020	07	06	he	tr	PKW	RF	AB		8,885959	53,085967
+625	06.07.2020	23:15	Mo	5		Bremen	Ostertorsteinweg	0	0	1	1	0	2						3	1		1	49			73	71		2020	07	06	du	na	RF	-	F		8,821265	53,072777
+626	07.07.2020	11:30	Di	5		Bremen	Lilienthaler Heerstraße	0	0	0	2	5	3						5	3		37					21	71	2020	07	07	he	tr	PKW	RF	EK		8,896340	53,117626
+627	08.07.2020	07:25	Mi	5		Bremen	Duckwitzstraße	0	0	1	2	5							3	2		31					71	21	2020	07	08	he	tr	RF	PKW	AB		8,778784	53,064641
+628	08.07.2020	12:20	Mi	5		Bremen	Buntentorsteinweg	0	0	1	2	1							3	5		14	49				71	21	2020	07	08	he	tr	RF	PKW	RV		8,813191	53,058428
+629	08.07.2020	16:15	Mi	5		Bremen	Hamelner Straße	0	0	0	2	1							5	1		49				89	71	21	2020	07	08	he	tr	RF	PKW	F		8,801001	53,097813
+630	08.07.2020	18:00	Mi	5		Bremen	Auf dem Kruge	0	0	1	1	0							3	3		49					72		2020	07	08	he	tr	RF	-	EK		8,751836	53,129183
+631	09.07.2020	05:55	Do	5		Bremen	Arsterdamm	0	0	1	2	5	3		9				3	2		34				89	44	72	2020	07	09	du	na	LKW	RF	AB		8,844895	53,033671
+632	09.07.2020	07:35	Do	5		Bremen	Hastedter Heerstraße	0	0	1	2	5	2						3	3		28				73	21	71	2020	07	09	he	na	PKW	RF	EK		8,873069	53,067014
+633	09.07.2020	07:50	Do	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	1		4				3	2		35				73	21	71	2020	07	09	he	na	PKW	RF	AB		8,897724	53,059083
+634	09.07.2020	09:30	Do	5		Bremen	In der Vahr	0	0	1	2	5	1						3	2		34		31		73	21	71	2020	07	09	he	na	PKW	RF	AB		8,876270	53,082144
+635	09.07.2020	16:40	Do	5		Bremen	Hollerallee	0	0	1	2	5						8	3	3		49		49		73	21	71	2020	07	09	he	na	PKW	RF	EK		8,827766	53,083018
+636	09.07.2020	18:25	Do	5		Bremen	Falkenstraße	0	0	0	2	5							5	3		28		10			21	71	2020	07	09	he	na	PKW	RF	EK		8,807272	53,082375
+637	10.07.2020	11:20	Fr	5		Bremen	Bürgermeister-Spitta-Allee	0	0	1	2	5	2		8				3	3		28					21	71	2020	07	10	he	tr	PKW	RF	EK		8,870915	53,087529
+638	10.07.2020	13:50	Fr	5		Bremen	Am Schwarzen Meer	0	0	1	2	0							3	7		49				73	71	21	2020	07	10	he	na	RF	PKW	SO		8,836666	53,071678
+639	10.07.2020	18:30	Fr	5		Bremen	Delmestraße	0	0	0	2	0							5	7		49					71	21	2020	07	10	he	sch	RF	PKW	SO		8,793270	53,069491
+640	11.07.2020	09:15	Sa	5		Bremen	In der Vahr	0	0	1	2	5	1					8	3	3		31	1				21	71	2020	07	11	he	tr	PKW	RF	EK		8,875697	53,081986
+641	11.07.2020	13:30	Sa	5		Bremen	Vegesacker Heerstraße	0	0	1	2	5	3		8				3	3		37				73	21	71	2020	07	11	he	na	PKW	RF	EK		8,639127	53,173189
+642	11.07.2020	19:05	Sa	5		Bremen	In der Vahr	0	0	1	2	5	2		9				3	3		28					21	71	2020	07	11	he	tr	PKW	RF	EK		8,876545	53,081023
+643	12.07.2020	12:10	So	5		Bremen	Am Hollerdeich	0	0	1	2	3							3	6		22					72	71	2020	07	12	he	tr	RF	RF	LV		8,930173	53,119552
+644	12.07.2020	13:45	So	5		Bremen	Niederblockland	0	0	1	2	0							3	7		13					71	71	2020	07	12	he	tr	RF	RF	SO		8,819256	53,161508
+645	12.07.2020	15:30	So	5		Bremen	Lesumbroker Landstraße	0	0	1	2	3							3	6		14	49				71	71	2020	07	12	he	tr	RF	RF	LV		8,654623	53,158759
+646	12.07.2020	18:20	So	5		Bremen	Korbhauser Weg	0	0	1	2	0							3	1		49					71	84	2020	07	12	he	tr	RF	FG	F		8,859695	53,031578
+647	13.07.2020	15:35	Mo	5		Bremen	Hindenburgstraße	0	0	1	2	3							3	2		34	11				21	72	2020	07	13	he	tr	PKW	RF	AB		8,696349	53,168569
+648	13.07.2020	16:10	Mo	5		Bremen	Hastedter Osterdeich	0	1	0	2	5							2	3		37					72	12	2020	07	13	he	tr	RF	KRD	EK		8,866626	53,062156
+649	13.07.2020	16:17	Mo	5		Bremen	Gastfeldstraße	0	1	0	2	1							2	5		45		49			21	71	2020	07	13	he	tr	PKW	RF	RV		8,795928	53,065141
+650	13.07.2020	17:30	Mo	5		Bremen	Woltmershauser Straße	0	0	0	2	0	2						5	2		35					21	71	2020	07	13	he	tr	PKW	RF	AB		8,763592	53,086340
+651	14.07.2020	07:45	Di	5		Bremen	Lindenstraße	0	0	1	2	5	2		8				3	3		28					40	71	2020	07	14	he	tr	LKW	RF	EK		8,594285	53,179076
+652	14.07.2020	10:15	Di	5		Bremen	Staustraße	0	0	2	2	3							3	6		14	49				71	71	2020	07	14	he	tr	RF	RF	LV		8,862844	53,047779
+653	14.07.2020	15:20	Di	5		Bremen	Hollerallee	0	0	1	2	5	1		8				3	3		28				73	21	71	2020	07	14	he	na	PKW	RF	EK		8,825142	53,084219
+654	14.07.2020	15:30	Di	5		Bremen	Sankt-Gotthard-Straße	0	0	1	2	0	3						3	7		49				73	71	40	2020	07	14	he	na	RF	LKW	SO		8,954058	53,066450
+655	14.07.2020	21:35	Di	5		Bremen	Delmestraße	0	0	1	2	5	1						3	3		27	13				21	71	2020	07	14	dä	tr	PKW	RF	EK		8,788794	53,066479
+656	15.07.2020	08:15	Mi	5		Bremen	Bremerhavener Straße	0	0	1	2	3	2		9				3	6		22					72	71	2020	07	15	he	tr	RF	RF	LV		8,785511	53,095811
+657	15.07.2020	08:50	Mi	5		Bremen	Osterholzer Heerstraße	0	0	1	2	5							3	3		37					21	71	2020	07	15	he	tr	PKW	RF	EK		8,955069	53,057612
+658	15.07.2020	10:27	Mi	5		Bremen	Habenhauser Deich	0	0	2	2	4							3	6		49		49			71	71	2020	07	15	he	tr	RF	RF	LV		8,860629	53,049949
+659	15.07.2020	11:50	Mi	5		Bremen	Waller Straße	0	0	0	2	5							5	3		27					72	21	2020	07	15	he	tr	RF	PKW	EK		8,785661	53,118196
+660	15.07.2020	12:15	Mi	5		Bremen	Steinsetzerstraße	0	0	1	2	5	1						3	3		28					21	71	2020	07	15	he	tr	PKW	RF	EK		8,852609	53,047592
+661	15.07.2020	12:50	Mi	5		Bremen	Bauernstraße	0	0	0	2	0							5	7		36	49				21	71	2020	07	15	he	tr	PKW	RF	SO		8,821820	53,072840
+662	15.07.2020	17:15	Mi	5		Bremen	Hansestraße	0	0	0	3	2	2		3				5	6		14					21	21	2020	07	15	he	tr	PKW	PKW	LV		8,787488	53,089924
+663	15.07.2020	20:05	Mi	5		Bremen	Überseepromenade	0	0	2	2	6							3	1		49					71	81	2020	07	15	he	tr	RF	FG	F		8,755985	53,100253
+664	16.07.2020	11:45	Do	5		Bremen	Schlachte	0	0	1	1	0	2						3	1		49					72		2020	07	16	he	tr	RF	-	F		8,803541	53,075265
+665	16.07.2020	13:00	Do	5		Bremen	Lüder-Clüver-Straße	0	0	1	1	0							3	7		49					71		2020	07	16	he	tr	RF	-	SO		8,577452	53,182719
+666	16.07.2020	14:30	Do	5		Bremen	Kohlenstraße	0	0	1	2	5	2		8				3	3		28					21	71	2020	07	16	he	tr	PKW	RF	EK		8,794888	53,093933
+667	16.07.2020	14:40	Do	5		Bremen	Bürgermeister-Dehnkamp-Weg	0	0	0	1	0							5	7		49					71		2020	07	16	he	tr	RF	-	SO		8,528668	53,193882
+668	16.07.2020	17:10	Do	5		Bremen	Kattenturmer Heerstraße	1	0	0	2	5	3						1	3		49		49			71	52	2020	07	16	he	tr	RF	LKW	EK		8,814522	53,040374
+669	16.07.2020	18:55	Do	5		Bremen	Buntentorsteinweg	0	0	1	1	0							3	1		49					71		2020	07	16	he	tr	RF	-	F		8,803154	53,067046
+670	17.07.2020	20:02	Fr	5		Bremen	Kornstraße	0	0	0	2	1							5	6		49	14				71	21	2020	07	17	he	tr	RF	PKW	LV		8,819650	53,049839
+671	17.07.2020	21:04	Fr	5		Bremen	Unionweg	0	0	1	2	0	2						3	7		49				87	71	71	2020	07	17	dä	tr	RF	RF	SO		8,804257	53,113793
+672	18.07.2020	12:20	Sa	5		Bremen	Herdentorsteinweg	0	0	1	2	0							3	6		10					71	81	2020	07	18	he	tr	RF	FG	LV		8,810016	53,079563
+673	18.07.2020	13:50	Sa	5		Bremen	Lausanner Straße	0	0	1	3	0	3						3	7		68		68			81	81	2020	07	18	he	tr	FG	FG	SO		8,952838	53,073371
+674	19.07.2020	16:50	So	5		Bremen	Am Hodenberger Deich	0	0	1	2	5	3						3	3		37	36				21	71	2020	07	19	he	tr	PKW	RF	EK		8,951266	53,089644
+675	19.07.2020	19:30	So	5		Bremen	Liselotte-Thomamüller-Straße	0	0	0	2	1	2						5	2		35					71	21	2020	07	19	he	tr	RF	PKW	AB		8,775520	53,108411
+676	20.07.2020	14:05	Mo	5		Bremen	Dreyer Straße	0	0	1	2	5							3	7		49					71	21	2020	07	20	he	tr	RF	PKW	SO		8,815235	53,029574
+677	20.07.2020	14:25	Mo	2	6	Bremen	Kattenturmer Heerstraße	0	0	1	1	0							3	1		49					71		2020	07	20	he	tr	RF	-	F		8,819087	53,047905
+678	20.07.2020	16:55	Mo	5		Bremen	Konsul-Smidt-Straße	0	0	1	2	1							3	5		45					21	71	2020	07	20	he	tr	PKW	RF	RV		8,775673	53,090535
+679	20.07.2020	19:04	Mo	5		Bremen	Woltmershauser Straße	0	0	1	2	1							3	5		45					21	71	2020	07	20	he	tr	PKW	RF	RV		8,766955	53,084146
+680	21.07.2020	07:00	Di	5		Bremen	Außer der Schleifmühle	0	0	1	2	5							3	2		34		49			21	71	2020	07	21	he	tr	PKW	RF	AB		8,819532	53,080530
+681	21.07.2020	10:50	Di	5		Bremen	Stockholmer Straße	0	1	0	2	4	1					8	2	2		35					21	71	2020	07	21	he	tr	PKW	RF	AB		8,714303	53,180153
+682	21.07.2020	19:50	Di	5		Bremen	Waller Heerstraße	0	0	1	2	5	2						3	3		9					71	71	2020	07	21	he	tr	RF	RF	EK		8,780288	53,105426
+683	22.07.2020	13:40	Mi	5		Bremen	Auf der Hohwisch	0	0	1	2	3							3	6		20					71	71	2020	07	22	he	tr	RF	RF	LV		8,856426	53,066780
+684	22.07.2020	15:20	Mi	5		Bremen	Steinsetzerstraße	0	0	1	2	5							3	3		49					21	71	2020	07	22	he	tr	PKW	RF	EK		8,849621	53,047205
+685	23.07.2020	13:20	Do	5		Bremen	Steubenstraße	0	0	1	2	4	1						3	2		34					21	71	2020	07	23	he	tr	PKW	RF	AB		8,869206	53,074275
+686	23.07.2020	14:05	Do	5		Bremen	Hemslinger Weg	0	0	0	2	5							5	7		49					71	21	2020	07	23	he	tr	RF	PKW	SO		8,941841	53,038294
+687	23.07.2020	16:44	Do	5		Bremen	Vor dem Steintor	0	0	1	2	5	1					8	3	2		29		49			21	71	2020	07	23	he	tr	PKW	RF	AB		8,833348	53,070645
+688	23.07.2020	17:50	Do	5		Bremen	Lampehof	0	0	1	2	5							3	3		37					71	21	2020	07	23	he	tr	RF	PKW	EK		8,728820	53,054209
+689	23.07.2020	18:15	Do	5		Bremen	Kattenturmer Heerstraße	0	0	0	2	5	2		9				5	2		49					72	21	2020	07	23	he	tr	RF	PKW	AB		8,813475	53,038587
+690	23.07.2020	18:50	Do	5		Bremen	Humboldtstraße	0	0	1	2	5	1						3	3		28					21	71	2020	07	23	he	tr	PKW	RF	EK		8,835609	53,073782
+691	23.07.2020	19:40	Do	5		Bremen	Kirchhuchtinger Landstraße	0	0	0	2	5	2						5	2		35					21	71	2020	07	23	he	tr	PKW	RF	AB		8,731368	53,041225
+692	23.07.2020	20:50	Do	5		Bremen	Hermann-Funk-Straße	0	0	1	2	4	6						3	6		9					21	71	2020	07	23	dä	tr	PKW	RF	LV		8,880842	53,056649
+693	24.07.2020	11:55	Fr	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	5	1					8	3	3		49				76	71	71	2020	07	24	he	tr	RF	RF	EK		8,800527	53,078443
+694	24.07.2020	14:40	Fr	5		Bremen	Moselstraße	0	0	1	2	5	2						3	3		10					71	21	2020	07	24	he	tr	RF	PKW	EK		8,788177	53,069512
+695	24.07.2020	15:50	Fr	5		Bremen	Am Neustadtsbahnhof	0	0	1	2	0							3	7		37					21	72	2020	07	24	he	tr	PKW	RF	SO		8,787670	53,076388
+696	25.07.2020	22:30	Sa	5		Bremen	Duckwitzstraße	0	0	0	2	1							5	7		49		49			71	21	2020	07	25	du	tr	RF	PKW	SO		8,781412	53,066433
+697	26.07.2020	20:50	So	5		Bremen	Überseepromenade	0	0	0	2	7							5	7						88	81	71	2020	07	26	he	tr	FG	RF	SO		8,762661	53,095868
+698	27.07.2020	13:25	Mo	5		Bremen	Katrepeler Landstraße	0	0	1	2	3							3	6		22					21	71	2020	07	27	he	tr	PKW	RF	LV		8,910638	53,124379
+699	27.07.2020	14:50	Mo	5		Bremen	Vahrer Straße	0	0	1	2	3							3	6		22					72	71	2020	07	27	he	tr	RF	RF	LV		8,884522	53,072843
+700	27.07.2020	18:00	Mo	5		Bremen	Osterdeich	0	1	0	2	6							2	6		42					71	81	2020	07	27	he	tr	RF	FG	LV		8,832267	53,068142
+701	28.07.2020	10:15	Di	5		Bremen	Neuenlander Straße	0	0	1	2	5	1		8				3	2		34				73	40	72	2020	07	28	he	na	LKW	RF	AB		8,787957	53,062952
+702	28.07.2020	22:25	Di	5		Bremen	Vor dem Steintor	0	0	1	2	1							3	6		45		16			21	71	2020	07	28	du	tr	PKW	RF	LV		8,826441	53,072968
+703	29.07.2020	10:15	Mi	5		Bremen	Hamburger Straße	0	0	1	2	0			8				3	7		49		2			71	21	2020	07	29	he	tr	RF	PKW	SO		8,840550	53,069396
+704	29.07.2020	13:43	Mi	5		Bremen	Konsul-Smidt-Straße	0	0	1	2	0			9				3	7		43	49	13		84	42	71	2020	07	29	he	tr	LKW	RF	SO		8,760144	53,098018
+705	30.07.2020	08:00	Do	5		Bremen	Niedersachsendamm	0	0	1	2	5	1					8	3	2		34					21	71	2020	07	30	he	tr	PKW	RF	AB		8,820776	53,051278
+706	30.07.2020	11:00	Do	5		Bremen	Ostertorsteinweg	0	0	1	3	3							3	6		49				89	1	71	2020	07	30	he	tr	KRD	RF	LV		8,820776	53,072682
+707	30.07.2020	11:30	Do	5		Bremen	Erfurter Straße	0	0	0	2	1							5	5		49					71	21	2020	07	30	he	tr	RF	PKW	RV		8,804259	53,096315
+708	30.07.2020	19:45	Do	5		Bremen	Corintostraße	0	0	0	2	1							5	7		49					71	21	2020	07	30	he	tr	RF	PKW	SO		8,835714	53,034715
+709	30.07.2020	20:16	Do	5		Bremen	Woltmershauser Straße	0	0	1	2	4							3	6		9					71	71	2020	07	30	he	tr	RF	RF	LV		8,776010	53,079618
+710	31.07.2020	10:45	Fr	5		Bremen	Olgastraße	0	0	0	2	1							5	7		49					21	71	2020	07	31	he	tr	PKW	RF	SO		8,835470	53,075903
+711	31.07.2020	13:05	Fr	5		Bremen	Fabrikenufer	0	1	0	1	0							2	7		49					72		2020	07	31	he	tr	RF	-	SO		8,767012	53,101736
+712	31.07.2020	14:00	Fr	5		Bremen	Bürgermeister-Smidt-Straße	0	0	0	2	5							5	3		10		37			71	21	2020	07	31	he	tr	RF	PKW	EK		8,805571	53,081149
+713	31.07.2020	18:35	Fr	5		Bremen	Hastedter Brückenstraße	0	0	2	2	6							3	7		49		69			71	81	2020	07	31	he	tr	RF	FG	SO		8,852491	53,059893
+714	31.07.2020	19:15	Fr	5		Bremen	Am Dobben	0	0	1	3	4							3	6		11					71	71	2020	07	31	he	tr	RF	RF	LV		8,822531	53,074933
+715	31.07.2020	21:47	Fr	5		Bremen	Hamburger Straße	0	1	0	2	3	1		8			8	2	6		35					71	21	2020	07	31	du	tr	RF	PKW	LV		8,841199	53,069260
+716	01.08.2020	09:55	Sa	5		Bremen	Georg-Gleistein-Straße	0	0	1	2	5	2					8	3	2		31					21	71	2020	08	01	he	tr	PKW	RF	AB		8,619235	53,182108
+717	01.08.2020	12:00	Sa	5		Bremen	Dünsener Straße	0	0	0	2	2							5	6		14					71	21	2020	08	01	he	tr	RF	PKW	LV		8,738663	53,042749
+718	01.08.2020	13:55	Sa	5		Bremen	Ostertorsteinweg	0	0	1	1	0							3	1		49				73	71		2020	08	01	he	na	RF	-	F		8,818038	53,072382
+719	01.08.2020	14:00	Sa	5		Bremen	Ostertorsteinweg	0	0	1	1	0							3	1		49					71		2020	08	01	he	na	RF	-	F		8,818598	53,072438
+720	01.08.2020	15:55	Sa	5		Bremen	Gröpelinger Heerstraße	0	1	0	2	0							2	3		31					71	61	2020	08	01	he	tr	RF	SOF	EK		8,758791	53,116029
+721	02.08.2020	16:00	So	5		Bremen	Humannstraße	0	0	0	2	1							5	5		49	36				71	21	2020	08	02	he	tr	RF	PKW	RV		8,753228	53,127480
+722	03.08.2020	00:25	Mo	5		Bremen	Eickedorfer Straße	0	0	0	2	1							4	7		14	49			89	71	21	2020	08	03	du	tr	RF	PKW	SO		8,810927	53,092162
+723	03.08.2020	23:25	Mo	5		Bremen	Parkallee	0	0	1	2	5							3	3		28					21	71	2020	08	03	du	tr	PKW	RF	EK		8,825031	53,084598
+724	04.08.2020	08:05	Di	5		Bremen	Donandtstraße	0	0	0	2	1							5	1		49					71	21	2020	08	04	he	tr	RF	PKW	F		8,842406	53,088308
+725	04.08.2020	09:20	Di	5		Bremen	Stumpesweg	0	0	1	1	0	2						3	7		49					71		2020	08	04	he	tr	RF	-	SO		8,936347	53,061800
+726	04.08.2020	12:15	Di	5		Bremen	Rotdornallee	0	1	0	1	0	5		5				2	7		49					71		2020	08	04	he	tr	RF	-	SO		8,686130	53,171074
+727	04.08.2020	13:00	Di	5		Bremen	Hemmstraße	0	0	1	2	4	1					8	3	2		35					21	71	2020	08	04	he	tr	PKW	RF	AB		8,808245	53,094668
+728	04.08.2020	15:20	Di	5		Bremen	Stresemannstraße	0	0	1	2	5	3						3	3		37		9			21	71	2020	08	04	he	tr	PKW	RF	EK		8,861621	53,071803
+729	04.08.2020	21:18	Di	5		Bremen	Humboldtstraße	0	0	1	2	1							3	7		1	49				71	21	2020	08	04	dä	tr	RF	PKW	SO		8,833844	53,073989
+730	05.08.2020	07:21	Mi	5		Bremen	Bürgermeister-Spitta-Allee	0	1	1	2	4			9				2	6		24					71	71	2020	08	05	he	tr	RF	RF	LV		8,870794	53,087406
+731	05.08.2020	08:00	Mi	5		Bremen	Vahrer Feldweg	0	1	0	2	1	3						2	5		45					21	71	2020	08	05	he	tr	PKW	RF	RV		8,898131	53,068329
+732	05.08.2020	11:10	Mi	5		Bremen	Bennigsenstraße	0	0	1	2	5	1						3	3		27					21	71	2020	08	05	he	tr	PKW	RF	EK		8,856541	53,071368
+733	05.08.2020	13:10	Mi	5		Bremen	Christernstraße	0	0	2	3	5	1					8	3	2		34					21	71	2020	08	05	he	tr	PKW	RF	AB		8,894355	53,054383
+734	05.08.2020	13:40	Mi	5		Bremen	Am Hohentorsplatz	0	0	1	2	2	3						3	6		49		49			71	21	2020	08	05	he	tr	RF	PKW	LV		8,788477	53,073521
+735	05.08.2020	19:50	Mi	5		Bremen	Julius-Brecht-Allee	0	0	0	2	5	3						5	3		27		9			21	71	2020	08	05	he	tr	PKW	RF	EK		8,873305	53,077820
+736	06.08.2020	08:20	Do	5		Bremen	Hamburger Straße	0	0	0	2	4	1		9				5	2		35					21	71	2020	08	06	he	tr	PKW	RF	AB		8,848891	53,067939
+737	06.08.2020	09:45	Do	5		Bremen	Brüggeweg	0	0	1	2	5							3	3		28					21	71	2020	08	06	he	tr	PKW	RF	EK		8,894352	53,051321
+738	06.08.2020	10:15	Do	5		Bremen	Heinrich-Plett-Allee	0	0	1	2	5	2		8				3	3		35					21	71	2020	08	06	he	tr	PKW	RF	EK		8,728567	53,038881
+739	06.08.2020	11:45	Do	5		Bremen	Wilseder-Berg-Straße	0	0	1	3	3	7						3	2		49					21	71	2020	08	06	he	tr	PKW	RF	AB		8,880166	53,071697
+740	06.08.2020	14:50	Do	5		Bremen	Lachmundsdamm	0	0	1	2	5	1		3				3	3		49		37			21	71	2020	08	06	he	tr	PKW	RF	EK		8,941610	53,060367
+741	06.08.2020	14:50	Do	5		Bremen	Hammersbecker Straße	0	0	1	2	5	1					8	3	2		34		8			21	71	2020	08	06	he	tr	PKW	RF	AB		8,619372	53,184085
+742	06.08.2020	15:35	Do	5		Bremen	Am Stern	0	0	1	2	5							3	3		49					21	71	2020	08	06	he	tr	PKW	RF	EK		8,824532	53,084191
+743	06.08.2020	18:50	Do	5		Bremen	Osterholzer Heerstraße	0	0	1	2	5	1						3	2		34					21	71	2020	08	06	he	tr	PKW	RF	AB		8,930543	53,059038
+744	06.08.2020	19:08	Do	5		Bremen	Hohweg	0	1	0	2	5	1						2	3		28					21	71	2020	08	06	he	tr	PKW	RF	EK		8,795853	53,106282
+745	06.08.2020	21:48	Do	5		Bremen	Merkurstraße	0	0	1	2	5	1		3				3	3		28					21	72	2020	08	06	du	tr	PKW	RF	EK		8,736791	53,079744
+746	07.08.2020	08:00	Fr	5		Bremen	Wischhusenstraße	0	0	1	2	4	2						3	2		35					21	71	2020	08	07	he	tr	PKW	RF	AB		8,748915	53,124950
+747	07.08.2020	09:25	Fr	5		Bremen	In der Vahr	0	0	1	2	5	2						3	3		37					21	71	2020	08	07	he	tr	PKW	RF	EK		8,876185	53,081365
+748	07.08.2020	11:15	Fr	5		Bremen	Stresemannstraße	0	0	1	2	5							3	3		37					21	71	2020	08	07	he	tr	PKW	RF	EK		8,861728	53,071907
+749	07.08.2020	12:10	Fr	5		Bremen	Langemarckstraße	0	0	1	2	6	1		3				3	3		38	31				71	81	2020	08	07	he	tr	RF	FG	EK		8,789234	53,070772
+750	07.08.2020	17:40	Fr	5		Bremen	Kulenkampffallee	0	0	1	2	4							3	1		49					71	21	2020	08	07	he	tr	RF	PKW	F		8,845268	53,097169
+751	07.08.2020	21:00	Fr	5		Bremen	Marschstraße	0	0	1	2	5	1						3	3		27					21	71	2020	08	07	dä	tr	PKW	RF	EK		8,888154	53,046242
+752	07.08.2020	21:38	Fr	5		Bremen	Osterdeich	0	1	0	2	6						8	2	7		49					71	81	2020	08	07	du	tr	RF	FG	SO		8,824596	53,068928
+753	07.08.2020	23:00	Fr	5		Bremen	Hillmannstraße	0	0	1	2	5	1						3	3		1	27				71	21	2020	08	07	du	tr	RF	PKW	EK		8,810184	53,081544
+754	08.08.2020	13:10	Sa	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	1	2	5							3	2		34					21	71	2020	08	08	he	tr	PKW	RF	AB		8,801336	53,071488
+755	09.08.2020	01:46	So	5		Bremen	Tiefer	0	0	2	2	4							3	6		1	14				71	71	2020	08	09	du	tr	RF	RF	LV		8,807430	53,072886
+756	09.08.2020	03:22	So	5		Bremen	Buntentorsteinweg	0	0	1	1	0							3	1		49					71		2020	08	09	du	tr	RF	-	F		8,801287	53,068149
+757	10.08.2020	16:00	Mo	5		Bremen	Hannoversche Straße	0	0	1	2	5	1					8	3	3		31					71	21	2020	08	10	he	tr	RF	PKW	EK		8,891748	53,049443
+758	10.08.2020	22:15	Mo	5		Bremen	Gröpelinger Heerstraße	0	0	0	2	1							5	5		49					71	21	2020	08	10	du	tr	RF	PKW	RV		8,760250	53,115231
+759	11.08.2020	11:15	Di	5		Bremen	Kaufmannsmühlenkamp	0	0	0	2	2	1					8	5	2		35				89	71	21	2020	08	11	he	tr	RF	PKW	AB		8,803187	53,084694
+760	11.08.2020	16:35	Di	5		Bremen	Theodor-Heuss-Allee	0	0	1	2	5	1		6			8	3	3		31					21	71	2020	08	11	he	tr	PKW	RF	EK		8,816533	53,084105
+761	11.08.2020	17:30	Di	5		Bremen	Waller Heerstraße	0	0	1	2	0							3	7		69					93	71	2020	08	11	he	tr	FG	RF	SO		8,787828	53,099255
+762	11.08.2020	19:44	Di	5		Bremen	Hinter der Mauer	0	0	1	2	4							3	6		11		10			21	71	2020	08	11	he	tr	PKW	RF	LV		8,796233	53,079490
+763	12.08.2020	10:10	Mi	5		Bremen	Münchener Straße	0	0	1	2	0							3	5		45					40	71	2020	08	12	he	tr	LKW	RF	RV		8,799791	53,094745
+764	12.08.2020	12:00	Mi	5		Bremen	Bremer Heerstraße	0	0	2	2	3			8				3	6		22					71	71	2020	08	12	he	tr	RF	RF	LV		8,704186	53,156865
+765	12.08.2020	13:20	Mi	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	1	0	1					8	3	1		11					72		2020	08	12	he	tr	RF	-	F		8,913954	53,059870
+766	12.08.2020	14:45	Mi	5		Bremen	Waltjenstraße	0	0	1	2	6							3	3		42	49			89	71	81	2020	08	12	he	tr	RF	FG	EK		8,753187	53,114478
+767	13.08.2020	13:40	Do	5		Bremen	Hastedter Heerstraße	0	0	1	2	5	2					8	3	3		31					71	21	2020	08	13	he	tr	RF	PKW	EK		8,873506	53,067077
+768	13.08.2020	14:10	Do	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	1	2	0			3			8	3	7		31					71	61	2020	08	13	he	tr	RF	SOF	SO		8,803873	53,072359
+769	13.08.2020	16:10	Do	5		Bremen	Wilhelm-Kaisen-Brücke	0	1	0	2	5	2	5	5				2	3		49					21	71	2020	08	13	he	tr	PKW	RF	EK		8,804349	53,072523
+770	14.08.2020	09:35	Fr	5		Bremen	Göttinger Straße	0	0	1	2	1	2						3	6		49		18			21	72	2020	08	14	he	tr	PKW	RF	LV		8,810555	53,095420
+771	14.08.2020	11:45	Fr	5		Bremen	Hemelinger Heerstraße	0	0	1	2	5	3		9				3	3		36					21	71	2020	08	14	he	tr	PKW	RF	EK		8,897429	53,044267
+772	14.08.2020	13:35	Fr	5		Bremen	Am Hulsberg	0	0	1	2	5							3	3		11					21	71	2020	08	14	he	tr	PKW	RF	EK		8,848698	53,071457
+773	14.08.2020	14:28	Fr	5		Bremen	Bürgermeister-Spitta-Allee	0	0	1	2	3	1		8			8	3	2		34					21	71	2020	08	14	he	tr	PKW	RF	AB		8,875198	53,082457
+774	14.08.2020	15:40	Fr	5		Bremen	Sankt-Pauli-Deich	0	0	1	2	1							3	5		45					21	71	2020	08	14	he	tr	PKW	RF	RV		8,802559	53,070400
+775	14.08.2020	18:00	Fr	5		Bremen	Hannoversche Straße	0	0	1	2	5	1						3	2		34					21	72	2020	08	14	he	tr	PKW	RF	AB		8,891986	53,047953
+776	14.08.2020	18:02	Fr	5		Bremen	Osterfeuerberger Ring	0	0	1	2	5			3				3	3		31					71	21	2020	08	14	he	tr	RF	PKW	EK		8,792152	53,103377
+777	15.08.2020	00:00	Sa	5		Bremen	Neustadtswall	0	0	0	2	1							5	5		49					71	21	2020	08	15	du	na	RF	PKW	RV		8,800531	53,069939
+778	15.08.2020	01:30	Sa	5		Bremen	Osterstraße	0	1	0	1	7							2	1		49	1				71		2020	08	15	du	tr	RF	-	F		8,800116	53,072694
+779	15.08.2020	12:25	Sa	5		Bremen	Georg-Gleistein-Straße	0	0	1	1	0	1					8	3	7		49					71		2020	08	15	he	tr	RF	-	SO		8,618672	53,176836
+780	15.08.2020	14:00	Sa	5		Bremen	George-Albrecht-Straße	0	0	1	1	0	4						3	7		49					71		2020	08	15	he	tr	RF	-	SO		8,569319	53,181902
+781	16.08.2020	15:45	So	5		Bremen	Osterdeich	0	1	0	1	0							2	7		49					71		2020	08	16	he	tr	RF	-	SO		8,821774	53,068600
+782	16.08.2020	17:31	So	5		Bremen	Waller Heerstraße	0	0	1	2	0			6				3	7						85	93	71	2020	08	16	he	tr	FG	RF	SO		8,787879	53,099227
+783	17.08.2020	10:00	Mo	5		Bremen	Louis-Krages-Straße	0	0	1	2	0			2				3	6		13	49			73	92	72	2020	08	17	he	na	SOF	RF	LV		8,749317	53,120598
+784	17.08.2020	15:40	Mo	5		Bremen	Elsasser Straße	0	0	0	2	1							5	5		49					71	21	2020	08	17	he	tr	RF	PKW	RV		8,834300	53,079486
+785	17.08.2020	19:30	Mo	5		Bremen	Buntentorsteinweg	0	0	1	1	0	1						3	7		49					71		2020	08	17	he	na	RF	-	SO		8,801164	53,068658
+786	18.08.2020	07:25	Di	5		Bremen	Am Stern	0	0	1	2	5	7						3	3		28					21	71	2020	08	18	he	tr	PKW	RF	EK		8,825155	53,084231
+787	18.08.2020	08:00	Di	5		Bremen	Oberneulander Landstraße	0	0	0	2	2							5	5		49					71	21	2020	08	18	he	tr	RF	PKW	RV		8,932705	53,093411
+788	18.08.2020	10:55	Di	5		Bremen	Wilhelm-Kaisen-Brücke	0	1	0	2	5							2	3		49					21	71	2020	08	18	he	tr	PKW	RF	EK		8,806030	53,073585
+789	18.08.2020	13:00	Di	5		Bremen	Zur Munte	0	0	0	2	1	6						5	1		49					71	21	2020	08	18	he	tr	RF	PKW	F		8,841759	53,104524
+790	18.08.2020	13:10	Di	5		Bremen	Weserdeich	0	0	2	2	2							3	6		14					71	71	2020	08	18	he	tr	RF	RF	LV		8,808395	53,064918
+791	18.08.2020	13:15	Di	5		Bremen	Rockwinkeler Landstraße	0	0	1	2	6							3	4		42					71	81	2020	08	18	he	na	RF	FG	ÜS		8,940719	53,078549
+792	18.08.2020	14:40	Di	5		Bremen	Osterfeuerberger Ring	0	0	1	2	4							3	6		10	11				71	71	2020	08	18	he	tr	RF	RF	LV		8,788775	53,103466
+793	18.08.2020	17:35	Di	5		Bremen	Kornstraße	0	0	0	2	1							5	7		14	49				71	21	2020	08	18	he	tr	RF	PKW	SO		8,801588	53,064113
+794	18.08.2020	17:45	Di	5		Bremen	Contrescarpe	0	0	1	2	5	2						3	3		28					21	71	2020	08	18	he	tr	PKW	RF	EK		8,809168	53,078816
+795	18.08.2020	18:15	Di	5		Bremen	Schneiderstraße	0	0	1	2	5	3						3	3		37					21	71	2020	08	18	he	tr	PKW	RF	EK		8,688731	53,168509
+796	18.08.2020	20:00	Di	5		Bremen	Föhrenstraße	0	1	0	2	5	2						2	3		37					71	71	2020	08	18	he	tr	RF	RF	EK		8,874544	53,060982
+797	18.08.2020	22:10	Di	5		Bremen	Woltmershauser Straße	0	0	1	1	0			6				3	1		13					71		2020	08	18	du	na	RF	-	F		8,782188	53,077205
+798	19.08.2020	00:03	Mi	5		Bremen	Am Wall	0	1	0	1	0							2	7		49					71		2020	08	19	du	na	RF	-	SO		8,812290	53,076385
+799	19.08.2020	15:08	Mi	5		Bremen	Georg-Bitter-Straße	0	0	1	2	5	1					8	3	2		34		49			21	71	2020	08	19	he	tr	PKW	RF	AB		8,854486	53,067014
+800	19.08.2020	17:15	Mi	5		Bremen	Herdentorsteinweg	0	0	1	2	4	1		8			8	3	2		35					21	71	2020	08	19	he	tr	PKW	RF	AB		8,812593	53,080817
+801	19.08.2020	17:15	Mi	5		Bremen	Hillmannplatz	0	1	0	2	0							2	7		49				89	71	71	2020	08	19	he	tr	RF	RF	SO		8,809661	53,080730
+802	19.08.2020	19:54	Mi	5		Bremen	Vegesacker Straße	0	0	1	2	6							3	4		1	42				71	81	2020	08	19	he	tr	RF	FG	ÜS		8,785462	53,096733
+803	19.08.2020	20:35	Mi	5		Bremen	Kantstraße	0	0	1	2	5	1						3	3		28					71	21	2020	08	19	dä	tr	RF	PKW	EK		8,796781	53,066972
+804	19.08.2020	22:59	Mi	5		Bremen	Buntentorsteinweg	0	1	0	1	0							2	1		1	49				71		2020	08	19	du	tr	RF	-	F		8,807122	53,064635
+805	20.08.2020	08:50	Do	5		Bremen	Wachmannstraße	0	0	1	2	0	1		5				3	1		43					44	71	2020	08	20	he	tr	LKW	RF	F		8,831090	53,085850
+806	20.08.2020	11:05	Do	5		Bremen	Saarstraße	0	1	0	2	3							2	6		16				89	71	71	2020	08	20	he	tr	RF	RF	LV		8,909338	53,058730
+807	20.08.2020	14:15	Do	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	3	6							3	4		42		65			71	81	2020	08	20	he	tr	RF	FG	ÜS		8,806875	53,082029
+808	20.08.2020	15:30	Do	5		Bremen	Stockholmer Straße	0	0	0	2	0							5	7		37					21	71	2020	08	20	he	tr	PKW	RF	SO		8,716833	53,177349
+809	20.08.2020	15:50	Do	5		Bremen	Kreinsloger	0	0	0	2	5	3						5	2		34					21	71	2020	08	20	he	tr	PKW	RF	AB		8,566455	53,193842
+810	20.08.2020	18:05	Do	5		Bremen	Bromberger Straße	0	1	0	2	5	2						2	3		1	28	27			71	71	2020	08	20	he	tr	RF	RF	EK		8,765330	53,118550
+811	20.08.2020	18:15	Do	5		Bremen	Donaustraße	0	0	0	2	1							5	7		49					71	21	2020	08	20	he	tr	RF	PKW	SO		8,789218	53,067715
+812	20.08.2020	22:20	Do	5		Bremen	Graudenzer Straße	0	0	0	2	1							5	7		14	49				71	21	2020	08	20	du	tr	RF	PKW	SO		8,800730	53,063373
+813	21.08.2020	00:00	Fr	5		Bremen	Rohrstraße	0	0	1	2	0	1		3				3	7		55				70	92	71	2020	08	21	he	na	SOF	RF	SO		8,621649	53,170006
+814	21.08.2020	11:25	Fr	5		Bremen	Weberstraße	0	0	0	2	1							5	7		14	49				71	21	2020	08	21	he	na	RF	PKW	SO		8,821603	53,072309
+815	21.08.2020	20:39	Fr	5		Bremen	Sankt-Magnus-Straße	0	0	1	1	0							3	7		49	1				71		2020	08	21	dä	na	RF	-	SO		8,788805	53,094123
+816	22.08.2020	10:50	Sa	5		Bremen	Hammersbecker Straße	0	0	1	2	5	3						3	3		37		49			21	71	2020	08	22	he	tr	PKW	RF	EK		8,618980	53,184112
+817	22.08.2020	14:45	Sa	5		Bremen	Vor dem Steintor	0	0	0	2	5	2						5	3		49					71	21	2020	08	22	he	tr	RF	PKW	EK		8,832466	53,070888
+818	24.08.2020	16:25	Mo	5		Bremen	Osterholzer Heerstraße	0	0	1	2	5	1						3	2		34					21	72	2020	08	24	he	tr	PKW	RF	AB		8,963416	53,057381
+819	24.08.2020	16:29	Mo	5		Bremen	Am Koppenberg	0	0	1	1	0							3	1		49				73	71		2020	08	24	he	na	RF	-	F		8,742759	53,131533
+820	24.08.2020	17:15	Mo	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	5							3	2		34				73	21	71	2020	08	24	he	na	PKW	RF	AB		8,791476	53,065002
+821	24.08.2020	18:30	Mo	5		Bremen	Treviranusstraße	0	0	1	2	5							3	3		37					21	71	2020	08	24	he	tr	PKW	RF	EK		8,854776	53,067729
+822	24.08.2020	19:50	Mo	5		Bremen	Walsroder Straße	0	0	0	2	5							5	3		37				73	71	21	2020	08	24	he	na	RF	PKW	EK		8,802001	53,094578
+823	24.08.2020	20:55	Mo	5		Bremen	Stresemannstraße	0	0	0	1	0							5	7		49				73	71		2020	08	24	du	na	RF	-	SO		8,871551	53,067878
+824	25.08.2020	02:40	Di	5		Bremen	Gröpelinger Heerstraße	0	0	1	1	0	1					8	3	7		1	49				71		2020	08	25	du	na	RF	-	SO		8,753861	53,120501
+825	25.08.2020	09:00	Di	5		Bremen	Obervielander Straße	0	0	0	2	3							5	1		10					72	51	2020	08	25	he	tr	RF	LKW	F		8,738299	53,051637
+826	25.08.2020	15:17	Di	5		Bremen	Baumhauser Weg	0	0	1	2	1							3	5		45					21	71	2020	08	25	he	tr	PKW	RF	RV		8,857094	53,042477
+827	25.08.2020	17:20	Di	5		Bremen	Humboldtstraße	0	0	1	2	2			8				3	6		49	14			73	71	21	2020	08	25	he	na	RF	PKW	LV		8,829689	53,074556
+828	26.08.2020	11:00	Mi	5		Bremen	Leher Heerstraße	0	1	0	1	0			5	4		8	2	7		49					72		2020	08	26	he	na	RF	-	SO		8,880700	53,101487
+829	26.08.2020	12:40	Mi	5		Bremen	Violenstraße	0	0	1	3	3							3	6		18				81	21	71	2020	08	26	he	na	PKW	RF	LV		8,811196	53,076251
+830	26.08.2020	14:00	Mi	5		Bremen	Hannoversche Straße	0	0	1	2	5	3		9				3	3		37					21	72	2020	08	26	he	na	PKW	RF	EK		8,891777	53,048317
+831	26.08.2020	14:30	Mi	5		Bremen	Zentaurenstraße	0	0	0	2	5	2						5	2		49	35				71	21	2020	08	26	he	na	RF	PKW	AB		8,801550	53,070791
+832	26.08.2020	16:50	Mi	5		Bremen	Woltmershauser Straße	0	0	0	2	5	3						5	3		37					21	71	2020	08	26	he	tr	PKW	RF	EK		8,765662	53,084690
+833	26.08.2020	17:21	Mi	5		Bremen	Falkenstraße	0	0	0	2	2							6	6		1	14			89	71	21	2020	08	26	he	na	RF	PKW	LV		8,807218	53,082407
+834	27.08.2020	05:58	Do	5		Bremen	Hermann-Ritter-Straße	0	0	1	2	0	1						3	2		27		49		73	92	72	2020	08	27	he	na	SOF	RF	AB		8,773017	53,077617
+835	27.08.2020	09:50	Do	5		Bremen	Neidenburger Straße	0	0	0	2	1							5	7		49					71	21	2020	08	27	he	tr	RF	PKW	SO		8,870177	53,072156
+836	27.08.2020	17:30	Do	5		Bremen	Westerstraße	0	0	1	2	6							3	7		42					71	81	2020	08	27	he	tr	RF	FG	SO		8,795151	53,074018
+837	28.08.2020	11:50	Fr	5		Bremen	Alfred-Faust-Straße	0	1	0	2	5	2		8				2	3		37					21	72	2020	08	28	he	tr	PKW	RF	EK		8,826195	53,034336
+838	28.08.2020	13:20	Fr	5		Bremen	Malthusstraße	0	1	0	3	5						8	2	2		34		10			44	71	2020	08	28	he	tr	LKW	RF	AB		8,959769	53,039174
+839	28.08.2020	14:35	Fr	5		Bremen	Kurfürstenallee	0	1	0	2	6							2	7		49					71	81	2020	08	28	he	tr	RF	FG	SO		8,874034	53,082038
+840	28.08.2020	16:09	Fr	5		Bremen	Grambker Kirchweg	0	0	0	2	5	2						6	1		2		1			71	21	2020	08	28	he	tr	RF	PKW	F		8,715524	53,142663
+841	28.08.2020	17:20	Fr	5		Bremen	Hemmstraße	0	0	1	1	0	5						3	7		49					71		2020	08	28	he	tr	RF	-	SO		8,816058	53,103566
+842	29.08.2020	05:29	Sa	5		Bremen	Utbremer Ring	0	0	1	2	1							3	7		49	1				71	21	2020	08	29	du	tr	RF	PKW	SO		8,821399	53,095679
+843	29.08.2020	09:44	Sa	5		Bremen	Am Waller Freihafen	0	0	1	2	5							3	3		37					21	71	2020	08	29	he	tr	PKW	RF	EK		8,770085	53,095227
+844	29.08.2020	16:45	Sa	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	5	1						3	3		34					21	71	2020	08	29	he	tr	PKW	RF	EK		8,767191	53,111715
+845	30.08.2020	09:00	So	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	5	1		8				3	2		35					21	71	2020	08	30	he	tr	PKW	RF	AB		8,837444	53,037868
+846	30.08.2020	11:45	So	5		Bremen	Gärdesstraße	0	0	0	2	1	1						5	7		14	49				71	21	2020	08	30	he	tr	RF	PKW	SO		8,633955	53,185474
+847	30.08.2020	14:20	So	5		Bremen	Steindamm	0	0	1	2	2							3	6		14					21	71	2020	08	30	he	tr	PKW	RF	LV		8,707485	53,161268
+848	30.08.2020	14:40	So	5		Bremen	Böschungsweg	0	0	0	2	4							5	6		49		49			71	71	2020	08	30	he	tr	RF	RF	LV		8,816705	53,060921
+849	31.08.2020	10:45	Mo	5		Bremen	Nordstraße	0	0	1	2	5	2						3	2		34					21	71	2020	08	31	he	tr	PKW	RF	AB		8,784481	53,089454
+850	31.08.2020	15:05	Mo	5		Bremen	Graf-Moltke-Straße	0	0	1	2	2	2					8	3	6		14	49				71	72	2020	08	31	he	tr	RF	RF	LV		8,832671	53,077552
+851	31.08.2020	17:15	Mo	5		Bremen	Bürgermeister-Smidt-Straße	0	0	1	2	6	2						3	4		42					71	81	2020	08	31	he	tr	RF	FG	ÜS		8,801872	53,079259
+852	31.08.2020	19:55	Mo	5		Bremen	Jürgensdeich	0	1	0	2	5	2						2	3		27	1				21	71	2020	08	31	dä	tr	PKW	RF	EK		8,851434	53,063394
+853	01.09.2020	09:20	Di	5		Bremen	Kirchheide	0	1	0	2	5	2					9	2	2		35					21	71	2020	09	01	he	tr	PKW	RF	AB		8,614241	53,176244
+854	01.09.2020	10:15	Di	5		Bremen	Wohldstraße	0	1	0	2	6	2						2	3		28					21	71	2020	09	01	he	tr	PKW	RF	EK		8,588535	53,182999
+855	01.09.2020	10:52	Di	5		Bremen	Steubenstraße	0	0	1	1	0							3	7		49					72		2020	09	01	he	tr	RF	-	SO		8,868750	53,074271
+856	01.09.2020	15:25	Di	5		Bremen	Elisabethstraße	0	0	0	2	5	1						5	3		27					71	21	2020	09	01	he	tr	RF	PKW	EK		8,785446	53,096723
+857	01.09.2020	16:00	Di	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5	3						3	3		37		10			21	71	2020	09	01	he	tr	PKW	RF	EK		8,843629	53,083682
+858	01.09.2020	18:15	Di	5		Bremen	Alfred-Faust-Straße	0	0	0	2	5	3		9				5	3		9					72	21	2020	09	01	he	tr	RF	PKW	EK		8,831363	53,033866
+859	01.09.2020	18:30	Di	5		Bremen	Hemelinger Heerstraße	0	0	1	2	5							3	3		49	14	49			21	71	2020	09	01	he	tr	PKW	RF	EK		8,892523	53,047630
+860	01.09.2020	19:00	Di	5		Bremen	Ludwig-Roselius-Allee	0	0	1	2	3							3	6		23					71	72	2020	09	01	he	tr	RF	RF	LV		8,910201	53,071323
+861	01.09.2020	19:30	Di	5		Bremen	Wehrstraße	0	0	1	2	3							3	6		14					71	71	2020	09	01	dä	tr	RF	RF	LV		8,860913	53,049707
+862	01.09.2020	19:35	Di	5		Bremen	Försteweg	0	0	0	2	0	2						5	7		69					81	71	2020	09	01	he	tr	FG	RF	SO		8,806107	53,058469
+863	01.09.2020	20:35	Di	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	1			9			8	3	5		45					21	71	2020	09	01	dä	tr	PKW	RF	RV		8,856689	53,088919
+864	01.09.2020	20:45	Di	5		Bremen	Rosenakstraße	0	0	1	1	0							3	7		49	10			89	71		2020	09	01	du	tr	RF	-	SO		8,761079	53,113347
+865	02.09.2020	09:25	Mi	5		Bremen	Auf dem Grünen	0	0	0	2	0							5	5		45					21	71	2020	09	02	he	tr	PKW	RF	RV		8,760019	53,085111
+866	02.09.2020	17:15	Mi	5		Bremen	Am Rabenfeld	0	0	1	2	5	1						3	3		35					21	71	2020	09	02	he	tr	PKW	RF	EK		8,625514	53,181362
+867	02.09.2020	18:00	Mi	5		Bremen	Hemmstraße	0	0	1	2	5							3	3		37					21	71	2020	09	02	he	tr	PKW	RF	EK		8,811818	53,097367
+868	02.09.2020	18:38	Mi	5		Bremen	Auf den Heuen	0	0	2	2	5	2						3	3		27					71	21	2020	09	02	he	tr	RF	PKW	EK		8,730051	53,133099
+869	02.09.2020	20:00	Mi	5		Bremen	Langemarckstraße	0	1	0	1	0							2	7		49					71		2020	09	02	dä	tr	RF	-	SO		8,792045	53,073054
+870	03.09.2020	11:50	Do	5		Bremen	Habenhauser Brückenstraße	0	1	0	2	5	2						2	3		34				73	21	72	2020	09	03	he	na	PKW	RF	EK		8,846939	53,048283
+871	03.09.2020	15:36	Do	5		Bremen	Lange Reihe	0	0	1	2	4						8	3	6		10					71	71	2020	09	03	he	na	RF	RF	LV		8,779159	53,100318
+872	03.09.2020	17:15	Do	5		Bremen	Kaufmannsmühlenkamp	0	0	1	2	5	2						3	3		49					21	71	2020	09	03	he	na	PKW	RF	EK		8,803165	53,084636
+873	03.09.2020	17:57	Do	5		Bremen	Fresenbergstraße	0	0	0	2	5	1					8	5	3		31					71	21	2020	09	03	he	tr	RF	PKW	EK		8,572511	53,183992
+874	04.09.2020	11:36	Fr	5		Bremen	Leutweinstraße	0	0	0	2	5	2						5	3		37		10			21	71	2020	09	04	he	tr	PKW	RF	EK		8,776515	53,097970
+875	04.09.2020	15:00	Fr	5		Bremen	Neustadtswall	0	0	1	2	6							3	4		13	42				71	81	2020	09	04	he	na	RF	FG	ÜS		8,800429	53,069940
+876	04.09.2020	15:00	Fr	5		Bremen	Parkallee	0	2	0	2	3							2	6		22					71	71	2020	09	04	he	tr	RF	RF	LV		8,838415	53,101445
+877	04.09.2020	19:30	Fr	5		Bremen	Bahnhofsplatz	0	0	0	2	1							5	7		49					33	71	2020	09	04	he	tr	BUS	RF	SO		8,813623	53,082021
+878	04.09.2020	20:40	Fr	5		Bremen	Kurt-Schumacher-Allee	0	0	1	2	0							3	7		69					81	71	2020	09	04	du	tr	FG	RF	SO		8,886533	53,078988
+879	05.09.2020	09:50	Sa	5		Bremen	Osterdeich	0	0	1	1	0							3	7		1				73	71		2020	09	05	he	na	RF	-	SO		8,832503	53,068482
+880	05.09.2020	18:15	Sa	5		Bremen	Lesmonastraße	0	0	1	2	4	5						3	6		69				87	83	71	2020	09	05	he	na	FG	RF	LV		8,682820	53,166494
+881	05.09.2020	19:00	Sa	5		Bremen	Melanchthonstraße	0	0	0	2	1							5	5		49					21	71	2020	09	05	dä	tr	PKW	RF	RV		8,787935	53,094352
+882	05.09.2020	23:15	Sa	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	0							3	7		49					21	71	2020	09	05	he	na	PKW	RF	SO		8,753383	53,120913
+883	06.09.2020	00:30	So	5		Bremen	Heumarschstraße	0	0	0	2	1							5	5		49	14	49			71	21	2020	09	06	du	tr	RF	PKW	RV		8,889661	53,045350
+884	07.09.2020	07:50	Mo	5		Bremen	Grenzstraße	0	0	0	2	5							5	3		49					71	21	2020	09	07	dä	tr	RF	PKW	EK		8,786723	53,095254
+885	07.09.2020	15:50	Mo	5		Bremen	Kornstraße	0	0	0	2	5	1		9				5	3		34					21	71	2020	09	07	he	tr	PKW	RF	EK		8,796730	53,066965
+886	08.09.2020	08:30	Di	5		Bremen	Hohentorsheerstraße	0	0	0	2	5							5	3		27		9			21	71	2020	09	08	he	tr	PKW	RF	EK		8,786420	53,071595
+887	08.09.2020	15:10	Di	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	3						3	3		37					21	71	2020	09	08	he	tr	PKW	RF	EK		8,899939	53,059393
+888	08.09.2020	16:00	Di	5		Bremen	Friesenwerder	0	0	0	2	5	1						5	3		34					51	71	2020	09	08	he	tr	LKW	RF	EK		8,788155	53,076467
+889	08.09.2020	16:50	Di	5		Bremen	Emmastraße	0	0	1	2	5							3	7		36					21	72	2020	09	08	he	tr	PKW	RF	SO		8,849970	53,087696
+890	08.09.2020	17:55	Di	5		Bremen	Warturmer Heerstraße	0	0	1	2	5	2		9				3	3		28		10			21	72	2020	09	08	he	tr	PKW	RF	EK		8,766848	53,071246
+891	08.09.2020	18:00	Di	5		Bremen	Auf dem Hellen	0	0	0	2	1							5	5		49					71	21	2020	09	08	he	tr	RF	PKW	RV		8,906934	53,041970
+892	09.09.2020	06:49	Mi	5		Bremen	Sebaldsbrücker Heerstraße	0	0	0	2	5	1					8	5	2		35					21	71	2020	09	09	he	tr	PKW	RF	AB		8,914651	53,059591
+893	09.09.2020	08:03	Mi	5		Bremen	Waller Heerstraße	0	1	0	2	5						8	2	3		35					21	71	2020	09	09	he	tr	PKW	RF	EK		8,777185	53,106588
+894	09.09.2020	08:50	Mi	5		Bremen	Pürschweg	0	0	0	2	1							5	7		14	49				71	21	2020	09	09	he	tr	RF	PKW	SO		8,575049	53,202546
+895	09.09.2020	12:20	Mi	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5	2						3	3		32					21	71	2020	09	09	he	tr	PKW	RF	EK		8,871803	53,091385
+896	09.09.2020	15:10	Mi	5		Bremen	Eitzestraße	0	0	1	2	0							3	7		49					71	71	2020	09	09	he	tr	RF	RF	SO		8,897001	53,042713
+897	10.09.2020	07:40	Do	5		Bremen	Alte Waller Straße	0	0	1	2	2							3	6		49					21	71	2020	09	10	he	tr	PKW	RF	LV		8,778752	53,108646
+898	10.09.2020	07:45	Do	5		Bremen	Heinrich-Plett-Allee	0	0	1	3	0	2						3	3		35					21	71	2020	09	10	he	tr	PKW	RF	EK		8,715285	53,052285
+899	10.09.2020	14:10	Do	5		Bremen	Farger Straße	0	1	0	2	5							2	3		28					40	72	2020	09	10	he	tr	LKW	RF	EK		8,531355	53,196032
+900	10.09.2020	16:50	Do	5		Bremen	Wasserhorster Straße	0	0	1	2	1							3	5		14	49				21	71	2020	09	10	he	tr	PKW	RF	RV		8,750320	53,164410
+901	10.09.2020	17:10	Do	5		Bremen	Alfred-Faust-Straße	0	0	0	2	5							5	7		37					71	21	2020	09	10	he	tr	RF	PKW	SO		8,826988	53,034297
+902	10.09.2020	17:10	Do	5		Bremen	Huchtinger Heerstraße	0	0	1	2	5	1		8				3	3		28					21	72	2020	09	10	he	tr	PKW	RF	EK		8,716621	53,056472
+903	10.09.2020	21:10	Do	5		Bremen	Ostertorsteinweg	0	0	0	2	1			8				5	7		14	49				71	21	2020	09	10	du	tr	RF	PKW	SO		8,817987	53,072387
+904	10.09.2020	22:50	Do	5		Bremen	Vor dem Steintor	0	0	0	2	0							6	1		1	14				71	21	2020	09	10	du	tr	RF	PKW	F		8,827133	53,072748
+905	11.09.2020	11:29	Fr	5		Bremen	Kurt-Schumacher-Allee	0	0	1	2	5							3	3		49					21	71	2020	09	11	he	tr	PKW	RF	EK		8,882070	53,079119
+906	11.09.2020	13:22	Fr	5		Bremen	Richard-Wagner-Straße	0	0	1	2	5	2						3	3		28					21	71	2020	09	11	he	tr	PKW	RF	EK		8,828305	53,080163
+907	11.09.2020	13:38	Fr	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	5							3	3		28					21	71	2020	09	11	he	tr	PKW	RF	EK		8,846917	53,048295
+908	11.09.2020	15:00	Fr	5		Bremen	Utbremer Straße	0	0	1	2	5	2					8	3	2		34					21	71	2020	09	11	he	tr	PKW	RF	AB		8,791141	53,095159
+909	11.09.2020	15:10	Fr	5		Bremen	Stoteler Straße	0	0	1	2	4							3	6		14					71	21	2020	09	11	he	tr	RF	PKW	LV		8,755129	53,119911
+910	11.09.2020	16:20	Fr	5		Bremen	Turnerstraße	0	0	1	3	2			8				3	7		45					42	71	2020	09	11	he	tr	LKW	RF	SO		8,543632	53,192793
+911	11.09.2020	19:50	Fr	5		Bremen	Osterfeuerberger Ring	0	0	0	2	5							6	3		1	31				71	21	2020	09	11	du	tr	RF	PKW	EK		8,788601	53,103434
+912	13.09.2020	13:40	So	5		Bremen	Auf dem Sande	0	0	1	2	4						9	3	6		49					71	21	2020	09	13	he	tr	RF	PKW	LV		8,731260	53,132836
+913	13.09.2020	16:20	So	5		Bremen	Georg-Gleistein-Straße	0	0	0	2	0	3						5	7		36		49			21	72	2020	09	13	he	tr	PKW	RF	SO		8,618935	53,179748
+914	13.09.2020	22:05	So	5		Bremen	Neustadtscontrescarpe	0	0	0	2	1							6	7		1	49				71	21	2020	09	13	du	tr	RF	PKW	SO		8,788882	53,072785
+915	14.09.2020	08:50	Mo	5		Bremen	Am Stern	0	0	1	2	5	7		8				3	3		28					21	71	2020	09	14	he	tr	PKW	RF	EK		8,825014	53,084587
+916	14.09.2020	10:45	Mo	5		Bremen	Leipziger Straße	0	0	1	2	5							3	3		27		49			71	21	2020	09	14	he	tr	RF	PKW	EK		8,812317	53,095695
+917	14.09.2020	11:10	Mo	5		Bremen	Kurfürstenallee	0	0	1	2	3	1						3	2		34					51	71	2020	09	14	he	tr	LKW	RF	AB		8,837288	53,082393
+918	14.09.2020	12:45	Mo	5		Bremen	Kirchhuchtinger Landstraße	0	0	2	3	6							3	4		42					72	81	2020	09	14	he	tr	RF	FG	ÜS		8,734511	53,043586
+919	14.09.2020	22:33	Mo	5		Bremen	Horner Straße	0	0	1	2	5	2						3	3		37					21	71	2020	09	14	du	tr	PKW	RF	EK		8,832047	53,077540
+920	15.09.2020	10:00	Di	5		Bremen	Friedrich-Ebert-Straße	0	0	1	3	5	1		3				3	2		49					21	71	2020	09	15	he	tr	PKW	RF	AB		8,801274	53,071525
+921	15.09.2020	10:45	Di	5		Bremen	Schwarzer Weg	0	0	1	2	0							3	7		69		49			83	72	2020	09	15	he	tr	FG	RF	SO		8,753888	53,122633
+922	15.09.2020	13:15	Di	5		Bremen	Barkhausenstraße	0	0	1	2	5	1						3	3		28		10			21	71	2020	09	15	he	tr	PKW	RF	EK		8,766848	53,071262
+923	15.09.2020	13:30	Di	5		Bremen	Bahnhofstraße	0	0	1	2	1							3	5		45					21	71	2020	09	15	he	tr	PKW	RF	RV		8,810611	53,080857
+924	15.09.2020	18:35	Di	5		Bremen	Schwaneweder Straße	0	0	1	1	0	2						3	7		49					71		2020	09	15	he	tr	RF	-	SO		8,571739	53,196148
+925	15.09.2020	22:05	Di	5		Bremen	Friedrich-Ebert-Straße	0	0	1	3	5						8	3	2		34					21	71	2020	09	15	du	tr	PKW	RF	AB		8,801314	53,071488
+926	16.09.2020	15:15	Mi	5		Bremen	Waller Heerstraße	0	0	1	2	5	2						3	3		28					71	71	2020	09	16	he	tr	RF	RF	EK		8,784577	53,103020
+927	17.09.2020	10:18	Do	5		Bremen	Beethovenstraße	0	0	1	2	8							3	1		49					21	71	2020	09	17	he	tr	PKW	RF	F		8,834531	53,089578
+928	17.09.2020	13:40	Do	5		Bremen	Uppe Angst	0	0	0	2	3							5	6		14					1	71	2020	09	17	he	tr	KRD	RF	LV		8,899403	53,097673
+929	17.09.2020	14:45	Do	5		Bremen	Waller Ring	0	1	0	2	5	1						2	3		18					21	71	2020	09	17	he	tr	PKW	RF	EK		8,783722	53,101727
+930	17.09.2020	14:48	Do	5		Bremen	Utbremer Straße	0	0	1	2	5						8	3	3		31		31			71	21	2020	09	17	he	tr	RF	PKW	EK		8,792484	53,094004
+931	17.09.2020	16:05	Do	5		Bremen	Hans-Bredow-Straße	0	0	1	2	3	3		9				3	2		34					21	71	2020	09	17	he	tr	PKW	RF	AB		8,958985	53,046856
+932	17.09.2020	17:40	Do	5		Bremen	Weserdeich	0	0	1	2	3							3	6		22					72	72	2020	09	17	he	tr	RF	RF	LV		8,809297	53,064267
+933	18.09.2020	07:45	Fr	5		Bremen	Achterstraße	0	0	0	2	1						8	5	3		49					71	21	2020	09	18	he	tr	RF	PKW	EK		8,861997	53,099126
+934	18.09.2020	10:20	Fr	5		Bremen	Hammersbecker Straße	0	0	1	2	5							3	3		37					71	21	2020	09	18	he	tr	RF	PKW	EK		8,616961	53,184141
+935	18.09.2020	10:54	Fr	5		Bremen	Am Stern	0	0	1	2	4	7						3	6		10					71	71	2020	09	18	he	tr	RF	RF	LV		8,824560	53,084575
+936	18.09.2020	10:55	Fr	5		Bremen	In der Vahr	0	1	1	2	4	1					8	2	2		34					21	71	2020	09	18	he	tr	PKW	RF	AB		8,878535	53,078948
+937	18.09.2020	11:15	Fr	5		Bremen	Pappelstraße	0	0	0	2	2							5	7		49					72	21	2020	09	18	he	tr	RF	PKW	SO		8,790210	53,068368
+938	18.09.2020	13:19	Fr	5		Bremen	Bahnhofsplatz	0	0	1	2	5							3	3		14					71	71	2020	09	18	he	tr	RF	RF	EK		8,813390	53,081036
+939	18.09.2020	15:25	Fr	5		Bremen	Hohentorsheerstraße	0	0	1	2	5	7		8				3	3		28					21	71	2020	09	18	he	tr	PKW	RF	EK		8,785436	53,070979
+940	18.09.2020	17:50	Fr	5		Bremen	An der Weide	0	0	1	2	1	3						3	3		37					21	71	2020	09	18	he	tr	PKW	RF	EK		8,815887	53,081157
+941	18.09.2020	18:58	Fr	5		Bremen	Seewenjestraße	0	0	1	1	0							3	7		49					71		2020	09	18	he	tr	RF	-	SO		8,769358	53,114374
+942	19.09.2020	10:00	Sa	5		Bremen	Up Willmannsland	0	0	1	2	8							3	5		49					71	21	2020	09	19	he	tr	RF	PKW	RV		8,676382	53,171275
+943	19.09.2020	16:09	Sa	5		Bremen	Auricher Straße	0	0	0	2	1							5	7		14	49				71	21	2020	09	19	he	tr	RF	PKW	SO		8,780439	53,102065
+944	19.09.2020	17:30	Sa	5		Bremen	Kirchhuchtinger Landstraße	0	1	0	2	5	1						2	2		34				89	21	71	2020	09	19	he	tr	PKW	RF	AB		8,728551	53,038993
+945	20.09.2020	10:45	So	5		Bremen	Schubertstraße	0	0	0	2	1							5	5		14					71	21	2020	09	20	he	tr	RF	PKW	RV		8,834091	53,085741
+946	20.09.2020	11:30	So	5		Bremen	Buchenstraße	0	0	0	2	1							5	7		14	49				71	21	2020	09	20	he	tr	RF	PKW	SO		8,852486	53,085905
+947	20.09.2020	11:45	So	5		Bremen	Hastedter Park am Weserwehr	0	1	1	2	3							2	6		49					71	71	2020	09	20	he	tr	RF	RF	LV		8,865258	53,062198
+948	20.09.2020	13:55	So	5		Bremen	Auf dem Peterswerder	0	0	1	2	7	2						3	7		69				87	83	71	2020	09	20	he	tr	FG	RF	SO		8,837170	53,069451
+949	20.09.2020	14:10	So	5		Bremen	Admiralstraße	0	0	0	2	5	2						5	3		37		10			21	71	2020	09	20	he	tr	PKW	RF	EK		8,806606	53,089890
+950	20.09.2020	18:05	So	5		Bremen	Katrepeler Landstraße	0	1	1	2	4	2						2	2		35				82	71	71	2020	09	20	he	tr	RF	RF	AB		8,911757	53,123927
+951	21.09.2020	09:45	Mo	5		Bremen	Theodor-Heuss-Allee	0	0	1	2	5							3	2		35					21	71	2020	09	21	he	tr	PKW	RF	AB		8,811839	53,086350
+952	21.09.2020	12:55	Mo	5		Bremen	Leher Heerstraße	0	0	1	2	6							3	6		42		42			71	71	2020	09	21	he	tr	RF	RF	LV		8,882145	53,101018
+953	21.09.2020	14:29	Mo	5		Bremen	Otto-Braun-Straße	0	0	0	2	4	1						5	2		14					71	21	2020	09	21	he	tr	RF	PKW	AB		8,886190	53,083559
+954	21.09.2020	16:15	Mo	5		Bremen	Schwachhauser Heerstraße	0	0	0	2	3							5	6		22					71	71	2020	09	21	he	tr	RF	RF	LV		8,860615	53,089832
+955	21.09.2020	16:30	Mo	5		Bremen	Blauholzmühle	0	0	1	2	0							3	7		36					21	72	2020	09	21	he	tr	PKW	RF	SO		8,688637	53,171347
+956	21.09.2020	18:44	Mo	5		Bremen	Auf dem Beginenlande	0	0	1	1	0							3	7		49	1				71		2020	09	21	he	tr	RF	-	SO		8,819215	53,044518
+957	21.09.2020	21:00	Mo	5		Bremen	Bremerhavener Straße	0	0	1	2	4	2						3	2		50	49			89	71	72	2020	09	21	du	tr	RF	RF	AB		8,778988	53,098836
+958	22.09.2020	08:00	Di	5		Bremen	Bremerhavener Straße	0	0	0	2	5							5	2		34					21	71	2020	09	22	he	tr	PKW	RF	AB		8,786423	53,095460
+959	22.09.2020	08:14	Di	5		Bremen	Woltmershauser Straße	0	0	0	2	5							5	2		49					21	71	2020	09	22	he	tr	PKW	RF	AB		8,754172	53,088856
+960	22.09.2020	11:35	Di	5		Bremen	Achterdiek	0	0	1	2	5	7						3	2		34					21	71	2020	09	22	he	tr	PKW	RF	AB		8,901093	53,089343
+961	22.09.2020	12:15	Di	5		Bremen	Theodor-Billroth-Straße	0	0	1	2	5	1					8	3	3		35					21	71	2020	09	22	he	tr	PKW	RF	EK		8,814361	53,039748
+962	22.09.2020	13:10	Di	5		Bremen	Arsterdamm	0	1	0	2	5	2		8				2	3		28					21	71	2020	09	22	he	tr	PKW	RF	EK		8,845710	53,033123
+963	22.09.2020	15:32	Di	5		Bremen	Erlenstraße	0	0	0	2	1							5	7		14	49				71	21	2020	09	22	he	tr	RF	PKW	SO		8,787710	53,067136
+964	22.09.2020	17:43	Di	5		Bremen	Am Stern	0	0	1	2	5	1		8			8	3	3		31					71	61	2020	09	22	he	tr	RF	SOF	EK		8,825233	53,084410
+965	22.09.2020	19:10	Di	5		Bremen	Vegesacker Straße	0	0	1	2	0	1						3	3		27					21	71	2020	09	22	he	tr	PKW	RF	EK		8,785393	53,096717
+966	22.09.2020	19:38	Di	5		Bremen	Sankt-Magnus-Straße	0	0	1	2	0	2						3	5		45					21	71	2020	09	22	du	tr	PKW	RF	RV		8,790500	53,094880
+967	23.09.2020	13:35	Mi	5		Bremen	Parkallee	0	0	1	2	4	1					8	3	6		10					72	72	2020	09	23	he	tr	RF	RF	LV		8,819467	53,080631
+968	23.09.2020	14:10	Mi	5		Bremen	Kreinsloger	0	0	0	2	5	1						5	3		28					21	71	2020	09	23	he	tr	PKW	RF	EK		8,562238	53,192315
+969	23.09.2020	15:46	Mi	5		Bremen	Huchtinger Heerstraße	0	0	0	2	6	1						5	7		49					71	81	2020	09	23	he	tr	RF	FG	SO		8,720097	53,056711
+970	23.09.2020	16:25	Mi	5		Bremen	An der Grenzpappel	0	0	1	1	0							3	7		49					71		2020	09	23	he	tr	RF	-	SO		8,880595	53,060354
+971	23.09.2020	17:15	Mi	5		Bremen	Gärdesstraße	0	0	0	2	1							5	5		49					71	21	2020	09	23	he	tr	RF	PKW	RV		8,627845	53,185496
+972	24.09.2020	13:00	Do	5		Bremen	Utbremer Ring	0	0	0	2	5							5	3		37					21	71	2020	09	24	he	tr	PKW	RF	EK		8,802881	53,101413
+973	24.09.2020	13:30	Do	5		Bremen	Kornstraße	0	0	1	3	2							3	6		49					71	71	2020	09	24	he	tr	RF	RF	LV		8,802323	53,063660
+974	24.09.2020	14:30	Do	5		Bremen	Kamphofer Damm	0	1	0	2	3							2	7		35					71	71	2020	09	24	he	tr	RF	RF	SO		8,757602	53,082230
+975	25.09.2020	08:35	Fr	5		Bremen	Breitenweg	0	0	1	2	5	1						3	3		49		49			71	21	2020	09	25	he	na	RF	PKW	EK		8,812341	53,080978
+976	25.09.2020	09:40	Fr	5		Bremen	Plantage	0	0	1	2	5							3	7		36					40	71	2020	09	25	he	tr	LKW	RF	SO		8,806094	53,087642
+977	25.09.2020	11:50	Fr	5		Bremen	Sankt-Jürgen-Straße	0	0	1	2	9							3	6		49		35			71	71	2020	09	25	he	tr	RF	RF	LV		8,835724	53,073787
+978	25.09.2020	13:30	Fr	5		Bremen	Neuenlander Straße	0	0	1	2	5	1						3	2		34					21	71	2020	09	25	he	tr	PKW	RF	AB		8,779843	53,068635
+979	25.09.2020	13:33	Fr	5		Bremen	Hans-Böckler-Straße	0	1	0	2	5	2						2	2		34					21	71	2020	09	25	he	tr	PKW	RF	AB		8,787651	53,087471
+980	25.09.2020	16:45	Fr	5		Bremen	Riemstraße	0	0	0	2	1							5	7		14	49				71	21	2020	09	25	he	tr	RF	PKW	SO		8,894835	53,091949
+981	25.09.2020	16:45	Fr	5		Bremen	Mahndorfer Heerstraße	0	0	1	2	5	2		4			8	3	3		34				82	21	71	2020	09	25	he	tr	PKW	RF	EK		8,953766	53,034103
+982	26.09.2020	16:50	Sa	5		Bremen	Steinsetzerstraße	0	0	1	2	5							3	2		27					71	21	2020	09	26	he	tr	RF	PKW	AB		8,849712	53,047748
+983	26.09.2020	20:43	Sa	5		Bremen	Hansestraße	0	0	1	1	0						8	3	7		1	49			73	72		2020	09	26	du	na	RF	-	SO		8,785693	53,088888
+984	27.09.2020	04:30	So	5		Bremen	Huchtinger Heerstraße	0	0	1	2	3						9	3	6		49					71	5	2020	09	27	du	tr	RF	KRD	LV		8,717930	53,056564
+985	27.09.2020	11:18	So	5		Bremen	Kulenkampffallee	0	0	0	2	3							5	6		22					21	71	2020	09	27	he	sch	PKW	RF	LV		8,847880	53,095998
+986	27.09.2020	13:00	So	5		Bremen	Möckernstraße	0	0	0	2	1							5	7		45					71	21	2020	09	27	he	tr	RF	PKW	SO		8,802747	53,064071
+987	28.09.2020	08:32	Mo	5		Bremen	Friedrich-Karl-Straße	0	1	0	2	5	1						2	2		34				73	51	71	2020	09	28	he	na	LKW	RF	AB		8,844165	53,075287
+988	28.09.2020	11:15	Mo	5		Bremen	Am Brill	0	0	0	2	5							5	2		37					21	72	2020	09	28	he	tr	PKW	RF	AB		8,800390	53,078802
+989	28.09.2020	16:07	Mo	5		Bremen	Feldstraße	0	0	1	2	0							3	1		49					71	21	2020	09	28	he	tr	RF	PKW	F		8,829300	53,076251
+990	28.09.2020	17:49	Mo	5		Bremen	Langemarckstraße	0	0	0	2	1							5	7		14	49				71	21	2020	09	28	he	tr	RF	PKW	SO		8,789408	53,071239
+991	29.09.2020	08:00	Di	5		Bremen	Willigstraße	0	0	0	2	5							5	3		27					71	21	2020	09	29	he	tr	RF	PKW	EK		8,811043	53,059343
+992	29.09.2020	09:13	Di	5		Bremen	Stresemannstraße	0	0	1	2	5	1		9			8	3	6		34					21	72	2020	09	29	he	tr	PKW	RF	LV		8,856911	53,072732
+993	29.09.2020	09:30	Di	5		Bremen	Rockwinkeler Heerstraße	0	0	1	2	5	3						3	3		34					21	71	2020	09	29	he	tr	PKW	RF	EK		8,903198	53,099706
+994	29.09.2020	10:20	Di	5		Bremen	Fedelhören	0	0	1	2	5	2						3	3		28					21	71	2020	09	29	he	tr	PKW	RF	EK		8,818140	53,077737
+995	29.09.2020	11:50	Di	5		Bremen	Falkenstraße	0	0	1	2	5	1						3	2		34					71	71	2020	09	29	he	tr	RF	RF	AB		8,804721	53,083778
+996	29.09.2020	12:30	Di	5		Bremen	Am Nonnenberg	0	0	1	2	5							3	3		27		27			21	71	2020	09	29	he	tr	PKW	RF	EK		8,740809	53,129315
+997	29.09.2020	15:17	Di	5		Bremen	Sagerstraße	0	0	0	2	0	5		9				5	7		49					71	71	2020	09	29	he	tr	RF	RF	SO		8,626574	53,170419
+998	29.09.2020	16:05	Di	5		Bremen	Schwaneweder Straße	0	0	1	2	5	2						3	3		34		49			21	71	2020	09	29	he	tr	PKW	RF	EK		8,583508	53,214372
+999	29.09.2020	16:45	Di	5		Bremen	Borgfelder Heerstraße	0	0	0	2	2	2						5	7		14					71	21	2020	09	29	he	tr	RF	PKW	SO		8,900073	53,122800
+1000	29.09.2020	17:50	Di	5		Bremen	Werderstraße	0	0	0	3	1							5	6		24					22	21	2020	09	29	he	tr	PKW	PKW	LV		8,806121	53,071278
+1001	30.09.2020	07:30	Mi	5		Bremen	Achterdiek	0	0	0	2	1							5	7		14	49				71	21	2020	09	30	he	tr	RF	PKW	SO		8,900063	53,090519
+1002	30.09.2020	08:50	Mi	5		Bremen	Am Stern	0	1	0	2	5							2	2		34					21	71	2020	09	30	he	tr	PKW	RF	AB		8,825138	53,084519
+1003	30.09.2020	11:20	Mi	5		Bremen	Schönebecker Straße	0	0	1	2	0			9				3	2		34					46	71	2020	09	30	he	tr	LKW	RF	AB		8,647806	53,171498
+1004	30.09.2020	12:20	Mi	5		Bremen	Utbremer Straße	0	0	0	2	0	2						5	7		49					21	71	2020	09	30	he	tr	PKW	RF	SO		8,790500	53,096021
+1005	30.09.2020	12:50	Mi	5		Bremen	Stellichter Straße	0	0	1	2	5	2		9				3	3		28					21	71	2020	09	30	he	tr	PKW	RF	EK		8,884211	53,071778
+1006	30.09.2020	17:00	Mi	5		Bremen	Auf dem Hohen Ufer	0	1	0	1	0							2	1		49					71		2020	09	30	he	tr	RF	-	F		8,676747	53,165623
+1007	30.09.2020	17:20	Mi	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	5	1						3	3		35		9			21	71	2020	09	30	he	tr	PKW	RF	EK		8,844852	53,045766
+1008	30.09.2020	17:30	Mi	5		Bremen	Tiefer	0	0	2	3	5							3	3		49					21	71	2020	09	30	he	tr	PKW	RF	EK		8,809447	53,072061
+1009	01.10.2020	09:30	Do	5		Bremen	Waller Heerstraße	0	0	0	2	1							6	7		1	14				71	21	2020	10	01	he	tr	RF	PKW	SO		8,788281	53,098507
+1010	01.10.2020	15:47	Do	5		Bremen	Otto-Braun-Straße	0	0	0	2	3							5	5		45					21	71	2020	10	01	he	tr	PKW	RF	RV		8,886072	53,085067
+1011	01.10.2020	18:00	Do	5		Bremen	Osterstraße	0	1	0	2	5	2						2	3		28					21	71	2020	10	01	he	tr	PKW	RF	EK		8,799651	53,072861
+1012	01.10.2020	21:45	Do	5		Bremen	Dresdener Straße	0	0	1	1	0	2		9				3	1		49				73	71		2020	10	01	du	na	RF	-	F		8,818263	53,095496
+1013	02.10.2020	06:07	Fr	5		Bremen	Striekenkamp	0	0	1	1	0							3	1		49	14				71		2020	10	02	du	na	RF	-	F		8,551107	53,192719
+1014	02.10.2020	07:55	Fr	5		Bremen	Barenburg	0	0	1	2	5	1						3	2		35					21	71	2020	10	02	he	sch	PKW	RF	AB		8,759724	53,124274
+1015	02.10.2020	09:30	Fr	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	5	3						3	2		34					21	71	2020	10	02	he	tr	PKW	RF	AB		8,769437	53,110773
+1016	02.10.2020	15:30	Fr	5		Bremen	Neuenlander Straße	0	0	0	2	5	3						5	3		37					21	72	2020	10	02	he	tr	PKW	RF	EK		8,805440	53,052403
+1017	02.10.2020	18:46	Fr	5		Bremen	Bremer Heerstraße	0	0	1	2	5	1						3	2		1	34				21	71	2020	10	02	he	tr	PKW	RF	AB		8,703934	53,158135
+1018	02.10.2020	20:45	Fr	5		Bremen	Rolandstraße	0	0	0	2	5	2		9				5	3		49					71	21	2020	10	02	du	tr	RF	PKW	EK		8,800660	53,072127
+1019	04.10.2020	00:20	So	5		Bremen	Langemarckstraße	0	1	0	1	0	1						2	7		49					71		2020	10	04	du	na	RF	-	SO		8,792294	53,073215
+1020	04.10.2020	15:00	So	5		Bremen	Delmestraße	0	1	0	2	3							2	6		49	14				71	71	2020	10	04	he	tr	RF	RF	LV		8,787662	53,065773
+1021	05.10.2020	15:25	Mo	5		Bremen	Gröpelinger Heerstraße	0	0	1	2	0							3	7		64					81	71	2020	10	05	he	tr	FG	RF	SO		8,759418	53,115936
+1022	05.10.2020	15:50	Mo	5		Bremen	Gustav-Heinemann-Straße	0	0	1	1	0							3	7		49					71		2020	10	05	he	tr	RF	-	SO		8,816289	53,100036
+1023	05.10.2020	17:42	Mo	5		Bremen	An der Weide	0	0	0	2	3							5	2		14					33	71	2020	10	05	he	tr	BUS	RF	AB		8,819113	53,080469
+1024	05.10.2020	20:30	Mo	5		Bremen	Kurfürstenallee	0	0	1	2	1							3	5		45					21	71	2020	10	05	du	tr	PKW	RF	RV		8,857112	53,082688
+1025	06.10.2020	08:20	Di	5		Bremen	Kreinsloger	0	0	1	2	0	1						3	3		28					21	72	2020	10	06	dä	na	PKW	RF	EK		8,557480	53,189559
+1026	06.10.2020	15:55	Di	5		Bremen	An der Höhpost	0	0	0	2	1							5	7		49					71	21	2020	10	06	he	tr	RF	PKW	SO		8,742333	53,046631
+1027	06.10.2020	17:30	Di	5		Bremen	Rönnebecker Straße	0	0	0	2	5							5	7		37		10			21	71	2020	10	06	he	tr	PKW	RF	SO		8,549412	53,187801
+1028	06.10.2020	23:05	Di	5		Bremen	In der Vahr	0	0	1	1	0	1		9	0		8	3	7		49					72		2020	10	06	du	na	RF	-	SO		8,875193	53,082296
+1029	07.10.2020	07:45	Mi	5		Bremen	Seitenweg	0	0	0	2	1							5	1		14	49				71	21	2020	10	07	he	na	RF	PKW	F		8,887327	53,050617
+1030	07.10.2020	08:07	Mi	5		Bremen	Balgebrückstraße	0	0	1	2	1			9				3	5		45					21	71	2020	10	07	he	tr	PKW	RF	RV		8,807001	53,073763
+1031	07.10.2020	09:30	Mi	5		Bremen	Fockengrund	0	0	1	2	3							3	6		14				73	21	71	2020	10	07	he	na	PKW	RF	LV		8,714161	53,152135
+1032	07.10.2020	14:34	Mi	5		Bremen	Findorffallee	0	0	1	2	3							3	7		36					21	71	2020	10	07	he	na	PKW	RF	SO		8,814479	53,090725
+1033	07.10.2020	15:00	Mi	5		Bremen	In der Vahr	0	0	1	2	5							3	2		34					21	71	2020	10	07	he	tr	PKW	RF	AB		8,877629	53,080311
+1034	07.10.2020	16:20	Mi	5		Bremen	Arsterdamm	0	0	0	2	5						8	5	2		49					21	71	2020	10	07	he	tr	PKW	RF	AB		8,837267	53,037877
+1035	07.10.2020	16:45	Mi	5		Bremen	Unter den Linden	0	0	1	2	5	3						3	2		49					21	71	2020	10	07	he	na	PKW	RF	AB		8,657130	53,174644
+1036	07.10.2020	17:37	Mi	5		Bremen	Stresemannstraße	0	0	0	2	5	1					8	5	3		31				73	71	21	2020	10	07	he	na	RF	PKW	EK		8,863542	53,071333
+1037	07.10.2020	18:26	Mi	5		Bremen	Graf-Moltke-Straße	0	0	0	2	2						8	5	6		49				73	71	21	2020	10	07	dä	na	RF	PKW	LV		8,832805	53,077696
+1038	07.10.2020	19:15	Mi	5		Bremen	Leher Heerstraße	0	0	1	2	5	1		4				3	3		34				73	21	71	2020	10	07	du	na	PKW	RF	EK		8,880751	53,101722
+1039	08.10.2020	08:00	Do	5		Bremen	Georg-Gröning-Straße	0	0	0	2	3							5	2		34					21	71	2020	10	08	dä	tr	PKW	RF	AB		8,837138	53,084913
+1040	08.10.2020	09:45	Do	5		Bremen	Waller Straße	0	0	1	2	5							3	6		49				73	21	71	2020	10	08	he	na	PKW	RF	LV		8,778483	53,108318
+1041	08.10.2020	12:02	Do	5		Bremen	Am Wall	0	0	1	2	6	1					8	3	3		49		69			71	81	2020	10	08	he	na	RF	FG	EK		8,803235	53,080208
+1042	08.10.2020	14:53	Do	5		Bremen	Unter den Linden	0	1	0	2	6							2	6		65				73	81	71	2020	10	08	he	na	FG	RF	LV		8,660555	53,175024
+1043	08.10.2020	15:10	Do	5		Bremen	Richard-Boljahn-Allee	0	0	1	2	5	1					8	3	2		34				73	21	71	2020	10	08	he	na	PKW	RF	AB		8,876105	53,082142
+1044	08.10.2020	17:25	Do	5		Bremen	Vor dem Steintor	0	0	0	2	2							5	6		14				73	71	21	2020	10	08	he	na	RF	PKW	LV		8,828241	53,072406
+1045	09.10.2020	09:45	Fr	5		Bremen	Neuenkirchener Weg	0	0	1	2	5	1		8				3	3		28				82	21	71	2020	10	09	he	tr	PKW	RF	EK		8,560575	53,201685
+1046	09.10.2020	10:00	Fr	5		Bremen	Hermann-Osterloh-Straße	0	0	1	2	5							3	3		14				73	21	71	2020	10	09	he	na	PKW	RF	EK		8,923663	53,044160
+1047	09.10.2020	11:05	Fr	5		Bremen	Borgfelder Heerstraße	0	0	1	1	0	3						3	7		49					72		2020	10	09	he	tr	RF	-	SO		8,901972	53,125723
+1048	09.10.2020	13:15	Fr	5		Bremen	Hollerallee	0	0	2	2	4						8	3	6		9		11			71	71	2020	10	09	he	tr	RF	RF	LV		8,827651	53,083084
+1049	09.10.2020	14:15	Fr	5		Bremen	Sebaldsbrücker Heerstraße	0	0	1	2	5	2		4			8	3	3		37					21	71	2020	10	09	he	tr	PKW	RF	EK		8,884162	53,063635
+1050	09.10.2020	15:15	Fr	5		Bremen	Jan-Reiners-Wanderweg	0	0	1	2	6							3	4		42					71	81	2020	10	09	he	na	RF	FG	ÜS		8,894720	53,121062
+1051	09.10.2020	17:05	Fr	5		Bremen	Löhstraße	0	0	1	2	0							3	2		35		9			21	71	2020	10	09	he	tr	PKW	RF	AB		8,598129	53,182873
+1052	09.10.2020	18:36	Fr	5		Bremen	Schwachhauser Ring	0	0	0	2	2	2						5	6		23					71	21	2020	10	09	he	tr	RF	PKW	LV		8,839032	53,090045
+1053	10.10.2020	05:58	Sa	5		Bremen	Am Stern	0	0	1	2	5	1						3	3		28				73	21	71	2020	10	10	du	na	PKW	RF	EK		8,824427	53,084266
+1054	10.10.2020	11:01	Sa	5		Bremen	Crüsemannallee	0	0	1	1	0							3	7		1	49				71		2020	10	10	he	tr	RF	-	SO		8,837562	53,094642
+1055	10.10.2020	13:13	Sa	5		Bremen	Verdener Straße	0	1	0	2	1							2	5		45					21	71	2020	10	10	he	tr	PKW	RF	RV		8,840485	53,067845
+1056	10.10.2020	15:12	Sa	5		Bremen	Senator-Apelt-Straße	0	0	1	2	5	2					9	3	3		28					71	21	2020	10	10	he	tr	RF	PKW	EK		8,770201	53,072261
+1057	11.10.2020	18:45	So	5		Bremen	Am Wall	0	0	1	1	0			9				3	1		1	49				71		2020	10	11	du	na	RF	-	F		8,807081	53,079403
+1058	12.10.2020	02:00	Mo	5		Bremen	Lüneburger Straße	0	0	1	2	5							3	3		35					21	71	2020	10	12	du	tr	PKW	RF	EK		8,833533	53,070608
+1059	12.10.2020	10:04	Mo	5		Bremen	Rotdornallee	0	0	1	2	5	1		9				3	3		31					21	71	2020	10	12	he	tr	PKW	RF	EK		8,685843	53,173834
+1060	12.10.2020	11:30	Mo	5		Bremen	Löhstraße	0	1	1	2	3	2						2	6		14					21	71	2020	10	12	he	na	PKW	RF	LV		8,598346	53,180886
+1061	12.10.2020	13:15	Mo	5		Bremen	Ostertorsteinweg	0	0	1	1	0							3	7		49					71		2020	10	12	he	na	RF	-	SO		8,821667	53,072796
+1062	12.10.2020	14:50	Mo	5		Bremen	Bismarckstraße	0	0	0	2	1							5	7		14	49				71	21	2020	10	12	he	na	RF	PKW	SO		8,841462	53,076096
+1063	12.10.2020	15:35	Mo	5		Bremen	Frieslandstraße	0	0	2	2	4	6						3	6		10					71	71	2020	10	12	he	tr	RF	RF	LV		8,767915	53,060870
+1064	12.10.2020	15:53	Mo	5		Bremen	Bürgermeister-Smidt-Straße	0	1	0	2	5	1					8	2	3		31				73	71	40	2020	10	12	he	na	RF	LKW	EK		8,805743	53,081415
+1065	12.10.2020	16:45	Mo	5		Bremen	In der Vahr	0	1	0	2	5	2						2	3		28					21	71	2020	10	12	he	tr	PKW	RF	EK		8,876540	53,081046
+1066	12.10.2020	19:00	Mo	5		Bremen	Juiststraße	0	0	1	2	5							3	3		49					21	71	2020	10	12	du	tr	PKW	RF	EK		8,796663	53,089265
+1067	12.10.2020	19:50	Mo	5		Bremen	Münchener Straße	0	1	0	3	5	2						2	3		37	1				71	21	2020	10	12	du	tr	RF	PKW	EK		8,802028	53,094578
+1068	13.10.2020	17:10	Di	5		Bremen	Walerjan-Wrobel-Weg	0	0	1	2	4							3	6		11					72	72	2020	10	13	he	tr	RF	RF	LV		8,638349	53,158927
+1069	13.10.2020	20:30	Di	5		Bremen	Osterdeich	0	0	1	2	3			9				3	6		49					71	71	2020	10	13	du	tr	RF	RF	LV		8,824440	53,068893
+1070	13.10.2020	20:51	Di	5		Bremen	Parallelweg	0	0	1	2	5	1						3	3		27					72	21	2020	10	13	du	tr	RF	PKW	EK		8,790864	53,098968
+1071	14.10.2020	12:20	Mi	5		Bremen	In der Vahr	0	0	1	2	5	3		9				3	3		37					21	71	2020	10	14	he	tr	PKW	RF	EK		8,877087	53,080443
+1072	14.10.2020	13:05	Mi	5		Bremen	Autobahnzubringer Horn-Lehe /	0	0	0	2	5	1						5	3		10					71	21	2020	10	14	he	tr	RF	PKW	EK		8,887580	53,109107
+1073	14.10.2020	18:30	Mi	4		Bremen	Getekamp	0	0	1	2	5	2						3	3		49		10			21	71	2020	10	14	du	tr	PKW	RF	EK		8,848688	53,071476
+1074	14.10.2020	22:47	Mi	5		Bremen	Arsterdamm	0	0	0	2	5	1					9	5	3		28					21	72	2020	10	14	du	tr	PKW	RF	EK		8,841247	53,035387
+1075	15.10.2020	08:30	Do	5		Bremen	Bürgermeister-Smidt-Straße	0	0	0	2	5	1					8	5	2		34					21	71	2020	10	15	he	tr	PKW	RF	AB		8,803353	53,080286
+1076	15.10.2020	11:50	Do	5		Bremen	An der Höhpost	0	1	0	2	5	2						2	3		27					71	72	2020	10	15	he	tr	RF	RF	EK		8,740729	53,046960
+1077	15.10.2020	16:55	Do	5		Bremen	Kopernikusstraße	0	0	1	2	5	3						3	2		35					21	72	2020	10	15	he	tr	PKW	RF	AB		8,892284	53,109738
+1078	16.10.2020	16:45	Fr	5		Bremen	Carl-Friedrich-Gauß-Straße	0	0	0	2	1							5	1		49				74	71	21	2020	10	16	he	tr	RF	PKW	F		8,889752	53,102248
+1079	16.10.2020	16:45	Fr	5		Bremen	Landrat-Christians-Straße	0	0	0	2	5	2					8	5	3		31					21	72	2020	10	16	he	tr	PKW	RF	EK		8,579850	53,183018
+1080	16.10.2020	17:43	Fr	5		Bremen	H.-H.-Meier-Allee	0	0	1	2	5			8				3	2		34					21	71	2020	10	16	he	tr	PKW	RF	AB		8,847690	53,093144
+1081	16.10.2020	18:00	Fr	5		Bremen	Oberblockland	0	0	1	2	4							3	6		17					21	71	2020	10	16	dä	tr	PKW	RF	LV		8,857147	53,137007
+1082	17.10.2020	01:06	Sa	5		Bremen	Vegesacker Heerstraße	0	0	0	3	1							6	7		2	1				71	21	2020	10	17	du	tr	RF	PKW	SO		8,654552	53,174355
+1083	17.10.2020	17:25	Sa	5		Bremen	Rembertistraße	0	0	0	2	0	3						5	3		42					71	81	2020	10	17	he	tr	RF	FG	EK		8,816737	53,078391
+1084	17.10.2020	17:30	Sa	5		Bremen	Tessiner Straße	0	0	1	2	5							3	3		37					21	72	2020	10	17	dä	tr	PKW	RF	EK		8,949742	53,064182
+1085	17.10.2020	18:29	Sa	5		Bremen	Herrlichkeit	0	0	0	2	3	4						5	6		14	49			73	71	21	2020	10	17	du	na	RF	PKW	LV		8,802540	53,073146
+1086	19.10.2020	11:20	Mo	5		Bremen	Diedrich-Wilkens-Straße	0	0	0	2	1							5	7		49		49			71	21	2020	10	19	he	tr	RF	PKW	SO		8,892754	53,056711
+1087	19.10.2020	14:15	Mo	5		Bremen	Steinsetzerstraße	0	0	1	2	5							3	3		37		13			71	21	2020	10	19	he	tr	RF	PKW	EK		8,849736	53,047798
+1088	19.10.2020	16:30	Mo	5		Bremen	Waller Ring	0	0	1	2	5	2		9	0			3	2		34					21	71	2020	10	19	he	tr	PKW	RF	AB		8,785403	53,102424
+1089	20.10.2020	10:40	Di	5		Bremen	Auf dem Steinberg	0	0	1	1	0							3	7		49				89	72		2020	10	20	he	tr	RF	-	SO		8,670948	53,162500
+1090	20.10.2020	16:05	Di	5		Bremen	Friedrich-Ebert-Straße	0	0	1	2	5	1		4				3	2		34				73	21	71	2020	10	20	he	na	PKW	RF	AB		8,793721	53,066314
+1091	20.10.2020	21:00	Di	5		Bremen	Ludwig-Plate-Straße	0	0	1	2	5	2						3	2		49					21	71	2020	10	20	du	tr	PKW	RF	AB		8,750360	53,114590
+1092	21.10.2020	09:43	Mi	5		Bremen	Contrescarpe	0	0	1	2	5							3	3		28					21	71	2020	10	21	he	na	PKW	RF	EK		8,815109	53,077087
+1093	21.10.2020	10:00	Mi	5		Bremen	Am Schwarzen Meer	0	0	0	2	1							5	7		49				73	21	71	2020	10	21	he	na	PKW	RF	SO		8,837481	53,071844
+1094	21.10.2020	10:00	Mi	5		Bremen	Weserdeich	0	0	1	2	5	2						3	3		27	49			73	71	71	2020	10	21	he	na	RF	RF	EK		8,808369	53,064867
+1095	21.10.2020	12:54	Mi	4		Bremen	Am Wall	0	1	0	1	0							2	7		49				73	71		2020	10	21	he	na	RF	-	SO		8,810241	53,078204
+1096	21.10.2020	16:55	Mi	5		Bremen	Am Hallacker	0	0	1	2	5	1						3	2		35					21	71	2020	10	21	he	tr	PKW	RF	AB		8,925597	53,069873
+1097	21.10.2020	19:23	Mi	5		Bremen	Schwachhauser Heerstraße	0	0	1	1	0	1		9			8	3	7		49				73	71		2020	10	21	du	na	RF	-	SO		8,870687	53,091305
+1098	22.10.2020	10:35	Do	5		Bremen	Katrepeler Landstraße	0	0	1	2	3	2						3	6		36					71	71	2020	10	22	he	tr	RF	RF	LV		8,917610	53,121892
+1099	22.10.2020	11:38	Do	5		Bremen	Heinrich-Plett-Allee	0	1	0	2	5	2		8				2	2		35				82	21	72	2020	10	22	he	tr	PKW	RF	AB		8,716025	53,047935
+1100	22.10.2020	13:53	Do	5		Bremen	Oberneulander Landstraße	0	0	1	1	0							3	7		49					72		2020	10	22	he	tr	RF	-	SO		8,917846	53,100636
+1101	22.10.2020	14:20	Do	5		Bremen	Dietrichstraße	0	0	0	2	5							5	3		28					21	71	2020	10	22	he	tr	PKW	RF	EK		8,788198	53,098846
+1102	22.10.2020	16:24	Do	5		Bremen	Ritterhuder Heerstraße	0	0	1	2	5	1					8	3	7		49					21	72	2020	10	22	he	tr	PKW	RF	SO		8,751704	53,163973
+1103	22.10.2020	18:00	Do	5		Bremen	Rablinghauser Deich	0	0	1	2	3							3	6		49				73	21	71	2020	10	22	dä	na	PKW	RF	LV		8,748182	53,096295
+1104	23.10.2020	09:45	Fr	5		Bremen	Colmarer Straße	0	0	1	2	1							3	7		49					71	21	2020	10	23	he	na	RF	PKW	SO		8,842445	53,080078
+1105	23.10.2020	13:00	Fr	5		Bremen	Habenhauser Landstraße	0	0	1	2	5							3	2		34					21	71	2020	10	23	he	tr	PKW	RF	AB		8,848660	53,050624
+1106	23.10.2020	14:24	Fr	5		Bremen	Sankt-Jürgen-Straße	0	0	1	2	3	1						3	3		34					21	71	2020	10	23	he	tr	PKW	RF	EK		8,837259	53,076837
+1107	23.10.2020	16:45	Fr	5		Bremen	Burger Heerstraße	0	0	1	2	5						8	3	2		34					21	71	2020	10	23	he	tr	PKW	RF	AB		8,704387	53,156035
+1108	24.10.2020	11:50	Sa	5		Bremen	Senator-Apelt-Straße	0	0	1	2	5	1						3	3		28					21	72	2020	10	24	he	tr	PKW	RF	EK		8,750417	53,083637
+1109	24.10.2020	13:20	Sa	5		Bremen	Kurt-Schumacher-Allee	0	1	0	1	0							2	7		49				73	71		2020	10	24	he	na	RF	-	SO		8,896307	53,079243
+1110	24.10.2020	23:50	Sa	5		Bremen	Horner Straße	0	0	0	3	1							5	7		49		14			71	21	2020	10	24	du	tr	RF	PKW	SO		8,831672	53,076512
+1111	25.10.2020	09:30	So	5		Bremen	Habenhauser Deich	0	0	1	2	4							3	6		11					71	84	2020	10	25	he	na	RF	FG	LV		8,845533	53,056259
+1112	25.10.2020	12:15	So	5		Bremen	H.-H.-Meier-Allee	0	0	0	2	1			8				5	5		49				89	71	21	2020	10	25	he	tr	RF	PKW	RV		8,845101	53,090606
+1113	25.10.2020	19:45	So	5		Bremen	Georg-Gleistein-Straße	0	0	1	1	0							3	7		49					72		2020	10	25	du	na	RF	-	SO		8,618951	53,178671
+1114	26.10.2020	05:35	Mo	5		Bremen	Am Herzogenkamp	0	0	1	2	5							3	3		29					21	71	2020	10	26	du	na	PKW	RF	EK		8,861675	53,099306
+1115	26.10.2020	07:45	Mo	5		Bremen	Am Brahmkamp	0	0	1	2	0							3	3		28					21	71	2020	10	26	he	na	PKW	RF	EK		8,874732	53,101261
+1116	26.10.2020	08:20	Mo	5		Bremen	Humannstraße	0	0	1	2	0	2						3	3		27		9			21	71	2020	10	26	he	tr	PKW	RF	EK		8,754097	53,127094
+1117	26.10.2020	10:30	Mo	5		Bremen	Auf dem Pasch	0	0	1	2	5	2						3	2		35					21	72	2020	10	26	he	tr	PKW	RF	AB		8,677831	53,168990
+1118	26.10.2020	15:40	Mo	5		Bremen	Hansestraße	0	0	1	1	0							3	7		35				74	71		2020	10	26	he	na	RF	-	SO		8,787356	53,089984
+1119	27.10.2020	07:55	Di	5		Bremen	Schwachhauser Ring	0	0	3	5	4			9				3	6		14	49				71	71	2020	10	27	he	tr	RF	RF	LV		8,837108	53,090691
+1120	27.10.2020	08:50	Di	5		Bremen	Carl-Goerdeler-Straße	0	0	1	1	0							3	7		49					71		2020	10	27	he	tr	RF	-	SO		8,899177	53,076180
+1121	27.10.2020	08:50	Di	5		Bremen	Neustadtscontrescarpe	0	0	0	2	1							5	7		14	49				44	71	2020	10	27	he	tr	LKW	RF	SO		8,795194	53,069459
+1122	27.10.2020	11:26	Di	5		Bremen	Vegesacker Straße	0	0	1	2	1							3	5		36	49				21	71	2020	10	27	he	tr	PKW	RF	RV		8,784894	53,097393
+1123	27.10.2020	12:30	Di	5		Bremen	Friesenstraße	0	0	1	2	6							3	6		69					81	71	2020	10	27	he	tr	FG	RF	LV		8,829223	53,072909
+1124	27.10.2020	14:30	Di	5		Bremen	Lilienthaler Heerstraße	0	1	0	2	3	1						2	2		34					40	71	2020	10	27	he	tr	LKW	RF	AB		8,880955	53,101690
+1125	27.10.2020	16:35	Di	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5	1		8			8	3	3		31					21	72	2020	10	27	dä	sch	PKW	RF	EK		8,849916	53,085061
+1126	27.10.2020	22:15	Di	5		Bremen	Schwachhauser Heerstraße	0	0	0	2	0						8	4	3		37				89	71	1	2020	10	27	du	tr	RF	KRD	EK		8,852266	53,086092
+1127	28.10.2020	07:50	Mi	5		Bremen	Osterholzer Landstraße	0	0	1	2	5	2						3	3		28		8			21	71	2020	10	28	he	tr	PKW	RF	EK		8,932732	53,065144
+1128	28.10.2020	07:57	Mi	5		Bremen	Vorstraße	0	0	1	2	5							3	2		34				73	71	71	2020	10	28	he	na	RF	RF	AB		8,871771	53,101857
+1129	28.10.2020	08:00	Mi	5		Bremen	Niedersachsendamm	0	0	1	1	0							3	7		49				89	71		2020	10	28	he	tr	RF	-	SO		8,822464	53,054118
+1130	28.10.2020	12:05	Mi	5		Bremen	Ehlersdamm	0	0	1	2	5	2						3	2		35					21	71	2020	10	28	he	tr	PKW	RF	AB		8,946186	53,048712
+1131	28.10.2020	16:25	Mi	5		Bremen	Woltmershauser Straße	0	0	0	2	5	1						5	3		28				73	21	71	2020	10	28	he	na	PKW	RF	EK		8,772658	53,081394
+1132	29.10.2020	08:40	Do	5		Bremen	Rembertistraße	0	0	1	2	2	1		7				3	7		49				73	21	71	2020	10	29	he	na	PKW	RF	SO		8,817064	53,078805
+1133	29.10.2020	08:55	Do	5		Bremen	Schwachhauser Ring	0	0	1	1	0							3	7		35				73	71		2020	10	29	he	na	RF	-	SO		8,836205	53,091053
+1134	29.10.2020	10:30	Do	5		Bremen	Riensberger Straße	0	0	1	1	0							3	7		49				74	72		2020	10	29	he	na	RF	-	SO		8,864169	53,094347
+1135	29.10.2020	11:30	Do	5		Bremen	Leher Heerstraße	0	0	1	1	0							3	1		49					72		2020	10	29	he	tr	RF	-	F		8,879796	53,101633
+1136	29.10.2020	11:35	Do	5		Bremen	Faulenstraße	0	0	1	2	5	2		8				3	3		34					21	71	2020	10	29	he	tr	PKW	RF	EK		8,797570	53,080649
+1137	29.10.2020	16:35	Do	5		Bremen	Neuer Damm	0	0	1	2	5	2						3	3		28		10			21	71	2020	10	29	he	tr	PKW	RF	EK		8,735997	53,044709
+1138	29.10.2020	18:15	Do	5		Bremen	Münchener Straße	0	0	1	2	2	1						3	7		14				73	21	71	2020	10	29	du	na	PKW	RF	SO		8,799566	53,094629
+1139	30.10.2020	13:15	Fr	5		Bremen	Waller Ring	0	0	1	2	2							3	6		14					71	71	2020	10	30	he	na	RF	RF	LV		8,786213	53,103062
+1140	30.10.2020	14:00	Fr	5		Bremen	Parkallee	0	0	0	2	5							5	2		34				73	21	71	2020	10	30	he	na	PKW	RF	AB		8,829066	53,088139
+1141	30.10.2020	14:10	Fr	5		Bremen	Stoteler Straße	0	0	1	2	4	2						3	7		37					71	21	2020	10	30	he	na	RF	PKW	SO		8,755475	53,120244
+1142	30.10.2020	14:50	Fr	5		Bremen	Lahnstraße	0	0	1	2	5							3	3		27		49			71	21	2020	10	30	he	na	RF	PKW	EK		8,792822	53,069106
+1143	31.10.2020	11:05	Sa	5		Bremen	Vahrer Straße	0	0	1	2	6							3	4		42					71	81	2020	10	31	he	tr	RF	FG	ÜS		8,883047	53,074092
+1144	31.10.2020	23:30	Sa	5		Bremen	Busestraße	0	0	1	2	6							3	7		35				73	71	81	2020	10	31	du	na	RF	FG	SO		8,841175	53,095747
+1145	01.11.2020	03:45	So	5		Bremen	Scharnhorststraße	0	0	1	2	4							3	6		11	1				71	71	2020	11	01	du	na	RF	RF	LV		8,856978	53,085357
+1146	01.11.2020	22:50	So	5		Bremen	Humboldtstraße	0	0	0	1	0							6	7		1	49				71		2020	11	01	du	na	RF	-	SO		8,827385	53,074822
+1147	02.11.2020	05:35	Mo	5		Bremen	Leher Heerstraße	0	0	1	2	5	1						3	2		34					21	71	2020	11	02	du	tr	PKW	RF	AB		8,880721	53,101664
+1148	02.11.2020	09:58	Mo	5		Bremen	Achterdiek	0	0	1	2	5	2						3	2		35				82	21	71	2020	11	02	he	na	PKW	RF	AB		8,901881	53,088489
+1149	02.11.2020	10:05	Mo	5		Bremen	Huchtinger Heerstraße	0	0	1	2	5	3						3	3		34				73	21	71	2020	11	02	he	na	PKW	RF	EK		8,738567	53,055563
+1150	02.11.2020	10:15	Mo	5		Bremen	In der Vahr	0	0	1	2	5	1						3	3		28					21	71	2020	11	02	he	na	PKW	RF	EK		8,876513	53,081030
+1151	02.11.2020	11:55	Mo	5		Bremen	Bismarckstraße	0	0	1	1	0	1		8			8	3	1		49				74	71		2020	11	02	he	na	RF	-	F		8,837350	53,076825
+1152	02.11.2020	12:55	Mo	5		Bremen	Langemarckstraße	0	0	1	1	0							3	7		49				88	71		2020	11	02	he	tr	RF	-	SO		8,788566	53,070675
+1153	02.11.2020	15:30	Mo	5		Bremen	Kattenturmer Heerstraße	0	0	1	2	5	1						3	2		34					21	71	2020	11	02	he	tr	PKW	RF	AB		8,818792	53,048614
+1154	02.11.2020	16:40	Mo	5		Bremen	Theodor-Heuss-Allee	0	0	0	2	0							5	7		49		49			11	71	2020	11	02	du	na	KRD	RF	SO		8,814822	53,084913
+1155	02.11.2020	18:40	Mo	5		Bremen	Hindenburgstraße	0	1	0	1	0	5		9				2	7		13	49			76	71		2020	11	02	du	na	RF	-	SO		8,691177	53,168588
+1156	03.11.2020	08:30	Di	5		Bremen	Am Stern	0	0	1	2	5	1		8				3	3		28					51	71	2020	11	03	he	tr	LKW	RF	EK		8,824530	53,084189
+1157	03.11.2020	13:05	Di	5		Bremen	Elisabethstraße	0	0	1	2	5							3	3		28					21	71	2020	11	03	he	tr	PKW	RF	EK		8,788928	53,097712
+1158	03.11.2020	14:03	Di	5		Bremen	Theodor-Billroth-Straße	0	0	1	2	5							3	2		35					21	71	2020	11	03	he	tr	PKW	RF	AB		8,818159	53,038787
+1159	03.11.2020	14:31	Di	5		Bremen	Hastedter Osterdeich	0	0	1	2	4							3	2		34					21	71	2020	11	03	he	tr	PKW	RF	AB		8,866594	53,062169
+1160	03.11.2020	15:25	Di	5		Bremen	Buntentorsteinweg	0	1	0	2	5							2	3		37					21	71	2020	11	03	he	tr	PKW	RF	EK		8,806468	53,065028
+1161	03.11.2020	16:45	Di	5		Bremen	Henri-Dunant-Straße	0	0	1	2	5	2						3	3		28					21	71	2020	11	03	dä	tr	PKW	RF	EK		8,882065	53,079074
+1162	03.11.2020	16:45	Di	5		Bremen	Am Wall	0	0	2	2	3	1		9			8	3	6		22				73	71	71	2020	11	03	he	na	RF	RF	LV		8,801427	53,080819
+1163	04.11.2020	08:30	Mi	5		Bremen	Langemarckstraße	0	0	1	2	4	1						3	3		34				82	21	71	2020	11	04	he	tr	PKW	RF	EK		8,789271	53,070994
+1164	04.11.2020	08:30	Mi	5		Bremen	Grasberger Straße	0	0	1	2	5	2						3	2		34					21	72	2020	11	04	he	tr	PKW	RF	AB		8,763560	53,108987
+1165	04.11.2020	14:00	Mi	5		Bremen	Goliathstraße	0	0	1	2	5							3	3		49		49			21	72	2020	11	04	he	tr	PKW	RF	EK		8,871650	53,062285
+1166	04.11.2020	16:45	Mi	5		Bremen	Sankt-Pauli-Deich	0	0	1	2	5							3	3		37				89	71	71	2020	11	04	dä	tr	RF	RF	EK		8,802591	53,070372
+1167	04.11.2020	17:00	Mi	5		Bremen	Osterholzer Heerstraße	0	0	1	2	5	3						3	3		37					21	71	2020	11	04	dä	tr	PKW	RF	EK		8,945167	53,058049
+1168	05.11.2020	08:05	Do	5		Bremen	Kurfürstenallee	0	0	1	2	3							3	2		34					21	71	2020	11	05	dä	tr	PKW	RF	AB		8,838404	53,082146
+1169	05.11.2020	08:50	Do	5		Bremen	An der Gete	0	0	0	2	1							5	7		49					40	71	2020	11	05	he	tr	LKW	RF	SO		8,852258	53,080134
+1170	05.11.2020	11:15	Do	5		Bremen	Flensburger Straße	0	0	1	1	9							3	7		49					71		2020	11	05	he	tr	RF	-	SO		8,789711	53,100818
+1171	05.11.2020	11:40	Do	5		Bremen	Goesselstraße	0	0	0	2	0							5	7		36		37			21	71	2020	11	05	he	tr	PKW	RF	SO		8,809372	53,088524
+1172	05.11.2020	15:20	Do	5		Bremen	Borgwardstraße	0	0	0	2	5	3						5	2		35					21	71	2020	11	05	he	tr	PKW	RF	AB		8,844490	53,045878
+1173	05.11.2020	16:25	Do	5		Bremen	Morgenlandstraße	0	0	0	2	4							5	6		13	14				71	21	2020	11	05	he	tr	RF	PKW	LV		8,762712	53,116105
+1174	05.11.2020	17:10	Do	5		Bremen	Richthofenstraße	0	0	0	2	3	2						5	6		14		49			21	71	2020	11	05	du	tr	PKW	RF	LV		8,658857	53,172746
+1175	06.11.2020	12:30	Fr	5		Bremen	Hermann-Koenen-Straße	0	0	2	2	6			5			8	3	4		42		64			71	81	2020	11	06	he	tr	RF	FG	ÜS		8,915850	53,070890
+1176	06.11.2020	13:30	Fr	5		Bremen	Buntentorsteinweg	0	0	1	2	2			9				3	6		49	37	49			71	21	2020	11	06	he	tr	RF	PKW	LV		8,812652	53,058965
+1177	07.11.2020	10:00	Sa	5		Bremen	Lausanner Straße	0	0	0	2	5	2						5	2		35				82	21	71	2020	11	07	he	tr	PKW	RF	AB		8,951835	53,072641
+1178	07.11.2020	17:21	Sa	5		Bremen	Am Stern	0	0	1	2	5	1		8			8	3	3		31					71	61	2020	11	07	du	tr	RF	SOF	EK		8,825225	53,084400
+1179	08.11.2020	15:06	So	5		Bremen	Julius-Brecht-Allee	0	1	0	1	0			8			8	2	7		49					71		2020	11	08	he	tr	RF	-	SO		8,873391	53,077836
+1180	09.11.2020	16:50	Mo	5		Bremen	Nordstraße	0	0	0	1	0			9				5	7		49					71		2020	11	09	dä	tr	RF	-	SO		8,779342	53,094104
+1181	10.11.2020	07:15	Di	5		Bremen	Am Stern	0	0	1	2	5	7						3	2		14					21	71	2020	11	10	dä	tr	PKW	RF	AB		8,825137	53,084536
+1182	10.11.2020	07:25	Di	5		Bremen	Aumunder Feldstraße	0	0	1	2	2	1		9				3	6		14					71	11	2020	11	10	he	tr	RF	KRD	LV		8,624425	53,177212
+1183	10.11.2020	09:10	Di	5		Bremen	Berckstraße	0	1	1	2	5	6						2	2		37		37			21	72	2020	11	10	he	tr	PKW	RF	AB		8,881520	53,096934
+1184	10.11.2020	10:20	Di	5		Bremen	Tiefer	0	0	1	2	6	5						3	7		42					71	81	2020	11	10	he	tr	RF	FG	SO		8,808967	53,072359
+1185	11.11.2020	06:45	Mi	5		Bremen	Habenhauser Brückenstraße	0	0	1	2	0	1					9	3	3		28				73	21	71	2020	11	11	du	na	PKW	RF	EK		8,846923	53,048304
+1186	11.11.2020	11:00	Mi	5		Bremen	Cuxhavener Straße	0	1	0	1	0			2				2	7		49					72		2020	11	11	he	na	RF	-	SO		8,774127	53,099735
+1187	11.11.2020	11:05	Mi	5		Bremen	Bismarckstraße	0	0	1	2	1							3	5		37				73	21	71	2020	11	11	he	na	PKW	RF	RV		8,837935	53,076775
+1188	11.11.2020	12:50	Mi	5		Bremen	Hamburger Straße	0	0	1	1	0							3	1		49				73	71		2020	11	11	he	na	RF	-	F		8,834756	53,070337
+1189	11.11.2020	14:45	Mi	5		Bremen	Am Lehester Deich	0	0	0	2	5							5	3		37					71	21	2020	11	11	he	tr	RF	PKW	EK		8,901945	53,109889
+1190	11.11.2020	18:58	Mi	5		Bremen	Kreinsloger	0	0	0	2	5	1						5	3		28				80	21	71	2020	11	11	du	na	PKW	RF	EK		8,557480	53,189611
+1191	12.11.2020	08:10	Do	5		Bremen	Graf-Moltke-Straße	0	0	0	2	3	1		8				5	6		14					71	21	2020	11	12	he	na	RF	PKW	LV		8,832779	53,077689
+1192	12.11.2020	09:01	Do	5		Bremen	Eduard-Schopf-Allee	0	0	1	2	5	2						3	3		28				89	40	71	2020	11	12	he	tr	LKW	RF	EK		8,789486	53,082989
+1193	12.11.2020	16:45	Do	5		Bremen	Tietjenstraße	0	0	1	2	4							3	6		24				73	21	71	2020	11	12	dä	na	PKW	RF	LV		8,864432	53,099438
+1194	12.11.2020	16:45	Do	5		Bremen	Osterholzer Heerstraße	0	0	1	2	5	3						3	3		34				73	21	71	2020	11	12	dä	na	PKW	RF	EK		8,932321	53,058863
+1195	13.11.2020	08:43	Fr	5		Bremen	Kurt-Schumacher-Allee	0	1	0	2	5	1						2	3		28					21	71	2020	11	13	he	tr	PKW	RF	EK		8,886630	53,079216
+1196	13.11.2020	09:30	Fr	5		Bremen	Gastfeldstraße	0	0	1	2	1							3	7		14	49				72	21	2020	11	13	he	tr	RF	PKW	SO		8,797983	53,063810
+1197	13.11.2020	15:00	Fr	5		Bremen	Kleingärtnerweg	0	0	1	2	5	1						3	3		27					71	21	2020	11	13	he	tr	RF	PKW	EK		8,765217	53,127281
+1198	13.11.2020	15:55	Fr	5		Bremen	Torndiek	0	0	2	2	4							3	7		11		11			71	71	2020	11	13	he	na	RF	RF	SO		8,850163	53,026143
+1199	13.11.2020	18:25	Fr	5		Bremen	Bismarckstraße	0	0	1	2	4							3	2		49				73	5	71	2020	11	13	du	na	KRD	RF	AB		8,844208	53,075510
+1200	13.11.2020	20:50	Fr	5		Bremen	Tonderner Straße	0	0	0	2	0							5	1		49	14				21	71	2020	11	13	du	tr	PKW	RF	F		8,787847	53,105633
+1201	14.11.2020	15:20	Sa	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	3							3	6		49				74	72	71	2020	11	14	he	na	RF	RF	LV		8,861530	53,090187
+1202	16.11.2020	13:50	Mo	5		Bremen	Konrad-Adenauer-Allee	0	0	0	2	3							5	6		14					71	21	2020	11	16	he	na	RF	PKW	LV		8,861089	53,079192
+1203	16.11.2020	14:10	Mo	5		Bremen	Römerstraße	0	0	0	2	2							5	6		13					71	21	2020	11	16	he	tr	RF	PKW	LV		8,826457	53,074672
+1204	17.11.2020	05:45	Di	5		Bremen	Ludwig-Roselius-Allee	0	0	2	3	6							3	6		69					81	71	2020	11	17	du	na	FG	RF	LV		8,887778	53,071552
+1205	17.11.2020	09:30	Di	5		Bremen	Charlotte-Wolff-Allee	0	1	0	2	1							2	5		45					21	71	2020	11	17	he	na	PKW	RF	RV		8,682310	53,173582
+1206	17.11.2020	10:25	Di	5		Bremen	Alter Dorfweg	0	0	1	3	2	2		3				3	7		14	49				72	21	2020	11	17	he	na	RF	PKW	SO		8,744527	53,047576
+1207	17.11.2020	12:17	Di	5		Bremen	Utbremer Ring	0	0	1	2	5							3	3		28	31			73	59	71	2020	11	17	he	na	SOF	RF	EK		8,807601	53,099699
+1208	17.11.2020	12:45	Di	5		Bremen	Haferwende	0	0	1	2	5	3						3	3		37					21	72	2020	11	17	he	na	PKW	RF	EK		8,882022	53,106740
+1209	17.11.2020	14:15	Di	5		Bremen	Schwachhauser Heerstraße	0	0	1	2	5							3	3		28				89	21	71	2020	11	17	he	na	PKW	RF	EK		8,827396	53,079809
+1210	17.11.2020	14:35	Di	5		Bremen	Bürgermeister-Spitta-Allee	0	0	1	2	5							3	2		35					21	71	2020	11	17	he	na	PKW	RF	AB		8,875257	53,082322
+1211	17.11.2020	14:50	Di	5		Bremen	Huchtinger Heerstraße	0	1	0	2	5							2	3		37					21	71	2020	11	17	he	na	PKW	RF	EK		8,732387	53,058313
+1212	17.11.2020	17:15	Di	5		Bremen	Würzburger Straße	0	0	0	2	1							5	5		14					71	21	2020	11	17	du	tr	RF	PKW	RV		8,798970	53,093705
+1213	17.11.2020	18:10	Di	5		Bremen	Friedrich-Karl-Straße	0	0	1	1	0							3	7		49					71		2020	11	17	du	tr	RF	-	SO		8,844707	53,076641
+1214	18.11.2020	10:35	Mi	5		Bremen	Hindenburgstraße	0	0	1	2	5	2	4					3	3		28					21	71	2020	11	18	he	tr	PKW	RF	EK		8,688383	53,169684
+1215	18.11.2020	15:55	Mi	5		Bremen	Holzdamm	0	0	1	2	3							3	2		22					21	71	2020	11	18	he	tr	PKW	RF	AB		8,843079	53,055551
+1216	18.11.2020	16:00	Mi	5		Bremen	Syker Straße	0	1	0	2	5	3						2	3		37					21	71	2020	11	18	he	tr	PKW	RF	EK		8,946020	53,038655
+1217	19.11.2020	08:43	Do	5		Bremen	Woltmershauser Straße	0	0	0	2	5	1					8	5	3		31					21	71	2020	11	19	he	tr	PKW	RF	EK		8,784089	53,075600
+1218	19.11.2020	12:15	Do	5		Bremen	Am Schwarzen Meer	0	0	1	3	0	2		9				3	3		32				73	21	71	2020	11	19	he	na	PKW	RF	EK		8,837905	53,071866
+1219	20.11.2020	09:15	Fr	5		Bremen	Waller Heerstraße	0	0	1	2	5	3						3	2		37		10		73	21	71	2020	11	20	he	na	PKW	RF	AB		8,788563	53,098047
+1220	20.11.2020	09:50	Fr	5		Bremen	In den Barken	0	0	1	2	5	1						3	3		28					21	71	2020	11	20	he	tr	PKW	RF	EK		8,769608	53,113122
+1221	20.11.2020	12:05	Fr	5		Bremen	Habenhauser Landstraße	0	0	1	2	5							3	2		31	35			73	21	71	2020	11	20	he	na	PKW	RF	AB		8,847396	53,050505
+1222	20.11.2020	14:00	Fr	5		Bremen	Osterholzer Heerstraße	0	0	1	2	5							3	2		34				73	21	71	2020	11	20	he	na	PKW	RF	AB		8,935857	53,058699
+1223	20.11.2020	15:00	Fr	5		Bremen	Am Stern	0	0	1	2	5	7						3	3		28					21	71	2020	11	20	he	tr	PKW	RF	EK		8,824891	53,084627
+1224	21.11.2020	12:35	Sa	5		Bremen	Bürgermeister-Smidt-Straße	0	1	0	1	0	2						2	7		1	49				71		2020	11	21	he	na	RF	-	SO		8,809071	53,083282
+1225	21.11.2020	14:21	Sa	5		Bremen	Gröpelinger Heerstraße	0	0	0	2	5	3		3				6	3		37	1				21	71	2020	11	21	he	na	PKW	RF	EK		8,755717	53,118959
+1226	21.11.2020	18:45	Sa	5		Bremen	Neuenlander Straße	0	0	1	2	5	1		3			8	3	2		34					21	71	2020	11	21	du	na	PKW	RF	AB		8,779827	53,068638
+1227	21.11.2020	22:23	Sa	5		Bremen	Gröpelinger Heerstraße	0	0	0	2	0							5	7		49					71	21	2020	11	21	du	na	RF	PKW	SO		8,756071	53,118670
+1228	21.11.2020	23:15	Sa	5		Bremen	Schwachhauser Ring	0	1	0	1	0							2	7		1	49			74	71		2020	11	21	du	na	RF	-	SO		8,847894	53,086727
+1229	22.11.2020	15:45	So	5		Bremen	Elsasser Straße	0	0	0	2	4							5	6		14					71	21	2020	11	22	he	tr	RF	PKW	LV		8,839785	53,078686
+1230	23.11.2020	09:33	Mo	5		Bremen	Woltmershauser Straße	0	1	0	1	0	1						2	7		49					71		2020	11	23	he	tr	RF	-	SO		8,783915	53,075721
+1231	23.11.2020	12:13	Mo	5		Bremen	Wachmannstraße	0	0	0	2	5	2		2				5	2		35				77	71	61	2020	11	23	he	tr	RF	SOF	AB		8,837728	53,087445
+1232	23.11.2020	14:10	Mo	5		Bremen	Einsteinstraße	0	0	0	2	4	3						5	3		13					21	71	2020	11	23	he	tr	PKW	RF	EK		8,886619	53,065357
+1233	23.11.2020	16:45	Mo	5		Bremen	Borgfelder Landstraße	0	0	1	2	5							3	3		31					21	71	2020	11	23	dä	tr	PKW	RF	EK		8,902595	53,126735
+1234	23.11.2020	18:05	Mo	5		Bremen	Ritterhuder Heerstraße	0	0	0	2	1							5	7		49					71	21	2020	11	23	du	tr	RF	PKW	SO		8,737714	53,138235
+1235	24.11.2020	07:48	Di	5		Bremen	August-Bebel-Allee	0	0	1	2	5							3	3		28		13			71	21	2020	11	24	he	na	RF	PKW	EK		8,889238	53,086336
+1236	24.11.2020	08:10	Di	5		Bremen	Im Deichkamp	0	0	0	2	1							5	7		14	49				71	21	2020	11	24	dä	tr	RF	PKW	SO		8,874399	53,104543
+1237	24.11.2020	10:30	Di	5		Bremen	Riemstraße	0	0	0	2	6							5	4		42					71	81	2020	11	24	he	na	RF	FG	ÜS		8,895063	53,091939
+1238	24.11.2020	12:23	Di	5		Bremen	Hemmstraße	0	0	0	2	5							5	2		31					71	21	2020	11	24	he	tr	RF	PKW	AB		8,808202	53,094616
+1239	24.11.2020	14:00	Di	5		Bremen	Hemelinger Heerstraße	0	0	1	2	5	3						3	3		37	36				21	71	2020	11	24	he	tr	PKW	RF	EK		8,899269	53,042809
+1240	24.11.2020	14:00	Di	5		Bremen	Thomas-Mann-Straße	0	0	0	2	5							5	3		49					71	21	2020	11	24	he	tr	RF	PKW	EK		8,843809	53,095133
+1241	24.11.2020	14:10	Di	5		Bremen	Schwaneweder Straße	0	0	1	2	1							3	5		37					21	71	2020	11	24	he	tr	PKW	RF	RV		8,572329	53,197575
+1242	24.11.2020	14:40	Di	5		Bremen	Lilienthaler Heerstraße	0	0	1	2	2							3	6		22	49	11			72	71	2020	11	24	he	tr	RF	RF	LV		8,887907	53,109123
+1243	24.11.2020	14:50	Di	5		Bremen	Oberblockland	0	0	1	2	3							3	6		22	24				71	71	2020	11	24	he	tr	RF	RF	LV		8,858172	53,136269
+1244	24.11.2020	16:07	Di	5		Bremen	Münchener Straße	0	1	0	2	5	1						2	2		35					71	72	2020	11	24	dä	tr	RF	RF	AB		8,807014	53,094477
+1245	24.11.2020	16:15	Di	5		Bremen	Buntentorsteinweg	0	0	1	2	5	2						3	2		34					40	71	2020	11	24	he	tr	LKW	RF	AB		8,801756	53,067809
+1246	25.11.2020	08:00	Mi	5		Bremen	Ostwaldstraße	0	0	1	3	4							3	6		49					40	71	2020	11	25	he	tr	LKW	RF	LV		8,893411	53,110469
+1247	25.11.2020	15:30	Mi	5		Bremen	Osterholzer Heerstraße	0	0	1	3	5	2						3	2		34					21	71	2020	11	25	he	tr	PKW	RF	AB		8,950434	53,057916
+1248	25.11.2020	17:15	Mi	5		Bremen	Osterholzer Heerstraße	0	0	1	2	3	2						3	2		35					21	71	2020	11	25	du	tr	PKW	RF	AB		8,919938	53,059570
+1249	26.11.2020	07:58	Do	5		Bremen	Rockwinkeler Heerstraße	0	0	1	1	8							3	1		49					71		2020	11	26	dä	tr	RF	-	F		8,910566	53,096092
+1250	26.11.2020	09:30	Do	5		Bremen	Föhrenstraße	0	0	0	1	0	1					8	5	7		49					71		2020	11	26	he	na	RF	-	SO		8,877511	53,063719
+1251	26.11.2020	14:15	Do	5		Bremen	Schönebecker Straße	0	0	1	2	5	2						3	3		37		49			21	71	2020	11	26	he	na	PKW	RF	EK		8,649196	53,172447
+1252	26.11.2020	18:55	Do	5		Bremen	Hemelinger Heerstraße	0	0	1	2	5							3	3		35		11			21	71	2020	11	26	du	tr	PKW	RF	EK		8,893177	53,047114
+1253	27.11.2020	13:45	Fr	5		Bremen	Oslebshauser Heerstraße	0	0	1	2	5	1		8			8	3	3		34					21	71	2020	11	27	he	tr	PKW	RF	EK		8,736619	53,133725
+1254	27.11.2020	15:05	Fr	5		Bremen	Depkenstraße	0	0	1	2	5							3	3		27					21	71	2020	11	27	he	tr	PKW	RF	EK		8,853470	53,093531
+1255	29.11.2020	16:44	So	5		Bremen	Mittelsbürener Landstraße	0	0	1	2	5							3	3		37					21	71	2020	11	29	du	tr	PKW	RF	EK		8,711020	53,143157
+1256	30.11.2020	08:30	Mo	5		Bremen	Balgebrückstraße	0	1	0	1	0	5		5				2	7		49					71		2020	11	30	he	tr	RF	-	SO		8,807344	53,074161
+1257	30.11.2020	09:00	Mo	5		Bremen	Thedinghauser Straße	0	0	0	2	1							5	5		49	14				58	71	2020	11	30	he	tr	LKW	RF	RV		8,793386	53,063922
+1258	30.11.2020	11:17	Mo	5		Bremen	Sandhofstraße	0	0	1	2	5	1		8				3	3		37		10			21	71	2020	11	30	he	na	PKW	RF	EK		8,892102	53,047953
+1259	30.11.2020	13:20	Mo	5		Bremen	Kornstraße	0	0	0	2	1							5	5		49					71	21	2020	11	30	he	tr	RF	PKW	RV		8,798131	53,066171
+1260	01.12.2020	07:35	Di	5		Bremen	Brüggeweg	0	0	1	2	5	2						3	3		37					21	71	2020	12	01	du	na	PKW	RF	EK		8,897498	53,058835
+1261	01.12.2020	07:45	Di	5		Bremen	Otto-Brenner-Allee	0	0	1	2	5	2						3	3		28				73	21	71	2020	12	01	dä	na	PKW	RF	EK		8,964146	53,062294
+1262	01.12.2020	13:03	Di	5		Bremen	Ostertorsteinweg	0	0	1	2	0							3	7		45				73	21	71	2020	12	01	he	na	PKW	RF	SO		8,821970	53,072777
+1263	01.12.2020	14:50	Di	5		Bremen	Am Herzogenkamp	0	0	1	2	4	2						3	6		49				73	21	72	2020	12	01	he	na	PKW	RF	LV		8,862573	53,099324
+1264	01.12.2020	16:45	Di	5		Bremen	Am Stern	0	0	1	2	3	7		8				3	2		34					21	71	2020	12	01	du	na	PKW	RF	AB		8,825140	53,084497
+1265	02.12.2020	07:38	Mi	5		Bremen	Vollmersstraße	0	0	1	2	0							3	7		45		49			21	71	2020	12	02	du	tr	PKW	RF	SO		8,792324	53,100764
+1266	02.12.2020	15:30	Mi	5		Bremen	Straßburger Straße	0	0	1	2	0							3	7		49					21	71	2020	12	02	he	tr	PKW	RF	SO		8,838796	53,080468
+1267	02.12.2020	16:48	Mi	5		Bremen	Paul-Feller-Straße	0	1	0	2	5	1		8				2	2		34					44	72	2020	12	02	du	tr	LKW	RF	AB		8,795709	53,056127
+1268	02.12.2020	17:53	Mi	5		Bremen	Eduard-Schopf-Allee	0	0	0	2	5	1					9	5	3		28					21	72	2020	12	02	dä	tr	PKW	RF	EK		8,791739	53,082686
+1269	03.12.2020	08:40	Do	5		Bremen	Arsterdamm	0	0	1	2	3	1					8	3	2		34					44	71	2020	12	03	he	na	LKW	RF	AB		8,837395	53,037839
+1270	03.12.2020	09:55	Do	5		Bremen	Schwachhauser Heerstraße	0	0	2	2	5	1		8			8	3	3		32					1	71	2020	12	03	he	sch	KRD	RF	EK		8,856203	53,088901
+1271	03.12.2020	13:50	Do	5		Bremen	Duckwitzstraße	0	0	1	2	3	1		8			8	3	2		34					21	72	2020	12	03	he	tr	PKW	RF	AB		8,782281	53,066749
+1272	03.12.2020	18:22	Do	5		Bremen	Fresenbergstraße	0	1	0	1	0	2	5				8	2	7		49				73	71		2020	12	03	du	na	RF	-	SO		8,579109	53,183299
+1273	03.12.2020	20:00	Do	5		Bremen	Osterstraße	0	0	1	2	5							3	7		28				73	21	71	2020	12	03	du	na	PKW	RF	SO		8,801550	53,070904
+1274	04.12.2020	00:55	Fr	5		Bremen	Poelzigstraße	0	0	0	2	1							6	7		1	14				71	21	2020	12	04	du	sch	RF	PKW	SO		8,850627	53,066670
+1275	04.12.2020	07:40	Fr	5		Bremen	Rockwinkeler Heerstraße	0	0	1	2	5							3	1		28					21	71	2020	12	04	dä	na	PKW	RF	F		8,909673	53,096529
+1276	04.12.2020	10:57	Fr	5		Bremen	Lilienthaler Heerstraße	0	0	1	1	0							3	7		49	1				72		2020	12	04	he	tr	RF	-	SO		8,893204	53,114455
+1277	04.12.2020	13:10	Fr	5		Bremen	Kolk	0	0	0	2	2							5	6		14					71	71	2020	12	04	he	tr	RF	RF	LV		8,927657	53,059922
+1278	04.12.2020	13:45	Fr	5		Bremen	Hermann-Ritter-Straße	0	0	1	1	8							3	1		49					71		2020	12	04	he	tr	RF	-	F		8,771531	53,078139
+1279	04.12.2020	14:32	Fr	5		Bremen	Allerkai	0	0	1	2	5	3		9				3	3		37					21	71	2020	12	04	he	tr	PKW	RF	EK		8,878865	53,057201
+1280	04.12.2020	17:35	Fr	5		Bremen	Konsul-Smidt-Straße	0	0	0	2	5	2						5	2		34					51	71	2020	12	04	du	na	LKW	RF	AB		8,770254	53,093115
+1281	05.12.2020	13:00	Sa	5		Bremen	Bismarckstraße	0	0	0	1	0							5	7		49					71		2020	12	05	he	tr	RF	-	SO		8,835311	53,077092
+1282	05.12.2020	13:30	Sa	5		Bremen	Stapelfeldtstraße	0	0	1	2	5			9				3	3		37				73	21	71	2020	12	05	he	na	PKW	RF	EK		8,752156	53,112785
+1283	05.12.2020	18:30	Sa	5		Bremen	Langemarckstraße	0	0	1	2	4	2						3	2		34					21	71	2020	12	05	du	na	PKW	RF	AB		8,796976	53,076458
+1284	07.12.2020	05:25	Mo	5		Bremen	Huchtinger Heerstraße	0	0	0	2	5	1		8				5	3		28					21	72	2020	12	07	du	na	PKW	RF	EK		8,716728	53,056495
+1285	07.12.2020	07:40	Mo	5		Bremen	Hamburger Straße	0	0	1	2	5	2						3	2		34				73	40	71	2020	12	07	du	na	LKW	RF	AB		8,846764	53,068350
+1286	07.12.2020	08:20	Mo	5		Bremen	Eislebener Straße	0	0	1	2	5	2						3	3		34				73	21	71	2020	12	07	dä	na	PKW	RF	EK		8,870094	53,080698
+1287	07.12.2020	11:45	Mo	5		Bremen	Hermann-Osterloh-Straße	0	0	1	2	5							3	3		37					71	21	2020	12	07	he	tr	RF	PKW	EK		8,931788	53,041116
+1288	07.12.2020	14:37	Mo	5		Bremen	Lindenstraße	0	1	0	2	0	3						2	7		37					21	71	2020	12	07	he	tr	PKW	RF	SO		8,607020	53,176221
+1289	07.12.2020	17:05	Mo	5		Bremen	Außer der Schleifmühle	0	0	1	2	5	1		3			8	3	2		35				73	21	71	2020	12	07	du	na	PKW	RF	AB		8,819543	53,080543
+1290	07.12.2020	21:50	Mo	5		Bremen	Zeppelinstraße	0	1	0	2	5	1					9	2	3		28					21	71	2020	12	07	du	tr	PKW	RF	EK		8,887917	53,066753
+1291	08.12.2020	07:50	Di	5		Bremen	Hemmstraße	0	1	0	3	4							2	6		9				73	71	71	2020	12	08	du	na	RF	RF	LV		8,814092	53,100403
+1292	08.12.2020	08:20	Di	5		Bremen	Lange Reihe	0	0	1	1	0	1					8	3	1		13				73	71		2020	12	08	he	na	RF	-	F		8,776308	53,104614
+1293	08.12.2020	12:30	Di	5		Bremen	Hemmstraße	0	1	0	2	0							2	7		49				89	21	71	2020	12	08	he	tr	PKW	RF	SO		8,814505	53,101625
+1294	08.12.2020	15:25	Di	5		Bremen	Landwehrstraße	0	0	0	2	5	1						5	2		34					40	71	2020	12	08	he	tr	LKW	RF	AB		8,791079	53,091472
+1295	08.12.2020	16:30	Di	5		Bremen	Kornstraße	0	0	0	2	1			9				5	5		14					71	21	2020	12	08	du	na	RF	PKW	RV		8,796363	53,067133
+1296	08.12.2020	17:30	Di	5		Bremen	Weizenkampstraße	0	0	0	2	1							5	7		14	49				71	21	2020	12	08	du	tr	RF	PKW	SO		8,783767	53,070869
+1297	08.12.2020	20:00	Di	5		Bremen	Wartburgstraße	0	0	1	2	0							3	3		34					21	71	2020	12	08	du	tr	PKW	RF	EK		8,788456	53,093967
+1298	09.12.2020	12:15	Mi	5		Bremen	Mühlenstraße	0	0	1	2	2	2		5				3	6		14					71	21	2020	12	09	he	tr	RF	PKW	LV		8,572720	53,186242
+1299	09.12.2020	16:20	Mi	5		Bremen	Woltmershauser Straße	0	0	1	2	5	1					8	3	2		34					51	71	2020	12	09	dä	tr	LKW	RF	AB		8,783968	53,075656
+1300	09.12.2020	21:20	Mi	5		Bremen	Friedrich-Klippert-Straße	0	0	0	2	1							6	7		1	14				71	21	2020	12	09	du	tr	RF	PKW	SO		8,628789	53,168260
+1301	10.12.2020	08:18	Do	5		Bremen	Rembertiring	0	0	0	2	0							5	7		37		9		73	21	71	2020	12	10	he	na	PKW	RF	SO		8,817633	53,078491
+1302	10.12.2020	08:30	Do	5		Bremen	Landwehrstraße	0	1	0	1	0	2						2	1		49					71		2020	12	10	dä	na	RF	-	F		8,793340	53,088702
+1303	10.12.2020	10:45	Do	5		Bremen	Große Johannisstraße	0	0	1	2	5	2						3	3		28					21	71	2020	12	10	he	tr	PKW	RF	EK		8,799748	53,070475
+1304	10.12.2020	12:25	Do	5		Bremen	Buntentorsteinweg	0	0	1	1	0							3	1		49					71		2020	12	10	he	na	RF	-	F		8,803460	53,066793
+1305	10.12.2020	13:30	Do	5		Bremen	Daniel-Von-Büren-Straße	0	0	0	2	5	2					8	5	2		49		49			21	71	2020	12	10	he	na	PKW	RF	AB		8,799083	53,084010
+1306	10.12.2020	15:00	Do	5		Bremen	Horner Heerstraße	0	0	1	2	5	2						3	2		34					40	71	2020	12	10	he	tr	LKW	RF	AB		8,870556	53,096023
+1307	10.12.2020	15:00	Do	5		Bremen	Karl-Kautsky-Straße	0	0	1	2	5							3	2		34					21	72	2020	12	10	he	tr	PKW	RF	AB		8,890197	53,084271
+1308	11.12.2020	10:35	Fr	5		Bremen	Jollenstraße	0	0	0	2	5	1	5					5	3		27					71	21	2020	12	11	he	tr	RF	PKW	EK		8,560602	53,184320
+1309	11.12.2020	13:35	Fr	5		Bremen	Hermann-Koenen-Straße	0	0	1	2	5							3	2		34		49			21	71	2020	12	11	he	tr	PKW	RF	AB		8,914080	53,068232
+1310	11.12.2020	13:45	Fr	5		Bremen	Rembertiring	0	0	1	2	5	2		9				3	3		28					21	71	2020	12	11	he	tr	PKW	RF	EK		8,817657	53,078481
+1311	11.12.2020	17:18	Fr	5		Bremen	Rembertistraße	0	0	1	2	5							3	2		35					21	71	2020	12	11	du	tr	PKW	RF	AB		8,819193	53,080222
+1312	12.12.2020	10:00	Sa	5		Bremen	Auf der Hohwisch	0	0	0	2	1							5	5		49					71	21	2020	12	12	he	tr	RF	PKW	RV		8,857759	53,066556
+1313	12.12.2020	16:20	Sa	5		Bremen	Waller Heerstraße	0	0	1	2	2	1						3	6		14					71	71	2020	12	12	dä	tr	RF	RF	LV		8,785248	53,102286
+1314	12.12.2020	21:00	Sa	5		Bremen	Lindenhofstraße	0	0	1	2	5	1					8	3	2		35					21	71	2020	12	12	du	na	PKW	RF	AB		8,758834	53,116004
+1315	13.12.2020	16:30	So	5		Bremen	Deichschartweg	0	0	0	2	0							5	7		69					81	71	2020	12	13	dä	tr	FG	RF	SO		8,815492	53,062298
+1316	14.12.2020	07:13	Mo	5		Bremen	Eduard-Grunow-Straße	0	0	1	2	5							3	3		35					21	71	2020	12	14	dä	tr	PKW	RF	EK		8,823705	53,077990
+1317	14.12.2020	07:50	Mo	5		Bremen	Marcusallee	0	0	1	2	5	3						3	2		35					21	71	2020	12	14	he	tr	PKW	RF	AB		8,872881	53,091314
+1318	14.12.2020	10:00	Mo	5		Bremen	Rheinstraße	0	0	0	2	1							5	7		49				73	71	21	2020	12	14	he	na	RF	PKW	SO		8,787952	53,068604
+1319	14.12.2020	10:10	Mo	5		Bremen	Buntentorsteinweg	0	1	0	1	0							2	1		49					71		2020	12	14	he	na	RF	-	F		8,804676	53,066080
+1320	14.12.2020	14:00	Mo	5		Bremen	Vor dem Steintor	0	0	0	2	1							5	5		49				73	71	21	2020	12	14	he	na	RF	PKW	RV		8,827047	53,072790
+1321	14.12.2020	15:10	Mo	5		Bremen	Leher Heerstraße	0	0	1	2	5							3	3		49					21	71	2020	12	14	he	na	PKW	RF	EK		8,881335	53,101390
+1322	14.12.2020	15:10	Mo	5		Bremen	Leher Heerstraße	0	0	1	2	5							3	3		31		28		73	21	71	2020	12	14	du	na	PKW	RF	EK		8,880681	53,101670
+1323	14.12.2020	18:11	Mo	5		Bremen	Buntentorsteinweg	0	1	0	2	1							2	5		45					21	72	2020	12	14	du	na	PKW	RF	RV		8,801012	53,068289
+1324	14.12.2020	19:15	Mo	5		Bremen	Hammersbecker Straße	0	0	1	1	0							3	1		49					71		2020	12	14	dä	tr	RF	-	F		8,621188	53,184008
+1325	15.12.2020	06:25	Di	5		Bremen	Stellichter Straße	0	0	1	1	0							3	7		49					71		2020	12	15	du	tr	RF	-	SO		8,884398	53,071836
+1326	15.12.2020	10:05	Di	5		Bremen	Vor dem Steintor	0	0	1	2	1							3	5		49				73	71	21	2020	12	15	he	na	RF	PKW	RV		8,830368	53,071668
+1327	15.12.2020	17:50	Di	5		Bremen	Wilhelm-Kaisen-Brücke	0	0	0	2	4	2					8	5	2		34					21	71	2020	12	15	du	na	PKW	RF	AB		8,804207	53,072454
+1328	15.12.2020	18:45	Di	5		Bremen	Hermann-Fortmann-Straße	0	0	1	2	5	2		9	0			3	3		28					21	71	2020	12	15	du	na	PKW	RF	EK		8,635994	53,171279
+1329	15.12.2020	20:50	Di	5		Bremen	Hermann-Böse-Straße	0	0	1	2	5	7						3	3		28				73	21	71	2020	12	15	du	na	PKW	RF	EK		8,817764	53,083592
+1330	16.12.2020	10:55	Mi	5		Bremen	Am Stern	0	0	1	2	5	7						3	2		34					21	71	2020	12	16	he	tr	PKW	RF	AB		8,825197	53,084341
+1331	16.12.2020	15:00	Mi	5		Bremen	Vorkampsweg	0	0	0	2	1							5	7		49					71	21	2020	12	16	he	tr	RF	PKW	SO		8,872940	53,105049
+1332	16.12.2020	16:15	Mi	5		Bremen	Parkallee	0	0	1	1	0	1					8	3	7		49					71		2020	12	16	dä	na	RF	-	SO		8,833329	53,094526
+1333	17.12.2020	10:05	Do	5		Bremen	Am Dobben	0	1	0	1	0							2	7		49					71		2020	12	17	he	na	RF	-	SO		8,823292	53,076315
+1334	17.12.2020	20:30	Do	5		Bremen	Langemarckstraße	0	0	0	2	1							5	5		49					71	21	2020	12	17	he	na	RF	PKW	RV		8,791599	53,072851
+1335	18.12.2020	09:55	Fr	5		Bremen	Kirchheide	0	0	1	1	0							3	1		13				73	71		2020	12	18	he	na	RF	-	F		8,617993	53,174556
+1336	18.12.2020	11:20	Fr	5		Bremen	Saarburger Straße	0	0	0	2	3							5	6		21				89	71	21	2020	12	18	he	na	RF	PKW	LV		8,913168	53,056580
+1337	18.12.2020	12:15	Fr	5		Bremen	Simon-Bolivar-Straße	0	0	1	2	5	2						3	3		28				73	21	71	2020	12	18	he	na	PKW	RF	EK		8,782137	53,075645
+1338	18.12.2020	13:20	Fr	5		Bremen	Breitenweg	0	0	0	2	5							5	2		35					21	71	2020	12	18	he	tr	PKW	RF	AB		8,812708	53,081127
+1339	21.12.2020	08:30	Mo	5		Bremen	Arsterdamm	0	0	1	2	5	3						3	3		37				73	21	71	2020	12	21	he	na	PKW	RF	EK		8,832229	53,040617
+1340	21.12.2020	18:50	Mo	5		Bremen	Steffensweg	0	0	0	2	5	2					8	5	2		35		35		73	21	71	2020	12	21	du	na	PKW	RF	AB		8,787512	53,089937
+1341	22.12.2020	08:45	Di	5		Bremen	Kurfürstenallee	0	0	1	2	5	3		9				3	3		37		9		73	21	71	2020	12	22	dä	na	PKW	RF	EK		8,840287	53,081468
+1342	22.12.2020	09:45	Di	5		Bremen	Eislebener Straße	0	0	1	2	5							3	3		35					21	71	2020	12	22	dä	na	PKW	RF	EK		8,873654	53,079009
+1343	22.12.2020	15:10	Di	5		Bremen	Grasberger Straße	0	0	0	2	0							5	5		49					71	21	2020	12	22	he	tr	RF	PKW	RV		8,767020	53,111567
+1344	23.12.2020	12:00	Mi	5		Bremen	Brinkmannstraße	0	0	0	2	5	2						5	3		28				73	21	72	2020	12	23	he	na	PKW	RF	EK		8,895224	53,045760
+1345	23.12.2020	16:55	Mi	5		Bremen	Hindenburgstraße	0	0	0	2	5	3						5	3		34				73	21	71	2020	12	23	du	na	PKW	RF	EK		8,695737	53,168718
+1346	25.12.2020	11:55	Fr	5		Bremen	Aumunder Feldstraße	0	1	0	2	4	1						2	2		35				82	21	71	2020	12	25	he	na	PKW	RF	AB		8,625179	53,179652
+1347	25.12.2020	12:04	Fr	5		Bremen	Alfred-Faust-Straße	0	0	1	2	3	7						3	6		49					21	71	2020	12	25	he	tr	PKW	RF	LV		8,823051	53,027129
+1348	25.12.2020	14:35	Fr	5		Bremen	Lesumbroker Landstraße	0	1	0	1	0	6						2	1		13				72	71		2020	12	25	he	wgl	RF	-	F		8,682419	53,160947
+1349	26.12.2020	13:50	Sa	5		Bremen	Sankt-Pauli-Deich	0	0	1	2	6							3	7		42		64			71	81	2020	12	26	he	tr	RF	FG	SO		8,803060	53,069739
+1350	28.12.2020	15:00	Mo	5		Bremen	Vor Stephanitor	0	0	1	2	5							3	3		37					71	21	2020	12	28	he	tr	RF	PKW	EK		8,792514	53,081349
+1351	29.12.2020	12:15	Di	5		Bremen	Lesumbroker Landstraße	0	1	0	1	0	6						2	1		49					71		2020	12	29	he	na	RF	-	F		8,661546	53,158238
+1352	29.12.2020	14:30	Di	5		Bremen	Oberneulander Landstraße	0	0	0	2	4							5	6		14		11			21	71	2020	12	29	he	na	PKW	RF	LV		8,946910	53,085644
+1353	30.12.2020	14:10	Mi	5		Bremen	Meinert-Löffler-Straße	0	0	0	3	1							5	5		49					71	71	2020	12	30	he	tr	RF	RF	RV		8,619222	53,185879
+1354	30.12.2020	17:15	Mi	5		Bremen	Grünbergstraße	0	0	1	2	5	2						3	3		28					21	71	2020	12	30	du	na	PKW	RF	EK		8,812183	53,089778
