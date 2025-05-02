@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-df-hamo",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f9e67b6-c620-4a39-abad-9ed8d0475a42",
+		"tenantId": "77275898-3a92-438f-bd7d-95097a19b9eb"
+	}
+}
