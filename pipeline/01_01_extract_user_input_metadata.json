@@ -1,0 +1,75 @@
+{
+	"name": "01_01_extract_user_input_metadata",
+	"properties": {
+		"activities": [
+			{
+				"name": "get sharepoint token",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"policy": {
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "get_sharepoint_token",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true
+				}
+			},
+			{
+				"name": "Set metada file name",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"policy": {
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "metadata_filename",
+					"value": {
+						"value": "@if(\n    equals(pipeline().DataFactory, 'xyz'),\n    'take this',\n    'then not take this'\n)",
+						"type": "Expression"
+					}
+				}
+			},
+			{
+				"name": "CopyMetaDataFromExcel",
+				"type": "Copy",
+				"dependsOn": [
+					{
+						"activity": "get sharepoint token",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					},
+					{
+						"activity": "Set metada file name",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"enableStaging": false
+				}
+			}
+		],
+		"variables": {
+			"metadata_filename": {
+				"type": "String"
+			}
+		},
+		"annotations": []
+	}
+}

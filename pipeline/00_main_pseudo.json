@@ -1,0 +1,29 @@
+{
+	"name": "00_main_pseudo",
+	"properties": {
+		"activities": [
+			{
+				"name": "01_metadata_setup",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"policy": {
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "01_metadata_setup",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true
+				}
+			}
+		],
+		"variables": {
+			"metadata_filename": {
+				"type": "String"
+			}
+		},
+		"annotations": []
+	}
+}
