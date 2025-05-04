@@ -1,0 +1,83 @@
+{
+	"name": "01_02_extract_source_system_metadata",
+	"properties": {
+		"activities": [
+			{
+				"name": "get source tables",
+				"type": "Lookup",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 3,
+					"retryIntervalInSeconds": 180,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": []
+			},
+			{
+				"name": "for each source table",
+				"type": "ForEach",
+				"dependsOn": [
+					{
+						"activity": "get source tables",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"activities": [
+						{
+							"name": "add table name to tables array",
+							"type": "AppendVariable",
+							"dependsOn": [],
+							"userProperties": [],
+							"typeProperties": {
+								"variableName": ""
+							}
+						}
+					]
+				}
+			},
+			{
+				"name": "create table string",
+				"type": "SetVariable",
+				"dependsOn": [
+					{
+						"activity": "for each source table",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": ""
+				}
+			},
+			{
+				"name": "extract metadata",
+				"type": "Switch",
+				"dependsOn": [
+					{
+						"activity": "create table string",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"cases": []
+				}
+			}
+		],
+		"annotations": []
+	}
+}
